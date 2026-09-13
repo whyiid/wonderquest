@@ -1,0 +1,6 @@
+# Raw generated collages before slicing. Kept locally for re-cropping, but not
+# committed: they are large, and only the sliced WebP files are used by the app.
+tools/_raw/
+.DS_Store
+content/_incoming/_merged/
+content/_patches/_applied/

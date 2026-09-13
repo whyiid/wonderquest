@@ -1,0 +1,14 @@
+{
+  "name": "WonderQuest — learn something new every day",
+  "short_name": "WonderQuest",
+  "description": "A daily discovery encyclopedia for curious kids: three short topics a day, a quiz, and a collection to fill.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f4ff",
+  "theme_color": "#4f46e5",
+  "lang": "en",
+  "icons": [
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

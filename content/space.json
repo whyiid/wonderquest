@@ -1,0 +1,557 @@
+[
+  {
+    "id": "venus-day-longer-than-year",
+    "category": "space",
+    "title": "A Day on Venus Is Longer Than Its Year",
+    "emoji": "🌗",
+    "hook": "On Venus, one day lasts longer than one whole year.",
+    "story": [
+      "Two different movements decide how long a day and a year last. A day is one spin of a planet on its own axis. A year is one full lap around the Sun. On Earth those two are very different lengths — one spin takes 24 hours, one lap takes 365 days — so a year is much longer than a day, and that feels normal to us.",
+      "Venus breaks the pattern because it spins extraordinarily slowly. One full turn takes about 243 Earth days. Meanwhile it races around the Sun in only 225 Earth days, because it orbits closer in than we do. The spin is slower than the lap, so a single Venus day outlasts a whole Venus year. Venus also turns the wrong way round compared with almost every other planet. If you could stand on its surface and see through the clouds, you would watch the Sun rise in the west and set in the east.",
+      "You could not stand there, though. Venus is wrapped in a thick blanket of carbon dioxide that traps heat with terrible efficiency, and clouds of sulphuric acid hang above it. The surface sits at about 465°C — hot enough to melt lead, and hotter than Mercury even though Mercury is far closer to the Sun."
+    ],
+    "wow": "Venus is the hottest planet in the Solar System, and it is not the closest one to the Sun.",
+    "discovery": "For centuries nobody could see through the clouds, so nobody knew how fast Venus turned. Guesses ranged wildly. The answer arrived in the 1960s, when astronomers bounced radar off the planet and measured the echo — and the result was so odd that they checked it repeatedly: the spin was not just slow, it ran backwards. Meanwhile the Soviet Union began dropping landers through the clouds. Several were crushed or cooked on the way down. Venera 13 reached the surface in 1982 and sent back colour photographs before it died, 127 minutes later.",
+    "unknown": "Why Venus spins backwards is still argued about. A huge collision early on could have flipped it; so could the slow tug of its own enormous atmosphere over billions of years. Nobody knows whether its volcanoes are still erupting today, although recent evidence hints that some are. And a claim in 2020 of a gas in the clouds that might point to life set off a dispute that scientists have not settled.",
+    "image": "img/space/venus-day-longer-than-year.webp",
+    "quiz": [
+      {
+        "q": "How long does one spin of Venus take?",
+        "a": [
+          "About 243 Earth days",
+          "About 24 hours"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Why is Venus hotter than Mercury?",
+        "a": [
+          "Its thick atmosphere traps heat",
+          "It is closer to the Sun"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "lightning-hotter-than-sun",
+    "category": "space",
+    "title": "Lightning Is Hotter Than the Sun",
+    "emoji": "⚡",
+    "hook": "A lightning bolt is about five times hotter than the surface of the Sun.",
+    "story": [
+      "Inside a thundercloud, ice crystals and hailstones crash into each other in the churning air, and the collisions strip away tiny electric charges. Lighter bits carry positive charge upwards while heavier bits carry negative charge downwards, until the cloud works like a giant battery, with a huge charge difference between its top and its bottom, or between the cloud and the ground.",
+      "Air is normally a poor conductor, so nothing happens — until the pressure of all that charge becomes too great. Then the air itself gives way. A channel of air is ripped apart into glowing plasma, and the charge pours through it in a flash lasting less than a thousandth of a second. That channel is heated to roughly 30,000°C. The surface of the Sun is only about 5,500°C, so for that brief instant the bolt is around five times hotter.",
+      "Thunder is the sound of that heat. Air beside the bolt expands so violently that it explodes outwards, and the boom rolls away in every direction. Because light travels about a million times faster than sound, you always see the flash first and hear the bang afterwards. The gap tells you how far away the storm is: count the seconds between flash and thunder, divide by three, and that is roughly the distance in kilometres."
+    ],
+    "wow": "Lightning strikes somewhere on Earth about 100 times every second.",
+    "discovery": "In 1752 Benjamin Franklin argued that lightning was simply electricity, and suggested flying a kite in a storm to prove it. The experiment worked and made him famous across Europe. It was also extremely dangerous: the following year a professor in Russia, Georg Richmann, was killed trying to repeat it. Franklin turned the discovery into something useful almost immediately by inventing the lightning rod, a metal spike that gives the charge a safe path into the ground — still fitted to tall buildings today.",
+    "unknown": "The starting spark is a genuine puzzle. Measurements inside thunderclouds usually find less electric force than laboratory tests say is needed to break air apart, yet lightning happens anyway. One idea is that particles arriving from space help trigger it. Ball lightning — a glowing sphere some people report drifting through a room during a storm — has never been properly explained either.",
+    "image": "img/space/lightning-hotter-than-sun.webp",
+    "quiz": [
+      {
+        "q": "How hot does lightning get?",
+        "a": [
+          "About 30,000°C",
+          "About 100°C"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What causes thunder?",
+        "a": [
+          "Air exploding outwards from the heat",
+          "Clouds banging together"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": false,
+    "reviewed": true
+  },
+  {
+    "id": "moon-moving-away",
+    "category": "space",
+    "title": "The Moon Is Slowly Leaving Us",
+    "emoji": "🌙",
+    "hook": "The Moon drifts a little further from Earth every year.",
+    "story": [
+      "The distance grows by about 3.8 centimetres a year — roughly the speed your fingernails grow. Nobody noticed for most of history. We only know the number precisely because Apollo astronauts left mirrors on the lunar surface, and scientists now bounce laser beams off them and time the return trip to within a fraction of a second.",
+      "The cause is the tides. The Moon's gravity pulls the oceans into a slight bulge on the side facing it. But Earth spins much faster than the Moon orbits, so our spin drags that bulge slightly ahead of where the Moon actually is. The bulge is made of matter, and matter has gravity, so it tugs the Moon forward along its orbit. A gentle, constant forward tug lifts the Moon into a slightly wider path — and the same tug pulls backwards on Earth, slowing our spin down a fraction.",
+      "Both effects have been running for billions of years. When dinosaurs walked the Earth, the Moon hung closer in the sky and a day was shorter than it is now, because the planet was still spinning faster. Run it forwards instead, and in about 600 million years the Moon will look too small to cover the Sun completely. Total solar eclipses will stop happening. We live in the lucky window where they still do."
+    ],
+    "wow": "Days are getting longer too — about 1.7 milliseconds longer every century, as the Moon steals a little of Earth's spin.",
+    "discovery": "The first clue came from very old records. In the 1690s the English astronomer Edmond Halley compared eclipses described by ancient Greek and Babylonian observers with where those eclipses should have been, and found they did not match. Something about the Earth–Moon system was slowly changing. Proving it took until 1969, when Apollo 11 left a panel of mirrors on the Moon's surface. Observatories have been firing lasers at those mirrors ever since, and the returning flicker of light measures the distance to within a few centimetres.",
+    "unknown": "Running the tides backwards causes trouble. At today's rate the Moon would have been dangerously close to Earth only about 1.5 billion years ago, which cannot be right, so the rate must have changed over time. Exactly how it changed depends on where the continents sat and how the oceans sloshed between them — a history nobody has fully reconstructed. How the Moon formed in the first place is still debated too.",
+    "image": "img/space/moon-moving-away.webp",
+    "quiz": [
+      {
+        "q": "How fast does the Moon move away?",
+        "a": [
+          "About 3.8 cm each year",
+          "About 1 metre each year"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "How do we measure it so precisely?",
+        "a": [
+          "Lasers bounced off mirrors on the Moon",
+          "By guessing from photographs"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "volcanoes-under-the-sea",
+    "category": "space",
+    "title": "Most Volcanoes Are Underwater",
+    "emoji": "🌋",
+    "hook": "Most of Earth's volcanoes are hidden under the sea.",
+    "story": [
+      "A chain of volcanoes runs right around the planet like the seam on a ball, and almost none of it has ever been seen from land. It is called the mid-ocean ridge, it stretches more than 60,000 kilometres, and it is by far the longest mountain range on Earth. The Himalayas are a short local feature by comparison.",
+      "The ridge exists because Earth's crust is cracked into enormous plates that slowly pull apart. Where two plates separate, hot rock rises into the gap, cools, and hardens into fresh sea floor. That is what the ridge is: a wound in the planet that never stops healing. Most eruptions along it are quiet, because the ocean above presses down with crushing weight and smothers the explosion before it can start. Instead, lava oozes out in rounded lumps called pillow lava.",
+      "Every so often a ridge volcano grows tall enough to break the surface, and then we give the top of it a name and call it an island. Iceland is exactly that — a piece of the Mid-Atlantic Ridge poking into the air, which is why the country has so many volcanoes, hot springs and geysers. Down in the dark along these ridges, hot mineral-rich water gushes from vents, and whole communities of crabs, tube worms and shrimp live there without a single ray of sunlight."
+    ],
+    "wow": "The sea floor is remade constantly — most of it is younger than 200 million years old.",
+    "discovery": "In the 1950s an American geologist named Marie Tharp sat in an office in New York turning thousands of depth measurements into the first proper map of the Atlantic sea floor. Women were not allowed on the survey ships at the time, so she never took a reading herself. Her map revealed a deep valley running down the middle of the ridge, exactly where you would expect if the sea floor were splitting apart. Her colleague Bruce Heezen first dismissed the idea as girl talk. The valley was real, and it helped prove that continents move.",
+    "unknown": "Nobody knows how many volcanoes lie down there. Estimates run from tens of thousands to a million, because most of the sea floor has never been mapped in detail — we have better maps of the surface of Mars. Scientists are also still arguing about whether the first living things on Earth got started around hot vents like these, in the dark, long before anything used sunlight.",
+    "image": "img/space/volcanoes-under-the-sea.webp",
+    "quiz": [
+      {
+        "q": "What is the longest mountain range on Earth?",
+        "a": [
+          "The mid-ocean ridge",
+          "The Himalayas"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Why are deep eruptions quiet?",
+        "a": [
+          "Heavy water presses down on them",
+          "There is no lava down there"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "saturn-would-float",
+    "category": "space",
+    "title": "Saturn Would Float in Water",
+    "emoji": "🪐",
+    "hook": "Saturn is so light for its size that it would float in a bath.",
+    "story": [
+      "Saturn is enormous. You could pour more than 700 Earths inside it and still have room left over. But size and weight are different things, and what matters here is density: how much stuff is packed into each bit of space. Saturn is made almost entirely of hydrogen and helium, the two lightest gases there are, with no solid surface anywhere to stand on.",
+      "Work out Saturn's mass against its volume and the answer comes out lower than the density of water. That is what the famous bathtub idea means: if you could find a tub big enough, Saturn would bob on top like a beach ball while every other planet in the Solar System sank straight to the bottom. Nobody is building that tub, and the planet would pull itself apart long before it got there — but the number is real, and it tells you something true about what Saturn is made of.",
+      "The rings are a separate marvel. They are not solid bands but countless chunks of ice and rock, most of them no bigger than a snowball, all circling in the same flat plane. They stretch out hundreds of thousands of kilometres, yet in many places they are only about ten metres thick. Scaled down, that is like a sheet of paper spread across a football pitch."
+    ],
+    "wow": "Saturn's rings are slowly raining down into the planet, and will not last forever.",
+    "discovery": "Galileo pointed his small telescope at Saturn in 1610 and saw something he could not explain — the planet appeared to have handles, or ears, which then vanished two years later. It took until 1655 for the Dutch scientist Christiaan Huygens to realise he was looking at a flat ring seen from changing angles. Twenty years after that, Giovanni Cassini spotted a dark gap dividing the ring in two, and the gap still carries his name. Three centuries later, a spacecraft named after him flew between the rings and the planet before deliberately burning up in Saturn's atmosphere in 2017.",
+    "unknown": "How old the rings are is still unsettled. Measurements from the Cassini spacecraft suggest they may be surprisingly young, perhaps forming while dinosaurs walked on Earth — which would mean we are seeing something temporary. Scientists also cannot agree on exactly how long a day is on Saturn, because a ball of gas with no solid surface does not turn all in one piece.",
+    "image": "img/space/saturn-would-float.webp",
+    "quiz": [
+      {
+        "q": "What is Saturn mostly made of?",
+        "a": [
+          "Hydrogen and helium gas",
+          "Solid rock"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What are the rings made of?",
+        "a": [
+          "Countless chunks of ice and rock",
+          "One solid sheet"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "why-the-sky-is-blue",
+    "category": "space",
+    "title": "Why the Sky Is Blue",
+    "emoji": "🌤️",
+    "hook": "Sunlight looks white, but it is every colour mixed together.",
+    "story": [
+      "Send a beam of sunlight through a glass prism and it fans out into a rainbow. All those colours were there the whole time, travelling together. Each colour is light of a different wavelength: red light travels in long, lazy waves, while blue and violet light travel in short, tight ones.",
+      "When sunlight reaches our atmosphere it runs into countless molecules of nitrogen and oxygen. These molecules are far smaller than a wavelength of light, and they scatter short waves much more strongly than long ones — blue light gets bounced around several times more than red. That scattered blue ricochets across the whole sky and arrives at your eyes from every direction at once. Look anywhere except straight at the Sun, and what you are seeing is sunlight that took a crooked path to reach you.",
+      "Sunset works by the same rule. When the Sun sits low, its light has to travel through far more air to get to you, and by the end of that long journey nearly all the blue has been scattered away sideways. What survives the trip is the red and orange, spread across the horizon."
+    ],
+    "wow": "There is no air on the Moon to scatter sunlight, so the sky there stays black even at midday.",
+    "discovery": "Leonardo da Vinci wondered about the blue of the sky five hundred years ago and guessed it came from tiny particles in the air. In 1859 an Irish physicist, John Tyndall, filled a tube with a fine mist and shone light through it — the mist glowed blue from the side and the light coming out the far end turned red, a sunset in a glass tube. A decade later Lord Rayleigh worked out the mathematics, showing that air molecules themselves do the scattering. The effect carries his name today.",
+    "unknown": "Little about the basic explanation is in doubt any more, but predicting the exact colours of a particular sunset remains hard. Dust, smoke, sea salt and pollution all scatter light in their own way, and weather models still struggle to say in advance whether tonight's sky will be pale pink or deep red. Volcanic eruptions can change sunsets worldwide for years.",
+    "image": "img/space/why-the-sky-is-blue.webp",
+    "quiz": [
+      {
+        "q": "Why is the sky blue?",
+        "a": [
+          "Blue light scatters off air molecules the most",
+          "The ocean reflects upwards"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Why are sunsets red?",
+        "a": [
+          "The blue has scattered away over a longer path",
+          "The Sun changes colour"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "why-the-moon-has-phases",
+    "category": "space",
+    "title": "Why the Moon Changes Shape",
+    "emoji": "🌒",
+    "hook": "The Moon never changes shape. You just see a different part of it lit.",
+    "story": [
+      "Half the Moon is always in sunlight, exactly like half of Earth is always in daylight. The Moon makes no light of its own — it only reflects the Sun. What changes over a month is not the Moon but your viewing angle, as it travels around us.",
+      "When the Moon sits roughly between Earth and the Sun, the lit half faces away from you and you see almost nothing: new moon. A week later, at right angles, you see half the lit side and half the dark side, which looks like a semicircle. When Earth is between the Moon and the Sun, the whole lit face points at you: full moon. Then it shrinks back the other way.",
+      "A common mix-up is to blame Earth's shadow. Earth's shadow does land on the Moon occasionally, and that is a lunar eclipse — a rare event that takes a couple of hours, not a slow monthly cycle. Phases happen because of geometry, not shadow."
+    ],
+    "wow": "The Moon keeps the same face towards us at all times, so nobody on Earth saw its far side until a spacecraft photographed it in 1959.",
+    "discovery": "Around 450 BC the Greek thinker Anaxagoras argued that the Moon shines by reflected sunlight and that the phases follow from the angles — which also let him explain eclipses correctly. This was dangerous talk at the time, since the Moon was widely held to be a god, and he was reportedly charged with impiety. A century later Aristarchus used the shape of the half moon to attempt something extraordinary: estimating how far away the Sun is compared with the Moon, using geometry alone.",
+    "unknown": "Little about phases is mysterious now, but the Moon itself still holds questions. How it formed is not settled, and samples brought back by the Apollo missions raised as many puzzles as they answered — including why the Moon's rocks look so chemically similar to Earth's if it formed from a separate impacting body.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "What causes the Moon's phases?",
+        "a": [
+          "Your changing view of the lit half",
+          "Earth's shadow falling on it"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Does the Moon make its own light?",
+        "a": [
+          "No, it reflects sunlight",
+          "Yes, it glows faintly"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "shooting-stars-are-tiny",
+    "category": "space",
+    "title": "A Shooting Star Is a Grain of Sand",
+    "emoji": "☄️",
+    "hook": "That brilliant streak across the sky is usually smaller than a pea.",
+    "story": [
+      "Space near Earth is littered with grit left behind by comets and broken asteroids. When our planet ploughs into a piece, the piece is moving at tens of kilometres a second — far faster than any bullet. At that speed it does not simply rub against the air. It slams into it.",
+      "The air ahead cannot get out of the way, so it is squashed and heated violently, and the grain is stripped apart, glowing white-hot. What you see is not really the rock burning; it is a column of air and vaporised rock glowing along the path, usually eighty to a hundred kilometres up. A grain the size of a sand particle can make a streak visible across an entire county.",
+      "A few times a year Earth passes through the thicker trail left by a particular comet, and dozens of streaks an hour appear to come from one part of the sky. That is a meteor shower. Anything large enough to survive and land is called a meteorite, and those are far rarer."
+    ],
+    "wow": "Tonnes of this dust arrive every single day, quietly, mostly unnoticed.",
+    "discovery": "Until 1833 meteors were widely thought to be a kind of weather. In November that year North America saw a storm of tens of thousands of meteors an hour, terrifying enough that people thought the world was ending. Astronomers noticed that all the streaks appeared to radiate from a single point among the stars, which meant the source was outside the atmosphere and moving with the Earth's own path — not weather at all. Within a few decades the link to comet trails was established.",
+    "unknown": "The dust cloud around us is still poorly mapped, and predicting the strength of a shower a year ahead remains unreliable. Scientists are also still working out how much of this material reaches the ground as fine dust, and whether it carried useful chemicals to the early Earth.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "How big is a typical shooting star?",
+        "a": [
+          "Often smaller than a pea",
+          "About the size of a car"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What actually glows?",
+        "a": [
+          "Superheated air and vaporised rock",
+          "Burning wood"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "why-the-sea-is-salty",
+    "category": "space",
+    "title": "Why the Sea Is Salty",
+    "emoji": "🌊",
+    "hook": "Rivers are fresh, yet they are what makes the sea salty.",
+    "story": [
+      "Rain is almost pure water, but it picks up a little carbon dioxide on the way down and becomes very slightly acidic. When it lands, it slowly eats away at rock, dissolving tiny amounts of minerals. Rivers carry those minerals to the sea. Each river-load is far too weak to taste.",
+      "The difference is that water leaves the ocean but the salt does not. Sunshine evaporates water from the surface, which rises, forms clouds, and falls again as fresh rain. The dissolved minerals stay behind. Do that for a few billion years and the leftovers build up.",
+      "Undersea volcanoes add more, pumping minerals straight into the water at vents along the mid-ocean ridge. The saltiness is not still rising, though: salt also leaves, settling into the sea floor and being trapped in shallow basins that dry out. The ocean has been roughly as salty as it is now for a very long time."
+    ],
+    "wow": "The Dead Sea is so salty that swimmers float without trying, because salt makes water heavier for its volume.",
+    "discovery": "In 1715 Edmond Halley — the same astronomer who spotted the Moon's changing motion — suggested using ocean salt as a clock. If rivers steadily deliver salt and none leaves, he argued, you could measure how salty the sea is and work backwards to find the age of the Earth. The idea was clever and the answer was wrong, giving around 90 million years, because salt does leave the ocean. It was still one of the first serious attempts to measure our planet's age with evidence.",
+    "unknown": "Exactly how the balance has been held so steady over billions of years is still being worked out, and it matters: the rate at which salt is buried depends on how continents sit and how seas open and close. Reconstructing that history in detail remains difficult.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "Why does salt build up in the sea?",
+        "a": [
+          "Water evaporates but salt stays",
+          "Fish produce it"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Where does the salt come from?",
+        "a": [
+          "Rock dissolved by rain and rivers",
+          "Rain itself is salty"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "how-mountains-grow",
+    "category": "space",
+    "title": "Mountains Are Still Growing",
+    "emoji": "🏔️",
+    "hook": "Everest is taller this year than it was last year.",
+    "story": [
+      "Earth's surface is broken into vast plates that drift a few centimetres a year, about the speed fingernails grow. India is one such plate, and it has been driving north into Asia for around fifty million years. Neither side can slide under easily, because both are made of light continental rock that refuses to sink. So the crust crumples upwards instead.",
+      "That crumpling built the Himalayas and is still building them. Everest rises by a few millimetres a year. It would be far taller by now except that weather fights back: ice, rain, wind and landslides strip material off the top almost as fast as it rises. A mountain range is a contest between pushing up and wearing down.",
+      "Not all mountains form this way. Some are volcanoes, piled from their own lava. Some are blocks pushed up along cracks as the crust stretches. But the biggest ranges on Earth are collisions, frozen mid-crash and still moving."
+    ],
+    "wow": "Marine fossils have been found near the top of Everest — that rock was once the floor of a sea.",
+    "discovery": "Everest's height has been measured, argued over and re-measured for nearly two centuries, first by surveyors carrying instruments across India in the 1850s, and most recently in 2020, when Nepalese and Chinese teams climbed with GPS receivers and agreed on 8,848.86 metres. The idea that mountains form by drifting continents was ridiculed when Alfred Wegener proposed continental drift in 1912, and only accepted in the 1960s once sea-floor evidence — including Marie Tharp's maps — made it undeniable.",
+    "unknown": "How high a mountain can possibly grow before its own weight crushes the rock beneath is still estimated rather than known. Geologists also cannot predict exactly how the Himalayas will behave next, and the deep plumbing of what happens to Indian crust as it is forced under Tibet remains debated.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "Why are the Himalayas rising?",
+        "a": [
+          "India is still pushing into Asia",
+          "Volcanoes are erupting under them"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What stops them growing faster?",
+        "a": [
+          "Ice, rain and landslides wearing them down",
+          "The Earth's gravity increasing"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "what-is-inside-the-earth",
+    "category": "space",
+    "title": "What Is Inside the Earth",
+    "emoji": "🌍",
+    "hook": "Nobody has drilled even a fiftieth of the way to the centre.",
+    "story": [
+      "The deepest hole ever dug reached about twelve kilometres down before the rock became too hot and soft to drill. The centre of the Earth is over six thousand kilometres away. So everything we know about the inside comes from indirect evidence, mostly from earthquakes.",
+      "An earthquake sends waves through the whole planet. Two kinds matter: one can travel through solids and liquids, the other only through solids. Recording stations worldwide time the arrivals. Waves bend when they pass between materials of different density, and they stop dead at a boundary that cannot carry them — so a shadow zone where one kind of wave never arrives reveals a liquid layer.",
+      "Piecing this together gives the layers: a thin rocky crust, a thick hot mantle that flows slowly like extremely stiff toffee, a liquid outer core of molten iron, and at the centre a solid inner core, kept solid by crushing pressure despite being hotter than the surface of the Sun. Churning in the liquid core generates Earth's magnetic field."
+    ],
+    "wow": "The inner core is roughly as hot as the surface of the Sun, yet solid, because the pressure is immense.",
+    "discovery": "In 1936 a Danish scientist named Inge Lehmann was studying earthquake records and noticed waves arriving where theory said none should. She concluded that the core was not a single ball of liquid but had a solid centre — a claim she published in a paper famously titled with just two letters, P′. She had almost no computing help; she sorted her data on cards kept in oatmeal boxes. She was proved right, and she worked until she was over a hundred.",
+    "unknown": "The inner core keeps producing surprises. Evidence suggests it may rotate at a slightly different rate from the rest of the planet, and studies disagree about whether that rotation has recently slowed or reversed. How the magnetic field flips, and when it will next do so, is also unresolved.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "How do we know what is inside the Earth?",
+        "a": [
+          "From earthquake waves passing through",
+          "By drilling to the centre"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Who discovered the solid inner core?",
+        "a": [
+          "Inge Lehmann, in 1936",
+          "Isaac Newton"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "why-we-have-seasons",
+    "category": "space",
+    "title": "Seasons Are Not About Distance",
+    "emoji": "🍂",
+    "hook": "Earth is closest to the Sun in January — during the northern winter.",
+    "story": [
+      "The popular explanation is that summer happens when Earth is nearer the Sun. It cannot be right, because when it is summer in Indonesia's south and in Australia, it is winter in Europe — and the whole planet is the same distance from the Sun at once.",
+      "The real cause is tilt. Earth's axis leans about 23 degrees, and it keeps pointing the same way all year. For half the orbit the northern half leans towards the Sun, and for the other half it leans away. Leaning towards the Sun does two things: the Sun climbs higher, so its light strikes the ground more directly instead of spreading out at a slant, and the days get longer, so there are more hours of heating.",
+      "Near the equator neither effect is strong, which is why places like Indonesia have no real summer and winter, only wetter and drier seasons driven by winds and rain instead."
+    ],
+    "wow": "At the poles the tilt is so extreme that the Sun does not set for months, then does not rise for months.",
+    "discovery": "That the Earth is tilted was worked out remarkably early. Ancient Chinese, Indian, Babylonian and Greek astronomers all measured the Sun's changing midday height across the year and derived the angle; Eratosthenes estimated it in the third century BC with impressive accuracy. Why the tilt produces seasons became clear only once it was accepted that Earth orbits the Sun rather than the reverse, an argument that took from Copernicus in 1543 until well after Galileo to settle.",
+    "unknown": "The tilt is not perfectly fixed: it wobbles slowly over tens of thousands of years, and those slow changes are thought to help trigger ice ages. Working out exactly how those small nudges produce such large climate swings is still an active problem, because the effect looks too small for the result.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "What causes seasons?",
+        "a": [
+          "Earth's tilt",
+          "Earth's changing distance from the Sun"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Why does the tilt matter?",
+        "a": [
+          "Sunlight hits more directly and days are longer",
+          "It blocks sunlight with the Moon"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "where-rain-comes-from",
+    "category": "space",
+    "title": "Rain Needs Something to Start On",
+    "emoji": "🌧️",
+    "hook": "Clean air cannot rain. A raindrop needs a speck of dust to form around.",
+    "story": [
+      "Water leaves the sea and the land as invisible vapour. Warm air holds a lot of it; as that air rises it cools, and cool air cannot hold as much. The surplus has to become liquid again. But water vapour will not simply gather into a drop on its own — pure vapour can be cooled well past the point where it should condense and stubbornly stay a gas.",
+      "What it needs is a surface. Specks of dust, salt from sea spray, pollen, smoke, even bacteria float in the air, and vapour condenses onto them. Each speck becomes a droplet far too small and light to fall; a cloud is billions of these, held up by the faintest movement of air.",
+      "Rain only happens when droplets grow. They bump and merge, and in colder clouds ice crystals steal water from nearby droplets and grow fast. Once a drop is heavy enough to beat the updraft, it falls, sweeping up others on the way down. A single raindrop can take a million cloud droplets to build."
+    ],
+    "wow": "Raindrops are not tear-shaped. Falling drops flatten underneath, more like a tiny hamburger bun.",
+    "discovery": "The role of dust was shown in the 1880s by the Scottish physicist John Aitken, who built an apparatus to count particles in air and demonstrated that filtered, particle-free air produced almost no fog. The ice-crystal mechanism that makes most rain fall was explained in the 1930s by Tor Bergeron and Walter Findeisen. Understanding it led directly to cloud seeding, where aircraft scatter particles into clouds to encourage rain — with results that are still hotly debated.",
+    "unknown": "Clouds are the biggest single uncertainty in predicting how the climate will change. Whether a warmer world grows more bright clouds that cool it, or fewer, is not settled, and that question alone shifts forecasts substantially. Exactly how droplets grow fast enough in warm clouds is also still argued over.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "What does a raindrop start on?",
+        "a": [
+          "A tiny speck of dust or salt",
+          "Nothing — it forms alone"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What shape is a falling raindrop?",
+        "a": [
+          "Flattened underneath",
+          "A pointed teardrop"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "jupiter-great-red-spot",
+    "category": "space",
+    "title": "A Storm Older Than Your Country",
+    "emoji": "🟠",
+    "hook": "Jupiter has a storm that has been raging for centuries.",
+    "story": [
+      "The Great Red Spot is a swirling storm in Jupiter's atmosphere, wide enough to swallow the Earth, with winds around its edge running at hundreds of kilometres an hour. Astronomers have been watching it since at least the 1800s, and possibly since the 1660s, which would make it far older than most nations.",
+      "Storms on Earth die within days because they drag across land and sea and lose their energy. Jupiter has no surface at all. The storm sits in a deep atmosphere, wedged between two fast bands of wind flowing in opposite directions, which keep spinning it like a ball bearing between two moving belts. Nothing gets in its way.",
+      "It is shrinking, though. A century ago it was perhaps twice as wide as it is now, and it has become rounder and slightly taller. Nobody is sure whether this is a slow death or part of a cycle of shrinking and growing that we simply have not watched for long enough."
+    ],
+    "wow": "The spot's colour changes over the years, from brick red to pale salmon, and nobody knows exactly what chemical gives it the colour.",
+    "discovery": "Giovanni Cassini — the same astronomer who found the gap in Saturn's rings — recorded a permanent spot on Jupiter in 1665, and observations continued for decades before the record went quiet. Whether that was the same storm as today's is disputed. Continuous records begin in 1831. Close-up views had to wait until the Voyager spacecraft flew past in 1979, revealing the swirling structure inside, and the Juno mission later measured how deep it goes: hundreds of kilometres down.",
+    "unknown": "Why the storm is red is unsolved; the leading idea involves sunlight altering chemicals lifted from below, but no one has proved it. Why it is shrinking, whether it will disappear, and how a storm can last for centuries without running out of energy are all open questions.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "Why does the storm last so long?",
+        "a": [
+          "Jupiter has no surface to slow it down",
+          "It is refuelled by the Sun"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What is happening to the spot?",
+        "a": [
+          "It is shrinking",
+          "It is growing fast"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "black-holes-trap-light",
+    "category": "space",
+    "title": "A Place Light Cannot Escape",
+    "emoji": "🕳️",
+    "hook": "Throw a ball hard enough and it escapes Earth. Near a black hole, even light cannot.",
+    "story": [
+      "Gravity pulls, and the harder you throw something, the further it gets before falling back. Throw it fast enough — about 11 kilometres a second on Earth — and it never comes back. That is escape velocity. Now imagine squeezing a huge mass into a tiny space. The pull at the surface becomes so strong that the escape velocity passes the speed of light, and since nothing can travel faster, nothing can leave.",
+      "That boundary is called the event horizon. It is not a solid surface, just the line past which there is no return. Outside it, gravity behaves normally: if the Sun were replaced by a black hole of the same mass, Earth would keep orbiting exactly as before, only in the dark.",
+      "Black holes form when a very massive star runs out of fuel and collapses under its own weight. Much larger ones sit at the centres of galaxies, including ours. They are invisible by definition, so we find them by watching what happens to things nearby — stars whipping around empty space, or gas heated until it glows as it spirals in."
+    ],
+    "wow": "The gas swirling into a black hole can shine brighter than an entire galaxy before it disappears.",
+    "discovery": "The idea was raised as early as 1783 by John Michell, who reasoned that a star could be massive enough for light not to escape. It became serious with Einstein's theory of gravity in 1915, though Einstein himself doubted such objects existed. Real evidence built through the twentieth century, and in 2019 the Event Horizon Telescope — radio dishes across the planet acting as one giant instrument — published the first image of a black hole's shadow, in the galaxy M87.",
+    "unknown": "What happens at the very centre is unknown: the equations produce infinities, which normally means the theory has stopped working. Physicists also argue about what becomes of information that falls in, a puzzle unresolved for fifty years, because gravity and quantum physics give different answers and nobody has managed to combine them.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "What is an event horizon?",
+        "a": [
+          "The boundary past which nothing can escape",
+          "The surface of a black hole"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "How do we find black holes?",
+        "a": [
+          "By watching what happens to things nearby",
+          "By seeing them directly"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  }
+]

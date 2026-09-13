@@ -1,0 +1,254 @@
+[
+  {
+    "id": "penicillin-by-accident",
+    "category": "discoveries",
+    "title": "The Mould That Saved Millions",
+    "emoji": "🧫",
+    "hook": "A scientist went on holiday, left his dishes dirty, and changed medicine forever.",
+    "story": [
+      "In September 1928 Alexander Fleming came back to his cluttered London laboratory after a summer break and began sorting through a pile of old dishes in which he had been growing bacteria. One had gone wrong: a blob of blue-green mould was spreading across it, blown in from somewhere in the building. He was about to discard it when he noticed something peculiar. In a clear halo all around the mould, the bacteria had died.",
+      "Something the mould produced was killing them. He grew more of it, tested it against different bacteria, and named the substance penicillin. Then he ran out of road. The mould made only tiny quantities, the substance fell apart quickly, and Fleming was a doctor rather than a chemist. He published in 1929, presented it a few times, and the world largely ignored him for a decade.",
+      "It took a second team to finish the job. At Oxford in 1940, Howard Florey, Ernst Chain and Norman Heatley worked out how to extract and stabilise it, using equipment cobbled together from bedpans and bathtubs. They tested it on mice, then on a policeman dying of an infection from a scratch. He improved dramatically — and then died anyway, because the supply ran out.",
+      "With war raging and Britain's factories busy, production moved to the United States, where huge fermentation tanks and a better mould strain, found on a mouldy melon in an Illinois market, made mass production possible. By 1944 there was enough for the wounded of D-Day. Infections that had killed people for the whole of human history became curable in days. Fleming, Florey and Chain shared the Nobel Prize in 1945, and Fleming used his speech to warn that careless use would breed resistant bacteria — which is exactly what happened."
+    ],
+    "wow": "The strain used for worldwide production came from a mouldy melon bought in a market in Illinois.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "How was penicillin found?",
+        "a": [
+          "Mould accidentally spoiled a dish",
+          "By testing thousands of chemicals"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Why did it take twelve years to become a medicine?",
+        "a": [
+          "Nobody could purify or mass-produce it",
+          "Doctors refused to use it"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": false,
+    "reviewed": true
+  },
+  {
+    "id": "x-rays-discovered",
+    "category": "discoveries",
+    "title": "The Ray Nobody Expected",
+    "emoji": "🩻",
+    "hook": "A physicist noticed a glow across his dark laboratory — and found a way to see inside people.",
+    "story": [
+      "In November 1895 Wilhelm Röntgen was working in a darkened laboratory in Würzburg, passing electricity through a glass tube he had wrapped completely in thick black card so that no light could escape. Across the room he noticed a faint green shimmer on a coated screen lying on a bench. Something invisible was crossing the room and passing straight through the card.",
+      "He spent the next weeks almost entirely alone in the laboratory, testing what the new rays would pass through and what stopped them. Wood, paper and thin metal, yes. Dense metal, less. Then he held his own hand between the tube and the screen and saw the shadow of his own bones. He called them X-rays, borrowing the mathematician's X for an unknown quantity, and the name stuck even though he had explained them within months.",
+      "In December he persuaded his wife Anna to hold her hand still for fifteen minutes while he made an image. The result showed her finger bones and her wedding ring. She is said to have exclaimed that she had seen her own death, which tells you how unsettling the picture was to people who had never seen inside a living body.",
+      "The discovery spread faster than almost any before it. Röntgen published in late December, and within weeks doctors across Europe and North America were photographing broken bones and locating bullets; within a year the technique was in hospitals. He was awarded the first Nobel Prize in Physics in 1901. He refused to patent the discovery, saying it belonged to humanity, and donated his prize money to his university — which is partly why the technology spread so quickly and cheaply."
+    ],
+    "wow": "Röntgen refused to patent X-rays, saying the discovery belonged to humanity, and gave away his Nobel Prize money.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "Why are they called X-rays?",
+        "a": [
+          "X stands for unknown",
+          "They were found by Dr X"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What did Röntgen do with the patent?",
+        "a": [
+          "Refused to take one",
+          "Sold it for a fortune"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": false,
+    "reviewed": true
+  },
+  {
+    "id": "germs-cause-disease",
+    "category": "discoveries",
+    "title": "Wash Your Hands",
+    "emoji": "🧼",
+    "hook": "A doctor who told other doctors to wash their hands was thrown out of his hospital.",
+    "story": [
+      "In 1847 Ignaz Semmelweis was a young doctor at a large Vienna hospital that ran two maternity wards. In one, staffed by doctors and medical students, around one mother in ten died of a fever after giving birth. In the other, staffed by midwives, the rate was far lower. Women knew the difference and begged to be admitted to the second ward.",
+      "Semmelweis hunted for the cause methodically, ruling out the weather, overcrowding and position in bed. The answer came when a colleague died after cutting himself during an autopsy, with the same symptoms as the mothers. The doctors were coming to deliveries straight from dissecting corpses. The midwives were not.",
+      "He ordered everyone to scrub their hands in a chlorine solution before examining patients. Deaths in his ward fell to match the midwives' within months. That should have made him celebrated. Instead his colleagues were insulted — he was telling respected physicians that their own hands were killing their patients — and there was no theory to support him, because germs had not yet been discovered. Without an explanation, the rule sounded like superstition.",
+      "He lost his post, grew increasingly angry and desperate, wrote furious open letters accusing obstetricians of murder, and was committed to an asylum in 1865, where he died within weeks. Within a few years Louis Pasteur demonstrated that microbes cause disease and Joseph Lister used the idea to transform surgery. Semmelweis had been right the whole time. Hand hygiene is now the single most effective measure for stopping infection spreading in hospitals, and his name is attached to the tendency to reject evidence that contradicts what everyone already believes."
+    ],
+    "wow": "Being right is not enough on its own — an explanation people can believe matters too, which is why Semmelweis failed and Pasteur succeeded.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "What did Semmelweis discover?",
+        "a": [
+          "Hand-washing stopped mothers dying",
+          "A medicine for fever"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Why was he rejected?",
+        "a": [
+          "He could not explain why it worked",
+          "His figures were wrong"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": false,
+    "reviewed": true
+  },
+  {
+    "id": "shape-of-dna",
+    "category": "discoveries",
+    "title": "The Shape That Explained Life",
+    "emoji": "🧬",
+    "hook": "Once people saw the shape of DNA, they instantly saw how it copies itself.",
+    "story": [
+      "By 1950 scientists knew DNA carried the instructions for building living things, but not how a molecule could possibly store and copy information. The answer turned out to lie in its shape, and finding the shape was a contest between laboratories that did not much like each other.",
+      "At King's College London, Rosalind Franklin was using X-ray crystallography — firing X-rays through fibres of DNA and recording how they scattered, which turns invisible structure into a pattern that can be measured. She was exceptionally good at it. Her image known as Photo 51 was clearer than anything before it and pointed unmistakably to a helix, and her measurements pinned down its dimensions.",
+      "In Cambridge, James Watson and Francis Crick were building physical models from cardboard and wire, trying arrangements until one fitted the known chemistry. Photo 51 was shown to Watson by Franklin's colleague Maurice Wilkins without her knowledge or permission, and her unpublished measurements reached them through a report. With those numbers the model came together, and in 1953 they published the double helix: two strands winding round each other, with pairs of chemical letters rung across the middle like the steps of a spiral staircase.",
+      "The shape answered the deepest question immediately, because each letter pairs with only one partner — A with T, C with G. Unzip the two strands and each carries everything needed to rebuild the other. Watson and Crick noted this in one famously understated sentence at the end of their paper. Franklin died of ovarian cancer in 1958, aged 37, probably from her years of X-ray work. Nobel Prizes are not awarded after death, and the 1962 prize went to Watson, Crick and Wilkins."
+    ],
+    "wow": "Franklin died of cancer in 1958 at 37. Nobel Prizes are not awarded after death, and the 1962 prize went to Watson, Crick and Wilkins.",
+    "image": "img/discoveries/shape-of-dna.webp",
+    "quiz": [
+      {
+        "q": "What did the shape of DNA explain?",
+        "a": [
+          "How it copies itself",
+          "Why cells need food"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What was Photo 51?",
+        "a": [
+          "An X-ray image of DNA",
+          "A photograph of a cell"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "first-vaccine",
+    "category": "discoveries",
+    "title": "The Milkmaids Who Never Got Smallpox",
+    "emoji": "💉",
+    "hook": "A country doctor noticed that milkmaids had beautiful skin — and worked out why.",
+    "story": [
+      "Smallpox was one of the worst diseases in history. It killed roughly a third of those it infected, blinded many survivors, and left most of the rest deeply scarred. In eighteenth-century Europe it killed hundreds of thousands every year, and it devastated populations in the Americas who had never met it before.",
+      "People had already noticed that surviving it once gave lifelong protection, and in parts of Asia and Africa a risky practice existed: deliberately infecting someone with material from a mild case, hoping for a survivable illness. Lady Mary Wortley Montagu brought the technique to England from Constantinople in the 1720s. It worked, but it sometimes killed the patient and could start an outbreak.",
+      "In the English countryside there was a persistent rumour that milkmaids never caught smallpox. They did catch cowpox, a mild illness picked up from cows' udders that passed in a few days. In 1796 a country doctor named Edward Jenner tested the rumour in a way no ethics committee would permit today. He took material from a cowpox sore on the hand of a milkmaid, Sarah Nelmes, scratched it into the arm of an eight-year-old boy named James Phipps, waited, and then deliberately exposed him to smallpox. Nothing happened. He tried again later. Still nothing.",
+      "The immune system had learned to recognise smallpox by practising on its harmless relative. Jenner called the method vaccination, from vacca, Latin for cow. It spread worldwide, and a global campaign led by the World Health Organization finally cornered the disease in the 1970s. The last natural case was in Somalia in 1977, and smallpox was declared eradicated in 1980 — the only human disease ever wiped out completely."
+    ],
+    "wow": "Smallpox no longer exists outside two guarded laboratory freezers, and nobody alive has caught it since 1977.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "What protected the milkmaids?",
+        "a": [
+          "Having had mild cowpox",
+          "Drinking fresh milk"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What does the word vaccine come from?",
+        "a": [
+          "Vacca, Latin for cow",
+          "The name of a village"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "how-old-is-the-earth",
+    "category": "discoveries",
+    "title": "The Man Who Aged the Earth",
+    "emoji": "⏳",
+    "hook": "Working out the age of the Earth also revealed that the world was being poisoned.",
+    "story": [
+      "For centuries the age of the Earth was guessed rather than measured. Some scholars added up generations in scripture and arrived at a few thousand years. In the 1860s Lord Kelvin calculated how long a molten planet would take to cool and announced a figure under a hundred million years, which geologists thought far too short and which turned out to be wrong because radioactivity, unknown at the time, keeps the interior warm.",
+      "Radioactivity also supplied the real method. Certain elements decay into others at a fixed, unchangeable rate, so measuring how much has decayed inside a rock tells you how long the rock has existed. In the 1950s a young American named Clair Patterson set out to date meteorites, which formed at the same moment as the planets and have not been churned up since.",
+      "The measurement proved fiendishly difficult, because lead was everywhere — in the dust, the glassware, the air of the laboratory, on his own hands — and it contaminated every sample. So he built the world's first ultra-clean laboratory, with filtered air and acid-washed everything, simply to keep the modern world out of his measurements. In 1953 he announced the answer: about 4.55 billion years, a figure that has barely shifted since.",
+      "Then came the part he had not planned. Wondering where all the stray lead had come from, he measured lead in ocean water, in soil, and in layers of Greenland ice, and found levels far above anything natural — rising sharply from the 1920s. The source was leaded petrol. Patterson spent the rest of his career fighting the fuel and lead industries, which attacked his credibility and cut his funding. He won. Leaded petrol was banned, and lead levels in people's blood fell steeply afterwards."
+    ],
+    "wow": "The same careful measurement gave us both the age of our planet and the evidence that ended leaded petrol.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "How old is the Earth?",
+        "a": [
+          "About 4.5 billion years",
+          "About 6,000 years"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What else did Patterson discover?",
+        "a": [
+          "Lead pollution from petrol",
+          "A new planet"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "continents-that-move",
+    "category": "discoveries",
+    "title": "The Idea Everyone Laughed At",
+    "emoji": "🗺️",
+    "hook": "One man said the continents move. It took fifty years and his death before anyone believed him.",
+    "story": [
+      "Look at a world map and the bulge of South America seems made to fit into the hollow of Africa. People had noticed the resemblance since the first decent maps existed, and mostly dismissed it as coincidence. In 1912 a German meteorologist named Alfred Wegener took it seriously and went looking for evidence.",
+      "He found a great deal. Identical fossils of the same extinct plants and reptiles turned up on both coasts, in animals that plainly could not have swum an ocean. Distinctive rock layers matched across the gap like a torn newspaper. Scratches left by ancient ice sheets appeared in places that are now tropical, arranged as though the continents had once sat together near the pole. He proposed that a single supercontinent had broken apart and drifted.",
+      "Geologists ridiculed him, and his fatal weakness was real: he could not say what force could possibly shove a continent through solid ocean floor, and the mechanisms he suggested were easily disproved. That he was a weather scientist commenting on geology did not help. He died in 1930 on an expedition across the Greenland ice, still dismissed, at 50.",
+      "The proof came from the sea floor thirty years later. New maps revealed the mid-ocean ridge running around the planet, and measurements of magnetism in the rocks showed matching stripes on both sides of it — a record of the Earth's magnetic field reversing, printed into new sea floor as it spread outward from the crack. The continents do not plough through the crust, as Wegener imagined. They ride on plates that are being made at the ridges and swallowed elsewhere. He had the right idea and the wrong engine, which was enough to get him laughed at for a lifetime."
+    ],
+    "wow": "Africa and South America are still separating, at roughly the speed your fingernails grow.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "Why was Wegener rejected?",
+        "a": [
+          "He could not explain what moved the continents",
+          "His fossils were fake"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What finally proved him right?",
+        "a": [
+          "Magnetic stripes on the sea floor",
+          "A new telescope"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  }
+]

@@ -1,0 +1,254 @@
+[
+  {
+    "id": "krakatoa-1883",
+    "category": "history",
+    "title": "The Sound Heard Around the World",
+    "emoji": "🌋",
+    "hook": "In 1883 a volcano in Indonesia made the loudest sound in recorded history.",
+    "story": [
+      "Krakatoa was an island volcano in the Sunda Strait, in the stretch of water between Java and Sumatra. Through the summer of 1883 it rumbled, smoked and threw ash, enough that sightseeing boats came to look. On the morning of 27 August it destroyed itself in a series of explosions, the largest of which remains the loudest sound in recorded history.",
+      "It was heard nearly 5,000 kilometres away. On Rodrigues island near Mauritius, a police chief reported what he took to be distant gunfire. In western Australia people heard booms and assumed a ship was in trouble. Closer in, the pressure wave was strong enough to burst the eardrums of sailors dozens of kilometres away, and barometers around the world recorded the pulse of air passing — then passing again, several times, as it circled the planet.",
+      "The sound was not what killed people. The collapse of the volcano into the sea sent tsunamis more than thirty metres high into the coasts of Java and Sumatra, sweeping away entire towns. Of roughly 36,000 deaths, the great majority came from those waves. Ships were carried kilometres inland; one gunboat was left stranded high in a valley.",
+      "The effects then went global. Dust and sulphur thrown into the upper atmosphere spread around the world and stayed for years, reflecting sunlight and lowering average temperatures measurably. Sunsets turned lurid red and orange across Europe and America for months — vivid enough that in one American town the fire brigade was called out to what people took to be a distant blaze. It was one of the first disasters reported worldwide within days, because the telegraph network had just been built. The volcano is not finished: Anak Krakatau, child of Krakatoa, rose from the same spot in 1927 and remains active today."
+    ],
+    "wow": "Anak Krakatau — child of Krakatoa — rose from the same spot in 1927 and is still active today.",
+    "image": "img/history/krakatoa-1883.webp",
+    "quiz": [
+      {
+        "q": "How far away was the eruption heard?",
+        "a": [
+          "Nearly 5,000 kilometres",
+          "About 50 kilometres"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What caused most of the deaths?",
+        "a": [
+          "Tsunami waves",
+          "Falling ash"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "borobudur",
+    "category": "history",
+    "title": "The Temple That Was Forgotten",
+    "emoji": "🛕",
+    "hook": "The largest Buddhist temple on Earth lay hidden under ash and jungle for centuries.",
+    "story": [
+      "Borobudur was built in central Java around the year 800, under the Sailendra dynasty, from roughly two million blocks of volcanic stone cut to fit together without any mortar. It took decades. At the time, Java was a wealthy centre of trade and learning, and the monument was built on a scale that required an organised state behind it.",
+      "It is not a building in the ordinary sense. There are no rooms to enter. It is a solid mountain of stone shaped as a path: nine stacked platforms, square at the bottom and circular at the top, that a pilgrim walks around and around, rising gradually. Along the walls run more than a thousand carved relief panels, arranged in order, so that walking the route means reading a story in sequence — a journey from everyday desire at the bottom to stillness at the top, where 72 bell-shaped stone cages each hold a seated Buddha.",
+      "By around the 1400s it had been abandoned. Nobody is certain why. Power in Java shifted east, Islam spread through the island, and volcanic eruptions may have made the area difficult. Ash and jungle gradually swallowed it. Local people still knew a hill of carved stones was there — some avoided it as unlucky — but it was no longer maintained or visited as a monument.",
+      "In 1814, during the brief British occupation of Java, Thomas Stamford Raffles heard reports of a great buried monument and sent an engineer, H. C. Cornelius, to investigate. Clearing it took two hundred men two months, and even then the lower levels stayed buried. Restoration has continued ever since, including an enormous international project in the 1970s and 80s that dismantled the lower terraces block by block, cleaned them, and rebuilt the structure with hidden drainage so rain would stop dissolving it from inside."
+    ],
+    "wow": "The carved panels, laid end to end, would stretch for several kilometres.",
+    "image": "img/history/borobudur.webp",
+    "quiz": [
+      {
+        "q": "How do you experience Borobudur?",
+        "a": [
+          "By walking up and around it",
+          "By entering rooms inside"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What happened to it for centuries?",
+        "a": [
+          "It was abandoned and overgrown",
+          "It was used as a fortress"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "printing-press",
+    "category": "history",
+    "title": "The Machine That Spread Ideas",
+    "emoji": "📚",
+    "hook": "Before printing, a single book could cost as much as a house.",
+    "story": [
+      "Before printing, every book was copied by hand. A single Bible could take a skilled scribe over a year, and the finished object cost roughly as much as a small house or a farm. Books were therefore rare, guarded, and often unreliable, because each copy introduced fresh errors that were then faithfully copied by the next scribe.",
+      "Printing itself was not new. China had printed from carved wooden blocks for centuries, and Korea had cast movable metal type decades before Europe did. What Johannes Gutenberg assembled in Mainz around 1440 was a practical system where every part worked with the others: a metal alloy that cast crisp letters and survived reuse, a mould that produced identical letters quickly, an oil-based ink that stuck to metal instead of sliding off, and a press adapted from the sort used for pressing grapes.",
+      "The economics changed completely. Setting the type for a page took effort, but once set you could run off hundreds of identical copies. Within fifty years there were printing shops in over two hundred European towns and millions of books in circulation. Prices collapsed, and owning a book stopped being a mark of enormous wealth.",
+      "The consequences ran far beyond convenience. Ideas could now spread faster than authorities could suppress them, which is precisely what happened when Martin Luther's criticisms of the church were printed and distributed across Germany in weeks. Scientists could publish results and have them read accurately elsewhere, which made checking each other's work possible. And because cheap books made reading worth learning, literacy spread down the social ladder. Gutenberg himself did badly out of it: he was sued by his financial backer, lost the workshop and the type, and others made the fortunes."
+    ],
+    "wow": "Gutenberg went bankrupt. His financial backer took the workshop, and someone else profited from the invention.",
+    "image": "img/history/printing-press.webp",
+    "quiz": [
+      {
+        "q": "What did Gutenberg actually invent?",
+        "a": [
+          "A practical system combining type, ink and press",
+          "The very first printing"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What changed because of printing?",
+        "a": [
+          "Ideas spread faster than they could be controlled",
+          "Books became rarer"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "rosetta-stone",
+    "category": "history",
+    "title": "The Stone That Unlocked a Language",
+    "emoji": "🗿",
+    "hook": "For 1,400 years nobody could read Egyptian writing. One broken slab changed that.",
+    "story": [
+      "Egyptian hieroglyphs fell out of use around the fourth century, and within a few generations the knowledge of how to read them was gone entirely. Temples, tombs and monuments covered in writing stood silent for fourteen hundred years. Scholars who tried assumed each symbol stood for an idea or a concept, produced elaborate mystical translations, and got nowhere near the truth.",
+      "In 1799 French soldiers rebuilding a fort near the town of Rashid — Rosetta to Europeans — pulled a slab of dark stone out of a wall. It carried the same decree, issued by priests in 196 BC, written three times: in hieroglyphs, in a later everyday Egyptian script, and in ancient Greek. Greek could still be read perfectly well. For the first time there was a known translation to compare against.",
+      "Even so, decoding took more than twenty years and became a bitter rivalry. In England, Thomas Young made the crucial first break by showing that the oval rings around royal names contained symbols spelling out sounds rather than ideas. In France, Jean-François Champollion had taught himself Coptic, a language descended from ancient Egyptian and still used in church services — which meant he had a living echo of the language in his head.",
+      "In 1822 Champollion realised the system was mixed: some signs stand for sounds, some for meanings, and some clarify which sense is intended. He is said to have run to his brother's office, shouted that he had it, and collapsed. With that key, thousands of years of Egyptian records — laws, letters, accounts, poetry, medical texts — became readable again. The stone has been in the British Museum since 1802, and Egypt has repeatedly asked for its return."
+    ],
+    "wow": "The stone has been in the British Museum since 1802, and Egypt has repeatedly asked for it back.",
+    "image": "img/history/rosetta-stone.webp",
+    "quiz": [
+      {
+        "q": "Why was the stone so useful?",
+        "a": [
+          "The same text appeared in a readable script",
+          "It was the oldest writing found"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What did Champollion realise?",
+        "a": [
+          "The script mixed sounds and meanings",
+          "Each symbol was one word"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "pompeii-buried",
+    "category": "history",
+    "title": "A City Frozen in One Afternoon",
+    "emoji": "🏛️",
+    "hook": "A disaster destroyed a Roman town and accidentally preserved it perfectly.",
+    "story": [
+      "In the year 79, Mount Vesuvius erupted above the Bay of Naples. For most of a day, ash and light pumice rained down on the Roman town of Pompeii, piling up metres deep and collapsing roofs under the weight. Many people fled during those hours. Others sheltered indoors and waited, which was reasonable and proved fatal.",
+      "The next morning the eruption column collapsed, sending surges of scorching gas and debris racing down the mountain faster than a person can run. These killed almost instantly. The town was then buried under metres of volcanic material and effectively sealed. Nearby Herculaneum was buried even deeper.",
+      "An abandoned town normally rots away. Wood decays, cloth disintegrates, food disappears, and within a century there is little but stone. Pompeii was not abandoned but packed. When serious excavation began in the 1700s, archaeologists found loaves of bread still in ovens, jars of preserved fruit, political slogans painted on outside walls, prices scratched into counters, and graffiti everywhere — insults, love notes, and complaints about the wine, written by ordinary people who never expected to be read.",
+      "The human remains had decayed, but they left cavities in the hardened ash, shaped exactly like the bodies that had been there. In the 1860s Giuseppe Fiorelli realised these hollows were moulds and began pouring liquid plaster into them. The casts that emerged show people in their final moments — a family huddled together, a guard dog still chained at a doorway. It is why Pompeii is upsetting as well as fascinating, and why we know more about daily life there than in almost any city that was never destroyed."
+    ],
+    "wow": "We know more about daily life in Pompeii than in most cities that were never destroyed.",
+    "image": "img/history/pompeii-buried.webp",
+    "quiz": [
+      {
+        "q": "Why is Pompeii so well preserved?",
+        "a": [
+          "It was sealed under volcanic ash",
+          "It was built of stone"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "How were the body casts made?",
+        "a": [
+          "Plaster poured into hollows in the ash",
+          "Statues carved later"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "first-writing",
+    "category": "history",
+    "title": "Writing Began as Accounting",
+    "emoji": "🖋️",
+    "hook": "The first writing was not poetry or prayer. It was receipts for barley and sheep.",
+    "story": [
+      "Around 5,000 years ago in Mesopotamia, in what is now southern Iraq, cities had grown larger than anyone could hold in their head. Temples collected grain from farmers and handed out rations to workers. Traders sent goods upriver and expected payment. Somebody had to remember who owed what, and human memory was no longer good enough.",
+      "The first solution was counting tokens — small clay shapes representing a measure of barley or a head of cattle — sealed inside clay envelopes. Then someone realised that pressing the token's shape into the outside of the envelope made opening it unnecessary, and shortly after that, the envelope became unnecessary too. What remained was marks on a clay tablet: the first writing, and it was accounting.",
+      "The marks changed as scribes worked faster. Pictures became abstract patterns of wedge-shaped strokes pressed with a cut reed — cuneiform. Crucially, signs began standing for sounds as well as things, which meant a scribe could write a name, or a word with no picture, or anything at all that could be said aloud. Once writing could capture speech, it could capture everything.",
+      "Clay is why we still have it. Papyrus rots, parchment burns, paper crumbles — but a clay tablet thrown into a burning building only bakes harder. Hundreds of thousands survive. Among the ration lists and receipts are school exercises with a teacher's corrections, letters between brothers, jokes, laws, and eventually the Epic of Gilgamesh, the oldest long story we have. One famous tablet is a furious complaint from a customer named Nanni about the poor quality of copper he was sold, and the rudeness of the messenger who delivered it."
+    ],
+    "wow": "Writing appears to have been invented independently at least three times: in Mesopotamia, in China, and in Central America.",
+    "image": "img/history/first-writing.webp",
+    "quiz": [
+      {
+        "q": "Why was writing invented?",
+        "a": [
+          "To keep track of goods and debts",
+          "To write poetry"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Why did so many tablets survive?",
+        "a": [
+          "Clay hardens instead of burning",
+          "They were kept in vaults"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "apollo-11",
+    "category": "history",
+    "title": "Twenty Seconds of Fuel Left",
+    "emoji": "🌕",
+    "hook": "The first Moon landing nearly ran out of fuel with the ground in sight.",
+    "story": [
+      "On 20 July 1969 Neil Armstrong and Buzz Aldrin separated their lunar module from the orbiting command ship, where Michael Collins would wait alone, and began the descent to the Moon. Almost immediately the guidance computer flashed an alarm code nobody in the cabin recognised, then flashed it again. An unrecognised alarm during a landing is the kind of thing that ends a mission.",
+      "In mission control a 24-year-old engineer named Jack Garman had, weeks earlier, made himself a handwritten list of every alarm code and what it meant. This one meant the computer was overloaded — but it had been deliberately designed to shed less important tasks and keep flying the most important ones. Garman said it was safe. The call went up: continue.",
+      "Then Armstrong looked out of the window and saw that the computer was steering them into a crater strewn with boulders the size of cars. He took manual control and flew on, skimming across the surface hunting for flat ground, burning fuel the whole time. Mission control began calling out the seconds remaining. They touched down with roughly twenty seconds of fuel margin, and Armstrong's pulse was recorded at about 150 beats a minute.",
+      "The computer they trusted their lives to had a tiny fraction of the memory of a modern phone, and its software was woven by hand into wire cores by factory workers. Around 600 million people watched the landing, then the largest television audience in history. President Nixon had a speech prepared in case the two were stranded on the surface with no way home; it was never delivered. Among the things left behind was a panel of mirrors, which observatories still fire lasers at today to measure the Moon's slow retreat."
+    ],
+    "wow": "President Nixon had a speech prepared in case the astronauts were stranded on the Moon. It was never needed, and never delivered.",
+    "image": "img/history/apollo-11.webp",
+    "quiz": [
+      {
+        "q": "Why did Armstrong take manual control?",
+        "a": [
+          "The computer was heading for boulders",
+          "The engine failed"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What did they leave behind that is still used?",
+        "a": [
+          "Mirrors for laser measurements",
+          "A weather station"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "animals",
+    "name": "Animals & Life",
+    "emoji": "🦋",
+    "blurb": "Creatures that do impossible things.",
+    "c1": "#34d399",
+    "c2": "#0ea5a4"
+  },
+  {
+    "id": "space",
+    "name": "Space & Earth",
+    "emoji": "🚀",
+    "blurb": "Planets, storms and the ground under your feet.",
+    "c1": "#8b5cf6",
+    "c2": "#3b82f6"
+  },
+  {
+    "id": "body",
+    "name": "Human Body",
+    "emoji": "🫀",
+    "blurb": "The machine you are living inside.",
+    "c1": "#fb7185",
+    "c2": "#f43f5e"
+  },
+  {
+    "id": "tech",
+    "name": "How Things Work",
+    "emoji": "⚙️",
+    "blurb": "Why your gadgets do what they do.",
+    "c1": "#f59e0b",
+    "c2": "#f97316"
+  },
+  {
+    "id": "discoveries",
+    "name": "Great Discoveries",
+    "emoji": "🔭",
+    "blurb": "The moment somebody first found out.",
+    "c1": "#06b6d4",
+    "c2": "#0369a1"
+  },
+  {
+    "id": "history",
+    "name": "How We Got Here",
+    "emoji": "🏺",
+    "blurb": "Days that changed what came next.",
+    "c1": "#a16207",
+    "c2": "#78350f"
+  },
+  {
+    "id": "people",
+    "name": "People Who Changed Things",
+    "emoji": "👤",
+    "blurb": "Lives worth knowing about.",
+    "c1": "#6366f1",
+    "c2": "#4338ca"
+  },
+  {
+    "id": "mysteries",
+    "name": "Nobody Knows Yet",
+    "emoji": "❓",
+    "blurb": "Questions still waiting for an answer.",
+    "c1": "#64748b",
+    "c2": "#334155"
+  }
+]

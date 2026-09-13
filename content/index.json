@@ -1,0 +1,982 @@
+{
+  "version": 1,
+  "builtAt": "2026-09-13",
+  "categories": [
+    {
+      "id": "animals",
+      "name": "Animals & Life",
+      "emoji": "🦋",
+      "blurb": "Creatures that do impossible things.",
+      "c1": "#34d399",
+      "c2": "#0ea5a4"
+    },
+    {
+      "id": "space",
+      "name": "Space & Earth",
+      "emoji": "🚀",
+      "blurb": "Planets, storms and the ground under your feet.",
+      "c1": "#8b5cf6",
+      "c2": "#3b82f6"
+    },
+    {
+      "id": "body",
+      "name": "Human Body",
+      "emoji": "🫀",
+      "blurb": "The machine you are living inside.",
+      "c1": "#fb7185",
+      "c2": "#f43f5e"
+    },
+    {
+      "id": "tech",
+      "name": "How Things Work",
+      "emoji": "⚙️",
+      "blurb": "Why your gadgets do what they do.",
+      "c1": "#f59e0b",
+      "c2": "#f97316"
+    },
+    {
+      "id": "discoveries",
+      "name": "Great Discoveries",
+      "emoji": "🔭",
+      "blurb": "The moment somebody first found out.",
+      "c1": "#06b6d4",
+      "c2": "#0369a1"
+    },
+    {
+      "id": "history",
+      "name": "How We Got Here",
+      "emoji": "🏺",
+      "blurb": "Days that changed what came next.",
+      "c1": "#a16207",
+      "c2": "#78350f"
+    },
+    {
+      "id": "people",
+      "name": "People Who Changed Things",
+      "emoji": "👤",
+      "blurb": "Lives worth knowing about.",
+      "c1": "#6366f1",
+      "c2": "#4338ca"
+    },
+    {
+      "id": "mysteries",
+      "name": "Nobody Knows Yet",
+      "emoji": "❓",
+      "blurb": "Questions still waiting for an answer.",
+      "c1": "#64748b",
+      "c2": "#334155"
+    }
+  ],
+  "topics": [
+    {
+      "id": "octopus-three-hearts",
+      "category": "animals",
+      "title": "An Octopus Has Three Hearts",
+      "emoji": "🐙",
+      "hook": "Most animals have one heart. An octopus has three.",
+      "image": "img/animals/octopus-three-hearts.webp",
+      "readingLevel": 3,
+      "keywords": "an octopus has three hearts most animals have one heart. an octopus has three. an octopus can squeeze through any gap bigger than its beak — the only hard part of its whole body."
+    },
+    {
+      "id": "axolotl-regrows-legs",
+      "category": "animals",
+      "title": "The Axolotl Can Regrow a Leg",
+      "emoji": "🦎",
+      "hook": "If an axolotl loses a leg, it simply grows a new one.",
+      "image": "img/animals/axolotl-regrows-legs.webp",
+      "readingLevel": 3,
+      "keywords": "the axolotl can regrow a leg if an axolotl loses a leg, it simply grows a new one. a regrown axolotl leg is not a rough copy — it has the correct bones, in the correct order, every time."
+    },
+    {
+      "id": "bees-dance-directions",
+      "category": "animals",
+      "title": "Bees Dance to Give Directions",
+      "emoji": "🐝",
+      "hook": "A bee that finds flowers comes home and dances the directions.",
+      "image": "img/animals/bees-dance-directions.webp",
+      "readingLevel": 3,
+      "keywords": "bees dance to give directions a bee that finds flowers comes home and dances the directions. bees can also dance about water, tree sap, or a good place to build a new home — not only flowers."
+    },
+    {
+      "id": "tardigrade-toughest",
+      "category": "animals",
+      "title": "The Toughest Animal Is Almost Invisible",
+      "emoji": "🔬",
+      "hook": "The toughest animal on Earth is smaller than the letter O.",
+      "image": "img/animals/tardigrade-toughest.webp",
+      "readingLevel": 3,
+      "keywords": "the toughest animal is almost invisible the toughest animal on earth is smaller than the letter o. tardigrades have been on earth for more than 500 million years, long before the first dinosaur and long after the last one."
+    },
+    {
+      "id": "elephants-hear-with-feet",
+      "category": "animals",
+      "title": "Elephants Listen With Their Feet",
+      "emoji": "🐘",
+      "hook": "Elephants can hear a call from kilometres away — through the ground.",
+      "image": "img/animals/elephants-hear-with-feet.webp",
+      "readingLevel": 3,
+      "keywords": "elephants listen with their feet elephants can hear a call from kilometres away — through the ground. some elephant rumbles travel through the ground for more than ten kilometres — further than they travel through the air."
+    },
+    {
+      "id": "chameleon-changes-colour",
+      "category": "animals",
+      "title": "A Chameleon Is Not Hiding",
+      "emoji": "🦎",
+      "hook": "Chameleons mostly change colour to talk, not to hide.",
+      "image": "img/animals/chameleon-changes-colour.webp",
+      "readingLevel": 3,
+      "keywords": "a chameleon is not hiding chameleons mostly change colour to talk, not to hide. a chameleon's two eyes can look in two different directions at once, then both swing forward to judge distance before the tongue fires."
+    },
+    {
+      "id": "flamingos-are-pink-from-food",
+      "category": "animals",
+      "title": "Flamingos Eat Their Colour",
+      "emoji": "🦩",
+      "hook": "A flamingo is born grey. It eats its way to pink.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "flamingos eat their colour a flamingo is born grey. it eats its way to pink. both flamingo parents feed their chick a red liquid made in their own throats, and it drains the colour out of them while they do it."
+    },
+    {
+      "id": "birds-sleep-while-flying",
+      "category": "animals",
+      "title": "Some Birds Sleep While Flying",
+      "emoji": "🕊️",
+      "hook": "A frigatebird can fall asleep in mid-air and keep flying.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "some birds sleep while flying a frigatebird can fall asleep in mid-air and keep flying. frigatebirds have been tracked staying in the air for two months without landing once."
+    },
+    {
+      "id": "ants-count-their-steps",
+      "category": "animals",
+      "title": "Desert Ants Count Their Steps",
+      "emoji": "🐜",
+      "hook": "A desert ant finds its way home by counting how far it walked.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "desert ants count their steps a desert ant finds its way home by counting how far it walked. saharan silver ants forage at midday, when the sand is hot enough to kill their predators, and sprint at nearly a metre a second."
+    },
+    {
+      "id": "cats-land-on-their-feet",
+      "category": "animals",
+      "title": "How a Cat Twists in Mid-Air",
+      "emoji": "🐈",
+      "hook": "A falling cat turns itself the right way up with nothing to push against.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "how a cat twists in mid-air a falling cat turns itself the right way up with nothing to push against. cats need a little height to complete the turn — they manage it best from about a metre or more."
+    },
+    {
+      "id": "mantis-shrimp-punch",
+      "category": "animals",
+      "title": "The Fastest Punch in the Sea",
+      "emoji": "🦐",
+      "hook": "A mantis shrimp punches so fast the water itself boils.",
+      "image": "img/animals/mantis-shrimp-punch.webp",
+      "readingLevel": 3,
+      "keywords": "the fastest punch in the sea a mantis shrimp punches so fast the water itself boils. the collapsing bubble reaches temperatures that briefly rival the surface of the sun, in a space smaller than a grain of sand."
+    },
+    {
+      "id": "bats-see-with-sound",
+      "category": "animals",
+      "title": "Bats See With Sound",
+      "emoji": "🦇",
+      "hook": "A bat can catch a moth in complete darkness without ever seeing it.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "bats see with sound a bat can catch a moth in complete darkness without ever seeing it. a bat must shout and listen without deafening itself, so tiny muscles in its ears clamp shut during each call and release in time for the echo."
+    },
+    {
+      "id": "spider-silk-stronger-than-steel",
+      "category": "animals",
+      "title": "Spider Silk Beats Steel",
+      "emoji": "🕷️",
+      "hook": "Weight for weight, spider silk is stronger than steel.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "spider silk beats steel weight for weight, spider silk is stronger than steel. spiders often eat their old web and reuse the protein to spin a fresh one."
+    },
+    {
+      "id": "immortal-jellyfish",
+      "category": "animals",
+      "title": "The Jellyfish That Grows Backwards",
+      "emoji": "🪼",
+      "hook": "One jellyfish can turn itself back into a baby instead of dying.",
+      "image": "img/animals/immortal-jellyfish.webp",
+      "readingLevel": 3,
+      "keywords": "the jellyfish that grows backwards one jellyfish can turn itself back into a baby instead of dying. the reset works even on an adult that has already bred — the equivalent of a grown adult turning back into a baby."
+    },
+    {
+      "id": "platypus-hunts-with-electricity",
+      "category": "animals",
+      "title": "A Platypus Hunts With Electricity",
+      "emoji": "🦆",
+      "hook": "A platypus closes its eyes, ears and nose to hunt — and still finds its prey.",
+      "image": "img/animals/platypus-hunts-with-electricity.webp",
+      "readingLevel": 3,
+      "keywords": "a platypus hunts with electricity a platypus closes its eyes, ears and nose to hunt — and still finds its prey. the platypus lays eggs, makes milk without nipples by sweating it through its skin, and the males have venomous spurs on their back legs."
+    },
+    {
+      "id": "arctic-tern-longest-journey",
+      "category": "animals",
+      "title": "The Longest Journey on Earth",
+      "emoji": "🐦",
+      "hook": "One small bird flies from the Arctic to Antarctica and back, every year.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "the longest journey on earth one small bird flies from the arctic to antarctica and back, every year. an arctic tern's lifetime flying distance is roughly the same as flying to the moon and back three times."
+    },
+    {
+      "id": "naked-mole-rat-strange",
+      "category": "animals",
+      "title": "The Strangest Mammal Underground",
+      "emoji": "🐀",
+      "hook": "One mammal lives like an insect, barely ages, and can survive without oxygen.",
+      "image": "img/animals/naked-mole-rat-strange.webp",
+      "readingLevel": 3,
+      "keywords": "the strangest mammal underground one mammal lives like an insect, barely ages, and can survive without oxygen. a naked mole-rat can live over thirty years, while a mouse of similar size lives about three."
+    },
+    {
+      "id": "whale-songs-change",
+      "category": "animals",
+      "title": "Whale Songs Spread Like Pop Songs",
+      "emoji": "🐋",
+      "hook": "Every male humpback in an ocean sings the same song — and it changes every year.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "whale songs spread like pop songs every male humpback in an ocean sings the same song — and it changes every year. low whale calls can travel for hundreds of kilometres through deep water layers that carry sound unusually well."
+    },
+    {
+      "id": "cuttlefish-colour-blind",
+      "category": "animals",
+      "title": "A Colour-Blind Master of Colour",
+      "emoji": "🦑",
+      "hook": "Cuttlefish match colours they cannot see.",
+      "image": "img/animals/cuttlefish-colour-blind.webp",
+      "readingLevel": 3,
+      "keywords": "a colour-blind master of colour cuttlefish match colours they cannot see. cuttlefish skin can also change texture, raising bumps and flaps to imitate seaweed or rough rock."
+    },
+    {
+      "id": "bombardier-beetle-spray",
+      "category": "animals",
+      "title": "The Beetle That Fires Boiling Spray",
+      "emoji": "🪲",
+      "hook": "A bombardier beetle mixes two chemicals and fires boiling liquid at attackers.",
+      "image": "img/animals/bombardier-beetle-spray.webp",
+      "readingLevel": 3,
+      "keywords": "the beetle that fires boiling spray a bombardier beetle mixes two chemicals and fires boiling liquid at attackers. the pulsing fire rate has been measured at around 500 bursts a second — far too fast to see or hear as separate shots."
+    },
+    {
+      "id": "fish-that-walks-on-land",
+      "category": "animals",
+      "title": "The Fish That Walks on Land",
+      "emoji": "🐟",
+      "hook": "Mudskippers spend most of their time out of the water.",
+      "image": "img/animals/fish-that-walks-on-land.webp",
+      "readingLevel": 3,
+      "keywords": "the fish that walks on land mudskippers spend most of their time out of the water. a male mudskipper courts by leaping into the air and slapping back down on the mud, making a display visible right across the flats."
+    },
+    {
+      "id": "honey-never-spoils",
+      "category": "animals",
+      "title": "Honey Never Goes Bad",
+      "emoji": "🍯",
+      "hook": "Archaeologists have found honey in ancient tombs that is still edible.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "honey never goes bad archaeologists have found honey in ancient tombs that is still edible. honey has been used on wounds for thousands of years, and some hospitals still use medical-grade honey on stubborn ones today."
+    },
+    {
+      "id": "venus-day-longer-than-year",
+      "category": "space",
+      "title": "A Day on Venus Is Longer Than Its Year",
+      "emoji": "🌗",
+      "hook": "On Venus, one day lasts longer than one whole year.",
+      "image": "img/space/venus-day-longer-than-year.webp",
+      "readingLevel": 3,
+      "keywords": "a day on venus is longer than its year on venus, one day lasts longer than one whole year. venus is the hottest planet in the solar system, and it is not the closest one to the sun."
+    },
+    {
+      "id": "lightning-hotter-than-sun",
+      "category": "space",
+      "title": "Lightning Is Hotter Than the Sun",
+      "emoji": "⚡",
+      "hook": "A lightning bolt is about five times hotter than the surface of the Sun.",
+      "image": "img/space/lightning-hotter-than-sun.webp",
+      "readingLevel": 3,
+      "keywords": "lightning is hotter than the sun a lightning bolt is about five times hotter than the surface of the sun. lightning strikes somewhere on earth about 100 times every second."
+    },
+    {
+      "id": "moon-moving-away",
+      "category": "space",
+      "title": "The Moon Is Slowly Leaving Us",
+      "emoji": "🌙",
+      "hook": "The Moon drifts a little further from Earth every year.",
+      "image": "img/space/moon-moving-away.webp",
+      "readingLevel": 3,
+      "keywords": "the moon is slowly leaving us the moon drifts a little further from earth every year. days are getting longer too — about 1.7 milliseconds longer every century, as the moon steals a little of earth's spin."
+    },
+    {
+      "id": "volcanoes-under-the-sea",
+      "category": "space",
+      "title": "Most Volcanoes Are Underwater",
+      "emoji": "🌋",
+      "hook": "Most of Earth's volcanoes are hidden under the sea.",
+      "image": "img/space/volcanoes-under-the-sea.webp",
+      "readingLevel": 3,
+      "keywords": "most volcanoes are underwater most of earth's volcanoes are hidden under the sea. the sea floor is remade constantly — most of it is younger than 200 million years old."
+    },
+    {
+      "id": "saturn-would-float",
+      "category": "space",
+      "title": "Saturn Would Float in Water",
+      "emoji": "🪐",
+      "hook": "Saturn is so light for its size that it would float in a bath.",
+      "image": "img/space/saturn-would-float.webp",
+      "readingLevel": 3,
+      "keywords": "saturn would float in water saturn is so light for its size that it would float in a bath. saturn's rings are slowly raining down into the planet, and will not last forever."
+    },
+    {
+      "id": "why-the-sky-is-blue",
+      "category": "space",
+      "title": "Why the Sky Is Blue",
+      "emoji": "🌤️",
+      "hook": "Sunlight looks white, but it is every colour mixed together.",
+      "image": "img/space/why-the-sky-is-blue.webp",
+      "readingLevel": 3,
+      "keywords": "why the sky is blue sunlight looks white, but it is every colour mixed together. there is no air on the moon to scatter sunlight, so the sky there stays black even at midday."
+    },
+    {
+      "id": "why-the-moon-has-phases",
+      "category": "space",
+      "title": "Why the Moon Changes Shape",
+      "emoji": "🌒",
+      "hook": "The Moon never changes shape. You just see a different part of it lit.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "why the moon changes shape the moon never changes shape. you just see a different part of it lit. the moon keeps the same face towards us at all times, so nobody on earth saw its far side until a spacecraft photographed it in 1959."
+    },
+    {
+      "id": "shooting-stars-are-tiny",
+      "category": "space",
+      "title": "A Shooting Star Is a Grain of Sand",
+      "emoji": "☄️",
+      "hook": "That brilliant streak across the sky is usually smaller than a pea.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "a shooting star is a grain of sand that brilliant streak across the sky is usually smaller than a pea. tonnes of this dust arrive every single day, quietly, mostly unnoticed."
+    },
+    {
+      "id": "why-the-sea-is-salty",
+      "category": "space",
+      "title": "Why the Sea Is Salty",
+      "emoji": "🌊",
+      "hook": "Rivers are fresh, yet they are what makes the sea salty.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "why the sea is salty rivers are fresh, yet they are what makes the sea salty. the dead sea is so salty that swimmers float without trying, because salt makes water heavier for its volume."
+    },
+    {
+      "id": "how-mountains-grow",
+      "category": "space",
+      "title": "Mountains Are Still Growing",
+      "emoji": "🏔️",
+      "hook": "Everest is taller this year than it was last year.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "mountains are still growing everest is taller this year than it was last year. marine fossils have been found near the top of everest — that rock was once the floor of a sea."
+    },
+    {
+      "id": "what-is-inside-the-earth",
+      "category": "space",
+      "title": "What Is Inside the Earth",
+      "emoji": "🌍",
+      "hook": "Nobody has drilled even a fiftieth of the way to the centre.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "what is inside the earth nobody has drilled even a fiftieth of the way to the centre. the inner core is roughly as hot as the surface of the sun, yet solid, because the pressure is immense."
+    },
+    {
+      "id": "why-we-have-seasons",
+      "category": "space",
+      "title": "Seasons Are Not About Distance",
+      "emoji": "🍂",
+      "hook": "Earth is closest to the Sun in January — during the northern winter.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "seasons are not about distance earth is closest to the sun in january — during the northern winter. at the poles the tilt is so extreme that the sun does not set for months, then does not rise for months."
+    },
+    {
+      "id": "where-rain-comes-from",
+      "category": "space",
+      "title": "Rain Needs Something to Start On",
+      "emoji": "🌧️",
+      "hook": "Clean air cannot rain. A raindrop needs a speck of dust to form around.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "rain needs something to start on clean air cannot rain. a raindrop needs a speck of dust to form around. raindrops are not tear-shaped. falling drops flatten underneath, more like a tiny hamburger bun."
+    },
+    {
+      "id": "jupiter-great-red-spot",
+      "category": "space",
+      "title": "A Storm Older Than Your Country",
+      "emoji": "🟠",
+      "hook": "Jupiter has a storm that has been raging for centuries.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "a storm older than your country jupiter has a storm that has been raging for centuries. the spot's colour changes over the years, from brick red to pale salmon, and nobody knows exactly what chemical gives it the colour."
+    },
+    {
+      "id": "black-holes-trap-light",
+      "category": "space",
+      "title": "A Place Light Cannot Escape",
+      "emoji": "🕳️",
+      "hook": "Throw a ball hard enough and it escapes Earth. Near a black hole, even light cannot.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "a place light cannot escape throw a ball hard enough and it escapes earth. near a black hole, even light cannot. the gas swirling into a black hole can shine brighter than an entire galaxy before it disappears."
+    },
+    {
+      "id": "babies-have-more-bones",
+      "category": "body",
+      "title": "You Had More Bones as a Baby",
+      "emoji": "🦴",
+      "hook": "You were born with about 300 bones. You have 206 now.",
+      "image": "img/body/babies-have-more-bones.webp",
+      "readingLevel": 3,
+      "keywords": "you had more bones as a baby you were born with about 300 bones. you have 206 now. the smallest bone in your body sits inside your ear and is about the size of a grain of rice."
+    },
+    {
+      "id": "stomach-rebuilds-itself",
+      "category": "body",
+      "title": "Your Stomach Rebuilds Itself",
+      "emoji": "🥣",
+      "hook": "Your stomach acid is strong enough to hurt your stomach — so it keeps rebuilding.",
+      "image": "img/body/stomach-rebuilds-itself.webp",
+      "readingLevel": 3,
+      "keywords": "your stomach rebuilds itself your stomach acid is strong enough to hurt your stomach — so it keeps rebuilding. the cells lining your stomach are so exposed that your body replaces them every few days, your whole life."
+    },
+    {
+      "id": "brain-runs-on-electricity",
+      "category": "body",
+      "title": "Your Brain Runs on Electricity",
+      "emoji": "🧠",
+      "hook": "Your brain uses about twenty watts — less than a bright light bulb.",
+      "image": "img/body/brain-runs-on-electricity.webp",
+      "readingLevel": 3,
+      "keywords": "your brain runs on electricity your brain uses about twenty watts — less than a bright light bulb. your brain is about two percent of your weight but uses a fifth of all the energy you burn."
+    },
+    {
+      "id": "blood-vessels-around-earth",
+      "category": "body",
+      "title": "Your Blood Vessels Could Circle the Earth",
+      "emoji": "❤️",
+      "hook": "Line up all your blood vessels and they would wrap around the Earth twice.",
+      "image": "img/body/blood-vessels-around-earth.webp",
+      "readingLevel": 3,
+      "keywords": "your blood vessels could circle the earth line up all your blood vessels and they would wrap around the earth twice. your heart will beat roughly two and a half billion times in an average lifetime, without ever resting."
+    },
+    {
+      "id": "why-you-blink",
+      "category": "body",
+      "title": "Why You Blink So Much",
+      "emoji": "👁️",
+      "hook": "You blink about fifteen times a minute and hardly ever notice.",
+      "image": "img/body/why-you-blink.webp",
+      "readingLevel": 3,
+      "keywords": "why you blink so much you blink about fifteen times a minute and hardly ever notice. added together, your blinks keep your eyes closed for roughly an hour of every single day."
+    },
+    {
+      "id": "why-you-get-goosebumps",
+      "category": "body",
+      "title": "Goosebumps Are Left Over From Fur",
+      "emoji": "🥶",
+      "hook": "Goosebumps are your body trying to fluff up fur you no longer have.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "goosebumps are left over from fur goosebumps are your body trying to fluff up fur you no longer have. the muscles that raise your hair are among the few muscles in your body you cannot control on purpose."
+    },
+    {
+      "id": "how-you-keep-balance",
+      "category": "body",
+      "title": "There Is a Spirit Level in Your Head",
+      "emoji": "🌀",
+      "hook": "Deep inside each ear are three tiny loops of fluid that tell you which way you are tilting.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "there is a spirit level in your head deep inside each ear are three tiny loops of fluid that tell you which way you are tilting. astronauts feel ill for their first days in space because these organs never stop reporting a fall."
+    },
+    {
+      "id": "how-cuts-stop-bleeding",
+      "category": "body",
+      "title": "How a Cut Stops Bleeding",
+      "emoji": "🩹",
+      "hook": "Your blood has to stay liquid everywhere except exactly where you are bleeding.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "how a cut stops bleeding your blood has to stay liquid everywhere except exactly where you are bleeding. picking a scab restarts the process and usually makes the scar worse — the lid was doing its job."
+    },
+    {
+      "id": "what-a-fever-is-for",
+      "category": "body",
+      "title": "A Fever Is on Your Side",
+      "emoji": "🤒",
+      "hook": "When you have a fever, your body is not broken. It has moved the thermostat on purpose.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "a fever is on your side when you have a fever, your body is not broken. it has moved the thermostat on purpose. cold-blooded animals do a version of this too: an infected lizard will deliberately move to a hotter rock."
+    },
+    {
+      "id": "tongue-map-is-wrong",
+      "category": "body",
+      "title": "The Tongue Map Is a Myth",
+      "emoji": "👅",
+      "hook": "That diagram showing sweet at the tip and bitter at the back is simply wrong.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "the tongue map is a myth that diagram showing sweet at the tip and bitter at the back is simply wrong. hold your nose and eat a jellybean and you will struggle to name the flavour — until you let go, when it appears instantly."
+    },
+    {
+      "id": "why-you-have-fingerprints",
+      "category": "body",
+      "title": "Nobody Else Has Your Fingerprints",
+      "emoji": "🫆",
+      "hook": "Even identical twins, with the same genes, have different fingerprints.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "nobody else has your fingerprints even identical twins, with the same genes, have different fingerprints. koalas have fingerprints so similar to human ones that they can be confused under a microscope."
+    },
+    {
+      "id": "microbes-living-in-you",
+      "category": "body",
+      "title": "You Are Carrying Trillions of Passengers",
+      "emoji": "🦠",
+      "hook": "Roughly as many bacterial cells live in your body as human cells.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "you are carrying trillions of passengers roughly as many bacterial cells live in your body as human cells. antibiotics kill helpful bacteria along with harmful ones, which is why they can upset your stomach for days afterwards."
+    },
+    {
+      "id": "your-eyes-have-a-hole",
+      "category": "body",
+      "title": "There Is a Hole in Your Vision",
+      "emoji": "👁️‍🗨️",
+      "hook": "Each eye has a blind spot, and your brain hides it from you.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "there is a hole in your vision each eye has a blind spot, and your brain hides it from you. the blind spot in each eye is large enough to hide several full moons in the sky."
+    },
+    {
+      "id": "wifi-is-radio",
+      "category": "tech",
+      "title": "Wi-Fi Is Invisible Radio",
+      "emoji": "📶",
+      "hook": "Wi-Fi is just radio — the same idea as a radio station, but tiny.",
+      "image": "img/tech/wifi-is-radio.webp",
+      "readingLevel": 3,
+      "keywords": "wi-fi is invisible radio wi-fi is just radio — the same idea as a radio station, but tiny. wi-fi waves travel at the speed of light, so the distance across your house costs no time at all."
+    },
+    {
+      "id": "internet-under-the-ocean",
+      "category": "tech",
+      "title": "The Internet Runs Under the Ocean",
+      "emoji": "🌐",
+      "hook": "Almost everything you do online travels through cables on the sea floor.",
+      "image": "img/tech/internet-under-the-ocean.webp",
+      "readingLevel": 3,
+      "keywords": "the internet runs under the ocean almost everything you do online travels through cables on the sea floor. repair ships still fish broken cables up from the sea bed with grappling hooks, much as they did a century ago."
+    },
+    {
+      "id": "touchscreen-feels-electricity",
+      "category": "tech",
+      "title": "A Screen Feels Your Electricity",
+      "emoji": "📱",
+      "hook": "Your screen does not feel your finger pressing. It feels your body's electricity.",
+      "image": "img/tech/touchscreen-feels-electricity.webp",
+      "readingLevel": 3,
+      "keywords": "a screen feels your electricity your screen does not feel your finger pressing. it feels your body's electricity. a screen like this can tell the difference between ten fingers at once, thousands of times a minute."
+    },
+    {
+      "id": "how-a-wing-lifts",
+      "category": "tech",
+      "title": "A Wing Throws Air Downwards",
+      "emoji": "✈️",
+      "hook": "A plane flies because its wings throw air downwards.",
+      "image": "img/tech/how-a-wing-lifts.webp",
+      "readingLevel": 3,
+      "keywords": "a wing throws air downwards a plane flies because its wings throw air downwards. a plane can fly upside down — the wing just has to be tilted so it still throws air downwards."
+    },
+    {
+      "id": "battery-stores-chemistry",
+      "category": "tech",
+      "title": "A Battery Stores Chemistry, Not Electricity",
+      "emoji": "🔋",
+      "hook": "A battery does not store electricity. It stores a chemical argument.",
+      "image": "img/tech/battery-stores-chemistry.webp",
+      "readingLevel": 3,
+      "keywords": "a battery stores chemistry, not electricity a battery does not store electricity. it stores a chemical argument. the very first battery, from 1800, was a stack of copper and zinc discs separated by wet cardboard."
+    },
+    {
+      "id": "how-a-fridge-makes-cold",
+      "category": "tech",
+      "title": "A Fridge Does Not Make Cold",
+      "emoji": "🧊",
+      "hook": "There is no such thing as cold. A fridge moves heat out, it does not put cold in.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "a fridge does not make cold there is no such thing as cold. a fridge moves heat out, it does not put cold in. an air conditioner is the same machine with the hot end hanging outside the window."
+    },
+    {
+      "id": "why-planes-leave-white-trails",
+      "category": "tech",
+      "title": "Why Planes Leave White Lines",
+      "emoji": "🛫",
+      "hook": "Those white trails behind a plane are clouds it made itself.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "why planes leave white lines those white trails behind a plane are clouds it made itself. when almost all flights stopped for a few days in 2001, scientists were able to measure how much contrails had been affecting temperatures."
+    },
+    {
+      "id": "how-a-microwave-works",
+      "category": "tech",
+      "title": "The Melted Chocolate Bar",
+      "emoji": "🍫",
+      "hook": "A microwave oven was invented because a chocolate bar melted in someone's pocket.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "the melted chocolate bar a microwave oven was invented because a chocolate bar melted in someone's pocket. spencer received about two dollars for the patent, which is what his employer paid for any invention."
+    },
+    {
+      "id": "how-gps-knows-where-you-are",
+      "category": "tech",
+      "title": "Your Map Needs Einstein",
+      "emoji": "🛰️",
+      "hook": "Satellite navigation would drift ten kilometres off in a day without a correction for time itself.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "your map needs einstein satellite navigation would drift ten kilometres off in a day without a correction for time itself. every time a map app finds you, a theory from 1915 is quietly being used to keep it honest."
+    },
+    {
+      "id": "why-computers-use-ones-and-zeros",
+      "category": "tech",
+      "title": "Why Computers Only Count to One",
+      "emoji": "🔌",
+      "hook": "Everything on a screen is stored as nothing but on and off.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "why computers only count to one everything on a screen is stored as nothing but on and off. a modern phone chip contains more transistors than there are people on earth — by a factor of thousands."
+    },
+    {
+      "id": "how-soap-works",
+      "category": "tech",
+      "title": "Soap Grabs Grease at Both Ends",
+      "emoji": "🫧",
+      "hook": "Water alone cannot shift grease. Soap acts as a translator between them.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "soap grabs grease at both ends water alone cannot shift grease. soap acts as a translator between them. soap has been made for over four thousand years, from fat boiled with wood ash, long before anyone knew why it worked."
+    },
+    {
+      "id": "how-solar-panels-work",
+      "category": "tech",
+      "title": "Turning Light Straight Into Electricity",
+      "emoji": "☀️",
+      "hook": "A solar panel has no moving parts at all, yet it makes electricity from sunshine.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "turning light straight into electricity a solar panel has no moving parts at all, yet it makes electricity from sunshine. panels work less well when very hot, which is why a cool bright day can beat a scorching one."
+    },
+    {
+      "id": "how-speakers-make-sound",
+      "category": "tech",
+      "title": "How a Speaker Makes Sound",
+      "emoji": "🔊",
+      "hook": "A speaker is a magnet, a coil of wire, and a piece of card that pushes air.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "how a speaker makes sound a speaker is a magnet, a coil of wire, and a piece of card that pushes air. big cones move slowly and make deep notes; small ones move fast and make high notes, which is why speakers come in different sizes."
+    },
+    {
+      "id": "penicillin-by-accident",
+      "category": "discoveries",
+      "title": "The Mould That Saved Millions",
+      "emoji": "🧫",
+      "hook": "A scientist went on holiday, left his dishes dirty, and changed medicine forever.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "the mould that saved millions a scientist went on holiday, left his dishes dirty, and changed medicine forever. the strain used for worldwide production came from a mouldy melon bought in a market in illinois."
+    },
+    {
+      "id": "x-rays-discovered",
+      "category": "discoveries",
+      "title": "The Ray Nobody Expected",
+      "emoji": "🩻",
+      "hook": "A physicist noticed a glow across his dark laboratory — and found a way to see inside people.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "the ray nobody expected a physicist noticed a glow across his dark laboratory — and found a way to see inside people. röntgen refused to patent x-rays, saying the discovery belonged to humanity, and gave away his nobel prize money."
+    },
+    {
+      "id": "germs-cause-disease",
+      "category": "discoveries",
+      "title": "Wash Your Hands",
+      "emoji": "🧼",
+      "hook": "A doctor who told other doctors to wash their hands was thrown out of his hospital.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "wash your hands a doctor who told other doctors to wash their hands was thrown out of his hospital. being right is not enough on its own — an explanation people can believe matters too, which is why semmelweis failed and pasteur succeeded."
+    },
+    {
+      "id": "shape-of-dna",
+      "category": "discoveries",
+      "title": "The Shape That Explained Life",
+      "emoji": "🧬",
+      "hook": "Once people saw the shape of DNA, they instantly saw how it copies itself.",
+      "image": "img/discoveries/shape-of-dna.webp",
+      "readingLevel": 3,
+      "keywords": "the shape that explained life once people saw the shape of dna, they instantly saw how it copies itself. franklin died of cancer in 1958 at 37. nobel prizes are not awarded after death, and the 1962 prize went to watson, crick and wilkins."
+    },
+    {
+      "id": "first-vaccine",
+      "category": "discoveries",
+      "title": "The Milkmaids Who Never Got Smallpox",
+      "emoji": "💉",
+      "hook": "A country doctor noticed that milkmaids had beautiful skin — and worked out why.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "the milkmaids who never got smallpox a country doctor noticed that milkmaids had beautiful skin — and worked out why. smallpox no longer exists outside two guarded laboratory freezers, and nobody alive has caught it since 1977."
+    },
+    {
+      "id": "how-old-is-the-earth",
+      "category": "discoveries",
+      "title": "The Man Who Aged the Earth",
+      "emoji": "⏳",
+      "hook": "Working out the age of the Earth also revealed that the world was being poisoned.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "the man who aged the earth working out the age of the earth also revealed that the world was being poisoned. the same careful measurement gave us both the age of our planet and the evidence that ended leaded petrol."
+    },
+    {
+      "id": "continents-that-move",
+      "category": "discoveries",
+      "title": "The Idea Everyone Laughed At",
+      "emoji": "🗺️",
+      "hook": "One man said the continents move. It took fifty years and his death before anyone believed him.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "the idea everyone laughed at one man said the continents move. it took fifty years and his death before anyone believed him. africa and south america are still separating, at roughly the speed your fingernails grow."
+    },
+    {
+      "id": "krakatoa-1883",
+      "category": "history",
+      "title": "The Sound Heard Around the World",
+      "emoji": "🌋",
+      "hook": "In 1883 a volcano in Indonesia made the loudest sound in recorded history.",
+      "image": "img/history/krakatoa-1883.webp",
+      "readingLevel": 3,
+      "keywords": "the sound heard around the world in 1883 a volcano in indonesia made the loudest sound in recorded history. anak krakatau — child of krakatoa — rose from the same spot in 1927 and is still active today."
+    },
+    {
+      "id": "borobudur",
+      "category": "history",
+      "title": "The Temple That Was Forgotten",
+      "emoji": "🛕",
+      "hook": "The largest Buddhist temple on Earth lay hidden under ash and jungle for centuries.",
+      "image": "img/history/borobudur.webp",
+      "readingLevel": 3,
+      "keywords": "the temple that was forgotten the largest buddhist temple on earth lay hidden under ash and jungle for centuries. the carved panels, laid end to end, would stretch for several kilometres."
+    },
+    {
+      "id": "printing-press",
+      "category": "history",
+      "title": "The Machine That Spread Ideas",
+      "emoji": "📚",
+      "hook": "Before printing, a single book could cost as much as a house.",
+      "image": "img/history/printing-press.webp",
+      "readingLevel": 3,
+      "keywords": "the machine that spread ideas before printing, a single book could cost as much as a house. gutenberg went bankrupt. his financial backer took the workshop, and someone else profited from the invention."
+    },
+    {
+      "id": "rosetta-stone",
+      "category": "history",
+      "title": "The Stone That Unlocked a Language",
+      "emoji": "🗿",
+      "hook": "For 1,400 years nobody could read Egyptian writing. One broken slab changed that.",
+      "image": "img/history/rosetta-stone.webp",
+      "readingLevel": 3,
+      "keywords": "the stone that unlocked a language for 1,400 years nobody could read egyptian writing. one broken slab changed that. the stone has been in the british museum since 1802, and egypt has repeatedly asked for it back."
+    },
+    {
+      "id": "pompeii-buried",
+      "category": "history",
+      "title": "A City Frozen in One Afternoon",
+      "emoji": "🏛️",
+      "hook": "A disaster destroyed a Roman town and accidentally preserved it perfectly.",
+      "image": "img/history/pompeii-buried.webp",
+      "readingLevel": 3,
+      "keywords": "a city frozen in one afternoon a disaster destroyed a roman town and accidentally preserved it perfectly. we know more about daily life in pompeii than in most cities that were never destroyed."
+    },
+    {
+      "id": "first-writing",
+      "category": "history",
+      "title": "Writing Began as Accounting",
+      "emoji": "🖋️",
+      "hook": "The first writing was not poetry or prayer. It was receipts for barley and sheep.",
+      "image": "img/history/first-writing.webp",
+      "readingLevel": 3,
+      "keywords": "writing began as accounting the first writing was not poetry or prayer. it was receipts for barley and sheep. writing appears to have been invented independently at least three times: in mesopotamia, in china, and in central america."
+    },
+    {
+      "id": "apollo-11",
+      "category": "history",
+      "title": "Twenty Seconds of Fuel Left",
+      "emoji": "🌕",
+      "hook": "The first Moon landing nearly ran out of fuel with the ground in sight.",
+      "image": "img/history/apollo-11.webp",
+      "readingLevel": 3,
+      "keywords": "twenty seconds of fuel left the first moon landing nearly ran out of fuel with the ground in sight. president nixon had a speech prepared in case the astronauts were stranded on the moon. it was never needed, and never delivered."
+    },
+    {
+      "id": "ibn-al-haytham",
+      "category": "people",
+      "title": "The Man Who Invented Testing",
+      "emoji": "🔬",
+      "hook": "A thousand years ago, one scholar insisted that you must test an idea, not just argue it.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "the man who invented testing a thousand years ago, one scholar insisted that you must test an idea, not just argue it. he wrote much of his greatest work while under house arrest, after a plan of his to dam the nile proved impossible."
+    },
+    {
+      "id": "marie-curie",
+      "category": "people",
+      "title": "Marie Curie",
+      "emoji": "☢️",
+      "hook": "She discovered two elements, won two Nobel Prizes, and drove x-ray vans to the front line.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "marie curie she discovered two elements, won two nobel prizes, and drove x-ray vans to the front line. her notebooks are still radioactive, and must be handled with protective clothing."
+    },
+    {
+      "id": "ada-lovelace",
+      "category": "people",
+      "title": "Ada Lovelace",
+      "emoji": "💻",
+      "hook": "She wrote instructions for a computer that had not been built yet.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "ada lovelace she wrote instructions for a computer that had not been built yet. she also wrote that the machine could never truly originate anything, only do what we order it to perform — an argument people still debate about computers today."
+    },
+    {
+      "id": "alan-turing",
+      "category": "people",
+      "title": "Alan Turing",
+      "emoji": "🧩",
+      "hook": "He imagined what a computer could be, then helped break a code that shortened a war.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "alan turing he imagined what a computer could be, then helped break a code that shortened a war. he also proposed a test for machine intelligence: if you cannot tell a machine's answers from a person's, on what basis do you deny it thinks?"
+    },
+    {
+      "id": "katherine-johnson",
+      "category": "people",
+      "title": "Katherine Johnson",
+      "emoji": "🚀",
+      "hook": "An astronaut refused to fly until she had checked the computer's sums by hand.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "katherine johnson an astronaut refused to fly until she had checked the computer's sums by hand. she received america's highest civilian honour in 2015, aged 97, and lived to 101."
+    },
+    {
+      "id": "jane-goodall",
+      "category": "people",
+      "title": "Jane Goodall",
+      "emoji": "🐒",
+      "hook": "She watched chimpanzees make tools, and forced science to redefine what a human is.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "jane goodall she watched chimpanzees make tools, and forced science to redefine what a human is. she was still travelling and speaking about conservation into her nineties."
+    },
+    {
+      "id": "srinivasa-ramanujan",
+      "category": "people",
+      "title": "Srinivasa Ramanujan",
+      "emoji": "🔢",
+      "hook": "A clerk in Madras posted strange formulas to a Cambridge professor. Most of them were right.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "srinivasa ramanujan a clerk in madras posted strange formulas to a cambridge professor. most of them were right. told that the number 1729 was dull, he replied instantly that it was the smallest number expressible as two cubes added together in two different ways."
+    },
+    {
+      "id": "dark-matter",
+      "category": "mysteries",
+      "title": "Most of the Universe Is Missing",
+      "emoji": "🌌",
+      "hook": "Everything we can see adds up to about a twentieth of what is out there.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "most of the universe is missing everything we can see adds up to about a twentieth of what is out there. dark matter may be streaming through your body right now, without touching a single atom of you."
+    },
+    {
+      "id": "why-do-we-sleep",
+      "category": "mysteries",
+      "title": "Nobody Knows Why We Sleep",
+      "emoji": "😴",
+      "hook": "You will spend about a third of your life doing something science cannot fully explain.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "nobody knows why we sleep you will spend about a third of your life doing something science cannot fully explain. dolphins sleep one half of the brain at a time, so they never stop swimming or surfacing to breathe."
+    },
+    {
+      "id": "how-did-life-begin",
+      "category": "mysteries",
+      "title": "How Did Life Start?",
+      "emoji": "🧪",
+      "hook": "Chemistry became something that copies itself, and nobody knows how.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "how did life start? chemistry became something that copies itself, and nobody knows how. every living thing on earth, from a whale to a mushroom to you, appears to descend from the same single beginning."
+    },
+    {
+      "id": "what-is-consciousness",
+      "category": "mysteries",
+      "title": "Why Does Anything Feel Like Anything?",
+      "emoji": "💭",
+      "hook": "Science can explain what your brain does, but not why it feels like something to be you.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "why does anything feel like anything? science can explain what your brain does, but not why it feels like something to be you. nobody can prove that anyone else is conscious — you only ever have direct evidence of your own experience."
+    },
+    {
+      "id": "unexplored-deep-ocean",
+      "category": "mysteries",
+      "title": "We Have Better Maps of Mars",
+      "emoji": "🌊",
+      "hook": "Most of the sea floor has never been seen by anyone.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "we have better maps of mars most of the sea floor has never been seen by anyone. the giant squid was photographed alive in its own habitat for the first time only in 2012."
+    },
+    {
+      "id": "voynich-manuscript",
+      "category": "mysteries",
+      "title": "The Book Nobody Can Read",
+      "emoji": "📜",
+      "hook": "A 600-year-old book is written in a script that no one has ever decoded.",
+      "image": "img/mysteries/voynich-manuscript.webp",
+      "readingLevel": 3,
+      "keywords": "the book nobody can read a 600-year-old book is written in a script that no one has ever decoded. it sits in a library at yale university, and anyone can look at every page online for free."
+    },
+    {
+      "id": "why-is-there-anything",
+      "category": "mysteries",
+      "title": "Why Is There Anything At All?",
+      "emoji": "⚛️",
+      "hook": "By the rules as we understand them, the universe should be empty.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "why is there anything at all? by the rules as we understand them, the universe should be empty. everything you have ever seen or touched is made of the small amount of matter that survived the destruction."
+    }
+  ]
+}

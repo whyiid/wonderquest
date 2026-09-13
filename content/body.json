@@ -1,0 +1,475 @@
+[
+  {
+    "id": "babies-have-more-bones",
+    "category": "body",
+    "title": "You Had More Bones as a Baby",
+    "emoji": "🦴",
+    "hook": "You were born with about 300 bones. You have 206 now.",
+    "story": [
+      "Losing bones sounds alarming, but nothing was lost. Bones joined together. A newborn's skeleton contains a great many separate pieces, and a lot of it is not hard bone at all — it is cartilage, the bendy material you can feel in the tip of your nose and the top of your ear.",
+      "That softness is there for a reason. A baby's skull is built from separate plates with gaps between them, so the head can squeeze through a very tight space on the day of birth. The gaps also leave room for a brain that is about to grow astonishingly fast. You can feel one of these soft spots on a baby's head for the first year or so. As a child grows, cartilage slowly hardens into bone, and neighbouring bones fuse into single larger ones. The skull plates knit shut. Bones in the spine and the hip join up. By the time you reach your twenties the joining is finished, and the count settles at 206.",
+      "Bone is not the dry, dead stuff you see in a museum, either. Living bone is busy tissue with a blood supply and nerves, constantly being broken down and rebuilt. Inside the bigger bones, marrow is manufacturing millions of new blood cells every second while you go about your day."
+    ],
+    "wow": "The smallest bone in your body sits inside your ear and is about the size of a grain of rice.",
+    "discovery": "Careful drawing of the human skeleton began with Andreas Vesalius, a Flemish doctor who in 1543 published a book of anatomy so accurate that it overturned teachings people had trusted for over a thousand years. Even so, nobody could watch a living skeleton change. That had to wait for Wilhelm Röntgen, who discovered X-rays in 1895 and photographed the bones of his wife's hand. Suddenly doctors could see a child's bones hardening year by year — which is how we know the fusing continues into your twenties.",
+    "unknown": "The number 206 is not as fixed as it sounds. Some people grow small extra bones, and one of them, a pea-sized bone behind the knee called the fabella, has become several times more common over the last century. Nobody is sure why. What decides the exact timing of fusing is also still being worked out, which matters to doctors treating young athletes.",
+    "image": "img/body/babies-have-more-bones.webp",
+    "quiz": [
+      {
+        "q": "Why do babies have more bones?",
+        "a": [
+          "Some bones later join together",
+          "They grow extra spare ones"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What is a baby's skull made of at birth?",
+        "a": [
+          "Separate plates with gaps",
+          "One solid piece"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "stomach-rebuilds-itself",
+    "category": "body",
+    "title": "Your Stomach Rebuilds Itself",
+    "emoji": "🥣",
+    "hook": "Your stomach acid is strong enough to hurt your stomach — so it keeps rebuilding.",
+    "story": [
+      "The acid in your stomach is hydrochloric acid, and it is genuinely powerful stuff. It unpicks the tough proteins in your food so your body can absorb them, and it kills most of the germs that arrive with a meal. Your stomach makes about one and a half litres of digestive juice every day, without you noticing a thing.",
+      "Which raises an obvious question: why does it not dissolve the stomach itself? Because the stomach defends its own wall in two ways at once. First, special cells pump out a thick layer of slippery mucus that coats the inside like a raincoat, with a second layer underneath that neutralises acid before it reaches living tissue. Second, the cells that line the stomach are replaced constantly — swapped for fresh ones every few days. It works rather like repainting a wall over and over so the rain never soaks through.",
+      "When that defence fails in one small patch, acid reaches the wall underneath and eats a sore spot into it. Doctors call that an ulcer, and for most of the twentieth century everyone was sure ulcers came from stress and spicy food."
+    ],
+    "wow": "The cells lining your stomach are so exposed that your body replaces them every few days, your whole life.",
+    "discovery": "In 1822 a Canadian trapper named Alexis St. Martin survived a gunshot that left a permanent opening into his stomach. An army doctor, William Beaumont, spent years lowering food through it on threads to watch digestion happen — the first time anyone had seen it directly, and an arrangement that would never be allowed today. The other great surprise came in the 1980s, when two Australians, Barry Marshall and Robin Warren, argued that a bacterium caused most ulcers. Nobody believed them, so Marshall drank a flask of the bacteria and gave himself the illness. They won a Nobel Prize in 2005.",
+    "unknown": "Most people carrying that bacterium never develop an ulcer at all, and doctors still cannot reliably say who will and who will not. The stomach also turns out to host its own community of microbes, which was not supposed to be possible in so much acid, and what they do there is only beginning to be understood.",
+    "image": "img/body/stomach-rebuilds-itself.webp",
+    "quiz": [
+      {
+        "q": "How does the stomach protect itself?",
+        "a": [
+          "Mucus layers plus fresh new cells",
+          "A thick layer of fat"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What causes most stomach ulcers?",
+        "a": [
+          "A bacterium",
+          "Spicy food"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "brain-runs-on-electricity",
+    "category": "body",
+    "title": "Your Brain Runs on Electricity",
+    "emoji": "🧠",
+    "hook": "Your brain uses about twenty watts — less than a bright light bulb.",
+    "story": [
+      "Brain cells talk to each other with electricity. A neuron holds a small electrical charge across its outer membrane, rather like a tiny loaded spring. When enough signals arrive, the spring releases: the charge flips and races down a long thin fibre at up to a hundred metres a second. At the far end the electrical signal turns chemical, as messenger molecules leap a microscopic gap to the next cell and start the process again.",
+      "You have roughly 86 billion neurons, and each one may connect to thousands of others. Everything you have ever thought, remembered, felt or done is patterns of those signals firing in sequence. Learning something new is not just storing a file somewhere — it physically changes which connections are strong and which fade away. That is happening right now, while you read this.",
+      "All that activity needs fuel, and the brain is greedy. It makes up about two percent of your body weight but burns around twenty percent of your energy, roughly twenty watts in total. A dim light bulb uses more. What it will not do is switch off: even in deep sleep the machinery keeps running, and during dreaming sleep the brain is nearly as active as when you are wide awake."
+    ],
+    "wow": "Your brain is about two percent of your weight but uses a fifth of all the energy you burn.",
+    "discovery": "In the 1780s an Italian named Luigi Galvani noticed that a dead frog's leg twitched when touched with metal, and realised that nerves ran on something electrical. In 1924 a German psychiatrist, Hans Berger, taped sensors to a human scalp and recorded the first electrical trace of a living brain; he was so unsure anyone would believe him that he waited five years to publish. Then in 1952 Alan Hodgkin and Andrew Huxley explained exactly how a nerve pulse works — using the giant nerve fibre of a squid, because it was thick enough to push a wire into.",
+    "unknown": "How a memory is actually stored is still not known. Neither is what consciousness is, or why anything feels like anything at all. Scientists have mapped every single connection in the brain of a tiny worm with 302 neurons, and recently in a fruit fly, but a human brain is millions of times larger and no such map exists.",
+    "image": "img/body/brain-runs-on-electricity.webp",
+    "quiz": [
+      {
+        "q": "How much of your energy does the brain use?",
+        "a": [
+          "About one fifth",
+          "Almost none"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "How do brain cells send messages?",
+        "a": [
+          "Electrical pulses, then chemicals across a gap",
+          "Tiny sound waves"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "blood-vessels-around-earth",
+    "category": "body",
+    "title": "Your Blood Vessels Could Circle the Earth",
+    "emoji": "❤️",
+    "hook": "Line up all your blood vessels and they would wrap around the Earth twice.",
+    "story": [
+      "An adult carries roughly 100,000 kilometres of blood vessels, and the Earth measures about 40,000 kilometres around the equator. Almost none of that length is the big tubes you can see under the skin of your wrist. The overwhelming majority is capillaries — vessels so narrow that red blood cells have to fold up and pass through in single file.",
+      "There is a reason the network has to be that fine. Oxygen leaving the blood can only drift a very short distance before it runs out, so a capillary needs to be within a whisker of practically every cell you own. They thread through muscle, wrap around bone, spread behind your eyes and fill your fingertips. Where they meet a cell, the walls are just one cell thick, thin enough for oxygen and food to slip out and waste to slip back in.",
+      "Pushing blood around all of it is one fist-sized muscle that has never taken a break since before you were born. Your heart beats around 100,000 times a day, moving about 5 litres of blood every minute — the whole supply, once a minute, faster when you run."
+    ],
+    "wow": "Your heart will beat roughly two and a half billion times in an average lifetime, without ever resting.",
+    "discovery": "Until the 1600s, doctors believed blood was made in the liver and used up by the body. William Harvey destroyed that idea in 1628 by measuring: he calculated how much blood the heart pushes in an hour, showed it was far more than a body could possibly manufacture, and concluded it must go round and round. One thing he could never find was the link between arteries and veins. Four years after his death, Marcello Malpighi pointed an early microscope at a frog's lung and saw the capillaries — the missing piece.",
+    "unknown": "That famous 100,000-kilometre figure is an estimate, and published numbers vary by a lot, because nobody has counted capillaries in a whole human body. How the body decides where to grow new vessels is also only partly understood, and it matters enormously: tumours grow by persuading the body to build them a blood supply.",
+    "image": "img/body/blood-vessels-around-earth.webp",
+    "quiz": [
+      {
+        "q": "Which vessels make up most of the length?",
+        "a": [
+          "Capillaries",
+          "Big arteries"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Who showed that blood goes round in a circle?",
+        "a": [
+          "William Harvey",
+          "Alexander Fleming"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "why-you-blink",
+    "category": "body",
+    "title": "Why You Blink So Much",
+    "emoji": "👁️",
+    "hook": "You blink about fifteen times a minute and hardly ever notice.",
+    "story": [
+      "Every blink sweeps a thin film of tears across the front of your eye, and that film is doing more work than it looks. It keeps the surface perfectly smooth, which matters because the clear front of your eye — the cornea — bends incoming light and does most of the focusing. A dry, rough surface would blur everything. The film also washes away dust and carries mild germ-killing substances.",
+      "The cornea has another unusual need. It contains no blood vessels at all, because vessels would scatter light and cloud your vision. So it gets its oxygen and nourishment straight from the tear film and from the fluid behind it. Every blink is a delivery.",
+      "A blink takes about a third of a second, and here is the odd part: you never see the darkness. Your brain quietly suppresses the gap, stitching the moments before and after together so the world appears continuous. You also blink far less when you concentrate hard — while reading, or staring at a screen — which is exactly why your eyes feel gritty and tired after a long session."
+    ],
+    "wow": "Added together, your blinks keep your eyes closed for roughly an hour of every single day.",
+    "discovery": "Because blinking is so ordinary, it took a long time for anyone to study it seriously. In the 1980s researchers measured what the eye can detect during a blink and found that the brain actively turns down vision just before the lids close, rather than simply going dark — a deliberate edit, not a gap. Later work with brain scanners showed that certain areas quieten during blinks. Other studies tracked people watching films and found that audiences tend to blink together, at the same dull moments.",
+    "unknown": "Nobody can fully explain why we blink so often. Keeping the eye wet needs only a fraction of the fifteen blinks a minute most people make, so the rest are doing something else. One popular idea is that blinks mark small mental full stops, giving attention a moment to reset. It sounds plausible, and it is still being argued about.",
+    "image": "img/body/why-you-blink.webp",
+    "quiz": [
+      {
+        "q": "Why does the cornea have no blood vessels?",
+        "a": [
+          "Vessels would scatter light and blur vision",
+          "It does not need oxygen"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "When do you blink less?",
+        "a": [
+          "When you concentrate hard",
+          "When you are sleepy"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": false,
+    "reviewed": true
+  },
+  {
+    "id": "why-you-get-goosebumps",
+    "category": "body",
+    "title": "Goosebumps Are Left Over From Fur",
+    "emoji": "🥶",
+    "hook": "Goosebumps are your body trying to fluff up fur you no longer have.",
+    "story": [
+      "Every hair on your body sits in a tiny pit, and attached to the side of that pit is a muscle barely visible without a microscope. When you are cold or frightened, those muscles all contract at once, pulling each hair upright and tugging the skin into a small bump. That is the whole of a goosebump: thousands of tiny muscles doing the same thing at the same moment.",
+      "In a furry animal the effect earns its keep. Raised fur traps a thicker layer of still air against the skin, and still air is an excellent insulator — the same principle as a padded jacket. Raised fur also makes an animal look larger, which is why a frightened cat puffs its tail into a bottle brush instead of shrinking. Both responses come from the same reflex, which is why cold and fear produce the same bumps on you.",
+      "We kept the machinery and lost the fur. Human body hair is too short and sparse to trap much air, so the reflex fires and achieves close to nothing. It is one of several leftovers we carry from ancestors who needed them: the muscles that let a few people wiggle their ears are another, and so is the tailbone at the base of your spine.",
+      "The strangest trigger is emotion. Many people get goosebumps from music, from a moving scene in a film, or from a memory. Nobody has satisfactorily explained why a feeling should switch on a fur-fluffing reflex, though it may be connected to the same alert response as fear. Researchers have also found that the muscles are involved in helping hair regrow after damage, which may be the real reason the system has not been discarded."
+    ],
+    "wow": "The muscles that raise your hair are among the few muscles in your body you cannot control on purpose.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "What makes a goosebump?",
+        "a": [
+          "A tiny muscle pulling a hair upright",
+          "Skin swelling with blood"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Why is it useful in furry animals?",
+        "a": [
+          "Raised fur traps warm air and looks bigger",
+          "It makes them run faster"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": false,
+    "reviewed": true
+  },
+  {
+    "id": "how-you-keep-balance",
+    "category": "body",
+    "title": "There Is a Spirit Level in Your Head",
+    "emoji": "🌀",
+    "hook": "Deep inside each ear are three tiny loops of fluid that tell you which way you are tilting.",
+    "story": [
+      "Behind each eardrum, past the little bones that carry sound, sit three curved tubes about the size of a pea, arranged at right angles to one another — one for nodding, one for shaking your head, one for tipping it towards a shoulder. Between them they cover every direction you can turn. Each is filled with fluid and lined with hair cells that bend when the fluid moves.",
+      "Turn your head and the fluid lags behind for a moment, like tea sloshing in a cup that has been swung round. That lag bends the hairs, and the bending becomes a signal saying which way you rotated and how fast. Two other patches nearby do a different job: they carry tiny crystals resting on jelly, and the weight of those crystals reveals which way gravity is pulling and whether you are speeding up in a straight line.",
+      "Your brain combines these reports with what your eyes see and with pressure from your feet and joints. Most of the time the three agree, and you simply feel upright without thinking about it. Trouble begins when they disagree. Spin fast and stop suddenly, and the fluid keeps swirling for several seconds, so your ears insist you are still turning while your eyes insist you have stopped. Dizziness is that argument.",
+      "Travel sickness is the same conflict in slower form: your ears feel the car moving while your eyes, fixed on a book, report a still world. Looking out at the horizon usually helps, because it lets the two agree again. The system can also go wrong on its own. In one common condition, a crystal works loose and drifts into a tube where it does not belong, and doctors treat it by moving the patient's head through a set sequence to roll the crystal back out."
+    ],
+    "wow": "Astronauts feel ill for their first days in space because these organs never stop reporting a fall.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "What is inside the balance tubes?",
+        "a": [
+          "Fluid that moves when you turn",
+          "Air"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Why do you feel dizzy after spinning?",
+        "a": [
+          "The fluid keeps swirling after you stop",
+          "Your eyes get tired"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "how-cuts-stop-bleeding",
+    "category": "body",
+    "title": "How a Cut Stops Bleeding",
+    "emoji": "🩹",
+    "hook": "Your blood has to stay liquid everywhere except exactly where you are bleeding.",
+    "story": [
+      "Cut yourself and several things start at once. The damaged vessel squeezes narrower, which reduces the flow immediately. Meanwhile the torn edge exposes material that is normally hidden inside the vessel wall, and that exposure is the alarm signal. Nothing in blood reacts to it while the wall is intact, which is the whole point of the design.",
+      "Platelets arrive first. They are not whole cells but small fragments, and they stick to the exposed edge, change shape, and become sticky themselves, pulling in more platelets until a soft plug fills the hole. For a scratch that is enough. For anything larger the plug is too weak on its own and would be washed away by the next surge of blood.",
+      "So a second system reinforces it. A chain of chemicals activates in sequence, each one switching on the next, ending with long threads of a protein called fibrin weaving through the platelet plug like steel bars through concrete. The mesh traps red blood cells, and then contracts, pulling the wound edges closer together. Dried at the surface, that becomes a scab: a temporary lid while new skin grows underneath.",
+      "The real achievement is control. Clotting must begin within seconds at a wound and must never begin anywhere else, because a clot in the wrong vessel can starve the heart or the brain. Building it as a long cascade of small steps keeps the system firmly off until genuine damage switches it on, and the body also produces chemicals that dissolve clots once they are no longer needed. People with haemophilia are missing one link in that chain, which is why a minor injury can be serious for them."
+    ],
+    "wow": "Picking a scab restarts the process and usually makes the scar worse — the lid was doing its job.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "What forms the first plug in a cut?",
+        "a": [
+          "Platelets sticking together",
+          "Red blood cells"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Why is clotting built as a chain of steps?",
+        "a": [
+          "So it stays off until real damage occurs",
+          "To make it slower"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "what-a-fever-is-for",
+    "category": "body",
+    "title": "A Fever Is on Your Side",
+    "emoji": "🤒",
+    "hook": "When you have a fever, your body is not broken. It has moved the thermostat on purpose.",
+    "story": [
+      "Your body normally holds itself close to 37°C, adjusting constantly without you noticing. When immune cells meet an invader they release chemicals that travel in the blood to a control centre deep in the brain, and that centre does something deliberate: it raises the target temperature. Everything you feel during a fever follows from the new setting.",
+      "Because you are now below target, your body behaves as though you are cold. You shiver, which generates heat through muscle activity. Blood vessels in the skin narrow to keep heat in, which is why you look pale and your hands feel cold. You pull the blanket up — even though a thermometer says you are hotter than usual. When the illness passes and the target drops back, the reverse happens: you feel far too hot, and you sweat hard to shed the excess.",
+      "The higher temperature is useful. Many bacteria and viruses copy themselves less efficiently above normal body heat, and several parts of the immune system work faster when warm. A fever is a weapon being used, not a sign that the defence is failing. Cold-blooded animals do a version of it too — an infected lizard will deliberately move to a hotter rock and stay there.",
+      "That does not make a fever harmless. Very high temperatures are genuinely dangerous, especially in small children, and a fever burns a great deal of energy at exactly the moment a body can least afford it. Medicines that lower it have their place, mainly to make someone comfortable enough to rest and drink. But the aching and shivering under a blanket are not the illness winning. They are the price of a defence your body chose to switch on."
+    ],
+    "wow": "Cold-blooded animals do a version of this too: an infected lizard will deliberately move to a hotter rock.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "What happens during a fever?",
+        "a": [
+          "The brain raises the body's target temperature",
+          "The body loses control of heat"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Why do you shiver when you already feel hot?",
+        "a": [
+          "Your body is trying to reach the higher target",
+          "Your muscles are damaged"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "tongue-map-is-wrong",
+    "category": "body",
+    "title": "The Tongue Map Is a Myth",
+    "emoji": "👅",
+    "hook": "That diagram showing sweet at the tip and bitter at the back is simply wrong.",
+    "story": [
+      "Most people have seen a diagram of the tongue divided into zones: sweet at the tip, salty and sour along the sides, bitter across the back. It appears in old textbooks and on posters in classrooms. It is wrong, and the story of how it got there is a lesson in how mistakes spread.",
+      "In 1901 a German researcher, David Hänig, measured how sensitive different parts of the tongue were and found small differences — some areas needed slightly less sugar before sweetness was noticed. His findings were modest. In 1942 an American psychologist, Edwin Boring, reworked the data for a textbook and drew it as a map, and once there was a simple picture, everyone copied the picture rather than reading the original.",
+      "You can disprove it at the kitchen table. Put something sweet on the back of your tongue, or something bitter on the tip, and both register perfectly clearly. Every region detects every basic taste. There are five of those, not four: sweet, salty, sour, bitter, and savoury — umami, identified by Kikunae Ikeda in Japan in 1908 and not widely accepted in the West for most of a century.",
+      "The bigger surprise is that most of what you call flavour is not taste at all. Your tongue reports only those few basic qualities. Everything else — strawberry, coffee, rendang, mango — is smell, arriving at the nose from the back of your mouth as you chew. That is why food turns flat and boring when your nose is blocked, and why holding your nose while eating a sweet makes it almost impossible to name."
+    ],
+    "wow": "Hold your nose and eat a jellybean and you will struggle to name the flavour — until you let go, when it appears instantly.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "Is the tongue map correct?",
+        "a": [
+          "No, every area tastes everything",
+          "Yes, roughly"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Where does most flavour come from?",
+        "a": [
+          "Smell",
+          "The tip of the tongue"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "why-you-have-fingerprints",
+    "category": "body",
+    "title": "Nobody Else Has Your Fingerprints",
+    "emoji": "🫆",
+    "hook": "Even identical twins, with the same genes, have different fingerprints.",
+    "story": [
+      "Fingerprints form before birth, mostly between about the tenth and sixteenth weeks, as a layer of skin on the fingertips grows faster than the layers around it and buckles into ridges. Your genes set the broad style — whether you get loops, whorls or arches — but the fine detail is decided by accidents: exactly how the fingers were positioned, how the fluid pressed against them, how quickly the skin grew that particular week.",
+      "That is why identical twins, who share their genes, still have different fingerprints. The pattern is not written in the instructions; it emerges from the process, and the process never repeats exactly. It is the same reason no two snowflakes match.",
+      "Once formed, the pattern is fixed for life. It scales up as the hand grows but does not rearrange. Ordinary scrapes heal back to the same pattern because the template sits in a deeper layer of skin, and destroying it requires destroying that layer — after which the scar itself becomes an identifying mark. That permanence is why police forces began collecting prints in the late 1800s, and why phones use them today.",
+      "What the ridges are actually for is less settled than you might expect. The obvious answer, grip, has had a difficult time in the laboratory: experiments measuring friction on smooth surfaces found that ridges can reduce contact area rather than increase it. A stronger current idea is that they help you feel. Dragging a ridged fingertip across a surface sets up small vibrations at particular frequencies, and the touch sensors sitting beneath the ridges are tuned to exactly those frequencies — which would make fingerprints less about holding things and more about knowing what you are holding."
+    ],
+    "wow": "Koalas have fingerprints so similar to human ones that they can be confused under a microscope.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "Why do identical twins have different fingerprints?",
+        "a": [
+          "The fine detail forms by chance before birth",
+          "Their genes differ slightly"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What may the ridges be for?",
+        "a": [
+          "Feeling fine texture",
+          "Only for gripping"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "microbes-living-in-you",
+    "category": "body",
+    "title": "You Are Carrying Trillions of Passengers",
+    "emoji": "🦠",
+    "hook": "Roughly as many bacterial cells live in your body as human cells.",
+    "story": [
+      "Most of them live in your gut, particularly the large intestine, in numbers somewhere around thirty to forty trillion. Hundreds of different species share the space, and the mixture is unlike anyone else's — closer to a fingerprint than a standard part. For a long time biologists assumed these passengers were either harmless freeloaders or mildly dangerous. They are neither.",
+      "They earn their keep. Human digestion cannot break down many kinds of plant fibre, so it arrives in the large intestine intact, where bacteria ferment it and release substances your gut cells use as fuel. Some species manufacture vitamins, including certain B vitamins and vitamin K. Others simply occupy space and resources, crowding out dangerous species that would otherwise settle in — one reason a course of antibiotics can leave you vulnerable to a stomach infection for a while afterwards.",
+      "They also talk to the rest of you. Gut microbes produce chemicals that influence the immune system, and signals travel along the nerve connecting gut and brain. Studies have linked the mixture to appetite, mood and sleep, though this is a field where excitement regularly runs ahead of evidence, and many striking results come from mice rather than people.",
+      "Your community starts assembling at birth and keeps shifting for years, shaped by diet, illness, medicines and where you live. The old line that microbes outnumber your own cells ten to one came from a rough estimate made in 1972; a careful recount in 2016 put it closer to one to one. That is still tens of trillions of organisms, which means a real part of what keeps you alive is not, strictly speaking, you."
+    ],
+    "wow": "Antibiotics kill helpful bacteria along with harmful ones, which is why they can upset your stomach for days afterwards.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "What do gut microbes do for you?",
+        "a": [
+          "Digest fibre and make some vitamins",
+          "Nothing useful"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "How many bacterial cells compared with human cells?",
+        "a": [
+          "Roughly the same number",
+          "Ten times as many"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "your-eyes-have-a-hole",
+    "category": "body",
+    "title": "There Is a Hole in Your Vision",
+    "emoji": "👁️‍🗨️",
+    "hook": "Each eye has a blind spot, and your brain hides it from you.",
+    "story": [
+      "The inside back surface of your eye is carpeted with light detectors, around a hundred million of them. Every one needs wiring, and all that wiring has to leave the eye somewhere. It gathers into a thick bundle — the optic nerve — and exits through a single opening. At that patch there is no room for detectors, so any light landing there is simply never seen. Every eye has one, in people and in animals.",
+      "You never notice it, for two reasons. The blind spots of your two eyes are in different places, so what one misses the other catches. And your brain does something bolder: it fills the gap in. It does not leave a black hole or a blur. It looks at what surrounds the missing patch and paints over it with a confident guess.",
+      "You can catch it out with a piece of paper. Draw a dot and a cross about ten centimetres apart. Close your left eye, look steadily at the dot with your right eye, and move the paper slowly towards your face. At one distance the cross vanishes completely — and what you see in its place is not a hole. It is plain paper, invented for you.",
+      "That is worth sitting with, because it is not only about eyes. Your experience of the world feels seamless and complete, and part of that completeness is manufactured. The same filling-in happens with colour at the edges of vision, and with sounds cut out by a cough. What you see is your brain's best reconstruction, not a photograph — which is exactly why optical illusions work, and why eyewitnesses can be confidently wrong."
+    ],
+    "wow": "The blind spot in each eye is large enough to hide several full moons in the sky.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "Why is there a blind spot?",
+        "a": [
+          "The optic nerve leaves through that patch",
+          "The eye is damaged"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Why do you not notice it?",
+        "a": [
+          "Your brain fills in the gap",
+          "It is too small to matter"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  }
+]

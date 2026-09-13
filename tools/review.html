@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>WonderQuest — Review queue</title>
+<style>
+  :root { --ink:#1f1d3a; --soft:#66638c; --line:#e6e3f5; --brand:#4f46e5; --good:#16a34a; --bad:#dc2626; --risk:#b45309; }
+  * { box-sizing:border-box; }
+  body { margin:0; font:16px/1.55 system-ui,-apple-system,"Segoe UI",sans-serif; color:var(--ink); background:#f6f4ff; }
+  header { position:sticky; top:0; background:#fff; border-bottom:1px solid var(--line); padding:14px 24px; display:flex; justify-content:space-between; align-items:center; z-index:5; }
+  h1 { font-size:19px; margin:0; }
+  .count { color:var(--soft); font-weight:700; }
+  main { max-width:860px; margin:0 auto; padding:24px 20px 80px; }
+  .card { background:#fff; border-radius:20px; padding:24px; box-shadow:0 8px 22px rgba(31,29,58,.10); margin-bottom:22px; }
+  .meta { display:flex; gap:10px; flex-wrap:wrap; align-items:center; margin-bottom:12px; }
+  .tag { font-size:12px; font-weight:800; letter-spacing:.5px; text-transform:uppercase; padding:4px 10px; border-radius:999px; background:#eef0ff; color:var(--brand); }
+  .tag.risk { background:#fef3c7; color:var(--risk); }
+  .grid { display:grid; grid-template-columns:220px 1fr; gap:20px; }
+  @media (max-width:700px){ .grid { grid-template-columns:1fr; } }
+  .art { aspect-ratio:1; border-radius:16px; background:linear-gradient(140deg,#8b5cf6,#3b82f6); display:grid; place-items:center; font-size:64px; overflow:hidden; }
+  .art img { width:100%; height:100%; object-fit:cover; }
+  .noimg { font-size:13px; color:#fff; opacity:.9; text-align:center; padding:10px; line-height:1.4; }
+  label { display:block; font-size:12px; font-weight:800; letter-spacing:.5px; text-transform:uppercase; color:var(--soft); margin:12px 0 4px; }
+  textarea, input[type=text] { width:100%; border:2px solid var(--line); border-radius:12px; padding:10px 12px; font:inherit; resize:vertical; background:#fff; }
+  textarea:focus, input:focus { outline:none; border-color:var(--brand); }
+  .words { font-size:13px; font-weight:700; color:var(--soft); }
+  .words.over { color:var(--bad); }
+  .quiz { background:#faf9ff; border-radius:14px; padding:14px 16px; margin-top:14px; }
+  .quiz p { margin:0 0 6px; font-weight:700; }
+  .quiz ul { margin:0 0 12px; padding-left:20px; }
+  .quiz li.right { color:var(--good); font-weight:700; }
+  .actions { display:flex; gap:10px; margin-top:18px; flex-wrap:wrap; }
+  button { min-height:46px; padding:10px 20px; border-radius:999px; border:2px solid var(--line); background:#fff; font:inherit; font-weight:700; cursor:pointer; }
+  .approve { background:var(--good); border-color:var(--good); color:#fff; }
+  .rejectb { color:var(--bad); border-color:#f3c0c0; }
+  .msg { margin-left:auto; font-weight:700; color:var(--soft); align-self:center; }
+  .empty { text-align:center; padding:70px 20px; color:var(--soft); }
+  .empty h2 { color:var(--ink); }
+  .risknote { background:#fef3c7; color:var(--risk); border-radius:12px; padding:10px 14px; font-size:14px; font-weight:600; margin-bottom:12px; }
+</style>
+</head>
+<body>
+<header>
+  <h1>🔭 WonderQuest — review queue</h1>
+  <span class="count" id="count">loading…</span>
+</header>
+<main id="list"></main>
+
+<script>
+'use strict';
+const list = document.getElementById('list');
+const countEl = document.getElementById('count');
+
+const esc = s => String(s == null ? '' : s)
+  .replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')
+  .replace(/"/g,'&quot;').replace(/'/g,'&#39;');
+
+const LIMIT = 350;
+const words = s => String(Array.isArray(s) ? s.join(' ') : (s||'')).trim().split(/\s+/).filter(Boolean).length;
+// story is an array of paragraphs; edit it as blank-line-separated text
+const storyText = s => Array.isArray(s) ? s.join('\n\n') : (s || '');
+const storyArray = t => t.split(/\n\s*\n/).map(p => p.trim()).filter(Boolean);
+
+async function load() {
+  const res = await fetch('/api/staging');
+  const { articles } = await res.json();
+  countEl.textContent = articles.length + ' waiting';
+
+  if (!articles.length) {
+    list.innerHTML = '<div class="empty"><h2>Queue is empty 🎉</h2>' +
+      '<p>Nothing waiting. Generate a batch into <code>content/_staging/</code> and reload.</p></div>';
+    return;
+  }
+  list.innerHTML = articles.map(render).join('');
+  articles.forEach(wire);
+}
+
+function render(a) {
+  const wc = words(a.hook) + words(a.story) + words(a.wow) + words(a.discovery) + words(a.unknown);
+  const art = a.image
+    ? '<img src="/' + esc(a.image) + '" alt="" onerror="this.replaceWith(Object.assign(document.createElement(\'div\'),{className:\'noimg\',textContent:\'image missing: ' + esc(a.image) + '\'}))" />'
+    : '<div class="noimg">no illustration yet<br>(' + esc(a.emoji || '—') + ' will be shown)</div>';
+
+  const quiz = (a.quiz || []).map((q, i) =>
+    '<p>' + (i+1) + '. ' + esc(q.q) + '</p><ul>' +
+    q.a.map((ans, n) => '<li class="' + (n === q.correct ? 'right' : '') + '">' + esc(ans) + (n === q.correct ? ' ✓' : '') + '</li>').join('') +
+    '</ul>').join('');
+
+  return '<article class="card" data-id="' + esc(a.id) + '">' +
+    (a.factRisk ? '<div class="risknote">⚠ Fact-risk topic — check the illustration and every number before approving.</div>' : '') +
+    '<div class="meta"><span class="tag">' + esc(a.category) + '</span>' +
+      (a.factRisk ? '<span class="tag risk">fact risk</span>' : '') +
+      '<span class="words' + (wc > LIMIT ? ' over' : '') + '">' + wc + ' / ' + LIMIT + ' words</span>' +
+      '<span class="words">' + esc(a.id) + '</span></div>' +
+    '<div class="grid"><div class="art">' + art + '</div><div>' +
+      '<label>Title</label><input type="text" data-f="title" value="' + esc(a.title) + '" />' +
+      '<label>Hook</label><textarea data-f="hook" rows="2">' + esc(a.hook) + '</textarea>' +
+      '<label>Story — leave a blank line between paragraphs</label>' +
+      '<textarea data-f="story" rows="14">' + esc(storyText(a.story)) + '</textarea>' +
+      '<label>Wow</label><textarea data-f="wow" rows="2">' + esc(a.wow) + '</textarea>' +
+      '<label>🔍 How We Found Out — history and the people' +
+        (a.discovery ? '' : ' (MISSING)') + '</label>' +
+      '<textarea data-f="discovery" rows="6">' + esc(storyText(a.discovery)) + '</textarea>' +
+      '<label>❓ Still a Mystery — what nobody has worked out yet' +
+        (a.unknown ? '' : ' (MISSING)') + '</label>' +
+      '<textarea data-f="unknown" rows="5">' + esc(storyText(a.unknown)) + '</textarea>' +
+    '</div></div>' +
+    '<div class="quiz">' + quiz + '</div>' +
+    '<div class="actions">' +
+      '<button class="approve">Approve →  live</button>' +
+      '<button class="rejectb">Reject</button>' +
+      '<span class="msg"></span>' +
+    '</div></article>';
+}
+
+function wire(a) {
+  const card = list.querySelector('[data-id="' + CSS.escape(a.id) + '"]');
+  if (!card) return;
+  const msg = card.querySelector('.msg');
+
+  const edited = () => {
+    const out = Object.assign({}, a);
+    card.querySelectorAll('[data-f]').forEach(f => {
+      out[f.dataset.f] = f.dataset.f === 'story' ? storyArray(f.value) : f.value.trim();
+    });
+    return out;
+  };
+
+  const decide = async (action) => {
+    const article = edited();
+    const wc = words(article.hook) + words(article.story) + words(article.wow);
+    if (action === 'approve' && wc > LIMIT) { msg.textContent = 'Too long (' + wc + ' words) — trim it first.'; return; }
+
+    msg.textContent = 'Saving…';
+    const res = await fetch('/api/decide', {
+      method: 'POST', headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ action, article })
+    });
+    const data = await res.json();
+    if (!res.ok) { msg.textContent = data.error || 'Failed'; return; }
+    card.remove();
+    countEl.textContent = data.remaining + ' waiting';
+    if (!data.remaining) load();
+  };
+
+  card.querySelector('.approve').addEventListener('click', () => decide('approve'));
+  card.querySelector('.rejectb').addEventListener('click', () => decide('reject'));
+}
+
+load();
+</script>
+</body>
+</html>

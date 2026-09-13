@@ -1,0 +1,475 @@
+[
+  {
+    "id": "wifi-is-radio",
+    "category": "tech",
+    "title": "Wi-Fi Is Invisible Radio",
+    "emoji": "📶",
+    "hook": "Wi-Fi is just radio — the same idea as a radio station, but tiny.",
+    "story": [
+      "A radio station sends music by wobbling an electromagnetic wave in a pattern and firing it across a whole city. Your router does exactly the same thing, only with data instead of music, and with a whisper instead of a shout. It turns your videos and messages into a pattern of wobbles, and the antenna inside your tablet catches the pattern and turns it back into data.",
+      "These waves are invisible and silent. They are the same family as visible light, just far longer and lower in energy, so your eyes cannot see them and your ears cannot hear them. Wi-Fi usually uses waves that wobble about 2.4 billion or 5 billion times every second. The faster-wobbling kind carries more data but tires more easily as it travels; the slower kind reaches further and gets through walls better. Most routers offer both and quietly swap between them.",
+      "The signal is deliberately feeble — a fraction of the power of a light bulb — so it fades after a few rooms instead of drowning out the neighbours' network. Walls, metal and water all soak it up, and water is the reason a crowded room or a big fish tank can slow things down: you are mostly water yourself."
+    ],
+    "wow": "Wi-Fi waves travel at the speed of light, so the distance across your house costs no time at all.",
+    "discovery": "The waves themselves were predicted on paper by James Clerk Maxwell in 1865 and produced in a laboratory by Heinrich Hertz in 1887, who saw no use for them whatsoever. Wi-Fi as we know it came from an unlikely place: a team of Australian radio astronomers led by John O'Sullivan had built maths for untangling smeared signals while hunting for exploding black holes. They never found the black holes. The same maths turned out to solve the problem of radio echoes bouncing around a room, and it ended up inside almost every Wi-Fi device on Earth.",
+    "unknown": "The hard problem now is crowding. Every home, café and phone is shouting in the same narrow band of airwaves, and there is only so much room. Engineers are trying to move traffic to much higher frequencies that carry far more data, but those waves are easily blocked — even by a person standing in the way — and nobody has fully solved how to use them indoors.",
+    "image": "img/tech/wifi-is-radio.webp",
+    "quiz": [
+      {
+        "q": "What are Wi-Fi signals made of?",
+        "a": [
+          "Radio waves",
+          "Sound waves"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Why is the signal kept so weak?",
+        "a": [
+          "So it does not drown out other networks",
+          "Because routers are cheap"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": false,
+    "reviewed": true
+  },
+  {
+    "id": "internet-under-the-ocean",
+    "category": "tech",
+    "title": "The Internet Runs Under the Ocean",
+    "emoji": "🌐",
+    "hook": "Almost everything you do online travels through cables on the sea floor.",
+    "story": [
+      "People imagine the internet living in satellites, or in a cloud somewhere. Most of it lies on the bottom of the sea. More than 500 cables cross the oceans, joining continent to continent, and they carry the overwhelming majority of all international traffic. Special ships lay them, spooling cable out over the stern for weeks at a time.",
+      "Inside a cable, at the very centre, are glass fibres thinner than a human hair. Your message becomes pulses of laser light that race along the glass, bouncing off the inside walls so they cannot escape, crossing an entire ocean in well under a second. Around that delicate core the cable is armoured with plastic, steel wire and waterproofing, because the sea floor is a rough neighbourhood: currents drag, ships drop anchors, and fishing trawlers scrape the bottom.",
+      "Satellites do carry some traffic, and newer satellite networks are getting better, but they still handle far less data and the signal has a much longer journey to make. So the quiet path under the water keeps doing most of the work."
+    ],
+    "wow": "Repair ships still fish broken cables up from the sea bed with grappling hooks, much as they did a century ago.",
+    "discovery": "The first cable across the Atlantic was laid in 1858, after several failed attempts, largely at the insistence of an American businessman named Cyrus Field who refused to give up. Queen Victoria and the American president exchanged greetings through it — and then it died after about three weeks, because engineers had pushed too much voltage through and destroyed the insulation. A working cable finally arrived in 1866. Glass fibre came a century later, when Charles Kao showed in 1966 that light could travel through glass far enough to be useful; he received a Nobel Prize for it in 2009.",
+    "unknown": "How fragile the whole system really is remains an open question. Most breaks are accidents, but a cluster of cuts in a busy sea can slow entire regions, and repairs take days. Engineers are also discovering that these cables can feel earthquakes and ocean currents passing over them, and are still working out how much the world's internet could double as a giant sensor.",
+    "image": "img/tech/internet-under-the-ocean.webp",
+    "quiz": [
+      {
+        "q": "What is inside an undersea cable?",
+        "a": [
+          "Glass fibres thinner than a hair",
+          "Copper pipes"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What usually breaks these cables?",
+        "a": [
+          "Ships' anchors and fishing gear",
+          "Sea monsters"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": false,
+    "reviewed": true
+  },
+  {
+    "id": "touchscreen-feels-electricity",
+    "category": "tech",
+    "title": "A Screen Feels Your Electricity",
+    "emoji": "📱",
+    "hook": "Your screen does not feel your finger pressing. It feels your body's electricity.",
+    "story": [
+      "Under the glass of your tablet sits a grid of transparent wires, far too fine to see, and the device keeps a small electrical charge sitting in that grid. Nothing about it is waiting to be pushed. It is waiting to be disturbed.",
+      "Your body is mostly salty water, and salty water conducts electricity. When your fingertip comes close to the glass, it pulls a little of the charge away from that exact spot in the grid. The tablet is measuring every crossing point in the grid many times a second, so it notices precisely where the charge dipped, and calls that your touch. This is why a feather-light tap works as well as a firm one, and why the screen can follow two, three or ten fingers at once — each one leaves its own dent in the charge.",
+      "It also explains the annoyances. An ordinary glove blocks the effect, because wool and leather do not carry charge away. A wooden pencil does nothing either. Water on the screen causes the opposite problem: a puddle steals charge everywhere at once, and the tablet starts seeing touches that never happened."
+    ],
+    "wow": "A screen like this can tell the difference between ten fingers at once, thousands of times a minute.",
+    "discovery": "The idea is older than it looks. In 1965 an engineer named Eric Johnson, working at a British radar research station, built the first capacitive touchscreen — not for a phone, but so that air traffic controllers could touch aircraft on their displays instead of typing. For years almost nobody used the technology. In the 1980s researchers in Toronto worked out how to track several fingers at once, and multi-touch sat quietly in laboratories for two more decades before phones made it ordinary in 2007.",
+    "unknown": "Making a flat sheet of glass feel like something is still largely unsolved. Engineers can buzz a screen so it seems to click, but nobody has convincingly produced the feeling of cloth, or a raised button, under a moving finger. Reliable touch when a screen is wet, or when someone is wearing ordinary gloves, is also still a real engineering problem.",
+    "image": "img/tech/touchscreen-feels-electricity.webp",
+    "quiz": [
+      {
+        "q": "What does the screen actually detect?",
+        "a": [
+          "A change in electric charge",
+          "How hard you press"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What was the first touchscreen built for?",
+        "a": [
+          "Air traffic control",
+          "Video games"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": false,
+    "reviewed": true
+  },
+  {
+    "id": "how-a-wing-lifts",
+    "category": "tech",
+    "title": "A Wing Throws Air Downwards",
+    "emoji": "✈️",
+    "hook": "A plane flies because its wings throw air downwards.",
+    "story": [
+      "Every push has an equal push the other way. Step off a boat onto a jetty and the boat slides backwards; fire a rocket's exhaust downwards and the rocket climbs. A wing is playing the same game. It bends the air flowing past it downwards, and the air pushes back up on the wing by exactly the same amount. That upward push is lift.",
+      "The bending happens because a wing is tilted slightly nose-up into the oncoming air, and because its curved upper surface persuades the airflow to follow it around and leave heading downwards. An airliner does this to an astonishing quantity of air every second — enough to hold hundreds of tonnes in the sky. Fly faster and you sweep through more air per second, so you get more lift, which is why a plane must race down a long runway before its wings can carry it.",
+      "You may hear that air travels faster over the top of a wing because it has further to go and must meet up at the back. That explanation is popular, and it is wrong — the air over the top arrives sooner, not at the same time. The reliable way to think about it is simpler: push air down, and it pushes you up."
+    ],
+    "wow": "A plane can fly upside down — the wing just has to be tilted so it still throws air downwards.",
+    "discovery": "An English baronet called George Cayley worked out the whole problem on paper around 1799, separating flight into lift, drag and thrust while everyone else was still copying birds. A century later the Wright brothers discovered that the published tables of wing measurements everyone trusted were simply wrong. So they built their own small wind tunnel in their bicycle shop, tested around two hundred wing shapes themselves, and used their own numbers. That stubbornness, more than the engine, is why they flew first in 1903.",
+    "unknown": "Air moving around a wing is governed by equations nobody has fully solved. Predicting turbulence remains one of the great unsolved problems in physics, and there is a million-dollar mathematics prize still unclaimed for understanding those equations properly. In practice engineers cannot calculate exactly when a wing will stall; they still have to test it, in tunnels and in the air.",
+    "image": "img/tech/how-a-wing-lifts.webp",
+    "quiz": [
+      {
+        "q": "How does a wing lift a plane?",
+        "a": [
+          "It pushes air downwards",
+          "It makes the plane lighter"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "How did the Wright brothers get good wing data?",
+        "a": [
+          "They built their own wind tunnel",
+          "They copied published tables"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "battery-stores-chemistry",
+    "category": "tech",
+    "title": "A Battery Stores Chemistry, Not Electricity",
+    "emoji": "🔋",
+    "hook": "A battery does not store electricity. It stores a chemical argument.",
+    "story": [
+      "Cut a battery open and you will not find electricity waiting inside. You will find two different materials, separated, plus a paste between them. One of those materials holds electrons loosely and the other wants them badly. They would happily react and settle the matter in an instant — but the paste in the middle lets charged particles shuffle across while blocking the electrons themselves.",
+      "So the electrons take the only route left open: the long way round, out of one end, along the wire, through whatever you have plugged in, and back into the other end. That stream of electrons pushing through your torch or your toy is the electricity you use. Nothing was stored as electricity at any point; the energy was locked up in chemistry, and the circuit simply gives it a path.",
+      "When the two materials have reacted as far as they can, the argument is over and the battery is flat. A rechargeable battery uses chemistry that can be run in reverse: plugging it in forces the reaction backwards and sets the whole thing up again, though never quite perfectly, which is why old batteries hold less than they used to."
+    ],
+    "wow": "The very first battery, from 1800, was a stack of copper and zinc discs separated by wet cardboard.",
+    "discovery": "It began with an argument between two Italians. Luigi Galvani believed the twitch he saw in a frog's leg came from electricity inside the animal itself. Alessandro Volta disagreed, suspecting the two different metals touching the frog were the real source — and in 1800 he proved it by stacking copper and zinc discs with brine-soaked cardboard between them, producing steady current with no animal involved. The volt is named after him. Much later, the lithium batteries in your devices were developed by John Goodenough, Stanley Whittingham and Akira Yoshino, who shared a Nobel Prize in 2019; Goodenough was 97 years old.",
+    "unknown": "Batteries remain frustrating. Nobody has yet produced one that charges in minutes, lasts for decades, holds a great deal of energy and cannot catch fire — improve one of those and another usually gets worse. Exactly what wears a battery out as it ages is still being studied, and solid-state designs meant to fix it have been almost ready for years.",
+    "image": "img/tech/battery-stores-chemistry.webp",
+    "quiz": [
+      {
+        "q": "What does a battery really store?",
+        "a": [
+          "Chemicals ready to react",
+          "Electricity itself"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Who built the first battery?",
+        "a": [
+          "Alessandro Volta",
+          "Thomas Edison"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": false,
+    "reviewed": true
+  },
+  {
+    "id": "how-a-fridge-makes-cold",
+    "category": "tech",
+    "title": "A Fridge Does Not Make Cold",
+    "emoji": "🧊",
+    "hook": "There is no such thing as cold. A fridge moves heat out, it does not put cold in.",
+    "story": [
+      "There is no such thing as cold, in the way there is such a thing as heat. Cold is simply the absence of heat, the way dark is the absence of light. So a fridge cannot manufacture cold and pump it into the box. It can only take heat out of the box and put it somewhere else — and that is exactly what it does, all day, quietly.",
+      "The work is done by a liquid that boils at a very low temperature, circulating through a loop of pipes. Inside the fridge, that liquid is allowed to expand and boil into a gas. Boiling always absorbs heat: it is why sweat cools you as it evaporates, and why a wet towel feels cold on your arm. The boiling liquid pulls warmth out of the air and food around the pipe, which is the cooling you actually want.",
+      "The gas then travels to the black coils on the back of the fridge, where a pump squeezes it hard. Squeezing a gas heats it — you can feel the same effect in a bicycle pump. Out there the gas becomes hotter than the kitchen, and heat always flows from hotter to cooler, so it drains away into the room. The gas condenses back to liquid, returns inside, and the cycle repeats.",
+      "Two everyday puzzles fall out of this. The back of a fridge is warm because that is where the heat is being dumped. And leaving the fridge door open will not cool a kitchen: every bit of heat removed from inside is delivered straight back into the same room, along with extra heat from the motor doing the work. Run it long enough with the door open and the room gets warmer, not cooler."
+    ],
+    "wow": "An air conditioner is the same machine with the hot end hanging outside the window.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "What does a fridge actually do?",
+        "a": [
+          "Moves heat from inside to outside",
+          "Creates cold air"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Why is the back of a fridge warm?",
+        "a": [
+          "That is where the heat is dumped",
+          "The motor is faulty"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "why-planes-leave-white-trails",
+    "category": "tech",
+    "title": "Why Planes Leave White Lines",
+    "emoji": "🛫",
+    "hook": "Those white trails behind a plane are clouds it made itself.",
+    "story": [
+      "Burning fuel produces two main things: carbon dioxide and water. A jet engine burns a great deal of fuel, so it pours out a great deal of water — as invisible vapour, mixed into a jet of hot exhaust. What happens to that vapour depends entirely on the air it enters.",
+      "At cruising height, around ten kilometres up, the air is extraordinarily cold, often below minus 50°C, and already holding close to as much moisture as it can. Adding hot, wet exhaust to air like that is the same as breathing out on a freezing morning. The vapour cannot stay a gas. It condenses onto soot particles from the engine, freezes into ice crystals within moments, and becomes a thin cloud.",
+      "So a contrail — short for condensation trail — is a genuine cloud made of ice, not smoke. That is worth being clear about, because a lot of nonsense is written about these trails. The ingredients are ordinary: water from burnt fuel, freezing air, and specks for the ice to form on.",
+      "What happens next tells you something about the weather. If the high air is dry, the crystals evaporate within seconds and the line disappears close behind the aircraft. If the air up there is already damp, the trail persists, spreads sideways, and can last for hours, sometimes merging into a general haze across the sky. A sky criss-crossed with long-lasting trails often means moisture is moving in aloft, which is why some people read them as a sign of coming weather. Scientists take them seriously for another reason: those thin ice clouds trap heat, and their effect on the climate is a real subject of study."
+    ],
+    "wow": "When almost all flights stopped for a few days in 2001, scientists were able to measure how much contrails had been affecting temperatures.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "What is a contrail made of?",
+        "a": [
+          "Ice crystals — it is a cloud",
+          "Smoke from the engines"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What does a long-lasting trail suggest?",
+        "a": [
+          "The high air is damp",
+          "The plane is faulty"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "how-a-microwave-works",
+    "category": "tech",
+    "title": "The Melted Chocolate Bar",
+    "emoji": "🍫",
+    "hook": "A microwave oven was invented because a chocolate bar melted in someone's pocket.",
+    "story": [
+      "In 1945 an American engineer called Percy Spencer was standing near a magnetron, a device that generates powerful radio waves for radar. He noticed that a chocolate bar in his pocket had turned to goo. Rather than shrugging, he sent for popcorn kernels and held them in front of the machine. They popped. The next day he tried an egg, which burst over a colleague. Within a year his company had filed a patent for cooking with radio waves.",
+      "The waves are tuned to a frequency that water responds to strongly. A water molecule is lopsided: it has a slightly positive end and a slightly negative end, so it twists to line up with a passing electromagnetic wave. The wave reverses direction billions of times a second, the molecules keep flipping to follow, and all that jostling between neighbouring molecules is exactly what heat is.",
+      "Because the waves penetrate a few centimetres before their energy is used up, food heats through a layer rather than only at the surface, which is why a microwave is fast. It is also why thick food heats unevenly and needs standing time, and why a turntable exists at all — the waves form a standing pattern with hotter and cooler spots, and rotating the food averages them out.",
+      "The oddities all follow from water. Dry things barely heat, because there is nothing to twist. A microwave cannot brown or crisp food, since the surface never gets much hotter than boiling water. Metal reflects the waves and concentrates charge at sharp edges, which is why a fork sparks. And grapes, oddly, can produce a burst of plasma, because their size happens to focus the waves into the small bridge of skin between the halves."
+    ],
+    "wow": "Spencer received about two dollars for the patent, which is what his employer paid for any invention.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "What do microwaves make move?",
+        "a": [
+          "Water molecules",
+          "Metal atoms"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "How was the oven discovered?",
+        "a": [
+          "A chocolate bar melted near a radar device",
+          "By careful planning"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "how-gps-knows-where-you-are",
+    "category": "tech",
+    "title": "Your Map Needs Einstein",
+    "emoji": "🛰️",
+    "hook": "Satellite navigation would drift ten kilometres off in a day without a correction for time itself.",
+    "story": [
+      "High above you, a fleet of satellites circles the Earth. Each carries an extremely accurate atomic clock and broadcasts a continuous signal that says, in effect: this is the exact time, and this is exactly where I am. Your phone does not transmit anything back. It simply listens.",
+      "Because the signal travels at the speed of light, the delay between the time stamped in the message and the time your phone receives it reveals the distance to that satellite. One distance puts you somewhere on a huge sphere. Two narrow it to a circle. Three narrow it to a point or two, and a fourth pins it down while also correcting your phone's own cheap clock, which is nowhere near accurate enough on its own.",
+      "The whole scheme depends on timing so precise that a millionth of a second matters, and at that precision the strangeness of the universe becomes a practical engineering problem. Einstein showed that clocks tick more slowly when moving fast, and more quickly where gravity is weaker. The satellites are doing both: racing along their orbits, which slows their clocks, and sitting twenty thousand kilometres up where Earth's gravity is weaker, which speeds them up. The second effect is larger.",
+      "Left uncorrected, satellite clocks would gain about 38 millionths of a second every day against clocks on the ground. That sounds negligible. In terms of distance it is roughly ten kilometres of error within twenty-four hours, growing every day after that. So the clocks are deliberately set to tick at the wrong rate before launch, so that they run correctly once in orbit. Every time a map app finds you, a theory published in 1915 is quietly keeping it honest."
+    ],
+    "wow": "Every time a map app finds you, a theory from 1915 is quietly being used to keep it honest.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "How does your phone work out its position?",
+        "a": [
+          "From signal delays to several satellites",
+          "By photographing the ground"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Why must the clocks be corrected?",
+        "a": [
+          "Speed and gravity change how fast they tick",
+          "They are cheap clocks"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "why-computers-use-ones-and-zeros",
+    "category": "tech",
+    "title": "Why Computers Only Count to One",
+    "emoji": "🔌",
+    "hook": "Everything on a screen is stored as nothing but on and off.",
+    "story": [
+      "A computer is built from switches — billions of tiny ones called transistors, each either letting current through or blocking it. Two states, which we write as 0 and 1. Nobody chose this because binary is beautiful. They chose it because it is reliable.",
+      "Imagine building a machine that stored ten levels in each switch, from zero to nine. It would hold more information per switch, which sounds efficient. But the machine now has to tell the difference between level six and level seven, in a circuit that warms up, ages, and sits next to other circuits leaking electrical noise. Mistakes would be constant. With only two states you can leave an enormous gap between them: anything below a threshold is off, anything above is on, and a fair amount of noise changes nothing.",
+      "Two symbols turn out to be enough for anything. Numbers are written in base two the way we write in base ten. Letters are assigned numbers by an agreed table. A picture becomes a grid of dots, each dot a set of numbers describing its colour. Sound becomes tens of thousands of measurements every second. Video is pictures plus sound plus timing. All of it, eventually, is patterns of switches.",
+      "The switches are also what does the thinking, not merely the remembering. Wire a handful of transistors in the right arrangement and they will add two numbers, or compare them, or choose between two paths depending on a result. Stack enough of those arrangements and you have a machine that can carry out anything you can describe as a step-by-step procedure — which is exactly what Alan Turing proved in 1936, before anyone had built one."
+    ],
+    "wow": "A modern phone chip contains more transistors than there are people on Earth — by a factor of thousands.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "Why do computers use only 0 and 1?",
+        "a": [
+          "Switches are reliably off or on",
+          "It is faster to write"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What do transistors do besides store?",
+        "a": [
+          "They do the calculating",
+          "They cool the chip"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "how-soap-works",
+    "category": "tech",
+    "title": "Soap Grabs Grease at Both Ends",
+    "emoji": "🫧",
+    "hook": "Water alone cannot shift grease. Soap acts as a translator between them.",
+    "story": [
+      "Water molecules cling strongly to each other and to anything similar. Oil and grease are built differently, and water has no grip on them at all — it simply slides off and beads up. That is why rinsing a greasy plate under the tap achieves almost nothing, no matter how hot the water.",
+      "A soap molecule solves this by being two things at once. It is a long chain with a head that is comfortable in water and a tail that is comfortable in oil. Drop soap into greasy water and the molecules sort themselves out: tails buried in the grease, heads pointing out into the water. The grease is broken into tiny balls, each wrapped in a shell of water-friendly heads. Water will happily carry those away down the drain.",
+      "The same trick is why soap destroys many viruses, including those causing colds and influenza. Such viruses are wrapped in a fatty envelope stolen from the cell they came from. The oil-loving tails of soap molecules prise into that envelope and pull it apart, and the virus falls to pieces. Soap is not poisoning anything — it is dismantling it, which is why twenty seconds of ordinary scrubbing works as well as it does.",
+      "People have made soap for over four thousand years by boiling fat with wood ash, long before anyone could explain why it worked. Ash provides a strong alkali, and the reaction between it and fat produces exactly these two-ended molecules. The Babylonians left instructions on clay tablets, and the method barely changed for millennia — a useful reminder that knowing how to do something and knowing why it works are very different kinds of knowledge."
+    ],
+    "wow": "Soap has been made for over four thousand years, from fat boiled with wood ash, long before anyone knew why it worked.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "What is special about a soap molecule?",
+        "a": [
+          "One end likes water, the other likes oil",
+          "It dissolves everything"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Why does soap destroy some viruses?",
+        "a": [
+          "It prises apart their fatty coat",
+          "It poisons them"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "how-solar-panels-work",
+    "category": "tech",
+    "title": "Turning Light Straight Into Electricity",
+    "emoji": "☀️",
+    "hook": "A solar panel has no moving parts at all, yet it makes electricity from sunshine.",
+    "story": [
+      "Almost all electricity is made by spinning something. Coal, gas and nuclear stations boil water into steam to drive a turbine; wind and hydro turn one directly. A solar panel skips the entire idea. It has no turbine, no moving parts, nothing to wear out and nothing to hear. Light goes in at one end and current comes out at the other.",
+      "A panel is built from silicon, the same element as sand, purified and grown into crystals. Two thin layers are treated with traces of other elements so that one has a slight surplus of loose electrons and the other a slight shortage. Where the layers meet, the surplus and shortage settle into a permanent electrical barrier, rather like a one-way gate.",
+      "When a particle of light strikes the silicon, it can knock an electron loose. On its own that electron would simply drift and settle back. But the barrier means it can only travel in one direction — so if you connect a wire between the two layers, freed electrons stream around it in a steady flow. That flow is your electricity. Cover the panel and it stops instantly; uncover it and it resumes.",
+      "The whole effect depends on light behaving as separate particles rather than a continuous wave, because a dim red light produces nothing at all while a faint blue one works. Explaining precisely that was the work for which Einstein received the Nobel Prize in 1921 — not relativity, as almost everyone assumes. One practical quirk: panels actually work slightly less well when very hot, so a cool bright day can beat a scorching one."
+    ],
+    "wow": "Panels work less well when very hot, which is why a cool bright day can beat a scorching one.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "What does a solar panel have that a power station does not?",
+        "a": [
+          "No moving parts at all",
+          "A larger turbine"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What knocks the electrons free?",
+        "a": [
+          "Particles of light",
+          "Heat from the Sun"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "how-speakers-make-sound",
+    "category": "tech",
+    "title": "How a Speaker Makes Sound",
+    "emoji": "🔊",
+    "hook": "A speaker is a magnet, a coil of wire, and a piece of card that pushes air.",
+    "story": [
+      "Sound is moving air. Something pushes the air beside it, that squeeze travels outward as a wave of slightly crowded and slightly thinned air, and when the wave reaches your eardrum it pushes that too. To make any sound at all, a device has to move air back and forth quickly and with great precision.",
+      "Inside a speaker sits a permanent magnet, and around it a coil of fine wire glued to a light cone of paper or plastic. Send electricity through the coil and it becomes a magnet itself — push current the other way and its poles reverse. So it is pulled towards the permanent magnet or shoved away, depending on which way the current flows at that instant.",
+      "Feed in a recording as rapidly changing current and the coil jerks in and out hundreds or thousands of times a second, dragging the cone with it, pushing the air in exactly the pattern the microphone originally captured. Nothing in the speaker knows anything about music. It is simply following the current, and the music is in the shape of the wiggle.",
+      "A microphone is the same machine run backwards. Air pushes a thin membrane attached to a coil, the coil moves near a magnet, and that movement generates a small current — which is why a small speaker will work as a rough microphone if you wire it up that way. Cone size explains the rest of a sound system: large cones move a lot of air slowly and produce deep notes, small ones move quickly and produce high notes, so a good speaker box usually contains several sizes working together."
+    ],
+    "wow": "Big cones move slowly and make deep notes; small ones move fast and make high notes, which is why speakers come in different sizes.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "What actually makes the sound?",
+        "a": [
+          "A cone pushing air back and forth",
+          "The magnet humming"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What is a microphone?",
+        "a": [
+          "Roughly a speaker working in reverse",
+          "A very small speaker"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  }
+]

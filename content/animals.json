@@ -1,0 +1,816 @@
+[
+  {
+    "id": "octopus-three-hearts",
+    "category": "animals",
+    "title": "An Octopus Has Three Hearts",
+    "emoji": "🐙",
+    "hook": "Most animals have one heart. An octopus has three.",
+    "story": [
+      "Two of the hearts sit beside the gills, and they have one job each: push blood through the gill on their side, where it picks up oxygen from the water. The third heart is bigger and sits in the middle. It takes that freshly loaded blood and sends it out to the rest of the body — the eight arms, the big eyes, the surprisingly large brain.",
+      "Why does one animal need three pumps? Because octopus blood is not built like yours. Your blood carries oxygen using iron, which is what makes it red. Octopus blood uses copper instead, which turns it a pale blue. Copper blood works well in cold, deep water where there is little oxygen, but it carries less oxygen per drop than iron blood does. Three hearts is how an octopus makes up the difference: more pumping to move more blood.",
+      "There is a strange cost to this design. When an octopus swims by jetting water, the big central heart stops beating. Swimming leaves it exhausted, which is why most octopuses would rather walk across the sea floor on their arms than swim anywhere. And the arms are not just legs. Each one contains its own bundle of nerve cells, so an arm can taste, feel and even start reaching for food slightly before the central brain has decided anything."
+    ],
+    "wow": "An octopus can squeeze through any gap bigger than its beak — the only hard part of its whole body.",
+    "discovery": "The Greek philosopher Aristotle wrote careful notes on octopuses more than 2,300 years ago, and got a surprising amount right for someone with no microscope. The three hearts and the copper-blue blood came later, from anatomists in the 1800s who cut open many different animals side by side and compared what they found. That habit of comparing is where the whole idea of animal families came from. In the 1900s biologists added the strangest discovery of all: most of an octopus's nerve cells are not in its head at all, but spread out along its arms.",
+    "unknown": "Nobody agrees on how clever an octopus really is, or how a creature whose thinking is spread across eight arms experiences the world. Researchers cannot yet say whether an arm decides things on its own or simply carries out a rough order from the brain. And because octopuses live only a year or two and die soon after breeding, scientists still argue about why such a bright animal was given so little time.",
+    "image": "img/animals/octopus-three-hearts.webp",
+    "quiz": [
+      {
+        "q": "How many hearts does an octopus have?",
+        "a": [
+          "Three",
+          "One"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What makes octopus blood blue?",
+        "a": [
+          "Copper",
+          "Iron"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": false,
+    "reviewed": true
+  },
+  {
+    "id": "axolotl-regrows-legs",
+    "category": "animals",
+    "title": "The Axolotl Can Regrow a Leg",
+    "emoji": "🦎",
+    "hook": "If an axolotl loses a leg, it simply grows a new one.",
+    "story": [
+      "The axolotl is a salamander that lives in the lake canals of Xochimilco, near Mexico City. Lose a leg and most animals seal the wound with a scar and carry on with what is left. An axolotl does something far stranger. Within hours, skin cells crawl across the wound and form a cap, and underneath that cap the real trick begins.",
+      "Cells near the injury start going backwards. A muscle cell or a bone cell forgets what job it had and becomes a young, unspecialised cell again. A clump of these gathers under the cap, and then rebuilds the limb in the right order — bone, then muscle, then nerve, then skin — until a working leg stands where the old one was. The new leg is the right size, bends the right way, and leaves no scar behind. An axolotl can do this over and over, and can also repair parts of its heart, its spinal cord and even its brain.",
+      "Axolotls are unusual in another way too. Most salamanders grow out of their tadpole stage, lose their gills and walk onto land. Axolotls never do. They keep their feathery pink gills and stay in the water their whole lives, which is why an adult still looks like a baby. Sadly they are critically endangered in the wild, even though thousands live safely in laboratories and aquariums."
+    ],
+    "wow": "A regrown axolotl leg is not a rough copy — it has the correct bones, in the correct order, every time.",
+    "discovery": "The Aztecs knew this animal long before Europeans did, and its name comes from Xolotl, a god who was said to have hidden himself in the water. In 1768 an Italian priest and scientist named Lazzaro Spallanzani cut the legs off salamanders and watched, astonished, as they grew back — the first careful record of the ability. In 1864 a shipment of live axolotls reached Paris, where Auguste Duméril bred them and discovered that they would stay babies forever unless given a particular push. Scientists have studied them ever since.",
+    "unknown": "The biggest question is the obvious one: why can they do it when we cannot? Humans carry many of the same genes, but something switches the rebuilding programme off in us. Researchers read the entire axolotl genome in 2018 — it is about ten times longer than ours — and still have not found the master switch. Nobody yet knows whether it could ever be turned on in a person.",
+    "image": "img/animals/axolotl-regrows-legs.webp",
+    "quiz": [
+      {
+        "q": "Where do axolotls come from?",
+        "a": [
+          "Lake canals near Mexico City",
+          "Rivers in Egypt"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What do the cells at the wound do?",
+        "a": [
+          "Become young cells again",
+          "Turn straight into bone"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": false,
+    "reviewed": true
+  },
+  {
+    "id": "bees-dance-directions",
+    "category": "animals",
+    "title": "Bees Dance to Give Directions",
+    "emoji": "🐝",
+    "hook": "A bee that finds flowers comes home and dances the directions.",
+    "story": [
+      "Inside a hive it is dark and crowded, and the bee that has just found a field of flowers cannot simply point. So it walks a figure-eight on the vertical wall of honeycomb, and in the middle of that figure-eight it shakes its whole body from side to side. That shaky middle stretch is the message. Everything the other bees need is hidden in it.",
+      "The direction of the shake gives the direction to fly, measured against the sun. A bee that waggles straight up is saying fly towards the sun; one that waggles forty degrees to the left is saying fly forty degrees left of the sun. The length of the shake gives the distance — a short waggle means the flowers are nearby, a long one means a long trip. Other bees press close in the dark, feel the vibrations through the comb, and then fly out and find a place they have never seen.",
+      "One detail still amazes researchers: the sun moves across the sky all day, so the correct angle keeps changing. A bee that has been waiting inside the hive slowly rotates its dance as the hours pass, keeping the directions right for whenever another bee finally sets off."
+    ],
+    "wow": "Bees can also dance about water, tree sap, or a good place to build a new home — not only flowers.",
+    "discovery": "An Austrian scientist called Karl von Frisch spent decades on this, marking individual bees with tiny dots of coloured paint and recording where each one went. He worked out what the dance meant and shared a Nobel Prize for it in 1973. Not everyone believed him. Other researchers argued for years that bees simply followed the smell of flowers on the dancer, and the argument was only settled long afterwards, when scientists built a mechanical model bee that could dance, and later strapped tiny radar tags to real bees to watch where they actually flew.",
+    "unknown": "How a bee reads the dance in total darkness is still not fully understood — the follower must work out an angle from vibration and touch alone, in a crowd, on a wobbling comb. Researchers also cannot fully explain how a brain smaller than a grain of rice keeps track of where the sun should be, even after hours inside a dark hive.",
+    "image": "img/animals/bees-dance-directions.webp",
+    "quiz": [
+      {
+        "q": "What does a long waggle mean?",
+        "a": [
+          "The flowers are far away",
+          "The flowers are red"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What is the shake measured against?",
+        "a": [
+          "The position of the sun",
+          "The nearest tree"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": false,
+    "reviewed": true
+  },
+  {
+    "id": "tardigrade-toughest",
+    "category": "animals",
+    "title": "The Toughest Animal Is Almost Invisible",
+    "emoji": "🔬",
+    "hook": "The toughest animal on Earth is smaller than the letter O.",
+    "story": [
+      "It is called a tardigrade, and people who like it call it a water bear, because under a microscope it lumbers along on eight stubby legs with claws. It is less than a millimetre long and lives almost everywhere there is a film of water: in moss on a wall, in sand at the beach, in mud at the bottom of a pond, in the soil of your garden. You have almost certainly walked past millions of them.",
+      "Its famous trick starts when its home dries out. Instead of dying, a tardigrade pulls in its legs, curls into a tiny barrel shape called a tun, and pushes out nearly all of the water in its body. Special sugars and proteins move in to hold its cells in shape, like packing a fragile parcel. In that state almost everything about it stops. It is not quite alive and not quite dead, and it can wait like that for years.",
+      "A parcel packed that well survives things a living animal never could. Tardigrades in the tun state have come back from being frozen near absolute zero, heated past boiling, squeezed under enormous pressure, and blasted with radiation. In 2007 a European mission carried some into orbit and exposed them to the raw vacuum of space; many were rehydrated afterwards and walked away. They are not indestructible — a hot afternoon can still kill an active one — but nothing else this small comes close."
+    ],
+    "wow": "Tardigrades have been on Earth for more than 500 million years, long before the first dinosaur and long after the last one.",
+    "discovery": "A German pastor and naturalist, Johann Goeze, found one under his microscope in 1773 and called it kleiner Wasserbär — little water bear. Three years later the Italian scientist Lazzaro Spallanzani, the same man who studied salamander legs, noticed that dried-out ones could be brought back with a drop of water, and named the group Tardigrada, meaning slow steppers. Bringing an apparently dead animal back to life was so hard to believe that scientists argued about whether it was real for most of the next century.",
+    "unknown": "Nobody knows the true limit of how long a tardigrade can wait in its dried state. Claims of decades exist, but they are difficult to test properly. Researchers have found a protein that seems to shield its DNA from damage, and are still working out exactly how it does the job — and whether anything like it could one day protect human cells, or medicines that currently need a fridge.",
+    "image": "img/animals/tardigrade-toughest.webp",
+    "quiz": [
+      {
+        "q": "What does a tardigrade do when it dries out?",
+        "a": [
+          "Curls into a barrel and waits",
+          "Grows wings and flies"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Where can you find tardigrades?",
+        "a": [
+          "Moss, sand, mud and soil",
+          "Only deep in the ocean"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": false,
+    "reviewed": true
+  },
+  {
+    "id": "elephants-hear-with-feet",
+    "category": "animals",
+    "title": "Elephants Listen With Their Feet",
+    "emoji": "🐘",
+    "hook": "Elephants can hear a call from kilometres away — through the ground.",
+    "story": [
+      "When an elephant rumbles, you hear a deep grumble, but you are only hearing part of it. The lowest notes in that rumble are infrasound: too low for human ears to pick up at all. Those low notes are powerful, and they travel a long way before they fade, which is exactly what you need when your family is spread across a wide, dusty plain.",
+      "The sound takes two paths at once. Some of it travels through the air, the ordinary way. The rest travels through the ground as a faint shudder, the same way a distant lorry can make a window buzz. Kilometres away, another elephant feels that shudder arrive underfoot. Its feet are built for the job: thick fat pads spread the vibration, and sensitive nerve endings and bone carry it up the leg towards the inner ear. Researchers often see a listening elephant freeze, lean forward and press its feet flat against the earth.",
+      "Herds use this hidden channel constantly. It carries warnings about danger, calls between mothers and calves that have wandered off, and news about where rain has fallen and water might be found."
+    ],
+    "wow": "Some elephant rumbles travel through the ground for more than ten kilometres — further than they travel through the air.",
+    "discovery": "In 1984 an American researcher named Katy Payne stood in the elephant house at a zoo in Oregon and felt a throbbing in the air that she could not hear. She had studied whale song before, and recognised the feeling of sound below human hearing. Recordings proved her right: elephants were calling in infrasound the whole time, and nobody had noticed. Years later Caitlin O'Connell-Rodwell, working in Namibia, showed that the same calls travel through the ground as well as the air, and that elephants far away respond to them.",
+    "unknown": "How much detail survives the journey through the soil is still an open question. Researchers do not know whether an elephant can tell who is calling from the ground signal alone, or only that something happened. It is also unclear how much the ground itself changes the message — dry sand, wet clay and rock all carry vibration differently, and a herd may have to learn its own landscape.",
+    "image": "img/animals/elephants-hear-with-feet.webp",
+    "quiz": [
+      {
+        "q": "How does the rumble travel so far?",
+        "a": [
+          "Through the ground as a shudder",
+          "Through water only"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What is infrasound?",
+        "a": [
+          "Sound too low for people to hear",
+          "Sound made underwater"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": false,
+    "reviewed": true
+  },
+  {
+    "id": "chameleon-changes-colour",
+    "category": "animals",
+    "title": "A Chameleon Is Not Hiding",
+    "emoji": "🦎",
+    "hook": "Chameleons mostly change colour to talk, not to hide.",
+    "story": [
+      "The famous idea is that a chameleon turns green on a leaf and brown on a branch to disappear. That happens less than people think. Most colour changes are about mood, temperature and messages: a male turning bright yellow and red is warning a rival, a calm chameleon resting in shade goes dull green, and a cold one turns dark to soak up more sunlight.",
+      "The trick is stranger than paint. Under the skin lies a layer of cells packed with tiny crystals, arranged in a neat grid. Light bouncing off that grid interferes with itself, and only certain colours survive the bounce — the same reason a soap bubble shimmers. When the chameleon relaxes or tightens its skin, the crystals move closer together or further apart, and the colour that survives changes with them.",
+      "So a chameleon does not fill itself with pigment. It rearranges a mirror. That is why the change can sweep across the body in seconds, and why the colours can be so much brighter than anything an animal could make with dye alone."
+    ],
+    "wow": "A chameleon's two eyes can look in two different directions at once, then both swing forward to judge distance before the tongue fires.",
+    "discovery": "People had watched chameleons change for thousands of years — Aristotle wrote about it — but everyone assumed pigment moved around inside the skin. The real answer arrived in 2015, when a Swiss team led by Michel Milinkovitch examined panther chameleon skin under powerful microscopes and found the crystal layer. They stretched samples of skin and watched the colour shift exactly as the spacing between crystals changed, which proved the mechanism rather than merely suggesting it.",
+    "unknown": "Why chameleons evolved this in the first place is still argued about. Signalling to rivals and mates explains the bright displays, but not why some species also match their backgrounds well. Researchers are also still working out how much control the animal really has, and how a brain decides which pattern to wear.",
+    "image": "img/animals/chameleon-changes-colour.webp",
+    "quiz": [
+      {
+        "q": "Why do chameleons usually change colour?",
+        "a": [
+          "To signal mood and temperature",
+          "Only to hide from predators"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What creates the colour?",
+        "a": [
+          "Tiny crystals that bounce light",
+          "Coloured dye pumped into the skin"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": false,
+    "reviewed": true
+  },
+  {
+    "id": "flamingos-are-pink-from-food",
+    "category": "animals",
+    "title": "Flamingos Eat Their Colour",
+    "emoji": "🦩",
+    "hook": "A flamingo is born grey. It eats its way to pink.",
+    "story": [
+      "Flamingo chicks hatch covered in fluffy grey down, and stay dull for their first year or two. The pink arrives from dinner. Flamingos feed on tiny shrimp and algae in salty lakes, and those creatures are loaded with orange-red substances called carotenoids — the same family of chemicals that makes carrots orange and tomatoes red.",
+      "The bird cannot make these colours itself. It takes them apart in the liver, carries them through the blood, and lays them down in growing feathers, skin and even the bill. Feed a flamingo differently and the colour fades. Zoos learned this the hard way when their flamingos turned pale, and now add carotenoids to the food on purpose.",
+      "Colour also carries meaning in a flock. A bright bird is one that has been feeding well in good water, so it is likely to be a strong parent. Flamingos even preen coloured oil from a gland onto their feathers before the breeding season, making themselves temporarily brighter — the closest thing in nature to putting on make-up."
+    ],
+    "wow": "Both flamingo parents feed their chick a red liquid made in their own throats, and it drains the colour out of them while they do it.",
+    "discovery": "For a long time nobody knew why captive flamingos went white. The answer came from chemistry: in the 1950s researchers began identifying the carotenoid pigments in flamingo feathers and tracing them back to the animals' food, particularly brine shrimp and blue-green algae. Once zoos adjusted their diets in the 1960s, the birds turned pink again — an experiment that worked so plainly that it settled the question.",
+    "unknown": "Scientists are still measuring how much a flamingo's colour really tells other flamingos. It is clear brighter birds pair up earlier, but nobody knows exactly what a flamingo is judging, or whether the preening oil trick is deliberate showing-off or simply grooming that happens to help.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "Where does a flamingo's pink come from?",
+        "a": [
+          "Chemicals in its food",
+          "Its parents' genes alone"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What colour are flamingo chicks?",
+        "a": [
+          "Grey",
+          "Bright pink"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": false,
+    "reviewed": true
+  },
+  {
+    "id": "birds-sleep-while-flying",
+    "category": "animals",
+    "title": "Some Birds Sleep While Flying",
+    "emoji": "🕊️",
+    "hook": "A frigatebird can fall asleep in mid-air and keep flying.",
+    "story": [
+      "Great frigatebirds hunt far out over the open ocean, sometimes staying airborne for weeks because their feathers are not waterproof enough to land on the sea. That raises an obvious problem: when do they sleep? The answer is that they sleep on the wing, in short bursts of a few seconds at a time.",
+      "Many birds can do something remarkable with sleep. They shut down one half of the brain while the other half stays awake, keeping the matching eye open. A duck at the edge of a sleeping row will keep its outward eye open all night, watching for danger, while the inside of the row sleeps with both halves. Frigatebirds use the same trick while circling on rising air.",
+      "It is not restful. Measurements show these birds sleep less than an hour a day at sea, compared with more than twelve hours once they return to land — and that they can go on for weeks in that state, which no mammal could survive."
+    ],
+    "wow": "Frigatebirds have been tracked staying in the air for two months without landing once.",
+    "discovery": "It was long suspected but impossible to prove, because you cannot watch a bird's brain from a boat. In 2016 a team led by Niels Rattenborg built a recorder small and light enough to sit on a frigatebird's head, measuring brain waves in flight. They fitted them to birds nesting in the Galápagos, waited for the birds to return, and read the data. The recordings showed genuine sleep, both half-brain and occasionally whole-brain, while the birds soared.",
+    "unknown": "Why these birds survive on so little sleep is a real puzzle. Every animal studied suffers badly from sleep loss, yet frigatebirds appear fine after weeks of it. If researchers could work out what protects them, it might change how we understand why sleep is needed at all — a question nobody has answered.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "How does a frigatebird sleep at sea?",
+        "a": [
+          "In short bursts while flying",
+          "Floating on the water"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What can many birds do while sleeping?",
+        "a": [
+          "Rest half the brain at a time",
+          "Stop breathing completely"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": false,
+    "reviewed": true
+  },
+  {
+    "id": "ants-count-their-steps",
+    "category": "animals",
+    "title": "Desert Ants Count Their Steps",
+    "emoji": "🐜",
+    "hook": "A desert ant finds its way home by counting how far it walked.",
+    "story": [
+      "Most ants lay a chemical trail and follow it back, but that does not work in the Sahara. The ground is scorching, scent evaporates in seconds, and a lost ant cooks within minutes. So the Saharan silver ant navigates a different way: it keeps a running tally of every step it takes and every turn it makes, and uses that to calculate a straight line home.",
+      "The maths is impressive. An ant can wander a twisting two-hundred-metre search for food, then turn and run almost directly back to a nest hole a few millimetres wide. To do it, it tracks direction using the pattern of polarised light in the sky, which stays readable even when the sun is hidden, and tracks distance by something close to a pedometer in its legs.",
+      "That combination is called path integration, and animals from bees to humans use versions of it. The ant's version is simply the most extreme, because a mistake means death."
+    ],
+    "wow": "Saharan silver ants forage at midday, when the sand is hot enough to kill their predators, and sprint at nearly a metre a second.",
+    "discovery": "In 2006 a team led by Matthias Wittlinger tested the step-counting idea in the strangest possible way. They let ants walk to a feeder, then caught them and changed their legs — gluing on stilts made of pig bristles to lengthen the stride, or trimming the legs shorter. Ants on stilts marched straight past the nest. Ants with shortened legs stopped short of it. Both overshot or undershot by roughly the amount predicted if they were counting steps rather than measuring distance.",
+    "unknown": "Where the counting actually happens in an ant's tiny brain is not known. Nor is it clear how the ant combines step count with direction so accurately, or how it corrects the tally when it climbs over rough ground where steps are shorter than usual.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "How does a desert ant measure distance home?",
+        "a": [
+          "By counting its steps",
+          "By following a scent trail"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "How did scientists test this?",
+        "a": [
+          "They changed the ants' leg length",
+          "They moved the nest"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": false,
+    "reviewed": true
+  },
+  {
+    "id": "cats-land-on-their-feet",
+    "category": "animals",
+    "title": "How a Cat Twists in Mid-Air",
+    "emoji": "🐈",
+    "hook": "A falling cat turns itself the right way up with nothing to push against.",
+    "story": [
+      "This looks impossible, and for a long time physicists said it was. Once you are falling, there is nothing to push on. You cannot simply spin yourself round in empty air any more than you can lift yourself by your own hair. Yet cats manage it in a fraction of a second.",
+      "The answer is that a cat does not spin as one piece. It bends in the middle, and turns its front half one way while its back half turns the other way. Then it changes the shape of each half — pulling the front legs in tight and stretching the back legs out — so that one half turns more easily than the other. Repeat the bend and stretch a couple of times, and the whole animal ends up facing downwards without ever having pushed against anything.",
+      "A very flexible spine and no rigid collarbone make this possible. The cat also spreads its legs at the last moment to slow the fall, rather like a parachute, and lands with legs bent to soften the impact."
+    ],
+    "wow": "Cats need a little height to complete the turn — they manage it best from about a metre or more.",
+    "discovery": "The argument was settled by photography. In 1894 the French scientist Étienne-Jules Marey dropped a cat and captured the fall with a camera taking sixty frames a second, then published the pictures. They showed clearly that the cat twisted its front and back halves in opposite directions. Some scientists were annoyed, insisting the cat must have pushed off from his hands. The photographs showed it had not, and the physics had to be rethought rather than the cat.",
+    "unknown": "The broad mechanism is settled, but the details of how a cat decides what to do are not. How it senses which way is up so quickly, and how it chooses the exact sequence of bends from any starting position, is still being modelled — and engineers building falling robots find it much harder than cats make it look.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "How does a cat turn in mid-air?",
+        "a": [
+          "It twists its front and back halves opposite ways",
+          "It pushes against the air with its tail"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "How was it finally proved?",
+        "a": [
+          "High-speed photographs in 1894",
+          "A modern laboratory experiment"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": false,
+    "reviewed": true
+  },
+  {
+    "id": "mantis-shrimp-punch",
+    "category": "animals",
+    "title": "The Fastest Punch in the Sea",
+    "emoji": "🦐",
+    "hook": "A mantis shrimp punches so fast the water itself boils.",
+    "story": [
+      "The peacock mantis shrimp is about the size of your hand, and it hunts crabs and snails by smashing them open. Its front limb is a club, and it strikes at around 80 kilometres an hour — an acceleration comparable to a bullet leaving a gun, achieved underwater, where everything should be slowed by drag.",
+      "Muscle alone cannot move that fast. Instead the shrimp uses a spring. It slowly squeezes a saddle-shaped piece of springy material in the limb, locks it with a catch like a crossbow, and then releases the catch. All the stored energy leaves at once.",
+      "The strike is so quick that the water in front of the club cannot fill the space behind it. A bubble of vapour forms and instantly collapses, and that collapse releases a second shockwave, a flash of light too faint to see, and a burst of heat. So the prey is hit twice: once by the club, once by the water. A mantis shrimp can crack a crab shell, and one in an aquarium can break the glass."
+    ],
+    "wow": "The collapsing bubble reaches temperatures that briefly rival the surface of the Sun, in a space smaller than a grain of sand.",
+    "discovery": "The punch was far too fast for anyone to see properly until high-speed cameras improved. In 2004 Sheila Patek filmed mantis shrimp at tens of thousands of frames per second and measured the true speed for the first time — it was far faster than earlier estimates. The same footage revealed the flash and bubble collapse that nobody had expected, turning a known fast punch into something much stranger.",
+    "unknown": "Nobody has fully explained how the club survives thousands of these strikes without shattering. Its layered structure is being copied by engineers designing tougher aircraft panels and body armour, but the exact way it stops cracks from spreading is still being worked out. Mantis shrimp eyes, which have far more colour receptors than ours, are also still poorly understood.",
+    "image": "img/animals/mantis-shrimp-punch.webp",
+    "quiz": [
+      {
+        "q": "How does the shrimp punch so fast?",
+        "a": [
+          "It releases a stored spring",
+          "It has very large muscles"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What happens to the water?",
+        "a": [
+          "A bubble forms and collapses violently",
+          "It freezes instantly"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": false,
+    "reviewed": true
+  },
+  {
+    "id": "bats-see-with-sound",
+    "category": "animals",
+    "title": "Bats See With Sound",
+    "emoji": "🦇",
+    "hook": "A bat can catch a moth in complete darkness without ever seeing it.",
+    "story": [
+      "A hunting bat shouts, constantly. The calls are far too high for human ears, and far louder than you would guess — close up, some bat calls would be as loud as a smoke alarm if you could hear them. The bat then listens for the echoes bouncing back, and builds a picture of the room from what returns.",
+      "The timing does the work. Sound travels at a known speed, so an echo that comes back sooner means something closer. Differences between the two ears give direction. Changes in the echo's pitch reveal whether the target is moving towards or away. From this a bat can tell a moth from a falling leaf, and even judge the moth's wingbeat.",
+      "As it closes in, the bat calls faster and faster — from a few times a second up to two hundred, a burst called the terminal buzz — refreshing its picture as the gap shrinks. Moths have fought back: some hear the calls coming and drop out of the sky, and a few jam the bat's sonar with clicks of their own."
+    ],
+    "wow": "A bat must shout and listen without deafening itself, so tiny muscles in its ears clamp shut during each call and release in time for the echo.",
+    "discovery": "In 1793 Lazzaro Spallanzani noticed that blinded bats still flew perfectly, while bats with blocked ears crashed into things. He could not explain it — the calls were inaudible, so there seemed to be nothing to hear — and the puzzle sat unsolved for nearly 150 years. Then in 1938 a Harvard student named Donald Griffin carried bats to a laboratory that had a microphone able to pick up ultrasound, and the machine revealed the shouting nobody had known was there.",
+    "unknown": "How a bat's brain turns a storm of overlapping echoes into a clear scene, especially in a cave with thousands of other bats shouting at once, is still not properly understood. Engineers designing sonar and self-driving car sensors face the same problem and solve it far less well.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "How does a bat find a moth in the dark?",
+        "a": [
+          "By listening to echoes of its own calls",
+          "By seeing heat"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What did Spallanzani find in 1793?",
+        "a": [
+          "Blinded bats flew fine, deafened bats did not",
+          "Bats could see in the dark"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": false,
+    "reviewed": true
+  },
+  {
+    "id": "spider-silk-stronger-than-steel",
+    "category": "animals",
+    "title": "Spider Silk Beats Steel",
+    "emoji": "🕷️",
+    "hook": "Weight for weight, spider silk is stronger than steel.",
+    "story": [
+      "A thread of spider silk is thinner than a human hair, yet pull on it and it resists more than a steel wire of the same weight would. It is also stretchy, which steel is not. That combination is the real prize: silk can absorb an enormous amount of energy before it breaks, which is exactly what you need when a flying insect crashes into your web.",
+      "The silk starts as a liquid inside the spider's body — a soup of protein molecules, kept from setting solid. As it is squeezed out through tiny nozzles, acid is added, water is pulled out, and the pulling itself lines the molecules up. Regions of the protein lock together into hard crystals while the rest stays loose and springy. Hard parts give strength, loose parts give stretch.",
+      "One spider makes several kinds. The spokes of a web are strong and stiff; the spiral is stretchy and coated in glue droplets; the thread a spider dangles from is different again. A garden spider chooses which to use as it builds."
+    ],
+    "wow": "Spiders often eat their old web and reuse the protein to spin a fresh one.",
+    "discovery": "People have admired silk for centuries, but nobody could make it. Farming spiders fails because they eat each other, and a famous cape woven in the 2000s from golden orb-weaver silk needed over a million spiders and years of work. The real understanding came from studying the spinning process rather than the finished thread: researchers found that it is the journey down the duct — the acid, the water removal, the pull — that turns liquid into fibre, not the protein alone.",
+    "unknown": "Nobody has yet matched real silk in a factory. Laboratories can make the proteins using bacteria or yeast, but the spinning step remains hard to copy, and artificial silk is still weaker than the natural kind. Exactly how a spider controls the process so precisely, without a chemistry set, is still being unpicked.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "Why is spider silk so good at stopping insects?",
+        "a": [
+          "It is strong and stretchy at once",
+          "It is sticky all over"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What turns liquid protein into thread?",
+        "a": [
+          "The journey through the duct",
+          "Drying in the air"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": false,
+    "reviewed": true
+  },
+  {
+    "id": "immortal-jellyfish",
+    "category": "animals",
+    "title": "The Jellyfish That Grows Backwards",
+    "emoji": "🪼",
+    "hook": "One jellyfish can turn itself back into a baby instead of dying.",
+    "story": [
+      "Most jellyfish live a set life. They start as a tiny blob fixed to a rock, bud off into the drifting bell shape everyone recognises, breed, and die. A small species called Turritopsis dohrnii, about the size of a fingernail, refuses the last step.",
+      "When it is starving, injured or simply old, it sinks to the bottom, pulls in its tentacles, and collapses into a shapeless lump. Over a few days that lump becomes a blob fixed to a rock again — the baby stage. Its cells physically change job to do it, muscle becoming nerve, nerve becoming something else. Then it buds off fresh jellyfish and starts the whole life over.",
+      "So this animal has no built-in ending. That does not make it immortal in any everyday sense: almost all of them are eaten, crushed or infected long before they get the chance. But barring accidents, it can keep going round the loop, and nobody knows an upper limit."
+    ],
+    "wow": "The reset works even on an adult that has already bred — the equivalent of a grown adult turning back into a baby.",
+    "discovery": "It was found by accident. In the 1980s a student named Christian Sommer collected these jellyfish in the Mediterranean near Genoa and kept them in dishes. They refused to die. Instead of quietly expiring they kept turning into blobs and starting again, which was so unlikely that it took several more years and other laboratories before the ability was accepted and properly described in the 1990s.",
+    "unknown": "How a specialised cell is persuaded to become something else entirely is the great question, and it is the same question the axolotl raises. Researchers have read the animal's genes and found unusual repair machinery, but nobody can yet trigger the reset on demand, or say whether anything similar could ever apply to animals with complicated bodies like ours.",
+    "image": "img/animals/immortal-jellyfish.webp",
+    "quiz": [
+      {
+        "q": "What does this jellyfish do instead of dying?",
+        "a": [
+          "Turns back into its baby stage",
+          "Falls asleep for years"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Does this make it truly immortal?",
+        "a": [
+          "No — most are eaten or killed",
+          "Yes, nothing can kill it"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": false,
+    "reviewed": true
+  },
+  {
+    "id": "platypus-hunts-with-electricity",
+    "category": "animals",
+    "title": "A Platypus Hunts With Electricity",
+    "emoji": "🦆",
+    "hook": "A platypus closes its eyes, ears and nose to hunt — and still finds its prey.",
+    "story": [
+      "When a platypus dives, flaps of skin seal over its eyes and ear openings, and its nostrils shut. It is swimming blind, deaf and unable to smell, digging through mud at the bottom of a river. Yet it comes up with shrimp and insect larvae every time.",
+      "The bill does the work. It is soft and rubbery, not hard like a duck's, and packed with about forty thousand sensors. Some detect touch and tiny water movements. Around six thousand detect electricity — because every time an animal moves a muscle, it produces a faint electrical pulse. A shrimp flicking its tail in the mud lights up like a small flash.",
+      "The platypus sweeps its bill side to side as it swims, comparing signals arriving at different points. Touch and electricity arrive at slightly different moments, and it seems to use that gap to judge distance, in much the same way you judge a storm from the delay between lightning and thunder."
+    ],
+    "wow": "The platypus lays eggs, makes milk without nipples by sweating it through its skin, and the males have venomous spurs on their back legs.",
+    "discovery": "When the first platypus skin reached London in 1799, scientists thought it was a hoax — a duck's bill sewn onto a beaver. Some tried to find the stitches. The electric sense took much longer to find: in the mid-1980s a team including Henning Scheich showed that platypuses would attack a small battery hidden in water and ignore a similar object with no current, which proved they were sensing electricity rather than movement or smell.",
+    "unknown": "Exactly how the brain combines touch and electricity into one picture is still being studied. Researchers are also unsure how far the sense reaches in muddy water, and how a platypus avoids being confused by the electrical noise of its own moving muscles.",
+    "image": "img/animals/platypus-hunts-with-electricity.webp",
+    "quiz": [
+      {
+        "q": "How does a platypus find food underwater?",
+        "a": [
+          "By sensing tiny electric pulses",
+          "By smelling through its bill"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What happens to its eyes when it dives?",
+        "a": [
+          "They close under flaps of skin",
+          "They grow a clear lens"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": false,
+    "reviewed": true
+  },
+  {
+    "id": "arctic-tern-longest-journey",
+    "category": "animals",
+    "title": "The Longest Journey on Earth",
+    "emoji": "🐦",
+    "hook": "One small bird flies from the Arctic to Antarctica and back, every year.",
+    "story": [
+      "The Arctic tern weighs about as much as an apple. It breeds in the far north during the northern summer, then flies to the seas around Antarctica for the southern summer, then comes back. The round trip is roughly 70,000 kilometres a year, and it does not fly in a straight line — it follows looping routes that ride the prevailing winds.",
+      "The reward for all that effort is daylight. By chasing summer from one end of the planet to the other, an Arctic tern sees more hours of sunlight in a year than any other animal alive, and finds long days of feeding at both ends.",
+      "A tern can live thirty years. Add up a life of these journeys and the distance flown comes to several trips to the Moon and back. They feed by hovering and plunging for small fish, and they rest on the water or ride the wind rather than stopping for long."
+    ],
+    "wow": "An Arctic tern's lifetime flying distance is roughly the same as flying to the Moon and back three times.",
+    "discovery": "The route was suspected from scattered sightings and from metal leg rings recovered by chance, but nobody could follow a bird. That changed when tracking devices became small enough not to burden one. In 2010 a team led by Carsten Egevang fitted terns with tiny light-recording tags weighing about a gram, which logged sunrise and sunset times. Recovering the tags the following year and working backwards revealed the true route — longer and stranger, with unexpected mid-ocean stops, than anyone had drawn.",
+    "unknown": "How the tern navigates is not fully explained. Sun, stars, smell and a magnetic sense are all likely involved, but how a young bird makes the trip correctly the first time, without a parent leading it, remains unsolved. Nobody knows how the birds decide precisely when to leave, either.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "Why does the Arctic tern make this journey?",
+        "a": [
+          "To follow summer and long daylight",
+          "To escape other birds"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "How was the route finally mapped?",
+        "a": [
+          "Tiny light-recording tags",
+          "Radar from ships"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": false,
+    "reviewed": true
+  },
+  {
+    "id": "naked-mole-rat-strange",
+    "category": "animals",
+    "title": "The Strangest Mammal Underground",
+    "emoji": "🐀",
+    "hook": "One mammal lives like an insect, barely ages, and can survive without oxygen.",
+    "story": [
+      "The naked mole-rat is a wrinkled, nearly hairless rodent the size of a finger, living in tunnels under east Africa. Almost everything about it breaks the usual mammal rules. A colony has a single breeding queen and dozens of workers who dig and defend, an arrangement otherwise found in ants and bees rather than in animals with fur.",
+      "It cannot hold a steady body temperature the way other mammals do, so it moves between warmer and cooler tunnels instead, behaving rather like a reptile. Its tunnels are stuffy and low in oxygen, and when oxygen runs out completely it switches to burning a different sugar, fructose — a trick otherwise seen in plants — and can survive around eighteen minutes with none at all.",
+      "It also feels no sting from acid or chilli, because a chemical detail in its nerves is different from ours. Biologists think that suits life in a crowded burrow full of carbon dioxide, which would make ordinary skin ache."
+    ],
+    "wow": "A naked mole-rat can live over thirty years, while a mouse of similar size lives about three.",
+    "discovery": "The insect-like colony structure was worked out by Jennifer Jarvis, a South African zoologist who studied them from the 1970s and showed that a single queen suppresses breeding in everyone else. The medical interest came later, when researchers noticed that colonies kept for decades almost never developed cancer and that their risk of dying did not rise with age in the usual way — a finding published in 2018 that startled people who study ageing.",
+    "unknown": "Why they resist cancer so well is still being argued over; several protective mechanisms have been proposed and none fully explains it. Nobody knows whether any of it could be useful for humans, and researchers caution that the animals are not truly ageless — they do die, just not in the pattern biology expects.",
+    "image": "img/animals/naked-mole-rat-strange.webp",
+    "quiz": [
+      {
+        "q": "How is a naked mole-rat colony organised?",
+        "a": [
+          "One queen and many workers, like insects",
+          "Pairs raising their own young"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What happens when oxygen runs out?",
+        "a": [
+          "It burns fructose instead",
+          "It stops its heart"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": false,
+    "reviewed": true
+  },
+  {
+    "id": "whale-songs-change",
+    "category": "animals",
+    "title": "Whale Songs Spread Like Pop Songs",
+    "emoji": "🐋",
+    "hook": "Every male humpback in an ocean sings the same song — and it changes every year.",
+    "story": [
+      "A humpback song is long and structured, built from repeated phrases arranged into themes, lasting twenty minutes or more before starting again. A male may sing for hours. What astonished researchers is that at any moment, all the males in one population are singing essentially the same song.",
+      "Then it changes. Small variations creep in, others copy them, and over a season the song drifts. Every few years something bigger happens: a new song arrives from a neighbouring population, and within a season or two the old one is abandoned entirely and everyone switches. Songs have been tracked spreading eastward across the Pacific, population by population, like a tune catching on.",
+      "Nobody is certain what the song is for. It is sung mainly by males on breeding grounds, so attracting females is the obvious guess, but males also sing near each other, and the evidence for females choosing by song is surprisingly thin."
+    ],
+    "wow": "Low whale calls can travel for hundreds of kilometres through deep water layers that carry sound unusually well.",
+    "discovery": "In the 1960s Roger Payne and Scott McVay obtained recordings made by a US Navy listening station and noticed that the sounds repeated in a strict pattern — they were songs, not noise. Payne released an album of them in 1970. It sold extraordinarily well, moved public opinion, and is widely credited with helping drive the campaigns that ended most commercial whaling. Katy Payne, who later discovered elephant infrasound, worked with him and showed the songs kept changing year by year.",
+    "unknown": "Why the whole population switches songs is unexplained. So is what the song actually communicates, and why novelty seems to matter so much. Researchers also cannot say how a whale remembers and reproduces a twenty-minute structure, or why only humpbacks, among the great whales, sing like this.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "What is unusual about humpback songs?",
+        "a": [
+          "All the males sing the same one, and it changes",
+          "Each whale has its own fixed song"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What did recordings of whale song help do?",
+        "a": [
+          "Build public support against whaling",
+          "Teach whales new songs"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": false,
+    "reviewed": true
+  },
+  {
+    "id": "cuttlefish-colour-blind",
+    "category": "animals",
+    "title": "A Colour-Blind Master of Colour",
+    "emoji": "🦑",
+    "hook": "Cuttlefish match colours they cannot see.",
+    "story": [
+      "A cuttlefish can change the colour and pattern of its skin in under a second, blending into gravel, weed or sand, or flashing stripes at a rival. It does this with millions of tiny sacs of pigment that muscles pull open and squeeze shut, layered over reflective cells beneath.",
+      "Here is the problem. Their eyes contain only one kind of light detector. In humans, colour vision needs at least two or three kinds to compare — that comparison is what colour is. With only one, a cuttlefish should see the world in shades of grey.",
+      "One leading explanation is that they cheat using blur. A cuttlefish pupil is a strange W shape, and its eye spreads different colours to slightly different depths rather than focusing them together. By changing the shape of the eye and noticing which parts of the scene come sharply into focus, the animal might work out colour from sharpness instead of from comparison — slow, but good enough."
+    ],
+    "wow": "Cuttlefish skin can also change texture, raising bumps and flaps to imitate seaweed or rough rock.",
+    "discovery": "The single-detector finding came from careful measurements of the eye in the 1970s and 80s, and it left biologists stuck for decades with an obvious contradiction. The blur idea was put forward in 2016 by Alexander Stubbs and his father Christopher, a physicist. They modelled what such an eye would see and showed the trick could work — an explanation built from optics rather than biology, which is partly why it took so long for anyone to suggest it.",
+    "unknown": "It is still not proven. Researchers have not yet shown a cuttlefish using the focus trick in a controlled test, and other explanations — including detectors in the skin itself, which do respond to light — remain on the table. How a cuttlefish chooses which pattern to wear is also largely unexplained.",
+    "image": "img/animals/cuttlefish-colour-blind.webp",
+    "quiz": [
+      {
+        "q": "What is strange about cuttlefish eyes?",
+        "a": [
+          "They have only one kind of light detector",
+          "They have no lens"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What might they use instead of colour vision?",
+        "a": [
+          "Blur and focus",
+          "Smell"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": false,
+    "reviewed": true
+  },
+  {
+    "id": "bombardier-beetle-spray",
+    "category": "animals",
+    "title": "The Beetle That Fires Boiling Spray",
+    "emoji": "🪲",
+    "hook": "A bombardier beetle mixes two chemicals and fires boiling liquid at attackers.",
+    "story": [
+      "The beetle stores two harmless chemicals in separate chambers at the end of its body. When something grabs it, a valve opens and a measured dose of both is pushed into a small reinforced chamber, where enzymes make them react instantly. The reaction releases a lot of heat — enough to bring the mixture to around 100°C — and a burst of gas that fires it out under pressure.",
+      "The spray does not come as one steady jet. High-speed x-ray films show it leaves in hundreds of separate pulses per second, because each blast momentarily forces the valve shut before the pressure refills the chamber. That pulsing keeps the beetle's own body from overheating while the spray stays scaldingly hot.",
+      "The nozzle can swivel, so the beetle aims. Frogs and toads that swallow one sometimes vomit it back up, alive, after the beetle fires inside them."
+    ],
+    "wow": "The pulsing fire rate has been measured at around 500 bursts a second — far too fast to see or hear as separate shots.",
+    "discovery": "The chemistry was worked out in the 1960s by Thomas Eisner and Daniel Aneshansley at Cornell, who filmed beetles firing and measured the temperature of the spray. The pulsing was only confirmed in 2015, when researchers took living beetles to a particle accelerator and used a beam of x-rays to film inside the animal's body while it fired — the only way to see a chamber that is buried in a living insect.",
+    "unknown": "How the chamber survives thousands of hot, high-pressure blasts without damage is still being studied, and engineers interested in fuel injection are paying attention. The precise way the valve times itself, purely with pressure and no nerves fast enough to control each pulse, is also not fully modelled.",
+    "image": "img/animals/bombardier-beetle-spray.webp",
+    "quiz": [
+      {
+        "q": "How does the beetle make the spray hot?",
+        "a": [
+          "Two chemicals react when mixed",
+          "It heats it with muscles"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "How was the pulsing finally filmed?",
+        "a": [
+          "With x-rays at a particle accelerator",
+          "With an ordinary video camera"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": false,
+    "reviewed": true
+  },
+  {
+    "id": "fish-that-walks-on-land",
+    "category": "animals",
+    "title": "The Fish That Walks on Land",
+    "emoji": "🐟",
+    "hook": "Mudskippers spend most of their time out of the water.",
+    "story": [
+      "A mudskipper is a real fish — gills, fins, scales — that lives on tropical mudflats and climbs out when the tide goes down. It hauls itself along on its front fins, which work like crutches, and can skip across the mud in short hops. Some climb tree roots.",
+      "Breathing on land takes several tricks at once. It carries a mouthful of water over its gills, like a diver carrying a tank, and gulps fresh air into its mouth chamber. Its skin absorbs oxygen too, which only works while it stays damp, so the fish rolls in mud and returns to puddles to wet itself. Its eyes sit high on its head and can be pulled down into a pocket of water to stop them drying out.",
+      "Mudskippers dig burrows in the mud and carry mouthfuls of air down into them, blowing bubbles into a hidden chamber so that eggs kept there have oxygen even when the burrow water is foul."
+    ],
+    "wow": "A male mudskipper courts by leaping into the air and slapping back down on the mud, making a display visible right across the flats.",
+    "discovery": "Mudskippers have been familiar to people living beside mangroves for as long as anyone has fished there, but they became scientifically interesting for a different reason. When fossils of early four-legged animals were found, biologists wanted a living example of how a fish might manage on land. Careful work from the 1960s onwards measured how mudskippers breathe, move and keep damp, and gave a real, testable picture rather than guesswork about creatures long dead.",
+    "unknown": "How closely a mudskipper resembles the animals that first left the water is genuinely unclear — it is a modern fish that took its own path, not a living fossil. Researchers are also still working out how it manages salt and water balance while flopping between seawater, fresh rain and open air.",
+    "image": "img/animals/fish-that-walks-on-land.webp",
+    "quiz": [
+      {
+        "q": "How does a mudskipper breathe on land?",
+        "a": [
+          "Carries water over its gills and uses its skin",
+          "It has lungs like ours"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Why must it stay damp?",
+        "a": [
+          "Its skin absorbs oxygen only when wet",
+          "To keep cool"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": false,
+    "reviewed": true
+  },
+  {
+    "id": "honey-never-spoils",
+    "category": "animals",
+    "title": "Honey Never Goes Bad",
+    "emoji": "🍯",
+    "hook": "Archaeologists have found honey in ancient tombs that is still edible.",
+    "story": [
+      "Nearly all food spoils because microbes grow in it, and microbes need water. Honey is a sugar solution so concentrated that there is almost no free water left — any bacterium landing in it has the water pulled straight out of its body. The same principle preserves jam and salted fish, but honey takes it further.",
+      "Bees start with nectar that is mostly water and fan it with their wings until it thickens. They also add an enzyme that slowly produces a small amount of hydrogen peroxide, a mild disinfectant. Honey is acidic too. Together these make it one of the most hostile places on Earth for a microbe.",
+      "This only lasts while the honey stays sealed. Leave a jar open in a damp kitchen and it draws water out of the air until the surface is dilute enough for yeasts to grow, and then it ferments. Crystallised honey has not spoiled — the sugar has simply come out of solution, and gentle warming dissolves it again."
+    ],
+    "wow": "Honey has been used on wounds for thousands of years, and some hospitals still use medical-grade honey on stubborn ones today.",
+    "discovery": "The preserving power was known long before the reason. Egyptians used honey in embalming and left jars in tombs; pots found in the tomb of Tutankhamun's great-grandparents were reported still recognisable as honey. The explanation came with microbiology in the nineteenth and twentieth centuries, once scientists understood that microbes need water and that drawing water out of them kills them — the same insight that explains why salting and drying preserve food.",
+    "unknown": "Exactly which components give particular honeys their germ-killing strength is still being sorted out. Manuka honey contains an unusual compound that other honeys lack, and researchers continue to test how much of the medical effect comes from that, from the peroxide, or simply from the sugar.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "Why does honey not spoil?",
+        "a": [
+          "There is almost no free water for microbes",
+          "It is frozen naturally"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What does crystallised honey mean?",
+        "a": [
+          "The sugar came out of solution — it is fine",
+          "It has gone bad"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": false,
+    "reviewed": true
+  }
+]

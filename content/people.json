@@ -1,0 +1,254 @@
+[
+  {
+    "id": "ibn-al-haytham",
+    "category": "people",
+    "title": "The Man Who Invented Testing",
+    "emoji": "🔬",
+    "hook": "A thousand years ago, one scholar insisted that you must test an idea, not just argue it.",
+    "story": [
+      "Ibn al-Haytham was born around 965 in Basra, in what is now Iraq, and spent most of his working life in Cairo. In his time the accepted account of vision came from ancient Greek authorities, and several of them held that the eye sends out rays which touch the world and feel it, rather like invisible fingers. It was quoted confidently because Ptolemy and Euclid had said so.",
+      "He refused to settle the question by citing an authority, which was the genuinely radical part. Instead he built a dark chamber with a small hole in one wall and watched an upside-down image of the outside world appear on the opposite wall. If the eye sent out rays, a room should not be able to see. He worked through lenses, mirrors, shadows and reflections, and concluded that light travels in straight lines from objects into the eye.",
+      "More important than any single result was how he worked. Do an experiment. Write down exactly what you did and what happened, so that someone else can repeat it and disagree. Treat your own conclusions as things to be attacked. He wrote that a seeker after truth should suspect the writings of others and question his own findings from every side, so that he does not fall into prejudice — which is close to a description of science three centuries before Europe assembled one.",
+      "His Book of Optics was translated into Latin and shaped European thinkers from Roger Bacon to Kepler. There is a story, impossible to verify, that he produced much of it while under house arrest in Cairo after promising the ruler he could dam the Nile and then realising the task was far beyond the engineering of the age. Whether or not that is true, he is one reason we now expect an idea to be tested rather than merely argued."
+    ],
+    "wow": "He wrote much of his greatest work while under house arrest, after a plan of his to dam the Nile proved impossible.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "What did Ibn al-Haytham show about vision?",
+        "a": [
+          "Light travels into the eye",
+          "The eye sends out rays"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What was his most important habit?",
+        "a": [
+          "Testing ideas and recording the method",
+          "Quoting the old authorities"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": false,
+    "reviewed": true
+  },
+  {
+    "id": "marie-curie",
+    "category": "people",
+    "title": "Marie Curie",
+    "emoji": "☢️",
+    "hook": "She discovered two elements, won two Nobel Prizes, and drove x-ray vans to the front line.",
+    "story": [
+      "Maria Skłodowska grew up in Warsaw under Russian rule, where universities did not admit women and Polish learning was suppressed. She studied in secret at an underground night school, then worked as a governess for years while sending money to support her sister's studies in Paris, on the understanding that her sister would later support her. Both kept the bargain. She arrived in Paris at 24, lived in an unheated attic where ink froze in winter, and finished first in her physics class.",
+      "Working with her husband Pierre, she investigated the strange rays coming from uranium and made the crucial leap: the effect came from inside the atoms themselves, not from any chemical reaction. At the time atoms were thought to be indivisible and unchanging, so this was a genuine break with what everyone believed. Sifting through tonnes of a sticky black mineral waste in a leaking shed, the couple extracted two new elements — polonium, named for the homeland that did not officially exist, and radium.",
+      "She won the Nobel Prize in Physics in 1903, and only after Pierre insisted that her name be added to the nomination. After he was killed by a horse-drawn wagon in 1906 she took over his professorship, the first woman to teach at the Sorbonne, and in 1911 won a second Nobel Prize, in Chemistry. She remains the only person to have won in two different sciences.",
+      "When war came in 1914 she did something intensely practical. Realising that wounded soldiers were dying because surgeons could not locate bullets and shattered bone, she raised money for mobile X-ray units, learned to drive and to repair the vehicles, trained women to operate them, and drove to the front herself with her teenage daughter. Over a million wounded men were examined. She died in 1934 of an illness almost certainly caused by her own work, and her notebooks are still radioactive."
+    ],
+    "wow": "Her notebooks are still radioactive, and must be handled with protective clothing.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "What was new about her finding?",
+        "a": [
+          "The rays came from inside atoms",
+          "Uranium was a metal"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What did she do in the First World War?",
+        "a": [
+          "Built and drove mobile x-ray units",
+          "Worked as a nurse"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": false,
+    "reviewed": true
+  },
+  {
+    "id": "ada-lovelace",
+    "category": "people",
+    "title": "Ada Lovelace",
+    "emoji": "💻",
+    "hook": "She wrote instructions for a computer that had not been built yet.",
+    "story": [
+      "Ada Byron was born in London in 1815, the daughter of the poet Lord Byron, who left within weeks and never saw her again. Her mother, fearing that poetry had ruined the father, had her taught mathematics and logic intensively from early childhood — an unusual education for a girl of that period, and one designed to keep imagination in check. It did not work as intended.",
+      "At seventeen she met Charles Babbage, who was designing an enormous mechanical calculating machine of brass gears, cranks and punched cards called the Analytical Engine. It was never built in his lifetime — the engineering was at the limit of what Victorian workshops could manage, and funding collapsed — but the design was serious and complete.",
+      "In 1843 Ada translated an Italian article describing the machine, and added notes of her own. The notes ran three times longer than the article. In one, labelled Note G, she worked through exactly how the engine could be instructed, step by step, to calculate a difficult sequence of numbers, including how it would loop back and repeat operations. It is a program, written for a computer that did not exist, and it is why she is often called the first programmer.",
+      "She also saw something Babbage did not. He thought of his machine as a calculator for numbers. Ada argued that if any subject — music, letters, images — could be represented by symbols, then the engine could operate on those symbols too, and might one day compose elaborate pieces of music. That leap, from arithmetic to information in general, is essentially what a computer turned out to be. She also wrote, carefully, that the machine could originate nothing, and could only do what we know how to order it to perform — an argument people are still having about computers today. She died at 36."
+    ],
+    "wow": "She also wrote that the machine could never truly originate anything, only do what we order it to perform — an argument people still debate about computers today.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "What did Ada Lovelace write?",
+        "a": [
+          "A program for a machine not yet built",
+          "A book about gears"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What did she realise the machine could handle?",
+        "a": [
+          "Anything that can be written as symbols",
+          "Only numbers"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": false,
+    "reviewed": true
+  },
+  {
+    "id": "alan-turing",
+    "category": "people",
+    "title": "Alan Turing",
+    "emoji": "🧩",
+    "hook": "He imagined what a computer could be, then helped break a code that shortened a war.",
+    "story": [
+      "In 1936, before any computer existed, Alan Turing published a paper describing an imaginary machine: an endless strip of tape, a head that could read and write symbols on it, and a simple table of rules. He proved that such a machine could carry out any calculation that can be described as a step-by-step procedure — and also, in the same paper, that some questions can never be answered by any machine at all, no matter how long it runs. Every computer built since has been a version of his idea.",
+      "During the Second World War he worked at Bletchley Park on German military codes. The Enigma machine scrambled messages differently every day, giving so many possible settings that testing them by hand was hopeless. Turing helped design an electro-mechanical machine that hunted instead for contradictions — assuming a setting, following the consequences, and discarding it the moment something impossible appeared. That let the team throw away billions of wrong answers quickly.",
+      "Decoded messages helped route Atlantic convoys around waiting submarines, and historians generally think the work shortened the war by around two years. It was also secret for decades, so almost nobody knew what he had done, and he could not put it on a curriculum vitae.",
+      "Britain treated him appallingly afterwards. In 1952 he reported a burglary, the investigation revealed a relationship with a man, and he was prosecuted for gross indecency — homosexuality was then a crime. He was given hormone treatment as an alternative to prison and stripped of his security clearance. He died in 1954, aged 41, from cyanide poisoning, generally recorded as suicide. An official government apology came in 2009 and a royal pardon in 2013. He had by then also proposed the question that still shapes arguments about artificial intelligence: if you cannot tell a machine's answers from a person's, on what grounds do you insist it does not think?"
+    ],
+    "wow": "He also proposed a test for machine intelligence: if you cannot tell a machine's answers from a person's, on what basis do you deny it thinks?",
+    "image": null,
+    "quiz": [
+      {
+        "q": "What did Turing describe in 1936?",
+        "a": [
+          "An imaginary machine that could compute anything",
+          "The first real computer"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What did his wartime work do?",
+        "a": [
+          "Helped break enemy codes",
+          "Built better ships"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": false,
+    "reviewed": true
+  },
+  {
+    "id": "katherine-johnson",
+    "category": "people",
+    "title": "Katherine Johnson",
+    "emoji": "🚀",
+    "hook": "An astronaut refused to fly until she had checked the computer's sums by hand.",
+    "story": [
+      "Katherine Johnson was a mathematician at what became NASA, hired into a pool of women who worked out calculations by hand, with pencils and mechanical adding machines. Their job title was literally computer, because that is what the word meant before it meant a machine. Black staff were assigned to a segregated section, required to use separate facilities, and kept out of meetings.",
+      "She kept asking to attend the engineers' briefings where the work was actually decided. The standard answer was that women did not go. She asked whether there was a law against it, kept asking, and eventually they stopped objecting — a small, stubborn act repeated until it worked.",
+      "Her speciality was orbital mechanics: calculating the path a spacecraft must follow to leave the Earth, arrive where it is meant to, and come down in the right stretch of ocean. She worked out the trajectory for Alan Shepard's flight in 1961, the first American in space, which had to be precise because the capsule could not steer itself.",
+      "In 1962, before John Glenn became the first American to orbit the Earth, NASA had switched to electronic computers — and nobody entirely trusted them yet. Glenn asked engineers to have the girl check the numbers, meaning Johnson specifically, and said that if she confirmed them he was ready to go. She spent days working through the machine's output by hand. The numbers matched. He flew. She went on to work on the Apollo Moon landings, including calculations for the flight that carried Armstrong and Aldrin, and on the rescue of Apollo 13. She received the Presidential Medal of Freedom in 2015, aged 97, and died at 101."
+    ],
+    "wow": "She received America's highest civilian honour in 2015, aged 97, and lived to 101.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "What did Katherine Johnson calculate?",
+        "a": [
+          "Flight paths for spacecraft",
+          "Rocket fuel recipes"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Why did John Glenn ask for her?",
+        "a": [
+          "He wanted her to check the computer",
+          "She was the flight director"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": false,
+    "reviewed": true
+  },
+  {
+    "id": "jane-goodall",
+    "category": "people",
+    "title": "Jane Goodall",
+    "emoji": "🐒",
+    "hook": "She watched chimpanzees make tools, and forced science to redefine what a human is.",
+    "story": [
+      "Jane Goodall arrived at Gombe in what is now Tanzania in 1960, aged 26, to study wild chimpanzees. She had no university degree, which many scientists held against her, and she had been chosen partly for that reason: the palaeontologist Louis Leakey wanted an observer whose mind had not been shaped by existing theory. Colonial officials refused to let a young woman live alone in the bush, so her mother came with her for the first months.",
+      "She worked differently from the accepted method. She sat still for weeks until the chimpanzees stopped fleeing, and she gave them names — David Greybeard, Flo, Fifi — rather than numbers, which was criticised as sentimental and unscientific. It turned out to reveal something real: chimpanzees have distinct, lasting personalities, and treating them as interchangeable specimens hides that.",
+      "Then, in her first year, she watched David Greybeard pick a twig, strip the leaves from it, push it into a termite mound and pull it out covered in termites to eat. He had not found a tool. He had made one, modifying an object for a purpose. At the time, toolmaking was widely used as the line separating humans from animals. Leakey wrote back that science must now either redefine tool, redefine man, or accept chimpanzees as human.",
+      "She kept recording things people did not want to hear: chimpanzees hunting and eating monkeys, comforting each other after conflict, adopting orphans, and — over four grim years in the 1970s — systematically killing members of a neighbouring group in what looked uncomfortably like war. She later left fieldwork for campaigning, spending decades travelling to argue for conservation, and was still speaking publicly into her nineties."
+    ],
+    "wow": "She was still travelling and speaking about conservation into her nineties.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "What did she see David Greybeard do?",
+        "a": [
+          "Make a tool from a twig",
+          "Use a stone as a hammer"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Why was that important?",
+        "a": [
+          "Toolmaking was thought to be uniquely human",
+          "Chimps were thought to eat only fruit"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": false,
+    "reviewed": true
+  },
+  {
+    "id": "srinivasa-ramanujan",
+    "category": "people",
+    "title": "Srinivasa Ramanujan",
+    "emoji": "🔢",
+    "hook": "A clerk in Madras posted strange formulas to a Cambridge professor. Most of them were right.",
+    "story": [
+      "Srinivasa Ramanujan was born in 1887 in Erode, in southern India, into a poor Brahmin family. He encountered a second-hand book of mathematical results as a teenager and worked through it obsessively, deriving and extending everything in it. He was so absorbed that he failed his other subjects, lost his scholarship twice, and never completed a degree. He took a job as a shipping clerk in Madras and filled notebooks in his spare time.",
+      "What he produced was unlike ordinary mathematics. He wrote down results — infinite series, strange identities, formulas for counting — often with no proof at all, saying the ideas came to him, sometimes crediting the family goddess. Several were astonishingly accurate: one of his series for pi produces eight correct digits with every term, and is still used in software today.",
+      "In 1913 he posted a letter of these results to the Cambridge mathematician G. H. Hardy. Hardy's first reaction was that it must be a fraud, because the formulas were too strange to invent and too difficult to have come from nowhere. Then he worked through them and concluded they had to be genuine, since, as he put it, nobody could have the imagination to invent them falsely. He arranged for Ramanujan to come to England.",
+      "The five years that followed produced extraordinary work and considerable misery. Ramanujan was a strict vegetarian in wartime England, where food was rationed and suitable ingredients were scarce, and he was often cold, isolated and unwell. He returned to India in 1919 and died the following year, aged 32. His notebooks kept mathematicians busy for a century; a lost notebook rediscovered in 1976 contained results that turned out to matter in the study of black holes."
+    ],
+    "wow": "Told that the number 1729 was dull, he replied instantly that it was the smallest number expressible as two cubes added together in two different ways.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "How did Ramanujan learn mathematics?",
+        "a": [
+          "Largely on his own",
+          "At a famous university"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What was unusual about his results?",
+        "a": [
+          "He often gave no proof",
+          "They were all wrong"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": false,
+    "reviewed": true
+  }
+]
