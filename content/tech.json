@@ -197,7 +197,7 @@
       "Two everyday puzzles fall out of this. The back of a fridge is warm because that is where the heat is being dumped. And leaving the fridge door open will not cool a kitchen: every bit of heat removed from inside is delivered straight back into the same room, along with extra heat from the motor doing the work. Run it long enough with the door open and the room gets warmer, not cooler."
     ],
     "wow": "An air conditioner is the same machine with the hot end hanging outside the window.",
-    "image": null,
+    "image": "img/tech/how-a-fridge-makes-cold.webp",
     "quiz": [
       {
         "q": "What does a fridge actually do?",
@@ -233,7 +233,7 @@
       "What happens next tells you something about the weather. If the high air is dry, the crystals evaporate within seconds and the line disappears close behind the aircraft. If the air up there is already damp, the trail persists, spreads sideways, and can last for hours, sometimes merging into a general haze across the sky. A sky criss-crossed with long-lasting trails often means moisture is moving in aloft, which is why some people read them as a sign of coming weather. Scientists take them seriously for another reason: those thin ice clouds trap heat, and their effect on the climate is a real subject of study."
     ],
     "wow": "When almost all flights stopped for a few days in 2001, scientists were able to measure how much contrails had been affecting temperatures.",
-    "image": null,
+    "image": "img/tech/why-planes-leave-white-trails.webp",
     "quiz": [
       {
         "q": "What is a contrail made of?",
@@ -269,7 +269,7 @@
       "The oddities all follow from water. Dry things barely heat, because there is nothing to twist. A microwave cannot brown or crisp food, since the surface never gets much hotter than boiling water. Metal reflects the waves and concentrates charge at sharp edges, which is why a fork sparks. And grapes, oddly, can produce a burst of plasma, because their size happens to focus the waves into the small bridge of skin between the halves."
     ],
     "wow": "Spencer received about two dollars for the patent, which is what his employer paid for any invention.",
-    "image": null,
+    "image": "img/tech/how-a-microwave-works.webp",
     "quiz": [
       {
         "q": "What do microwaves make move?",
@@ -305,7 +305,7 @@
       "Left uncorrected, satellite clocks would gain about 38 millionths of a second every day against clocks on the ground. That sounds negligible. In terms of distance it is roughly ten kilometres of error within twenty-four hours, growing every day after that. So the clocks are deliberately set to tick at the wrong rate before launch, so that they run correctly once in orbit. Every time a map app finds you, a theory published in 1915 is quietly keeping it honest."
     ],
     "wow": "Every time a map app finds you, a theory from 1915 is quietly being used to keep it honest.",
-    "image": null,
+    "image": "img/tech/how-gps-knows-where-you-are.webp",
     "quiz": [
       {
         "q": "How does your phone work out its position?",
@@ -377,7 +377,7 @@
       "People have made soap for over four thousand years by boiling fat with wood ash, long before anyone could explain why it worked. Ash provides a strong alkali, and the reaction between it and fat produces exactly these two-ended molecules. The Babylonians left instructions on clay tablets, and the method barely changed for millennia — a useful reminder that knowing how to do something and knowing why it works are very different kinds of knowledge."
     ],
     "wow": "Soap has been made for over four thousand years, from fat boiled with wood ash, long before anyone knew why it worked.",
-    "image": null,
+    "image": "img/tech/how-soap-works.webp",
     "quiz": [
       {
         "q": "What is special about a soap molecule?",
@@ -413,7 +413,7 @@
       "The whole effect depends on light behaving as separate particles rather than a continuous wave, because a dim red light produces nothing at all while a faint blue one works. Explaining precisely that was the work for which Einstein received the Nobel Prize in 1921 — not relativity, as almost everyone assumes. One practical quirk: panels actually work slightly less well when very hot, so a cool bright day can beat a scorching one."
     ],
     "wow": "Panels work less well when very hot, which is why a cool bright day can beat a scorching one.",
-    "image": null,
+    "image": "img/tech/how-solar-panels-work.webp",
     "quiz": [
       {
         "q": "What does a solar panel have that a power station does not?",
@@ -449,7 +449,7 @@
       "A microphone is the same machine run backwards. Air pushes a thin membrane attached to a coil, the coil moves near a magnet, and that movement generates a small current — which is why a small speaker will work as a rough microphone if you wire it up that way. Cone size explains the rest of a sound system: large cones move a lot of air slowly and produce deep notes, small ones move quickly and produce high notes, so a good speaker box usually contains several sizes working together."
     ],
     "wow": "Big cones move slowly and make deep notes; small ones move fast and make high notes, which is why speakers come in different sizes.",
-    "image": null,
+    "image": "img/tech/how-speakers-make-sound.webp",
     "quiz": [
       {
         "q": "What actually makes the sound?",
@@ -522,7 +522,7 @@
       "What actually matters is subtler: when the bike begins to tip, the front wheel steers slightly into the fall, which swings the wheels back under the centre of mass. Any combination of mass distribution and geometry that produces that steering-into-the-fall will balance. Riding is the same trick, done deliberately — which is why you cannot balance a bicycle while holding the handlebars rigidly straight."
     ],
     "wow": "Turning a bicycle starts by briefly steering the wrong way — push the right bar to go right. Experienced riders do it without knowing.",
-    "image": null,
+    "image": "img/tech/how-a-bicycle-stays-up.webp",
     "quiz": [
       {
         "q": "Do gyroscopes explain bicycle balance?",
@@ -632,7 +632,7 @@
       "Flat glass was the hard part for most of history: sheets had to be blown, spun or ground, and were never quite even. The modern method, invented in the 1950s, is beautifully simple. Molten glass is poured onto a bath of molten tin. Glass floats on tin, and a liquid surface is perfectly flat, so the sheet sets dead level on both sides without being touched."
     ],
     "wow": "Lightning striking sand can fuse it into a natural glass tube called a fulgurite, branching like a frozen bolt.",
-    "image": null,
+    "image": "img/tech/glass-is-made-from-sand.webp",
     "quiz": [
       {
         "q": "Why is glass transparent?",
@@ -743,7 +743,7 @@
       "The consequence was not just safer buildings but taller ones. Once people would ride upward, height became valuable, top floors turned from the cheapest into the most expensive, and the skyline of every large city changed shape."
     ],
     "wow": "A lift car hangs from several cables at once, and just one of them is usually rated to carry the whole load.",
-    "image": null,
+    "image": "img/tech/why-lifts-are-safe.webp",
     "quiz": [
       {
         "q": "What did Otis demonstrate in 1853?",

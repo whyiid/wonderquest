@@ -164,7 +164,7 @@
       "title": "How a Cat Twists in Mid-Air",
       "emoji": "🐈",
       "hook": "A falling cat turns itself the right way up with nothing to push against.",
-      "image": null,
+      "image": "img/animals/cats-land-on-their-feet.webp",
       "readingLevel": 3,
       "keywords": "how a cat twists in mid-air a falling cat turns itself the right way up with nothing to push against. cats need a little height to complete the turn — they manage it best from about a metre or more."
     },
@@ -364,7 +364,7 @@
       "title": "A Fish That Builds a Battery",
       "emoji": "⚡",
       "hook": "An electric eel can deliver a jolt of 800 volts — more than a wall socket.",
-      "image": null,
+      "image": "img/animals/electric-eel-shock.webp",
       "readingLevel": 3,
       "keywords": "a fish that builds a battery an electric eel can deliver a jolt of 800 volts — more than a wall socket. volta named his first battery the 'artificial electric organ' — he built it after studying electric fish."
     },
@@ -434,7 +434,7 @@
       "title": "Why the Moon Changes Shape",
       "emoji": "🌒",
       "hook": "The Moon never changes shape. You just see a different part of it lit.",
-      "image": null,
+      "image": "img/space/why-the-moon-has-phases.webp",
       "readingLevel": 3,
       "keywords": "why the moon changes shape the moon never changes shape. you just see a different part of it lit. the moon keeps the same face towards us at all times, so nobody on earth saw its far side until a spacecraft photographed it in 1959."
     },
@@ -444,7 +444,7 @@
       "title": "A Shooting Star Is a Grain of Sand",
       "emoji": "☄️",
       "hook": "That brilliant streak across the sky is usually smaller than a pea.",
-      "image": null,
+      "image": "img/space/shooting-stars-are-tiny.webp",
       "readingLevel": 3,
       "keywords": "a shooting star is a grain of sand that brilliant streak across the sky is usually smaller than a pea. tonnes of this dust arrive every single day, quietly, mostly unnoticed."
     },
@@ -464,7 +464,7 @@
       "title": "Mountains Are Still Growing",
       "emoji": "🏔️",
       "hook": "Everest is taller this year than it was last year.",
-      "image": null,
+      "image": "img/space/how-mountains-grow.webp",
       "readingLevel": 3,
       "keywords": "mountains are still growing everest is taller this year than it was last year. marine fossils have been found near the top of everest — that rock was once the floor of a sea."
     },
@@ -484,7 +484,7 @@
       "title": "Seasons Are Not About Distance",
       "emoji": "🍂",
       "hook": "Earth is closest to the Sun in January — during the northern winter.",
-      "image": null,
+      "image": "img/space/why-we-have-seasons.webp",
       "readingLevel": 3,
       "keywords": "seasons are not about distance earth is closest to the sun in january — during the northern winter. at the poles the tilt is so extreme that the sun does not set for months, then does not rise for months."
     },
@@ -494,7 +494,7 @@
       "title": "Rain Needs Something to Start On",
       "emoji": "🌧️",
       "hook": "Clean air cannot rain. A raindrop needs a speck of dust to form around.",
-      "image": null,
+      "image": "img/space/where-rain-comes-from.webp",
       "readingLevel": 3,
       "keywords": "rain needs something to start on clean air cannot rain. a raindrop needs a speck of dust to form around. raindrops are not tear-shaped. falling drops flatten underneath, more like a tiny hamburger bun."
     },
@@ -534,7 +534,7 @@
       "title": "The Next Star Is Terribly Far",
       "emoji": "✨",
       "hook": "The nearest star after the Sun is so far that its light takes four years to arrive.",
-      "image": null,
+      "image": "img/space/how-far-the-nearest-star.webp",
       "readingLevel": 3,
       "keywords": "the next star is terribly far the nearest star after the sun is so far that its light takes four years to arrive. if a star you can see tonight vanished this instant, people would keep seeing it for years, and nobody would know."
     },
@@ -544,7 +544,7 @@
       "title": "The Sun Is Not Yellow",
       "emoji": "☀️",
       "hook": "Every drawing gets it wrong: the Sun is white.",
-      "image": null,
+      "image": "img/space/the-sun-is-white.webp",
       "readingLevel": 3,
       "keywords": "the sun is not yellow every drawing gets it wrong: the sun is white. never look directly at the sun to check. the damage to your eyes happens without pain and does not heal."
     },
@@ -744,7 +744,7 @@
       "title": "Why Your Recorded Voice Sounds Wrong",
       "emoji": "🎙️",
       "hook": "The voice in a recording is the one everyone else has always heard.",
-      "image": null,
+      "image": "img/body/your-recorded-voice.webp",
       "readingLevel": 3,
       "keywords": "why your recorded voice sounds wrong the voice in a recording is the one everyone else has always heard. some hearing aids use this deliberately, sending sound through the skull bone instead of the ear canal."
     },
@@ -764,7 +764,7 @@
       "title": "You Are Wearing Your Largest Organ",
       "emoji": "🧴",
       "hook": "Skin is not a wrapper. It is an organ, and the biggest one you have.",
-      "image": null,
+      "image": "img/body/skin-is-your-biggest-organ.webp",
       "readingLevel": 3,
       "keywords": "you are wearing your largest organ skin is not a wrapper. it is an organ, and the biggest one you have. a layer only a fraction of a millimetre thick — the outer dead cells — is what keeps you from drying out."
     },
@@ -864,7 +864,7 @@
       "title": "A Fridge Does Not Make Cold",
       "emoji": "🧊",
       "hook": "There is no such thing as cold. A fridge moves heat out, it does not put cold in.",
-      "image": null,
+      "image": "img/tech/how-a-fridge-makes-cold.webp",
       "readingLevel": 3,
       "keywords": "a fridge does not make cold there is no such thing as cold. a fridge moves heat out, it does not put cold in. an air conditioner is the same machine with the hot end hanging outside the window."
     },
@@ -874,7 +874,7 @@
       "title": "Why Planes Leave White Lines",
       "emoji": "🛫",
       "hook": "Those white trails behind a plane are clouds it made itself.",
-      "image": null,
+      "image": "img/tech/why-planes-leave-white-trails.webp",
       "readingLevel": 3,
       "keywords": "why planes leave white lines those white trails behind a plane are clouds it made itself. when almost all flights stopped for a few days in 2001, scientists were able to measure how much contrails had been affecting temperatures."
     },
@@ -884,7 +884,7 @@
       "title": "The Melted Chocolate Bar",
       "emoji": "🍫",
       "hook": "A microwave oven was invented because a chocolate bar melted in someone's pocket.",
-      "image": null,
+      "image": "img/tech/how-a-microwave-works.webp",
       "readingLevel": 3,
       "keywords": "the melted chocolate bar a microwave oven was invented because a chocolate bar melted in someone's pocket. spencer received about two dollars for the patent, which is what his employer paid for any invention."
     },
@@ -894,7 +894,7 @@
       "title": "Your Map Needs Einstein",
       "emoji": "🛰️",
       "hook": "Satellite navigation would drift ten kilometres off in a day without a correction for time itself.",
-      "image": null,
+      "image": "img/tech/how-gps-knows-where-you-are.webp",
       "readingLevel": 3,
       "keywords": "your map needs einstein satellite navigation would drift ten kilometres off in a day without a correction for time itself. every time a map app finds you, a theory from 1915 is quietly being used to keep it honest."
     },
@@ -914,7 +914,7 @@
       "title": "Soap Grabs Grease at Both Ends",
       "emoji": "🫧",
       "hook": "Water alone cannot shift grease. Soap acts as a translator between them.",
-      "image": null,
+      "image": "img/tech/how-soap-works.webp",
       "readingLevel": 3,
       "keywords": "soap grabs grease at both ends water alone cannot shift grease. soap acts as a translator between them. soap has been made for over four thousand years, from fat boiled with wood ash, long before anyone knew why it worked."
     },
@@ -924,7 +924,7 @@
       "title": "Turning Light Straight Into Electricity",
       "emoji": "☀️",
       "hook": "A solar panel has no moving parts at all, yet it makes electricity from sunshine.",
-      "image": null,
+      "image": "img/tech/how-solar-panels-work.webp",
       "readingLevel": 3,
       "keywords": "turning light straight into electricity a solar panel has no moving parts at all, yet it makes electricity from sunshine. panels work less well when very hot, which is why a cool bright day can beat a scorching one."
     },
@@ -934,7 +934,7 @@
       "title": "How a Speaker Makes Sound",
       "emoji": "🔊",
       "hook": "A speaker is a magnet, a coil of wire, and a piece of card that pushes air.",
-      "image": null,
+      "image": "img/tech/how-speakers-make-sound.webp",
       "readingLevel": 3,
       "keywords": "how a speaker makes sound a speaker is a magnet, a coil of wire, and a piece of card that pushes air. big cones move slowly and make deep notes; small ones move fast and make high notes, which is why speakers come in different sizes."
     },
@@ -954,7 +954,7 @@
       "title": "Nobody Fully Agrees How a Bicycle Balances",
       "emoji": "🚲",
       "hook": "A moving bicycle can balance itself with nobody on it — and the reason is still argued about.",
-      "image": null,
+      "image": "img/tech/how-a-bicycle-stays-up.webp",
       "readingLevel": 3,
       "keywords": "nobody fully agrees how a bicycle balances a moving bicycle can balance itself with nobody on it — and the reason is still argued about. turning a bicycle starts by briefly steering the wrong way — push the right bar to go right. experienced riders do it without knowing."
     },
@@ -984,7 +984,7 @@
       "title": "Windows Are Melted Sand",
       "emoji": "🪟",
       "hook": "Glass is sand, heated until it forgets how to be a solid properly.",
-      "image": null,
+      "image": "img/tech/glass-is-made-from-sand.webp",
       "readingLevel": 3,
       "keywords": "windows are melted sand glass is sand, heated until it forgets how to be a solid properly. lightning striking sand can fuse it into a natural glass tube called a fulgurite, branching like a frozen bolt."
     },
@@ -1014,7 +1014,7 @@
       "title": "The Demonstration That Sold the Lift",
       "emoji": "🛗",
       "hook": "Lifts existed before anyone trusted them. One man fixed that by cutting his own rope.",
-      "image": null,
+      "image": "img/tech/why-lifts-are-safe.webp",
       "readingLevel": 3,
       "keywords": "the demonstration that sold the lift lifts existed before anyone trusted them. one man fixed that by cutting his own rope. a lift car hangs from several cables at once, and just one of them is usually rated to carry the whole load."
     },
@@ -1024,7 +1024,7 @@
       "title": "The Mould That Saved Millions",
       "emoji": "🧫",
       "hook": "A scientist went on holiday, left his dishes dirty, and changed medicine forever.",
-      "image": null,
+      "image": "img/discoveries/penicillin-by-accident.webp",
       "readingLevel": 3,
       "keywords": "the mould that saved millions a scientist went on holiday, left his dishes dirty, and changed medicine forever. the strain used for worldwide production came from a mouldy melon bought in a market in illinois."
     },
@@ -1034,7 +1034,7 @@
       "title": "The Ray Nobody Expected",
       "emoji": "🩻",
       "hook": "A physicist noticed a glow across his dark laboratory — and found a way to see inside people.",
-      "image": null,
+      "image": "img/discoveries/x-rays-discovered.webp",
       "readingLevel": 3,
       "keywords": "the ray nobody expected a physicist noticed a glow across his dark laboratory — and found a way to see inside people. röntgen refused to patent x-rays, saying the discovery belonged to humanity, and gave away his nobel prize money."
     },
@@ -1044,7 +1044,7 @@
       "title": "Wash Your Hands",
       "emoji": "🧼",
       "hook": "A doctor who told other doctors to wash their hands was thrown out of his hospital.",
-      "image": null,
+      "image": "img/discoveries/germs-cause-disease.webp",
       "readingLevel": 3,
       "keywords": "wash your hands a doctor who told other doctors to wash their hands was thrown out of his hospital. being right is not enough on its own — an explanation people can believe matters too, which is why semmelweis failed and pasteur succeeded."
     },
@@ -1084,7 +1084,7 @@
       "title": "The Idea Everyone Laughed At",
       "emoji": "🗺️",
       "hook": "One man said the continents move. It took fifty years and his death before anyone believed him.",
-      "image": null,
+      "image": "img/discoveries/continents-that-move.webp",
       "readingLevel": 3,
       "keywords": "the idea everyone laughed at one man said the continents move. it took fifty years and his death before anyone believed him. africa and south america are still separating, at roughly the speed your fingernails grow."
     },
@@ -1094,7 +1094,7 @@
       "title": "The Apple Was the Easy Part",
       "emoji": "🍎",
       "hook": "Newton's real leap was not that apples fall. It was that the Moon is falling too.",
-      "image": null,
+      "image": "img/discoveries/newton-and-gravity.webp",
       "readingLevel": 3,
       "keywords": "the apple was the easy part newton's real leap was not that apples fall. it was that the moon is falling too. astronauts on the space station are not weightless because gravity is absent. they are falling, and missing the earth."
     },
@@ -1104,7 +1104,7 @@
       "title": "Two People Had the Same Idea",
       "emoji": "🐢",
       "hook": "Darwin sat on his theory for twenty years — until a letter arrived from Indonesia.",
-      "image": null,
+      "image": "img/discoveries/darwin-and-wallace.webp",
       "readingLevel": 3,
       "keywords": "two people had the same idea darwin sat on his theory for twenty years — until a letter arrived from indonesia. the wallace line exists because deep water kept those islands separate even when sea levels fell and others joined up."
     },
@@ -1114,7 +1114,7 @@
       "title": "The Table That Predicted Missing Things",
       "emoji": "🧪",
       "hook": "Mendeleev left gaps in his table — then described the elements that would fill them.",
-      "image": null,
+      "image": "img/discoveries/mendeleev-periodic-table.webp",
       "readingLevel": 3,
       "keywords": "the table that predicted missing things mendeleev left gaps in his table — then described the elements that would fill them. element 101 is named mendelevium, after him — a rare honour for someone whose table had to wait for physics to explain it."
     },
@@ -1254,7 +1254,7 @@
       "title": "The Road That Was Not a Road",
       "emoji": "🐫",
       "hook": "Almost nobody travelled the whole Silk Road. Goods did.",
-      "image": null,
+      "image": "img/history/the-silk-road.webp",
       "readingLevel": 3,
       "keywords": "the road that was not a road almost nobody travelled the whole silk road. goods did. paper reached europe roughly a thousand years after its invention in china — slow by our standards, extraordinary by theirs."
     },
@@ -1304,7 +1304,7 @@
       "title": "The Man Who Invented Testing",
       "emoji": "🔬",
       "hook": "A thousand years ago, one scholar insisted that you must test an idea, not just argue it.",
-      "image": null,
+      "image": "img/people/ibn-al-haytham.webp",
       "readingLevel": 3,
       "keywords": "the man who invented testing a thousand years ago, one scholar insisted that you must test an idea, not just argue it. he wrote much of his greatest work while under house arrest, after a plan of his to dam the nile proved impossible."
     },
@@ -1314,7 +1314,7 @@
       "title": "Marie Curie",
       "emoji": "☢️",
       "hook": "She discovered two elements, won two Nobel Prizes, and drove x-ray vans to the front line.",
-      "image": null,
+      "image": "img/people/marie-curie.webp",
       "readingLevel": 3,
       "keywords": "marie curie she discovered two elements, won two nobel prizes, and drove x-ray vans to the front line. her notebooks are still radioactive, and must be handled with protective clothing."
     },
@@ -1324,7 +1324,7 @@
       "title": "Ada Lovelace",
       "emoji": "💻",
       "hook": "She wrote instructions for a computer that had not been built yet.",
-      "image": null,
+      "image": "img/people/ada-lovelace.webp",
       "readingLevel": 3,
       "keywords": "ada lovelace she wrote instructions for a computer that had not been built yet. she also wrote that the machine could never truly originate anything, only do what we order it to perform — an argument people still debate about computers today."
     },
@@ -1334,7 +1334,7 @@
       "title": "Alan Turing",
       "emoji": "🧩",
       "hook": "He imagined what a computer could be, then helped break a code that shortened a war.",
-      "image": null,
+      "image": "img/people/alan-turing.webp",
       "readingLevel": 3,
       "keywords": "alan turing he imagined what a computer could be, then helped break a code that shortened a war. he also proposed a test for machine intelligence: if you cannot tell a machine's answers from a person's, on what basis do you deny it thinks?"
     },
@@ -1344,7 +1344,7 @@
       "title": "Katherine Johnson",
       "emoji": "🚀",
       "hook": "An astronaut refused to fly until she had checked the computer's sums by hand.",
-      "image": null,
+      "image": "img/people/katherine-johnson.webp",
       "readingLevel": 3,
       "keywords": "katherine johnson an astronaut refused to fly until she had checked the computer's sums by hand. she received america's highest civilian honour in 2015, aged 97, and lived to 101."
     },
@@ -1354,7 +1354,7 @@
       "title": "Jane Goodall",
       "emoji": "🐒",
       "hook": "She watched chimpanzees make tools, and forced science to redefine what a human is.",
-      "image": null,
+      "image": "img/people/jane-goodall.webp",
       "readingLevel": 3,
       "keywords": "jane goodall she watched chimpanzees make tools, and forced science to redefine what a human is. she was still travelling and speaking about conservation into her nineties."
     },
@@ -1364,7 +1364,7 @@
       "title": "Srinivasa Ramanujan",
       "emoji": "🔢",
       "hook": "A clerk in Madras posted strange formulas to a Cambridge professor. Most of them were right.",
-      "image": null,
+      "image": "img/people/srinivasa-ramanujan.webp",
       "readingLevel": 3,
       "keywords": "srinivasa ramanujan a clerk in madras posted strange formulas to a cambridge professor. most of them were right. told that the number 1729 was dull, he replied instantly that it was the smallest number expressible as two cubes added together in two different ways."
     },
@@ -1374,7 +1374,7 @@
       "title": "Leonardo Finished Almost Nothing",
       "emoji": "🎨",
       "hook": "The most famous genius in history left most of his work unfinished.",
-      "image": null,
+      "image": "img/people/leonardo-da-vinci.webp",
       "readingLevel": 3,
       "keywords": "leonardo finished almost nothing the most famous genius in history left most of his work unfinished. he wrote a job application letter to the duke of milan listing his military engineering skills, and mentioned painting almost as an afterthought at the end."
     },
@@ -1384,7 +1384,7 @@
       "title": "The Man Behind the Word Algorithm",
       "emoji": "➗",
       "hook": "Two words you use in mathematics come from one scholar's name and one of his books.",
-      "image": null,
+      "image": "img/people/al-khwarizmi.webp",
       "readingLevel": 3,
       "keywords": "the man behind the word algorithm two words you use in mathematics come from one scholar's name and one of his books. try multiplying lvii by xxiii using only roman numerals, and the importance of the change becomes obvious quickly."
     },
@@ -1394,7 +1394,7 @@
       "title": "Nikola Tesla",
       "emoji": "⚡",
       "hook": "He won the argument about how to deliver electricity, and died with almost nothing.",
-      "image": null,
+      "image": "img/people/nikola-tesla.webp",
       "readingLevel": 3,
       "keywords": "nikola tesla he won the argument about how to deliver electricity, and died with almost nothing. the unit of magnetic field strength is named the tesla, and the alternating-current system he designed still powers most of the world."
     },
@@ -1404,7 +1404,7 @@
       "title": "The Book That Started an Argument",
       "emoji": "🐦",
       "hook": "A marine biologist wrote about birds falling silent, and an industry tried to destroy her.",
-      "image": null,
+      "image": "img/people/rachel-carson.webp",
       "readingLevel": 3,
       "keywords": "the book that started an argument a marine biologist wrote about birds falling silent, and an industry tried to destroy her. ddt is still used carefully in some countries against malaria-carrying mosquitoes, which is roughly the balanced position carson herself argued for."
     },
@@ -1414,7 +1414,7 @@
       "title": "She Planted Trees and It Became Politics",
       "emoji": "🌳",
       "hook": "Planting a tree sounds harmless. In Kenya in the 1970s it was treated as a threat.",
-      "image": null,
+      "image": "img/people/wangari-maathai.webp",
       "readingLevel": 3,
       "keywords": "she planted trees and it became politics planting a tree sounds harmless. in kenya in the 1970s it was treated as a threat. the nobel committee's reasoning was that you cannot have peace where resources are stripped away and people have no voice in it."
     },
@@ -1424,7 +1424,7 @@
       "title": "The Fossil Hunter Nobody Would Credit",
       "emoji": "🦕",
       "hook": "She found creatures nobody knew had existed, and was not allowed to join the society that discussed them.",
-      "image": null,
+      "image": "img/people/mary-anning.webp",
       "readingLevel": 3,
       "keywords": "the fossil hunter nobody would credit she found creatures nobody knew had existed, and was not allowed to join the society that discussed them. the tongue-twister about selling seashells by the seashore is widely believed to have been written about her."
     },
@@ -1434,7 +1434,7 @@
       "title": "The Man Who Fed a Billion People",
       "emoji": "🌾",
       "hook": "Most people have never heard of him, and he may have saved more lives than anyone.",
-      "image": null,
+      "image": "img/people/norman-borlaug.webp",
       "readingLevel": 3,
       "keywords": "the man who fed a billion people most people have never heard of him, and he may have saved more lives than anyone. estimates of lives saved by the wheat he bred usually start at several hundred million and run to a billion."
     },
@@ -1524,7 +1524,7 @@
       "title": "Where Is Everybody?",
       "emoji": "👽",
       "hook": "The galaxy is huge and old. So why has nobody called?",
-      "image": null,
+      "image": "img/mysteries/are-we-alone.webp",
       "readingLevel": 3,
       "keywords": "where is everybody? the galaxy is huge and old. so why has nobody called? our own radio signals have only reached a bubble about a hundred light years wide — a speck of the galaxy."
     },
@@ -1574,7 +1574,7 @@
       "title": "We Can Predict Gravity, Not Explain It",
       "emoji": "🪐",
       "hook": "Gravity is the force we understand best in practice and worst in principle.",
-      "image": null,
+      "image": "img/mysteries/what-gravity-really-is.webp",
       "readingLevel": 3,
       "keywords": "we can predict gravity, not explain it gravity is the force we understand best in practice and worst in principle. gravity is by far the weakest of the four forces. a small magnet lifts a paperclip against the pull of the entire planet."
     }

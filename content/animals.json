@@ -346,7 +346,7 @@
     "wow": "Cats need a little height to complete the turn — they manage it best from about a metre or more.",
     "discovery": "The argument was settled by photography. In 1894 the French scientist Étienne-Jules Marey dropped a cat and captured the fall with a camera taking sixty frames a second, then published the pictures. They showed clearly that the cat twisted its front and back halves in opposite directions. Some scientists were annoyed, insisting the cat must have pushed off from his hands. The photographs showed it had not, and the physics had to be rethought rather than the cat.",
     "unknown": "The broad mechanism is settled, but the details of how a cat decides what to do are not. How it senses which way is up so quickly, and how it chooses the exact sequence of bends from any starting position, is still being modelled — and engineers building falling robots find it much harder than cats make it look.",
-    "image": null,
+    "image": "img/animals/cats-land-on-their-feet.webp",
     "quiz": [
       {
         "q": "How does a cat turn in mid-air?",
@@ -1080,7 +1080,7 @@
       "Astonishingly, it does not shock itself badly. Its vital organs sit far from the discharge, it is well insulated, and the current mostly travels out into the water rather than through its own body."
     ],
     "wow": "Volta named his first battery the 'artificial electric organ' — he built it after studying electric fish.",
-    "image": null,
+    "image": "img/animals/electric-eel-shock.webp",
     "quiz": [
       {
         "q": "How does the eel reach such high voltage?",

@@ -235,7 +235,7 @@
     "wow": "The Moon keeps the same face towards us at all times, so nobody on Earth saw its far side until a spacecraft photographed it in 1959.",
     "discovery": "Around 450 BC the Greek thinker Anaxagoras argued that the Moon shines by reflected sunlight and that the phases follow from the angles — which also let him explain eclipses correctly. This was dangerous talk at the time, since the Moon was widely held to be a god, and he was reportedly charged with impiety. A century later Aristarchus used the shape of the half moon to attempt something extraordinary: estimating how far away the Sun is compared with the Moon, using geometry alone.",
     "unknown": "Little about phases is mysterious now, but the Moon itself still holds questions. How it formed is not settled, and samples brought back by the Apollo missions raised as many puzzles as they answered — including why the Moon's rocks look so chemically similar to Earth's if it formed from a separate impacting body.",
-    "image": null,
+    "image": "img/space/why-the-moon-has-phases.webp",
     "quiz": [
       {
         "q": "What causes the Moon's phases?",
@@ -272,7 +272,7 @@
     "wow": "Tonnes of this dust arrive every single day, quietly, mostly unnoticed.",
     "discovery": "Until 1833 meteors were widely thought to be a kind of weather. In November that year North America saw a storm of tens of thousands of meteors an hour, terrifying enough that people thought the world was ending. Astronomers noticed that all the streaks appeared to radiate from a single point among the stars, which meant the source was outside the atmosphere and moving with the Earth's own path — not weather at all. Within a few decades the link to comet trails was established.",
     "unknown": "The dust cloud around us is still poorly mapped, and predicting the strength of a shower a year ahead remains unreliable. Scientists are also still working out how much of this material reaches the ground as fine dust, and whether it carried useful chemicals to the early Earth.",
-    "image": null,
+    "image": "img/space/shooting-stars-are-tiny.webp",
     "quiz": [
       {
         "q": "How big is a typical shooting star?",
@@ -346,7 +346,7 @@
     "wow": "Marine fossils have been found near the top of Everest — that rock was once the floor of a sea.",
     "discovery": "Everest's height has been measured, argued over and re-measured for nearly two centuries, first by surveyors carrying instruments across India in the 1850s, and most recently in 2020, when Nepalese and Chinese teams climbed with GPS receivers and agreed on 8,848.86 metres. The idea that mountains form by drifting continents was ridiculed when Alfred Wegener proposed continental drift in 1912, and only accepted in the 1960s once sea-floor evidence — including Marie Tharp's maps — made it undeniable.",
     "unknown": "How high a mountain can possibly grow before its own weight crushes the rock beneath is still estimated rather than known. Geologists also cannot predict exactly how the Himalayas will behave next, and the deep plumbing of what happens to Indian crust as it is forced under Tibet remains debated.",
-    "image": null,
+    "image": "img/space/how-mountains-grow.webp",
     "quiz": [
       {
         "q": "Why are the Himalayas rising?",
@@ -420,7 +420,7 @@
     "wow": "At the poles the tilt is so extreme that the Sun does not set for months, then does not rise for months.",
     "discovery": "That the Earth is tilted was worked out remarkably early. Ancient Chinese, Indian, Babylonian and Greek astronomers all measured the Sun's changing midday height across the year and derived the angle; Eratosthenes estimated it in the third century BC with impressive accuracy. Why the tilt produces seasons became clear only once it was accepted that Earth orbits the Sun rather than the reverse, an argument that took from Copernicus in 1543 until well after Galileo to settle.",
     "unknown": "The tilt is not perfectly fixed: it wobbles slowly over tens of thousands of years, and those slow changes are thought to help trigger ice ages. Working out exactly how those small nudges produce such large climate swings is still an active problem, because the effect looks too small for the result.",
-    "image": null,
+    "image": "img/space/why-we-have-seasons.webp",
     "quiz": [
       {
         "q": "What causes seasons?",
@@ -457,7 +457,7 @@
     "wow": "Raindrops are not tear-shaped. Falling drops flatten underneath, more like a tiny hamburger bun.",
     "discovery": "The role of dust was shown in the 1880s by the Scottish physicist John Aitken, who built an apparatus to count particles in air and demonstrated that filtered, particle-free air produced almost no fog. The ice-crystal mechanism that makes most rain fall was explained in the 1930s by Tor Bergeron and Walter Findeisen. Understanding it led directly to cloud seeding, where aircraft scatter particles into clouds to encourage rain — with results that are still hotly debated.",
     "unknown": "Clouds are the biggest single uncertainty in predicting how the climate will change. Whether a warmer world grows more bright clouds that cool it, or fewer, is not settled, and that question alone shifts forecasts substantially. Exactly how droplets grow fast enough in warm clouds is also still argued over.",
-    "image": null,
+    "image": "img/space/where-rain-comes-from.webp",
     "quiz": [
       {
         "q": "What does a raindrop start on?",
@@ -604,7 +604,7 @@
       "There is one consolation. Because light takes time to travel, looking out is looking back. You see Proxima Centauri as it was four years ago, the middle of our galaxy as it was 26,000 years ago, and the Andromeda galaxy — just visible to the naked eye on a dark night — as it was two and a half million years ago, before our species existed."
     ],
     "wow": "If a star you can see tonight vanished this instant, people would keep seeing it for years, and nobody would know.",
-    "image": null,
+    "image": "img/space/how-far-the-nearest-star.webp",
     "quiz": [
       {
         "q": "How long does light from the nearest star take?",
@@ -641,7 +641,7 @@
       "Astronomers classify stars by colour, and colour tells you temperature: red stars are the coolest, then orange and yellow, then white, then blue-white for the hottest. Our Sun sits in the middle — which is why a hotter blue star is genuinely blue, not merely blue-looking."
     ],
     "wow": "Never look directly at the Sun to check. The damage to your eyes happens without pain and does not heal.",
-    "image": null,
+    "image": "img/space/the-sun-is-white.webp",
     "quiz": [
       {
         "q": "What colour is the Sun really?",

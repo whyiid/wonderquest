@@ -301,7 +301,7 @@
       "There is a quiet unease in the question. If the great filter that keeps the galaxy silent lies behind us, we were lucky. If it lies ahead, that is less comfortable."
     ],
     "wow": "Our own radio signals have only reached a bubble about a hundred light years wide — a speck of the galaxy.",
-    "image": null,
+    "image": "img/mysteries/are-we-alone.webp",
     "quiz": [
       {
         "q": "What is the Fermi paradox?",
@@ -485,7 +485,7 @@
       "So we cannot say what gravity is at the smallest scale, or what happens at the centre of a black hole, or in the first instant of the universe. Serious attempts exist — string theory and loop quantum gravity among them — and none has yet made a prediction anyone has been able to test."
     ],
     "wow": "Gravity is by far the weakest of the four forces. A small magnet lifts a paperclip against the pull of the entire planet.",
-    "image": null,
+    "image": "img/mysteries/what-gravity-really-is.webp",
     "quiz": [
       {
         "q": "How did Einstein describe gravity?",

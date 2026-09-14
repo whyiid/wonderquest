@@ -12,7 +12,7 @@
       "His Book of Optics was translated into Latin and shaped European thinkers from Roger Bacon to Kepler. There is a story, impossible to verify, that he produced much of it while under house arrest in Cairo after promising the ruler he could dam the Nile and then realising the task was far beyond the engineering of the age. Whether or not that is true, he is one reason we now expect an idea to be tested rather than merely argued."
     ],
     "wow": "He wrote much of his greatest work while under house arrest, after a plan of his to dam the Nile proved impossible.",
-    "image": null,
+    "image": "img/people/ibn-al-haytham.webp",
     "quiz": [
       {
         "q": "What did Ibn al-Haytham show about vision?",
@@ -48,7 +48,7 @@
       "When war came in 1914 she did something intensely practical. Realising that wounded soldiers were dying because surgeons could not locate bullets and shattered bone, she raised money for mobile X-ray units, learned to drive and to repair the vehicles, trained women to operate them, and drove to the front herself with her teenage daughter. Over a million wounded men were examined. She died in 1934 of an illness almost certainly caused by her own work, and her notebooks are still radioactive."
     ],
     "wow": "Her notebooks are still radioactive, and must be handled with protective clothing.",
-    "image": null,
+    "image": "img/people/marie-curie.webp",
     "quiz": [
       {
         "q": "What was new about her finding?",
@@ -84,7 +84,7 @@
       "She also saw something Babbage did not. He thought of his machine as a calculator for numbers. Ada argued that if any subject — music, letters, images — could be represented by symbols, then the engine could operate on those symbols too, and might one day compose elaborate pieces of music. That leap, from arithmetic to information in general, is essentially what a computer turned out to be. She also wrote, carefully, that the machine could originate nothing, and could only do what we know how to order it to perform — an argument people are still having about computers today. She died at 36."
     ],
     "wow": "She also wrote that the machine could never truly originate anything, only do what we order it to perform — an argument people still debate about computers today.",
-    "image": null,
+    "image": "img/people/ada-lovelace.webp",
     "quiz": [
       {
         "q": "What did Ada Lovelace write?",
@@ -120,7 +120,7 @@
       "Britain treated him appallingly afterwards. In 1952 he reported a burglary, the investigation revealed a relationship with a man, and he was prosecuted for gross indecency — homosexuality was then a crime. He was given hormone treatment as an alternative to prison and stripped of his security clearance. He died in 1954, aged 41, from cyanide poisoning, generally recorded as suicide. An official government apology came in 2009 and a royal pardon in 2013. He had by then also proposed the question that still shapes arguments about artificial intelligence: if you cannot tell a machine's answers from a person's, on what grounds do you insist it does not think?"
     ],
     "wow": "He also proposed a test for machine intelligence: if you cannot tell a machine's answers from a person's, on what basis do you deny it thinks?",
-    "image": null,
+    "image": "img/people/alan-turing.webp",
     "quiz": [
       {
         "q": "What did Turing describe in 1936?",
@@ -156,7 +156,7 @@
       "In 1962, before John Glenn became the first American to orbit the Earth, NASA had switched to electronic computers — and nobody entirely trusted them yet. Glenn asked engineers to have the girl check the numbers, meaning Johnson specifically, and said that if she confirmed them he was ready to go. She spent days working through the machine's output by hand. The numbers matched. He flew. She went on to work on the Apollo Moon landings, including calculations for the flight that carried Armstrong and Aldrin, and on the rescue of Apollo 13. She received the Presidential Medal of Freedom in 2015, aged 97, and died at 101."
     ],
     "wow": "She received America's highest civilian honour in 2015, aged 97, and lived to 101.",
-    "image": null,
+    "image": "img/people/katherine-johnson.webp",
     "quiz": [
       {
         "q": "What did Katherine Johnson calculate?",
@@ -192,7 +192,7 @@
       "She kept recording things people did not want to hear: chimpanzees hunting and eating monkeys, comforting each other after conflict, adopting orphans, and — over four grim years in the 1970s — systematically killing members of a neighbouring group in what looked uncomfortably like war. She later left fieldwork for campaigning, spending decades travelling to argue for conservation, and was still speaking publicly into her nineties."
     ],
     "wow": "She was still travelling and speaking about conservation into her nineties.",
-    "image": null,
+    "image": "img/people/jane-goodall.webp",
     "quiz": [
       {
         "q": "What did she see David Greybeard do?",
@@ -228,7 +228,7 @@
       "The five years that followed produced extraordinary work and considerable misery. Ramanujan was a strict vegetarian in wartime England, where food was rationed and suitable ingredients were scarce, and he was often cold, isolated and unwell. He returned to India in 1919 and died the following year, aged 32. His notebooks kept mathematicians busy for a century; a lost notebook rediscovered in 1976 contained results that turned out to matter in the study of black holes."
     ],
     "wow": "Told that the number 1729 was dull, he replied instantly that it was the smallest number expressible as two cubes added together in two different ways.",
-    "image": null,
+    "image": "img/people/srinivasa-ramanujan.webp",
     "quiz": [
       {
         "q": "How did Ramanujan learn mathematics?",
@@ -264,7 +264,7 @@
       "The notebooks were written in mirror writing, right to left, probably because he was left-handed and it kept the ink from smudging rather than for secrecy. They were scattered after his death and much was lost, which is why many of his ideas had no influence at all — others invented them independently centuries later."
     ],
     "wow": "He wrote a job application letter to the Duke of Milan listing his military engineering skills, and mentioned painting almost as an afterthought at the end.",
-    "image": null,
+    "image": "img/people/leonardo-da-vinci.webp",
     "quiz": [
       {
         "q": "Why did he write in mirror writing?",
@@ -300,7 +300,7 @@
       "He also promoted the decimal number system with a symbol for zero, which had come from India. Europe was still using Roman numerals, which are miserable for calculation. Through his work and its translations, the digits we now call Arabic numerals spread west — and long multiplication, done on paper by any schoolchild, became possible."
     ],
     "wow": "Try multiplying LVII by XXIII using only Roman numerals, and the importance of the change becomes obvious quickly.",
-    "image": null,
+    "image": "img/people/al-khwarizmi.webp",
     "quiz": [
       {
         "q": "Where does the word algebra come from?",
@@ -337,7 +337,7 @@
       "He was a poor businessman among ruthless ones. He tore up a royalty agreement to help Westinghouse survive a financial crisis, a decision that would have made him extraordinarily rich. He spent his last years in a New York hotel, largely alone, feeding pigeons, and died in 1943 owing money."
     ],
     "wow": "The unit of magnetic field strength is named the tesla, and the alternating-current system he designed still powers most of the world.",
-    "image": null,
+    "image": "img/people/nikola-tesla.webp",
     "quiz": [
       {
         "q": "Why did alternating current win?",
@@ -374,7 +374,7 @@
       "A presidential committee reviewed the science and backed her. DDT was banned for agriculture in the United States in 1972, a decade after the book and eight years after her death, and bald eagle and peregrine numbers recovered. She never argued for banning all pesticides — only for evidence, restraint, and honesty about consequences."
     ],
     "wow": "DDT is still used carefully in some countries against malaria-carrying mosquitoes, which is roughly the balanced position Carson herself argued for.",
-    "image": null,
+    "image": "img/people/rachel-carson.webp",
     "quiz": [
       {
         "q": "What did DDT do to birds of prey?",
@@ -410,7 +410,7 @@
       "She lived long enough to see the position reverse. Kenya's politics changed, she was elected to parliament, served as a deputy minister for the environment, and in 2004 became the first African woman to receive the Nobel Peace Prize — awarded for linking environment, democracy and peace."
     ],
     "wow": "The Nobel committee's reasoning was that you cannot have peace where resources are stripped away and people have no voice in it.",
-    "image": null,
+    "image": "img/people/wangari-maathai.webp",
     "quiz": [
       {
         "q": "How did the Green Belt Movement work?",
@@ -446,7 +446,7 @@
       "She was largely written out of it. Scientific papers describing her specimens often failed to name her. As a woman she could not join the Geological Society of London, or attend its meetings, or publish in its journal — while gentlemen who bought her fossils presented them as their own discoveries. She died at 47, and the society published an obituary, having never let her through the door."
     ],
     "wow": "The tongue-twister about selling seashells by the seashore is widely believed to have been written about her.",
-    "image": null,
+    "image": "img/people/mary-anning.webp",
     "quiz": [
       {
         "q": "What did her finds help establish?",
@@ -482,7 +482,7 @@
       "He received the Nobel Peace Prize in 1970. He was also, later, a critic of parts of what he had started — the heavy use of fertiliser and water, and the pressure on small farmers — and argued that feeding people was a delay, not a solution, unless population and farming practice were addressed too."
     ],
     "wow": "Estimates of lives saved by the wheat he bred usually start at several hundred million and run to a billion.",
-    "image": null,
+    "image": "img/people/norman-borlaug.webp",
     "quiz": [
       {
         "q": "Why did short wheat matter?",

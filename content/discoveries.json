@@ -12,7 +12,7 @@
       "With war raging and Britain's factories busy, production moved to the United States, where huge fermentation tanks and a better mould strain, found on a mouldy melon in an Illinois market, made mass production possible. By 1944 there was enough for the wounded of D-Day. Infections that had killed people for the whole of human history became curable in days. Fleming, Florey and Chain shared the Nobel Prize in 1945, and Fleming used his speech to warn that careless use would breed resistant bacteria — which is exactly what happened."
     ],
     "wow": "The strain used for worldwide production came from a mouldy melon bought in a market in Illinois.",
-    "image": null,
+    "image": "img/discoveries/penicillin-by-accident.webp",
     "quiz": [
       {
         "q": "How was penicillin found?",
@@ -48,7 +48,7 @@
       "The discovery spread faster than almost any before it. Röntgen published in late December, and within weeks doctors across Europe and North America were photographing broken bones and locating bullets; within a year the technique was in hospitals. He was awarded the first Nobel Prize in Physics in 1901. He refused to patent the discovery, saying it belonged to humanity, and donated his prize money to his university — which is partly why the technology spread so quickly and cheaply."
     ],
     "wow": "Röntgen refused to patent X-rays, saying the discovery belonged to humanity, and gave away his Nobel Prize money.",
-    "image": null,
+    "image": "img/discoveries/x-rays-discovered.webp",
     "quiz": [
       {
         "q": "Why are they called X-rays?",
@@ -84,7 +84,7 @@
       "He lost his post, grew increasingly angry and desperate, wrote furious open letters accusing obstetricians of murder, and was committed to an asylum in 1865, where he died within weeks. Within a few years Louis Pasteur demonstrated that microbes cause disease and Joseph Lister used the idea to transform surgery. Semmelweis had been right the whole time. Hand hygiene is now the single most effective measure for stopping infection spreading in hospitals, and his name is attached to the tendency to reject evidence that contradicts what everyone already believes."
     ],
     "wow": "Being right is not enough on its own — an explanation people can believe matters too, which is why Semmelweis failed and Pasteur succeeded.",
-    "image": null,
+    "image": "img/discoveries/germs-cause-disease.webp",
     "quiz": [
       {
         "q": "What did Semmelweis discover?",
@@ -228,7 +228,7 @@
       "The proof came from the sea floor thirty years later. New maps revealed the mid-ocean ridge running around the planet, and measurements of magnetism in the rocks showed matching stripes on both sides of it — a record of the Earth's magnetic field reversing, printed into new sea floor as it spread outward from the crack. The continents do not plough through the crust, as Wegener imagined. They ride on plates that are being made at the ridges and swallowed elsewhere. He had the right idea and the wrong engine, which was enough to get him laughed at for a lifetime."
     ],
     "wow": "Africa and South America are still separating, at roughly the speed your fingernails grow.",
-    "image": null,
+    "image": "img/discoveries/continents-that-move.webp",
     "quiz": [
       {
         "q": "Why was Wegener rejected?",
@@ -264,7 +264,7 @@
       "The apple story is probably real, though no apple hit his head. He told it late in life as the moment the question occurred to him, during a year when plague closed his university and he was sent home to think."
     ],
     "wow": "Astronauts on the space station are not weightless because gravity is absent. They are falling, and missing the Earth.",
-    "image": null,
+    "image": "img/discoveries/newton-and-gravity.webp",
     "quiz": [
       {
         "q": "What was Newton's real insight?",
@@ -300,7 +300,7 @@
       "Wallace noticed something else while travelling. The animals of Bali and Lombok, islands close enough to see across, belong to entirely different families — Asian on one side, Australian on the other. That boundary through the Indonesian archipelago is now called the Wallace Line."
     ],
     "wow": "The Wallace Line exists because deep water kept those islands separate even when sea levels fell and others joined up.",
-    "image": null,
+    "image": "img/discoveries/darwin-and-wallace.webp",
     "quiz": [
       {
         "q": "Where was Wallace when he had the idea?",
@@ -337,7 +337,7 @@
       "He could not explain why the pattern existed; atomic structure was unknown. When electrons and the nucleus were understood decades later, the columns turned out to reflect how electrons are arranged, and the odd swaps he had made were vindicated: the true order is by number of protons, not weight."
     ],
     "wow": "Element 101 is named mendelevium, after him — a rare honour for someone whose table had to wait for physics to explain it.",
-    "image": null,
+    "image": "img/discoveries/mendeleev-periodic-table.webp",
     "quiz": [
       {
         "q": "What did Mendeleev do with unknown elements?",
