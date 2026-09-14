@@ -485,7 +485,7 @@
       "It is also why locks can be picked. Manufacturing is never perfect, so the pins do not all bind at exactly the same instant. Someone applying gentle turning pressure with one tool can push pins one at a time with another, and each pin that reaches the right height stays caught on the tiny misalignment. Better locks fight this with false grooves, spinning pins and sliders — but the basic principle remains an alignment problem, and locks buy time rather than guaranteeing safety."
     ],
     "wow": "A pin tumbler design from ancient Egypt, around 4,000 years old, works on essentially the same idea as the lock on your door.",
-    "image": null,
+    "image": "img/tech/how-a-lock-works.webp",
     "quiz": [
       {
         "q": "What does the key actually do?",
@@ -559,7 +559,7 @@
       "There is a simpler cousin. Thick padding that physically blocks sound is called passive isolation, and it handles high frequencies well. Good headphones use both: padding for the treble, wave cancellation for the bass."
     ],
     "wow": "The same trick is built into some car cabins, playing anti-noise through the car's own speakers.",
-    "image": null,
+    "image": "img/tech/how-noise-cancelling-works.webp",
     "quiz": [
       {
         "q": "How is the noise removed?",
@@ -596,7 +596,7 @@
       "The design took decades to get right. Early versions from the 1890s jammed and popped open constantly, and it was 1913 before a workable version appeared. The name came later, from the sound it makes."
     ],
     "wow": "Zips were first sold for boots and tobacco pouches — clothing makers thought them too strange for years.",
-    "image": null,
+    "image": "img/tech/how-a-zip-works.webp",
     "quiz": [
       {
         "q": "What holds a closed zip together?",
@@ -669,7 +669,7 @@
       "The name is a historical accident. A huge deposit of pure graphite found in England in the 1500s was mistaken for a kind of lead, and the word stuck in many languages long after the chemistry was understood."
     ],
     "wow": "An average pencil can draw a line tens of kilometres long before the core runs out.",
-    "image": null,
+    "image": "img/tech/how-a-pencil-works.webp",
     "quiz": [
       {
         "q": "What is a pencil core made of?",
@@ -706,7 +706,7 @@
       "The design is over a century old. James Dewar built it in 1892 for laboratory work, to hold gases cooled until they turned liquid, and never patented it. Others turned it into a product for tea and soup."
     ],
     "wow": "The same flask keeps cold drinks cold, because blocking heat works in both directions.",
-    "image": null,
+    "image": "img/tech/how-a-thermos-works.webp",
     "quiz": [
       {
         "q": "What is between the two walls?",

@@ -383,7 +383,7 @@
     "wow": "The inner core is roughly as hot as the surface of the Sun, yet solid, because the pressure is immense.",
     "discovery": "In 1936 a Danish scientist named Inge Lehmann was studying earthquake records and noticed waves arriving where theory said none should. She concluded that the core was not a single ball of liquid but had a solid centre — a claim she published in a paper famously titled with just two letters, P′. She had almost no computing help; she sorted her data on cards kept in oatmeal boxes. She was proved right, and she worked until she was over a hundred.",
     "unknown": "The inner core keeps producing surprises. Evidence suggests it may rotate at a slightly different rate from the rest of the planet, and studies disagree about whether that rotation has recently slowed or reversed. How the magnetic field flips, and when it will next do so, is also unresolved.",
-    "image": null,
+    "image": "img/space/what-is-inside-the-earth.webp",
     "quiz": [
       {
         "q": "How do we know what is inside the Earth?",
@@ -494,7 +494,7 @@
     "wow": "The spot's colour changes over the years, from brick red to pale salmon, and nobody knows exactly what chemical gives it the colour.",
     "discovery": "Giovanni Cassini — the same astronomer who found the gap in Saturn's rings — recorded a permanent spot on Jupiter in 1665, and observations continued for decades before the record went quiet. Whether that was the same storm as today's is disputed. Continuous records begin in 1831. Close-up views had to wait until the Voyager spacecraft flew past in 1979, revealing the swirling structure inside, and the Juno mission later measured how deep it goes: hundreds of kilometres down.",
     "unknown": "Why the storm is red is unsolved; the leading idea involves sunlight altering chemicals lifted from below, but no one has proved it. Why it is shrinking, whether it will disappear, and how a storm can last for centuries without running out of energy are all open questions.",
-    "image": null,
+    "image": "img/space/jupiter-great-red-spot.webp",
     "quiz": [
       {
         "q": "Why does the storm last so long?",
@@ -531,7 +531,7 @@
     "wow": "The gas swirling into a black hole can shine brighter than an entire galaxy before it disappears.",
     "discovery": "The idea was raised as early as 1783 by John Michell, who reasoned that a star could be massive enough for light not to escape. It became serious with Einstein's theory of gravity in 1915, though Einstein himself doubted such objects existed. Real evidence built through the twentieth century, and in 2019 the Event Horizon Telescope — radio dishes across the planet acting as one giant instrument — published the first image of a black hole's shadow, in the galaxy M87.",
     "unknown": "What happens at the very centre is unknown: the equations produce infinities, which normally means the theory has stopped working. Physicists also argue about what becomes of information that falls in, a puzzle unresolved for fifty years, because gravity and quantum physics give different answers and nobody has managed to combine them.",
-    "image": null,
+    "image": "img/space/black-holes-trap-light.webp",
     "quiz": [
       {
         "q": "What is an event horizon?",
@@ -788,7 +788,7 @@
       "When the Sun has a violent outburst, the display pushes much further from the poles than usual, and people at ordinary latitudes suddenly see a sky they have never seen. The same outbursts can disturb satellites, radio signals and power grids."
     ],
     "wow": "Jupiter and Saturn have auroras too, far more powerful than ours, visible in ultraviolet light.",
-    "image": null,
+    "image": "img/space/what-makes-auroras.webp",
     "quiz": [
       {
         "q": "What causes an aurora?",
@@ -825,7 +825,7 @@
       "That same stillness preserves everything else left behind: six landing stages, three electric cars, cameras, tools, flags bleached white by unfiltered sunlight, and a small plaque. Orbiting spacecraft have photographed the sites and the tracks are still clearly visible, half a century on."
     ],
     "wow": "The mirrors left by Apollo are still in use — observatories fire lasers at them to measure the Moon's distance.",
-    "image": null,
+    "image": "img/space/footprints-on-the-moon.webp",
     "quiz": [
       {
         "q": "Why do the footprints survive?",

@@ -194,7 +194,7 @@
       "title": "Spider Silk Beats Steel",
       "emoji": "🕷️",
       "hook": "Weight for weight, spider silk is stronger than steel.",
-      "image": null,
+      "image": "img/animals/spider-silk-stronger-than-steel.webp",
       "readingLevel": 3,
       "keywords": "spider silk beats steel weight for weight, spider silk is stronger than steel. spiders often eat their old web and reuse the protein to spin a fresh one."
     },
@@ -304,7 +304,7 @@
       "title": "Ants Were Farming Before People",
       "emoji": "🍄",
       "hook": "Leafcutter ants have been growing their own food for millions of years.",
-      "image": null,
+      "image": "img/animals/ants-that-farm.webp",
       "readingLevel": 3,
       "keywords": "ants were farming before people leafcutter ants have been growing their own food for millions of years. leafcutter ants are the biggest herbivores in south american rainforests, out-eating every mammal there."
     },
@@ -314,7 +314,7 @@
       "title": "Penguins Take Turns Being Cold",
       "emoji": "🐧",
       "hook": "In an Antarctic winter, emperor penguins survive by huddling — and by being fair about it.",
-      "image": null,
+      "image": "img/animals/penguins-take-turns.webp",
       "readingLevel": 3,
       "keywords": "penguins take turns being cold in an antarctic winter, emperor penguins survive by huddling — and by being fair about it. emperor penguin fathers lose almost half their body weight during the wait, then feed the chick with a milk-like substance from their throat."
     },
@@ -334,7 +334,7 @@
       "title": "Seahorse Fathers Give Birth",
       "emoji": "🌊",
       "hook": "In seahorses, it is the male who gets pregnant.",
-      "image": null,
+      "image": "img/animals/seahorse-fathers-give-birth.webp",
       "readingLevel": 3,
       "keywords": "seahorse fathers give birth in seahorses, it is the male who gets pregnant. many seahorse pairs greet each other every morning with a slow dance, sometimes changing colour while they do it."
     },
@@ -354,7 +354,7 @@
       "title": "A Creature With No Brain Solves Mazes",
       "emoji": "🟡",
       "hook": "Slime mould has no brain, no nerves and no eyes — and it can find the shortest route.",
-      "image": null,
+      "image": "img/animals/slime-mould-solves-mazes.webp",
       "readingLevel": 3,
       "keywords": "a creature with no brain solves mazes slime mould has no brain, no nerves and no eyes — and it can find the shortest route. slime moulds can also learn: taught to cross an unpleasant substance, they get braver, and can pass that habit to another blob they merge with."
     },
@@ -474,7 +474,7 @@
       "title": "What Is Inside the Earth",
       "emoji": "🌍",
       "hook": "Nobody has drilled even a fiftieth of the way to the centre.",
-      "image": null,
+      "image": "img/space/what-is-inside-the-earth.webp",
       "readingLevel": 3,
       "keywords": "what is inside the earth nobody has drilled even a fiftieth of the way to the centre. the inner core is roughly as hot as the surface of the sun, yet solid, because the pressure is immense."
     },
@@ -504,7 +504,7 @@
       "title": "A Storm Older Than Your Country",
       "emoji": "🟠",
       "hook": "Jupiter has a storm that has been raging for centuries.",
-      "image": null,
+      "image": "img/space/jupiter-great-red-spot.webp",
       "readingLevel": 3,
       "keywords": "a storm older than your country jupiter has a storm that has been raging for centuries. the spot's colour changes over the years, from brick red to pale salmon, and nobody knows exactly what chemical gives it the colour."
     },
@@ -514,7 +514,7 @@
       "title": "A Place Light Cannot Escape",
       "emoji": "🕳️",
       "hook": "Throw a ball hard enough and it escapes Earth. Near a black hole, even light cannot.",
-      "image": null,
+      "image": "img/space/black-holes-trap-light.webp",
       "readingLevel": 3,
       "keywords": "a place light cannot escape throw a ball hard enough and it escapes earth. near a black hole, even light cannot. the gas swirling into a black hole can shine brighter than an entire galaxy before it disappears."
     },
@@ -584,7 +584,7 @@
       "title": "The Sky on Fire",
       "emoji": "🌌",
       "hook": "An aurora is the Sun's weather hitting the Earth's magnetic shield.",
-      "image": null,
+      "image": "img/space/what-makes-auroras.webp",
       "readingLevel": 3,
       "keywords": "the sky on fire an aurora is the sun's weather hitting the earth's magnetic shield. jupiter and saturn have auroras too, far more powerful than ours, visible in ultraviolet light."
     },
@@ -594,7 +594,7 @@
       "title": "The Footprints Are Still There",
       "emoji": "👣",
       "hook": "The bootprints left on the Moon in 1969 have not blurred at all.",
-      "image": null,
+      "image": "img/space/footprints-on-the-moon.webp",
       "readingLevel": 3,
       "keywords": "the footprints are still there the bootprints left on the moon in 1969 have not blurred at all. the mirrors left by apollo are still in use — observatories fire lasers at them to measure the moon's distance."
     },
@@ -664,7 +664,7 @@
       "title": "There Is a Spirit Level in Your Head",
       "emoji": "🌀",
       "hook": "Deep inside each ear are three tiny loops of fluid that tell you which way you are tilting.",
-      "image": null,
+      "image": "img/body/how-you-keep-balance.webp",
       "readingLevel": 3,
       "keywords": "there is a spirit level in your head deep inside each ear are three tiny loops of fluid that tell you which way you are tilting. astronauts feel ill for their first days in space because these organs never stop reporting a fall."
     },
@@ -724,7 +724,7 @@
       "title": "There Is a Hole in Your Vision",
       "emoji": "👁️‍🗨️",
       "hook": "Each eye has a blind spot, and your brain hides it from you.",
-      "image": null,
+      "image": "img/body/your-eyes-have-a-hole.webp",
       "readingLevel": 3,
       "keywords": "there is a hole in your vision each eye has a blind spot, and your brain hides it from you. the blind spot in each eye is large enough to hide several full moons in the sky."
     },
@@ -944,7 +944,7 @@
       "title": "What Is Happening Inside a Lock",
       "emoji": "🔑",
       "hook": "A key does not turn a lock. It lines up a row of tiny pins.",
-      "image": null,
+      "image": "img/tech/how-a-lock-works.webp",
       "readingLevel": 3,
       "keywords": "what is happening inside a lock a key does not turn a lock. it lines up a row of tiny pins. a pin tumbler design from ancient egypt, around 4,000 years old, works on essentially the same idea as the lock on your door."
     },
@@ -964,7 +964,7 @@
       "title": "Cancelling Sound With Sound",
       "emoji": "🎧",
       "hook": "Noise-cancelling headphones make silence by adding more noise.",
-      "image": null,
+      "image": "img/tech/how-noise-cancelling-works.webp",
       "readingLevel": 3,
       "keywords": "cancelling sound with sound noise-cancelling headphones make silence by adding more noise. the same trick is built into some car cabins, playing anti-noise through the car's own speakers."
     },
@@ -974,7 +974,7 @@
       "title": "The Cleverness of a Zip",
       "emoji": "🧥",
       "hook": "A zip is a machine, and the clever part is the slider.",
-      "image": null,
+      "image": "img/tech/how-a-zip-works.webp",
       "readingLevel": 3,
       "keywords": "the cleverness of a zip a zip is a machine, and the clever part is the slider. zips were first sold for boots and tobacco pouches — clothing makers thought them too strange for years."
     },
@@ -994,7 +994,7 @@
       "title": "A Pencil Leaves Layers Behind",
       "emoji": "✏️",
       "hook": "Writing with a pencil means peeling off sheets of carbon one at a time.",
-      "image": null,
+      "image": "img/tech/how-a-pencil-works.webp",
       "readingLevel": 3,
       "keywords": "a pencil leaves layers behind writing with a pencil means peeling off sheets of carbon one at a time. an average pencil can draw a line tens of kilometres long before the core runs out."
     },
@@ -1004,7 +1004,7 @@
       "title": "A Flask Holds Nothing — On Purpose",
       "emoji": "🍵",
       "hook": "The most important part of a vacuum flask is the empty space inside its wall.",
-      "image": null,
+      "image": "img/tech/how-a-thermos-works.webp",
       "readingLevel": 3,
       "keywords": "a flask holds nothing — on purpose the most important part of a vacuum flask is the empty space inside its wall. the same flask keeps cold drinks cold, because blocking heat works in both directions."
     },
@@ -1134,7 +1134,7 @@
       "title": "The Draper Who Found a Hidden World",
       "emoji": "🔎",
       "hook": "A cloth merchant ground his own lenses and discovered that a drop of water is crowded.",
-      "image": null,
+      "image": "img/discoveries/first-look-at-microbes.webp",
       "readingLevel": 3,
       "keywords": "the draper who found a hidden world a cloth merchant ground his own lenses and discovered that a drop of water is crowded. he made hundreds of microscopes and took his grinding technique to the grave; his best lenses were only matched much later."
     },
@@ -1154,7 +1154,7 @@
       "title": "The Noise They Tried to Clean Away",
       "emoji": "📡",
       "hook": "Two engineers scrubbed pigeon droppings off an antenna, trying to remove the echo of the Big Bang.",
-      "image": null,
+      "image": "img/discoveries/echo-of-the-big-bang.webp",
       "readingLevel": 3,
       "keywords": "the noise they tried to clean away two engineers scrubbed pigeon droppings off an antenna, trying to remove the echo of the big bang. older analogue televisions tuned to an empty channel picked up a small part of their static from this ancient light."
     },
@@ -1234,7 +1234,7 @@
       "title": "The Year Without a Summer",
       "emoji": "🌑",
       "hook": "An Indonesian volcano erupted in 1815, and the next year Europe had no summer.",
-      "image": null,
+      "image": "img/history/tambora-year-without-summer.webp",
       "readingLevel": 3,
       "keywords": "the year without a summer an indonesian volcano erupted in 1815, and the next year europe had no summer. tambora is still there, with a caldera six kilometres across where the summit used to be."
     },
@@ -1244,7 +1244,7 @@
       "title": "Islands Worth More Than Gold",
       "emoji": "🌰",
       "hook": "For centuries, nutmeg grew on a handful of tiny Indonesian islands and nowhere else on Earth.",
-      "image": null,
+      "image": "img/history/spice-islands.webp",
       "readingLevel": 3,
       "keywords": "islands worth more than gold for centuries, nutmeg grew on a handful of tiny indonesian islands and nowhere else on earth. nutmeg trees now grow across the tropics, and the spice is cheap — which is why the islands are peaceful and poor."
     },
@@ -1264,7 +1264,7 @@
       "title": "The Library That Was Lost Slowly",
       "emoji": "📜",
       "hook": "The great library of Alexandria did not burn down in one dramatic night.",
-      "image": null,
+      "image": "img/history/library-of-alexandria.webp",
       "readingLevel": 3,
       "keywords": "the library that was lost slowly the great library of alexandria did not burn down in one dramatic night. copies made in baghdad, constantinople and córdoba preserved much ancient greek learning that europe later rediscovered in translation."
     },
@@ -1284,7 +1284,7 @@
       "title": "The First Photograph Took Hours",
       "emoji": "📷",
       "hook": "The world's oldest surviving photograph needed an exposure of at least eight hours.",
-      "image": null,
+      "image": "img/history/the-first-photograph.webp",
       "readingLevel": 3,
       "keywords": "the first photograph took hours the world's oldest surviving photograph needed an exposure of at least eight hours. niépce's plate was lost for decades and rediscovered in 1952 in a trunk in england."
     },
@@ -1294,7 +1294,7 @@
       "title": "The Great Wall Is Many Walls",
       "emoji": "🧱",
       "hook": "It is not one wall, not one age, and you cannot see it from space.",
-      "image": null,
+      "image": "img/history/the-great-wall.webp",
       "readingLevel": 3,
       "keywords": "the great wall is many walls it is not one wall, not one age, and you cannot see it from space. workers who died during construction were sometimes buried nearby, which is why it is occasionally called the longest cemetery on earth."
     },
