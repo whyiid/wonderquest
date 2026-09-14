@@ -812,5 +812,296 @@
     "readingLevel": 3,
     "factRisk": false,
     "reviewed": true
+  },
+  {
+    "id": "crows-remember-faces",
+    "category": "animals",
+    "title": "Crows Remember Your Face",
+    "emoji": "🐦‍⬛",
+    "hook": "Wrong a crow once and it may recognise you for years — and tell its friends.",
+    "story": [
+      "In 2006 a researcher in Seattle named John Marzluff wanted to test whether crows could tell people apart. He and his students put on rubber masks — one of a caveman, one of a former politician — and, wearing the caveman mask, briefly trapped and released a handful of crows. No bird was harmed, but they were plainly annoyed.",
+      "Afterwards, anyone walking the campus in the caveman mask was mobbed: crows dived, screamed and followed them across the grounds. The same person wearing the other mask was ignored completely. So it was the face being remembered, not the clothes or the walk.",
+      "Then it spread. Crows that had never been caught began scolding the caveman mask too, having learned from the behaviour of the ones that had. Years later — well past the lifespan of the original grudge — young crows born long after the experiment still reacted. The information had been passed on, bird to bird, like a rumour.",
+      "Crows are unusually clever in other ways. They make tools by bending wire into hooks, drop nuts onto roads for cars to crack and wait for the lights before collecting them, and appear to hold something like funerals, gathering noisily around a dead crow. Whether that is grief or a lesson in danger nobody can say."
+    ],
+    "wow": "A crow that decides you are friendly may start leaving you small gifts: buttons, beads, bits of shiny glass.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "How did scientists test crow memory?",
+        "a": [
+          "By wearing rubber masks",
+          "By painting the crows"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What happened to crows that were never trapped?",
+        "a": [
+          "They learned the grudge from others",
+          "They ignored the mask"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": false,
+    "reviewed": true
+  },
+  {
+    "id": "ants-that-farm",
+    "category": "animals",
+    "title": "Ants Were Farming Before People",
+    "emoji": "🍄",
+    "hook": "Leafcutter ants have been growing their own food for millions of years.",
+    "story": [
+      "Watch a column of leafcutter ants and it looks as though they are eating the leaves they carry. They are not. Leaves are almost impossible for them to digest. The cut pieces are carried underground, chewed into a pulp, and used as compost in enormous chambers where the ants grow a fungus. The fungus is the food.",
+      "It is real farming, with all the problems farming brings. The crop can catch a mould that would wipe it out, so the ants carry a bacterium on their bodies that produces something like an antibiotic, and use it as a pesticide. They weed the garden, removing infected patches. They test new leaves carefully and stop harvesting any plant that turns out to harm the fungus.",
+      "A mature colony can hold millions of ants in a nest the size of a small car, with ventilation shafts that keep the fungus at the right temperature, and rubbish chambers where waste is dumped by workers who are not allowed back into the main nest — a quarantine system.",
+      "Nobody taught them any of it. The relationship is roughly 50 to 60 million years old. The fungus has been farmed so long that it can no longer survive in the wild on its own, and a new queen leaving to start a colony carries a small piece of it in her mouth, like a seed."
+    ],
+    "wow": "Leafcutter ants are the biggest herbivores in South American rainforests, out-eating every mammal there.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "What do leafcutter ants actually eat?",
+        "a": [
+          "A fungus they grow",
+          "The leaves they cut"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "How do they protect the crop?",
+        "a": [
+          "With antibiotic-producing bacteria",
+          "By covering it in soil"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": false,
+    "reviewed": true
+  },
+  {
+    "id": "penguins-take-turns",
+    "category": "animals",
+    "title": "Penguins Take Turns Being Cold",
+    "emoji": "🐧",
+    "hook": "In an Antarctic winter, emperor penguins survive by huddling — and by being fair about it.",
+    "story": [
+      "Antarctic winter reaches −60°C with winds that would knock a person over. Emperor penguins breed in it, and the males stand for two months in the dark holding a single egg on their feet, without eating. Alone, none would survive. So they press together into a huddle of thousands.",
+      "Inside the huddle it becomes astonishingly warm — above 20°C in the middle, warm enough that birds sometimes have to leave to cool down. Outside, on the windward edge, it is brutal. If the same birds always stood on the edge, they would die.",
+      "They do not. Filmed from above and sped up, a huddle ripples constantly: every thirty seconds or so, small waves of movement pass through it as birds shuffle a few centimetres. Those tiny steps circulate the whole group, carrying outside birds slowly inward and inside birds slowly out. There is no leader arranging it. The pattern emerges from each bird simply pressing towards warmth.",
+      "The fairness is not kindness, exactly — it is what happens when thousands of individuals all follow one simple rule at once. But the result is that nearly everyone gets a turn in the warm, and the colony survives a winter that should be impossible."
+    ],
+    "wow": "Emperor penguin fathers lose almost half their body weight during the wait, then feed the chick with a milk-like substance from their throat.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "How do penguins share the warm spots?",
+        "a": [
+          "Slow waves shuffle the huddle around",
+          "A leader assigns places"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What does the father do with the egg?",
+        "a": [
+          "Balances it on his feet for two months",
+          "Buries it in snow"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": false,
+    "reviewed": true,
+    "discovery": "Nobody could study this properly until cameras could be left running in an Antarctic winter. In 2011 a German team used time-lapse photography on a colony in Atka Bay and found the huddle never stops moving: small waves travel through it every thirty to sixty seconds. Later modelling showed that if each bird simply steps towards the warmest spot it can reach, the whole group circulates on its own. Nothing organises it, and the effect only appears when you speed the film up."
+  },
+  {
+    "id": "sharks-older-than-trees",
+    "category": "animals",
+    "title": "Sharks Are Older Than Trees",
+    "emoji": "🦈",
+    "hook": "Sharks were already swimming before the first tree ever grew.",
+    "story": [
+      "The oldest shark fossils are about 450 million years old. The first plants that could genuinely be called trees appear around 390 million years ago. So when the first forests were being invented, sharks had already been hunting for tens of millions of years — and they are still here.",
+      "They also outlasted almost everything else. Sharks survived all five mass extinctions, including the one that killed the dinosaurs and the far worse one before it that wiped out most life in the sea. Very few animal groups can say that.",
+      "Part of the reason is a design that did not need much fixing. A shark's skeleton is cartilage, not bone, which is lighter and more flexible. Its skin is covered in tiny tooth-like scales that reduce drag, a trick engineers have copied for swimsuits and aircraft. It replaces its teeth constantly, growing a new row and rolling it forward as the old one wears out — some species get through thousands in a lifetime.",
+      "Sharks are also far stranger than the film version. The Greenland shark lives in the freezing Arctic and may reach 400 years old, making it the longest-lived vertebrate known. The whale shark, the largest fish alive, eats plankton and is harmless. And most sharks are small: the dwarf lanternshark fits in a human hand and glows in the dark."
+    ],
+    "wow": "Sharks also predate Saturn's rings, on current estimates, and the North Star — both are younger.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "Which came first?",
+        "a": [
+          "Sharks",
+          "Trees"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What is a shark's skeleton made of?",
+        "a": [
+          "Cartilage",
+          "Solid bone"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "seahorse-fathers-give-birth",
+    "category": "animals",
+    "title": "Seahorse Fathers Give Birth",
+    "emoji": "🌊",
+    "hook": "In seahorses, it is the male who gets pregnant.",
+    "story": [
+      "A female seahorse produces the eggs, but she does not carry them. She deposits them into a pouch on the male's belly, and from that moment the pregnancy is his. The pouch is not a simple bag. Its lining grows blood vessels that press close to the eggs, supplying oxygen and carrying waste away, and the fluid inside is gradually adjusted from something like his own body fluid towards seawater, so the young are ready for the ocean when they leave.",
+      "He also controls the chemistry, providing nutrients and hormones, and his immune system has to be persuaded not to attack the developing young — the same problem a human pregnancy has to solve. After two to four weeks, muscular contractions push out anywhere from a handful to over a thousand tiny seahorses, fully formed.",
+      "Seahorses are odd in almost every other way too. They are fish, but they have no stomach, so food passes through so quickly that they must eat almost constantly. They have no teeth either, and feed by snapping their long snout shut to suck in prey — one of the fastest feeding strikes in the sea.",
+      "They are also poor swimmers, propelled by a small fin fluttering dozens of times a second, and they spend much of their lives holding on to seagrass with their tails so the current does not carry them away."
+    ],
+    "wow": "Many seahorse pairs greet each other every morning with a slow dance, sometimes changing colour while they do it.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "Who carries seahorse young?",
+        "a": [
+          "The father, in a pouch",
+          "The mother, in her belly"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What is unusual about seahorse digestion?",
+        "a": [
+          "They have no stomach",
+          "They digest only at night"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": false,
+    "reviewed": true
+  },
+  {
+    "id": "birds-see-magnetic-fields",
+    "category": "animals",
+    "title": "Some Birds May See the Earth's Magnet",
+    "emoji": "🧭",
+    "hook": "A migrating robin may not feel the Earth's magnetic field. It may look at it.",
+    "story": [
+      "Birds that migrate thousands of kilometres have several tools: the position of the sun, the pattern of stars, smells, and landmarks. But they also work in cloud and darkness, which means something else is guiding them — and experiments in the 1960s showed it was the Earth's magnetic field.",
+      "How a bird detects something so faint is the strange part. The leading explanation involves a protein in the eye called cryptochrome. When light hits it, it produces a pair of particles whose behaviour is sensitive to magnetic direction, in a way that belongs to quantum physics rather than ordinary biology. If that is right, the magnetic field would alter what the bird sees — a faint pattern of light and shade laid over the world, shifting as it turns its head.",
+      "The evidence fits uncomfortably well. Robins tested in the laboratory become unable to orient when exposed to certain radio waves, exactly the ones that would disturb the delicate particle pairs. And they need light to navigate magnetically: in total darkness the ability fails.",
+      "Nobody has yet watched the mechanism working inside a living bird, so this remains a strong hypothesis rather than a settled fact. If it is confirmed, it would be one of the clearest cases of quantum physics being used by a living thing."
+    ],
+    "wow": "A young bird making its first migration alone can still find a wintering ground it has never seen.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "Where is the suspected magnetic sensor?",
+        "a": [
+          "In the eye",
+          "In the beak only"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What do robins need for magnetic navigation?",
+        "a": [
+          "Light",
+          "Complete darkness"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "slime-mould-solves-mazes",
+    "category": "animals",
+    "title": "A Creature With No Brain Solves Mazes",
+    "emoji": "🟡",
+    "hook": "Slime mould has no brain, no nerves and no eyes — and it can find the shortest route.",
+    "story": [
+      "Slime mould is a strange yellow blob that creeps across damp wood in forests. It is not a plant, an animal or a fungus. A single one can be a single enormous cell with many nuclei inside, spreading as a network of veins searching for food.",
+      "In 2000 a Japanese researcher, Toshiyuki Nakagaki, put a piece of slime mould in a maze with food at two ends. It first filled the whole maze, then withdrew from the dead ends and left a single thick vein connecting the two food sources along the shortest possible path. It had solved the maze without anything resembling a brain.",
+      "The method is simple and beautiful. Where food is found, the flow inside a vein increases; veins carrying more flow get thicker, and veins carrying less shrink away. Do that everywhere at once and the network prunes itself into an efficient shape. No planning, no decisions — just a rule applied over and over.",
+      "In 2010 the same team laid food on a map of the area around Tokyo, placing oat flakes where the cities are. The slime mould grew a network connecting them that turned out to look remarkably like the Tokyo rail system, which human engineers spent decades designing."
+    ],
+    "wow": "Slime moulds can also learn: taught to cross an unpleasant substance, they get braver, and can pass that habit to another blob they merge with.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "How does slime mould find the short path?",
+        "a": [
+          "Busy veins thicken, quiet ones shrink",
+          "It remembers the route"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What did it reproduce in the Tokyo experiment?",
+        "a": [
+          "Something close to the rail network",
+          "A map of the coastline"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": false,
+    "reviewed": true,
+    "unknown": "Where the memory sits is the open question. A slime mould has no nerve cells, yet it can remember where it has already searched by leaving a chemical trail behind, and appears to time regular events — exposed to cold air every hour, it begins slowing down before the next chill arrives. Researchers can describe what it does but cannot say what is doing the remembering, and that has made it a favourite subject for people studying how simple systems produce behaviour that looks like thinking."
+  },
+  {
+    "id": "electric-eel-shock",
+    "category": "animals",
+    "title": "A Fish That Builds a Battery",
+    "emoji": "⚡",
+    "hook": "An electric eel can deliver a jolt of 800 volts — more than a wall socket.",
+    "story": [
+      "Most of an electric eel is not eel. Its vital organs are squeezed into the front fifth of its body, and the rest is a living battery: thousands of flat cells stacked in columns like coins. Each cell produces only about a tenth of a volt, but stacked in series the voltages add, exactly as batteries do in a torch.",
+      "It uses that power in two ways. A constant, weak signal works as radar, letting it sense objects and prey in muddy water where seeing is useless. Then, when hunting, it fires high-voltage pulses that make the muscles of nearby fish twitch involuntarily — revealing where they are hiding — followed by a stronger volley that paralyses them.",
+      "It can also hunt with precision rather than brute force. Researchers have filmed eels curling their bodies into a horseshoe, bringing the two ends of their battery closer together to concentrate the field on prey held between them.",
+      "Astonishingly, it does not shock itself badly. Its vital organs sit far from the discharge, it is well insulated, and the current mostly travels out into the water rather than through its own body."
+    ],
+    "wow": "Volta named his first battery the 'artificial electric organ' — he built it after studying electric fish.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "How does the eel reach such high voltage?",
+        "a": [
+          "Thousands of cells stacked in series",
+          "One very large organ"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What is the weak constant signal for?",
+        "a": [
+          "Sensing prey in muddy water",
+          "Warming the water"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true,
+    "discovery": "Electric fish confused people for centuries; Roman writers described using torpedo rays to numb pain without knowing why they worked. In the 1770s John Walsh showed that the shock was genuinely electrical by drawing a visible spark from a torpedo ray. That result reached Alessandro Volta and shaped his thinking directly: his first battery, stacked discs of two metals, was built as an artificial version of the stacked cells in an electric fish. The living battery came first, and the metal one was copied from it."
   }
 ]

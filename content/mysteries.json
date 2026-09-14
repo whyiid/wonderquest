@@ -250,5 +250,262 @@
     "readingLevel": 3,
     "factRisk": true,
     "reviewed": true
+  },
+  {
+    "id": "what-is-time",
+    "category": "mysteries",
+    "title": "Why Does Time Only Go Forwards?",
+    "emoji": "⏳",
+    "hook": "Almost every law of physics works equally well backwards. Time does not.",
+    "story": [
+      "Film a ball bouncing and play it in reverse: it looks odd but nothing is broken. The physics works either way. Nearly all fundamental laws are like this — they contain no preference for one direction of time. Yet we never see a smashed cup gather itself back together, and we remember the past rather than the future.",
+      "The best answer involves counting. There are enormously many ways for a cup to be smashed and very few ways for it to be whole, so a random jumble of atoms is overwhelmingly likely to be a mess. Physicists measure this with entropy, and the rule is that disorder tends to increase simply because disordered arrangements are more numerous.",
+      "But that only pushes the question back. If disorder increases because it is more likely, the universe must have started in an extremely ordered state — otherwise there would be nowhere to increase from. Why it began that way is unexplained, and it may be the deepest version of the question.",
+      "Time is stranger still in relativity. It runs slower for fast-moving objects and in stronger gravity, so there is no universal clock and no shared present moment. Some physicists argue that time is not a fundamental ingredient of reality at all, but something that emerges from deeper rules — a view that is taken seriously and is nowhere near settled."
+    ],
+    "wow": "A clock at your feet runs very slightly slower than one at your head, and this has been measured over a height difference of a single metre.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "Why does disorder tend to increase?",
+        "a": [
+          "There are far more disordered arrangements",
+          "A force pushes it that way"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What remains unexplained?",
+        "a": [
+          "Why the universe began so ordered",
+          "Why cups break"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true,
+    "discovery": "Time stopped being absolute in 1905. Einstein showed that two people moving differently genuinely disagree about which events happen at the same moment, and neither is wrong. It sounded like philosophy until it was measured: in 1971 caesium clocks were flown around the world on ordinary airliners and came back disagreeing with the clock left behind, by exactly the predicted fraction of a microsecond. Satellite navigation now corrects for the same effect continuously."
+  },
+  {
+    "id": "are-we-alone",
+    "category": "mysteries",
+    "title": "Where Is Everybody?",
+    "emoji": "👽",
+    "hook": "The galaxy is huge and old. So why has nobody called?",
+    "story": [
+      "Our galaxy holds hundreds of billions of stars, and we now know that planets are ordinary — most stars have them, and many have one at a comfortable distance for liquid water. The galaxy is also about 13 billion years old, so any civilisation that arose early would have had an enormous head start. Even at slow speeds, a determined species could have spread across it in a few tens of millions of years, which is quick on that scale.",
+      "The physicist Enrico Fermi is said to have summed up the problem over lunch in 1950 with a simple question: where is everybody? We have listened for radio signals since 1960 and found nothing.",
+      "Proposed answers fall into groups, and all are guesses. Perhaps life itself is extraordinarily rare. Perhaps simple life is common and complex life is not — Earth had only microbes for around three billion years. Perhaps civilisations reliably destroy themselves, or lose interest in broadcasting, or communicate in ways we cannot detect. Perhaps we have not looked at very much: the searches so far cover a tiny fraction of the sky, frequencies and time.",
+      "There is a quiet unease in the question. If the great filter that keeps the galaxy silent lies behind us, we were lucky. If it lies ahead, that is less comfortable."
+    ],
+    "wow": "Our own radio signals have only reached a bubble about a hundred light years wide — a speck of the galaxy.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "What is the Fermi paradox?",
+        "a": [
+          "The galaxy is old and huge, yet seems silent",
+          "Aliens are hiding"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "How much of the sky have we searched?",
+        "a": [
+          "A tiny fraction",
+          "Nearly all of it"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true,
+    "discovery": "The listening began in 1960, when Frank Drake pointed a radio telescope at two nearby stars for a few months and heard nothing. He later wrote down an equation, not to calculate an answer but to organise the question into its parts: how many stars, how many with planets, how many with life, and so on. Most of those terms are still guesses. Two of them — how many stars have planets, and how many are in the habitable zone — have only been measured in the last twenty years."
+  },
+  {
+    "id": "why-do-we-dream",
+    "category": "mysteries",
+    "title": "Nobody Knows Why You Dream",
+    "emoji": "💤",
+    "hook": "You will spend around six years of your life dreaming, and science cannot say why.",
+    "story": [
+      "Dreaming is not rare or occasional. Everyone does it, several times a night, most vividly during a stage called REM sleep when the eyes flick about beneath closed lids and the brain becomes nearly as active as when awake. The body is paralysed during it, apart from eyes and breathing — a safety mechanism that stops you acting out what you are seeing.",
+      "The explanations disagree with each other. One says dreams help process emotion, taking the sting out of difficult memories by replaying them without the stress chemicals. Another says they are rehearsal — a safe simulator for threats, which would explain why being chased is such a common dream worldwide. A third says they are largely a by-product: the sleeping brain firing as it consolidates memories, and the waking mind stitching a story out of the noise afterwards.",
+      "Evidence exists for all three and settles none. People deprived of REM sleep do worse at some learning tasks, which supports a purpose. But people who lose REM sleep for years through certain medications often report no obvious harm, which does not.",
+      "There is not even agreement on whether dreams mean anything. Most researchers reject the idea that symbols carry fixed meanings, while accepting that what you dream about clearly reflects what occupies you — which is a much weaker claim, and the only one the evidence comfortably supports."
+    ],
+    "wow": "Blind people dream too. Those blind from birth report dreams rich in sound, touch and smell rather than images.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "What happens to the body during REM sleep?",
+        "a": [
+          "It is temporarily paralysed",
+          "It moves constantly"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Do scientists agree why we dream?",
+        "a": [
+          "No — several theories compete",
+          "Yes, since the 1990s"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "before-the-big-bang",
+    "category": "mysteries",
+    "title": "What Came Before the Beginning?",
+    "emoji": "🌠",
+    "hook": "Asking what happened before the Big Bang may be like asking what is north of the North Pole.",
+    "story": [
+      "The evidence that the universe was once hot, dense and much smaller is strong: galaxies are moving apart, the leftover glow of the early heat is measurable in every direction, and the proportions of the lightest elements match what that early furnace should have produced.",
+      "Wind the expansion backwards and everything converges about 13.8 billion years ago. At that point the equations produce infinities — infinite density, infinite temperature — which is not a description of reality but a signal that the theory has stopped working. General relativity, which handles gravity, and quantum mechanics, which handles the very small, give contradictory answers in exactly the conditions where both are needed.",
+      "So the honest position is that the Big Bang describes what happened from a tiny fraction of a second onward, extremely well, and says nothing reliable about the first instant or anything before it.",
+      "The proposals are serious but untested. Perhaps time itself began then, making before a meaningless word — the North Pole answer. Perhaps our universe emerged from a previous collapsing one, or budded off from a larger structure that has always existed. Distinguishing these would need evidence from the first moments, and it is not obvious that any survives."
+    ],
+    "wow": "The oldest light we can see left when the universe was about 380,000 years old. Everything earlier is hidden behind a fog.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "What do the equations give at the very beginning?",
+        "a": [
+          "Infinities, meaning the theory fails",
+          "A clear picture"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What is the North Pole comparison about?",
+        "a": [
+          "Before may be a meaningless question",
+          "The universe is cold"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true,
+    "discovery": "The expansion was found by accident. In the 1920s Edwin Hubble measured the distances to other galaxies and noticed that the further away one was, the faster it was moving from us — which only makes sense if everything is spreading apart. Earlier, Henrietta Swan Leavitt had made this possible by discovering that certain pulsing stars reveal their true brightness through their rhythm, giving astronomers their first reliable way to measure cosmic distance. She was paid as a computer and never given a professorship."
+  },
+  {
+    "id": "do-animals-have-language",
+    "category": "mysteries",
+    "title": "Do Animals Have Language?",
+    "emoji": "🦜",
+    "hook": "Plenty of animals communicate. Whether any of them has language is a harder question.",
+    "story": [
+      "Communication is everywhere. Bees dance directions, prairie dogs have different alarm calls for a hawk and for a human, and some appear to add detail about size and colour. Vervet monkeys have distinct warnings for eagle, snake and leopard, and respond correctly to recordings. All of that is real information passing between animals.",
+      "Language, in the strict sense linguists use, asks for more: a set of units that can be recombined by rules into an unlimited number of new meanings, including sentences about things absent, past, hypothetical or false. A child can say the dog that was not there yesterday might come tomorrow, and be understood.",
+      "Attempts to teach apes sign language produced striking results and fierce arguments. Some animals learned hundreds of signs and combined them. Critics argued the combinations were mostly imitation and prompting, and that the grammar never really appeared — a dispute that has never fully resolved, partly because the studies were hard to repeat cleanly.",
+      "Research now leans towards a different question. Instead of asking whether animals have language, ask which individual ingredients they share — memory for sequences, taking turns, learning sounds from others, referring to absent things. Several species have some. No other species is known to have all of them together, and nobody can say why."
+    ],
+    "wow": "Sperm whales make patterned clicks that differ between groups, and researchers are now using machine learning to look for structure in them.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "What does language require that calls do not?",
+        "a": [
+          "Recombining units into unlimited new meanings",
+          "Being loud enough"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "How has the research question changed?",
+        "a": [
+          "Which ingredients animals share",
+          "Which animal is smartest"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true,
+    "discovery": "One of the sharpest results came from prairie dogs. Con Slobodchikoff recorded their alarm calls for decades and found consistent differences depending on what was approaching, including calls that appeared to distinguish a tall human in a yellow shirt from a short human in blue. Other researchers question how much is really being encoded. The dispute is typical of the field: the recordings are real, the statistics are arguable, and animals cannot be asked what they meant."
+  },
+  {
+    "id": "the-placebo-effect",
+    "category": "mysteries",
+    "title": "Medicine That Contains Nothing",
+    "emoji": "💊",
+    "hook": "A pill with no medicine in it can still make people genuinely feel better.",
+    "story": [
+      "Give someone a sugar pill and tell them it is a painkiller, and a meaningful number will report less pain. This is not simply politeness or imagination. Brain scans show real changes in pain-processing regions, and the body releases its own painkilling chemicals — a response that can be blocked by a drug that blocks those chemicals, which is strong evidence something physical is happening.",
+      "The effect has rules that make no obvious sense. Injections work better than pills. Larger pills work better than small ones. Expensive-looking ones work better than cheap ones. Two pills beat one. The colour matters, and differs between countries.",
+      "Strangest of all, it can work when the patient knows. In trials where people are told plainly that they are receiving a placebo with no active ingredient, some still improve. Nobody has a satisfying explanation for that.",
+      "It has limits that matter. Placebos can change how bad something feels — pain, nausea, fatigue — but they do not shrink tumours or cure infections. That is precisely why medicines must be tested against them: if a new drug performs no better than a sugar pill, it is not working. The effect is also why honest trials hide from both patient and doctor which is which."
+    ],
+    "wow": "There is an opposite effect too. Warn people of a side effect and some will experience it from a pill containing nothing.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "Is the placebo effect only imagination?",
+        "a": [
+          "No — measurable changes occur in the body",
+          "Yes, entirely"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What can placebos not do?",
+        "a": [
+          "Cure infections or shrink tumours",
+          "Reduce how bad pain feels"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true,
+    "discovery": "The word comes from a Latin phrase meaning I shall please, and for centuries it described a doctor's harmless gesture rather than anything real. Henry Beecher pushed it into science after working as an army anaesthetist in the Second World War, where morphine ran short and he saw wounded soldiers get relief from injections of salt water. His 1955 paper argued that trials without a dummy comparison could not be trusted — which is why every serious drug trial now has one."
+  },
+  {
+    "id": "what-gravity-really-is",
+    "category": "mysteries",
+    "title": "We Can Predict Gravity, Not Explain It",
+    "emoji": "🪐",
+    "hook": "Gravity is the force we understand best in practice and worst in principle.",
+    "story": [
+      "Newton gave us an equation that predicts falling apples, orbits and tides with great accuracy, and he was honest that he had no idea what gravity actually is. He wrote that he framed no hypotheses about its cause. The equation worked; the mechanism was left open.",
+      "Einstein replaced it with a picture rather than a force. Mass and energy bend the shape of space and time around them, and objects simply travel the straightest available path through that bent geometry. The Earth is not being pulled by the Sun; it is following a straight line through curved space. This predicts things Newton could not — light bending around the Sun, clocks running slower near mass, ripples in space from colliding black holes, all since measured.",
+      "But that picture refuses to sit alongside the other great theory. Quantum mechanics describes the other three forces as exchanges of particles and works superbly at small scales. Every attempt to describe gravity the same way produces nonsense answers when pushed. The two theories are each nearly perfect in their own territory and contradict each other where the territories meet.",
+      "So we cannot say what gravity is at the smallest scale, or what happens at the centre of a black hole, or in the first instant of the universe. Serious attempts exist — string theory and loop quantum gravity among them — and none has yet made a prediction anyone has been able to test."
+    ],
+    "wow": "Gravity is by far the weakest of the four forces. A small magnet lifts a paperclip against the pull of the entire planet.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "How did Einstein describe gravity?",
+        "a": [
+          "As the bending of space and time",
+          "As an invisible pulling rope"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What is the unsolved problem?",
+        "a": [
+          "Gravity does not fit with quantum mechanics",
+          "Gravity is too strong to measure"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
   }
 ]

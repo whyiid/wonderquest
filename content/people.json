@@ -250,5 +250,260 @@
     "readingLevel": 3,
     "factRisk": false,
     "reviewed": true
+  },
+  {
+    "id": "leonardo-da-vinci",
+    "category": "people",
+    "title": "Leonardo Finished Almost Nothing",
+    "emoji": "🎨",
+    "hook": "The most famous genius in history left most of his work unfinished.",
+    "story": [
+      "Leonardo da Vinci was born in 1452 near Florence, the son of a notary and a peasant woman, unable to inherit his father's profession and given no formal education in Latin or mathematics. He taught himself, and later signed notes as a disciple of experience — a small dig at scholars who trusted books over observation.",
+      "His notebooks run to thousands of pages: flying machines, a diving suit, a parachute, gears, water pumps, studies of how blood swirls through a heart valve that were only confirmed correct in the twentieth century. He dissected around thirty human bodies to draw anatomy properly, at a time when that was difficult and unpleasant work.",
+      "But he abandoned constantly. Commissions were delivered years late or never. A giant bronze horse was never cast. A mural technique he invented for The Last Supper began flaking within his lifetime. Patrons complained bitterly. He would stop painting to study the way water moves, then stop that to design a bridge.",
+      "The notebooks were written in mirror writing, right to left, probably because he was left-handed and it kept the ink from smudging rather than for secrecy. They were scattered after his death and much was lost, which is why many of his ideas had no influence at all — others invented them independently centuries later."
+    ],
+    "wow": "He wrote a job application letter to the Duke of Milan listing his military engineering skills, and mentioned painting almost as an afterthought at the end.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "Why did he write in mirror writing?",
+        "a": [
+          "Probably to stop smudging, being left-handed",
+          "To keep secrets from rivals"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What happened to most of his projects?",
+        "a": [
+          "He left them unfinished",
+          "He completed them all"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "al-khwarizmi",
+    "category": "people",
+    "title": "The Man Behind the Word Algorithm",
+    "emoji": "➗",
+    "hook": "Two words you use in mathematics come from one scholar's name and one of his books.",
+    "story": [
+      "Muhammad ibn Musa al-Khwarizmi worked in Baghdad in the early 800s, at a centre of learning where scholars gathered and translated texts from Greek, Persian and Indian sources. He wrote a book on solving equations whose title included the word al-jabr, meaning the restoring or completing of something. Translated into Latin, al-jabr became algebra.",
+      "His own name fared similarly. Latin writers rendered al-Khwarizmi as Algoritmi, and the word came to mean the step-by-step methods of calculation he described. Today an algorithm is any exact procedure a machine can follow — the foundation of every computer program.",
+      "The substance mattered more than the names. He set out general methods for solving whole classes of equations rather than tricks for individual problems, and explained them in ordinary words, aimed at people dealing with inheritance, trade and land — practical arithmetic for real disputes.",
+      "He also promoted the decimal number system with a symbol for zero, which had come from India. Europe was still using Roman numerals, which are miserable for calculation. Through his work and its translations, the digits we now call Arabic numerals spread west — and long multiplication, done on paper by any schoolchild, became possible."
+    ],
+    "wow": "Try multiplying LVII by XXIII using only Roman numerals, and the importance of the change becomes obvious quickly.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "Where does the word algebra come from?",
+        "a": [
+          "Al-jabr, in the title of his book",
+          "A Greek philosopher"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What number system did he promote?",
+        "a": [
+          "Decimal digits including zero",
+          "Roman numerals"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true,
+    "unknown": "How much of the mathematics was his own is genuinely unclear. He worked in a house of translation where Greek, Persian and Indian texts arrived constantly, and scholars of the period often built on sources they named only loosely or not at all. Historians still argue over which parts of his algebra came from Babylonian methods, which from Indian work, and which he assembled himself — a problem made harder by how many manuscripts of the period are lost."
+  },
+  {
+    "id": "nikola-tesla",
+    "category": "people",
+    "title": "Nikola Tesla",
+    "emoji": "⚡",
+    "hook": "He won the argument about how to deliver electricity, and died with almost nothing.",
+    "story": [
+      "Tesla arrived in America in 1884 with a few coins and a letter of introduction, and went to work for Thomas Edison. They fell out within a year. The dispute that followed was technical and enormous: Edison had built his business on direct current, which loses power badly over distance and needs a generating station every kilometre or so. Tesla believed in alternating current, which can be pushed to high voltage, sent far, then stepped back down.",
+      "Tesla's alternating-current motor and system, backed by the industrialist George Westinghouse, won. It is why a single power station can serve a whole region, and why the electricity in your wall is alternating current today.",
+      "He had other successes — radio-frequency work, remote control demonstrated in 1898 with a small boat that astonished onlookers, and fluorescent lighting — and a long run of expensive failures. A vast tower on Long Island, intended to transmit power without wires, was never finished and left him ruined.",
+      "He was a poor businessman among ruthless ones. He tore up a royalty agreement to help Westinghouse survive a financial crisis, a decision that would have made him extraordinarily rich. He spent his last years in a New York hotel, largely alone, feeding pigeons, and died in 1943 owing money."
+    ],
+    "wow": "The unit of magnetic field strength is named the tesla, and the alternating-current system he designed still powers most of the world.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "Why did alternating current win?",
+        "a": [
+          "It can be sent long distances efficiently",
+          "It was cheaper to generate"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What happened to his royalty agreement?",
+        "a": [
+          "He tore it up to help Westinghouse",
+          "He sold it to Edison"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true,
+    "unknown": "The wireless power tower remains the great open question about him. He claimed it could send electricity through the Earth itself to any point on the planet, and investors withdrew before it was finished. Modern physicists mostly judge the plan unworkable as described, since the energy would spread and dissipate. Wireless charging does exist today, but only over a few centimetres, and nothing resembling his global system has ever been demonstrated."
+  },
+  {
+    "id": "rachel-carson",
+    "category": "people",
+    "title": "The Book That Started an Argument",
+    "emoji": "🐦",
+    "hook": "A marine biologist wrote about birds falling silent, and an industry tried to destroy her.",
+    "story": [
+      "Rachel Carson was a biologist and a gifted writer whose books about the sea had already made her well known. In the late 1950s she began gathering evidence about pesticides, particularly DDT, which was being sprayed enthusiastically across farmland and towns after its success against disease-carrying insects in the war.",
+      "The problem was that it did not stay where it was sprayed and did not break down quickly. It accumulated in soil and water, then concentrated as it moved up the food chain: insects to small birds to birds of prey. Eagles and falcons laid eggs with shells too thin to survive being sat on, and populations collapsed.",
+      "Silent Spring appeared in 1962. Chemical companies spent heavily attacking it, and much of the attack was personal rather than scientific — she was called hysterical, unqualified, a spinster with no children who could not understand practical farming. She was also, at the time, dying of cancer, which she kept private so it could not be used against her argument.",
+      "A presidential committee reviewed the science and backed her. DDT was banned for agriculture in the United States in 1972, a decade after the book and eight years after her death, and bald eagle and peregrine numbers recovered. She never argued for banning all pesticides — only for evidence, restraint, and honesty about consequences."
+    ],
+    "wow": "DDT is still used carefully in some countries against malaria-carrying mosquitoes, which is roughly the balanced position Carson herself argued for.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "What did DDT do to birds of prey?",
+        "a": [
+          "Made their eggshells too thin",
+          "Poisoned them instantly"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What did Carson actually argue for?",
+        "a": [
+          "Evidence and restraint, not a total ban",
+          "Banning all chemicals"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "wangari-maathai",
+    "category": "people",
+    "title": "She Planted Trees and It Became Politics",
+    "emoji": "🌳",
+    "hook": "Planting a tree sounds harmless. In Kenya in the 1970s it was treated as a threat.",
+    "story": [
+      "Wangari Maathai grew up in rural Kenya, won a scholarship to study in the United States, and became the first woman in East and Central Africa to earn a doctorate. Returning home, she listened to rural women describing their problems: streams drying up, firewood impossible to find, soil washing away, food harder to grow.",
+      "Her answer in 1977 was simple to the point of seeming naive. Pay women a small amount for each tree seedling they raised and planted. The Green Belt Movement grew from that, and over the following decades tens of millions of trees were planted, mostly by women who had never been paid for work before.",
+      "It became political because the trees stood in the way of things. Forests were being cleared for the benefit of powerful people, and public parks were being handed to developers. Maathai opposed both. She was beaten by police, arrested repeatedly, and once occupied a park to stop a tower being built there — successfully. The government called her a threat to order.",
+      "She lived long enough to see the position reverse. Kenya's politics changed, she was elected to parliament, served as a deputy minister for the environment, and in 2004 became the first African woman to receive the Nobel Peace Prize — awarded for linking environment, democracy and peace."
+    ],
+    "wow": "The Nobel committee's reasoning was that you cannot have peace where resources are stripped away and people have no voice in it.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "How did the Green Belt Movement work?",
+        "a": [
+          "Women were paid for seedlings they raised",
+          "Government workers planted forests"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Why was tree planting political?",
+        "a": [
+          "Powerful people profited from clearing land",
+          "Trees were illegal"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "mary-anning",
+    "category": "people",
+    "title": "The Fossil Hunter Nobody Would Credit",
+    "emoji": "🦕",
+    "hook": "She found creatures nobody knew had existed, and was not allowed to join the society that discussed them.",
+    "story": [
+      "Mary Anning was born in 1799 in Lyme Regis on the English coast, into a poor family that collected fossils from the cliffs to sell to tourists. Her father died when she was eleven, leaving debts, and the fossil trade became how the family survived.",
+      "She was extraordinarily good at it. At around twelve she and her brother uncovered the first ichthyosaur skeleton to be properly recognised. She went on to find the first complete plesiosaur — so strange that a leading scientist initially declared it a fake — and the first pterosaur discovered outside Germany. She worked the cliffs in winter, when storms exposed new fossils and landslides were most likely; a landslide killed her dog while she was working.",
+      "Her finds forced an uncomfortable conclusion. These animals matched nothing alive. Extinction, still debated at the time, became very hard to deny, and the age of the Earth started to look far greater than anyone had assumed.",
+      "She was largely written out of it. Scientific papers describing her specimens often failed to name her. As a woman she could not join the Geological Society of London, or attend its meetings, or publish in its journal — while gentlemen who bought her fossils presented them as their own discoveries. She died at 47, and the society published an obituary, having never let her through the door."
+    ],
+    "wow": "The tongue-twister about selling seashells by the seashore is widely believed to have been written about her.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "What did her finds help establish?",
+        "a": [
+          "That species can go extinct",
+          "That fossils are fakes"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Could she join the Geological Society?",
+        "a": [
+          "No — women were not admitted",
+          "Yes, as an honorary member"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "norman-borlaug",
+    "category": "people",
+    "title": "The Man Who Fed a Billion People",
+    "emoji": "🌾",
+    "hook": "Most people have never heard of him, and he may have saved more lives than anyone.",
+    "story": [
+      "In the 1940s Norman Borlaug, an American plant scientist, went to Mexico to work on wheat. The country was importing much of its food and losing crops to a fungal disease called rust. He spent years crossing thousands of plants by hand, hunting for varieties that resisted it.",
+      "He then did something unusual: he grew two generations a year by shuttling seed between two sites at different altitudes and seasons, halving the time an experiment took. Colleagues thought it wrong-headed. It also produced varieties that grew well in more than one climate, which turned out to matter enormously.",
+      "The breakthrough was short wheat. Traditional tall wheat given plenty of fertiliser grows heavy heads and falls over, ruining the harvest. Borlaug bred short, stiff-stemmed varieties that could carry a heavy head upright. Yields multiplied. Mexico became self-sufficient, and when famine loomed in India and Pakistan in the 1960s the same wheat, with new farming methods, turned the forecasts around.",
+      "He received the Nobel Peace Prize in 1970. He was also, later, a critic of parts of what he had started — the heavy use of fertiliser and water, and the pressure on small farmers — and argued that feeding people was a delay, not a solution, unless population and farming practice were addressed too."
+    ],
+    "wow": "Estimates of lives saved by the wheat he bred usually start at several hundred million and run to a billion.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "Why did short wheat matter?",
+        "a": [
+          "It could hold a heavy head without falling over",
+          "It needed no water"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What did he do to speed up breeding?",
+        "a": [
+          "Grew two generations a year in two places",
+          "Used machines to cross plants"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true,
+    "unknown": "What follows is unresolved. The wheat that ended famines also needed fertiliser, irrigation and machinery, which favoured larger farms, drained aquifers in parts of India, and pushed many smallholders out. Yields have since stopped climbing as quickly. Researchers are now trying to breed crops that need less water and less nitrogen rather than more, and there is no agreement on whether another leap of that size is possible or whether the gains have to come from waste, diet and distribution instead."
   }
 ]

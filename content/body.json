@@ -471,5 +471,299 @@
     "readingLevel": 3,
     "factRisk": true,
     "reviewed": true
+  },
+  {
+    "id": "why-yawning-is-catching",
+    "category": "body",
+    "title": "Why Yawns Are Catching",
+    "emoji": "🥱",
+    "hook": "Reading the word yawn is enough to make some people do it.",
+    "story": [
+      "Yawning is one of the oldest things vertebrates do. Fish yawn. Snakes yawn. Unborn babies yawn in the womb, months before they have anything to be bored about. Whatever it is for, it is ancient and deeply wired.",
+      "The popular explanation — that a yawn tops up oxygen — was tested and failed. Breathing extra oxygen does not reduce yawning, and breathing air low in oxygen does not increase it. The leading idea now is cooling: a deep yawn draws air across blood vessels and stretches the jaw, which may pull slightly cooler blood towards the brain. People yawn more when their head is warm and less when holding something cold to the forehead.",
+      "The catching part is a separate mystery, and a social one. Seeing, hearing or reading about a yawn triggers one in most adults. Crucially, it works better with people you are close to: family and friends set you off more reliably than strangers. Dogs catch yawns from their owners, and chimpanzees from other chimps in their group.",
+      "That pattern suggests contagious yawning is tangled up with the machinery that lets us mirror other people, the same machinery involved in empathy. Children under about four rarely catch yawns at all, and neither do many people with certain differences in social processing."
+    ],
+    "wow": "Ordinary yawning starts before birth, but catching yawns from other people only begins around age four or five.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "Is yawning about topping up oxygen?",
+        "a": [
+          "No — tests failed to show it",
+          "Yes, that is settled"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Who is most likely to make you catch a yawn?",
+        "a": [
+          "Someone close to you",
+          "A complete stranger"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true,
+    "discovery": "Contagious yawning turned out to be a useful way to study social connection, because it is easy to measure and hard to fake. Studies have found the effect strongest between family members, weaker between friends, weaker again between acquaintances and weakest between strangers — a neat gradient that follows closeness rather than familiarity. Dogs catch yawns from their owners more readily than from strangers too, which suggests the mechanism is older than our species."
+  },
+  {
+    "id": "your-recorded-voice",
+    "category": "body",
+    "title": "Why Your Recorded Voice Sounds Wrong",
+    "emoji": "🎙️",
+    "hook": "The voice in a recording is the one everyone else has always heard.",
+    "story": [
+      "When you speak, sound reaches your ears by two routes at once. Some of it leaves your mouth, travels through the air and comes back in through your ear canal — that is the route everyone else gets. But a great deal of it never leaves your head at all: your vocal cords vibrate the bones of your skull, and those vibrations arrive directly at your inner ear.",
+      "Bone carries low frequencies far better than air does. So the voice you hear while speaking has extra bass mixed in, making it sound deeper, warmer and fuller than it really is. A recording removes that private channel completely, leaving only the airborne version — which sounds thin and higher to you, and completely normal to everyone else.",
+      "This is why the first reaction to hearing yourself is usually dislike. It is not that the recording is wrong. It is that you have spent your whole life listening to a version nobody else has access to, and the real one is unfamiliar.",
+      "The same bone route explains other oddities: why chewing crisps is deafening to you and quiet to the person opposite, and why blocking your ears makes your own voice louder rather than softer."
+    ],
+    "wow": "Some hearing aids use this deliberately, sending sound through the skull bone instead of the ear canal.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "Why does your own voice sound deeper to you?",
+        "a": [
+          "Skull bones carry extra low frequencies",
+          "Your ears are close to your mouth"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Which version do other people hear?",
+        "a": [
+          "The recorded one",
+          "The one you hear"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": false,
+    "reviewed": true,
+    "discovery": "Before recording existed, nobody had ever heard their own voice from outside. The first machine to play sound back was Edison's phonograph in 1877, and early accounts describe people startled and unsettled by hearing themselves. Singers and public speakers were among the first to use recordings deliberately as a training tool, precisely because the playback exposes habits — a nasal edge, a rushed ending — that the bone-conducted version politely hides from you."
+  },
+  {
+    "id": "forgetting-is-useful",
+    "category": "body",
+    "title": "Forgetting Is a Feature",
+    "emoji": "🧽",
+    "hook": "A brain that remembered everything would work worse, not better.",
+    "story": [
+      "Forgetting feels like failure, but the brain appears to do it deliberately. Certain processes actively weaken connections, and blocking them in laboratory animals makes memory stickier — not better. The reason is that most of what happens to you does not matter tomorrow. Remembering where you parked today is useful; remembering all 400 places you have ever parked makes finding today's car harder.",
+      "There are rare people who remember almost every day of their lives in detail. They tend not to describe it as a gift. They report being unable to let go of embarrassments and griefs, each recalled with its original sharpness, and they are not notably better at exams or at work.",
+      "Useful memory needs the opposite of a recording: it needs generalising. Learning what a dog is means blurring a thousand particular dogs into a flexible idea. That blurring is forgetting, doing its job.",
+      "Sleep seems to be when much of the sorting happens. During the night the day's activity is replayed and some patterns are strengthened while others fade. Which is why cramming all night usually loses to studying and then sleeping — the sleep is not lost time, it is part of the learning."
+    ],
+    "wow": "Remembering something makes it briefly editable, so a memory recalled often can drift further from the truth than one left alone.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "Why is forgetting useful?",
+        "a": [
+          "It lets the brain generalise and stay current",
+          "It saves electricity"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What happens during sleep?",
+        "a": [
+          "Memories are sorted and strengthened",
+          "The brain shuts off"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true,
+    "discovery": "Hermann Ebbinghaus worked this out on himself in the 1880s, memorising thousands of meaningless syllables and testing how many survived after an hour, a day, a week. The resulting forgetting curve was steep at first and then levelled off, and it showed something useful: material reviewed just as it begins to fade sticks far better than material reviewed immediately. Spaced repetition, used by language apps and medical students today, comes straight from those tedious self-experiments."
+  },
+  {
+    "id": "skin-is-your-biggest-organ",
+    "category": "body",
+    "title": "You Are Wearing Your Largest Organ",
+    "emoji": "🧴",
+    "hook": "Skin is not a wrapper. It is an organ, and the biggest one you have.",
+    "story": [
+      "An adult's skin covers around two square metres and weighs several kilograms — more than the brain and liver together. It is doing far more than holding you in. It blocks water from getting out, blocks most germs from getting in, senses pressure, pain and temperature, makes vitamin D from sunlight, and controls your temperature by opening and closing blood vessels and releasing sweat.",
+      "It is also constantly rebuilding. New cells are made at the bottom of the outer layer, then pushed upward over a few weeks, flattening and filling with a tough protein as they go. By the time they reach the surface they are dead, and they flake off. You shed something like 30,000 to 40,000 of them every minute. A noticeable share of household dust is old skin.",
+      "The layers underneath are alive and busy: nerve endings, tiny blood vessels, hair roots, sweat and oil glands, and a network of tough fibres that let skin stretch and spring back.",
+      "It heals remarkably well, but not perfectly. Deep wounds are patched with scar tissue, which is stronger in some ways but lacks hair, glands and the neat fibre pattern of the original — which is why a scar looks different and does not tan."
+    ],
+    "wow": "A layer only a fraction of a millimetre thick — the outer dead cells — is what keeps you from drying out.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "Is skin an organ?",
+        "a": [
+          "Yes, the largest one",
+          "No, it is a covering"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What are the surface cells of skin?",
+        "a": [
+          "Dead, flattened cells about to flake off",
+          "The newest cells"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true,
+    "unknown": "Why skin heals so imperfectly is still being worked on. An unborn baby in early pregnancy can heal a wound with no scar at all, regrowing skin exactly as it was, and that ability is lost before birth. Researchers have been trying for decades to work out what is switched off and whether it can be switched back on, because scarring is not only cosmetic — scar tissue in the heart or lungs causes real harm."
+  },
+  {
+    "id": "why-you-shiver-and-sweat",
+    "category": "body",
+    "title": "Your Body Runs a Thermostat",
+    "emoji": "🥵",
+    "hook": "You stay at 37°C whether it is freezing outside or blazing hot.",
+    "story": [
+      "Deep in the brain sits a control centre that compares your body temperature to a target and acts the moment it drifts. Everything you feel when you are too hot or too cold is that system working, not failing.",
+      "Too cold, and blood vessels in the skin narrow, pulling warm blood away from the surface so less heat escapes — which is why you go pale and your fingers get cold first. If that is not enough, muscles start shivering: rapid useless contractions that exist purely to generate heat, and they can raise heat production several times over.",
+      "Too hot, and the opposite happens. Vessels widen, flooding the skin with warm blood so heat can radiate away, which is why you flush red. Then sweat glands open. Sweat itself does not cool you; evaporation does, because turning liquid water into vapour takes a great deal of energy and that energy is stolen from your skin. This is why humid days feel unbearable: the air is already full of water, sweat cannot evaporate, and the cooling system stalls while you keep losing fluid.",
+      "Humans are unusually good at this. Most large animals rely on panting and shade, but a well-hydrated person can keep moving in heat that would force a horse to stop — one reason our ancestors could hunt by simply following an animal until it overheated."
+    ],
+    "wow": "A person can produce well over a litre of sweat an hour, which is why drinking matters more than resting in the heat.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "What actually cools you down?",
+        "a": [
+          "Sweat evaporating",
+          "Sweat sitting on the skin"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Why do you shiver?",
+        "a": [
+          "Muscle movement generates heat",
+          "To wake the body up"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "how-you-fight-a-cold",
+    "category": "body",
+    "title": "A Runny Nose Is You, Not the Virus",
+    "emoji": "🤧",
+    "hook": "Most of what a cold feels like is your own defence, not the germ.",
+    "story": [
+      "A cold virus does very little damage by itself. It slips into the cells lining your nose and throat and makes copies. What makes you miserable is the response: your immune system floods the area with signalling chemicals, blood vessels widen and leak fluid, mucus production goes up sharply, and nerves become twitchy enough to trigger sneezing and coughing.",
+      "All of it is purposeful. Extra mucus traps virus particles and carries them out. Sneezing and coughing eject them. Swelling brings immune cells close to the infection. Tiredness pushes you to rest so energy goes to the fight. Even the loss of appetite may help.",
+      "Meanwhile a slower, cleverer system is working. White blood cells study the invader and produce antibodies shaped to lock onto that exact virus, and a few cells keep the recipe afterwards. That is why you rarely catch the same cold twice — and why colds keep happening anyway: there are hundreds of different cold viruses, and they change.",
+      "Antibiotics do nothing here, because they attack bacteria and a cold is a virus. Taking them anyway kills useful bacteria and helps dangerous ones learn to resist the drugs — which is a real problem for medicine, not a small one."
+    ],
+    "wow": "The average child catches somewhere between six and eight colds a year, which is normal rather than a sign of weakness.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "What causes cold symptoms?",
+        "a": [
+          "Mostly your own immune response",
+          "Damage done by the virus"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Do antibiotics help a cold?",
+        "a": [
+          "No — a cold is a virus",
+          "Yes, they shorten it"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true,
+    "unknown": "Nobody has produced a cure, and not for lack of trying. The obstacle is variety: more than 200 viruses cause colds, the most common family has over a hundred forms, and they change constantly. A vaccine would have to cover them all at once. Even the connection everyone assumes — that being cold gives you a cold — is unsettled, with some evidence that chilled nasal passages defend themselves slightly less well, and other studies finding no effect at all."
+  },
+  {
+    "id": "why-exercise-makes-you-stronger",
+    "category": "body",
+    "title": "Muscles Grow by Being Damaged",
+    "emoji": "💪",
+    "hook": "Exercise makes you stronger by breaking you slightly, then overbuilding the repair.",
+    "story": [
+      "Lifting something heavy creates tiny tears in muscle fibres and disturbs the chemistry inside them. The body treats this as a warning: the demand exceeded the supply. Over the following days it repairs the damage and adds a little extra, so the same demand will be easier next time. Strength is the body's answer to a problem you gave it.",
+      "That means the growing happens while you rest, not while you train — and that training the same muscles hard every day gives repair no time to finish. It also means progress stops if the demand stops increasing, because there is no longer a problem to solve.",
+      "Not all of the early gain is new muscle. In the first weeks most improvement comes from the nervous system learning to recruit more fibres at once and coordinate them better. Visible growth follows later.",
+      "The ache a day or two after unfamiliar exercise is part of this repair process. It is not caused by lactic acid, despite the popular story — lactate clears within about an hour. The soreness comes from the microscopic damage and the inflammation that follows, which is why it peaks late and fades over a few days."
+    ],
+    "wow": "The same principle applies to bone: bones exposed to regular load grow denser, which is why astronauts lose bone strength in weightlessness.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "When do muscles actually grow?",
+        "a": [
+          "During rest and repair",
+          "During the exercise itself"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What causes soreness days later?",
+        "a": [
+          "Microscopic damage and inflammation",
+          "Lactic acid left in the muscle"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true,
+    "discovery": "The principle was written down long before anyone understood cells. A Greek wrestler, Milo of Croton, is said to have carried a calf on his shoulders every day until it grew into a bull. The story is almost certainly a legend, but it describes progressive overload exactly: increase the demand a little at a time and the body keeps answering. Every modern training programme is a version of that idea, with the arithmetic done more carefully."
+  },
+  {
+    "id": "why-most-people-are-right-handed",
+    "category": "body",
+    "title": "Why Most People Are Right-Handed",
+    "emoji": "✋",
+    "hook": "About nine people in ten favour the right hand, and nobody fully knows why.",
+    "story": [
+      "Handedness is not a human quirk that appeared recently. Stone tools and cave art suggest the same lopsided ratio tens of thousands of years ago, and marks on ancient teeth — made when people held food in their mouth and cut it with a blade — show a strong right-handed majority. Whatever causes it is old.",
+      "It is connected to the brain being lopsided in other ways. In most people the left half of the brain handles much of language, and the left half also controls the right side of the body. But the link is not tidy: plenty of left-handers also process language on the left, so one does not simply follow from the other.",
+      "Genes matter, but weakly. Identical twins, who share their genes, often differ in handedness. Children of left-handed parents are more likely to be left-handed, but most still are not. Dozens of genes each contribute a nudge, and chance in the womb appears to do the rest.",
+      "What is clear is that forcing a change is pointless and unkind. For much of the last century left-handed children in many countries were made to write with the right hand, which achieved nothing except difficulty. Other animals show hand or paw preferences too, but usually without a species-wide lean to one side."
+    ],
+    "wow": "Left-handers are over-represented in sports where an opponent faces you — fencing, boxing, cricket — probably because opponents get less practice against them.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "How long has right-handedness dominated?",
+        "a": [
+          "Tens of thousands of years",
+          "Only since schools began"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Do identical twins always share handedness?",
+        "a": [
+          "No, often they differ",
+          "Yes, always"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
   }
 ]

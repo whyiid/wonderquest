@@ -250,5 +250,264 @@
     "readingLevel": 3,
     "factRisk": true,
     "reviewed": true
+  },
+  {
+    "id": "tambora-year-without-summer",
+    "category": "history",
+    "title": "The Year Without a Summer",
+    "emoji": "🌑",
+    "hook": "An Indonesian volcano erupted in 1815, and the next year Europe had no summer.",
+    "story": [
+      "Mount Tambora, on Sumbawa, erupted in April 1815 in the largest eruption in recorded history. The mountain lost more than a kilometre of its height. The sound was heard over 2,000 kilometres away, and for days the region was in darkness. Tens of thousands died in the eruption and the famine that followed across Sumbawa and Lombok.",
+      "Then the effect went global. The eruption threw enormous quantities of sulphur high into the stratosphere, where it formed a haze that reflected sunlight back into space. Average temperatures worldwide dropped by around half a degree — which sounds small and was not.",
+      "1816 became known in Europe and North America as the year without a summer. Snow fell in June in New England. Frost killed crops through the growing season. Harvests failed across Europe, food prices soared, and famine and unrest followed in several countries. In China and India the monsoon was disrupted, causing floods, failed rice harvests, and an outbreak of cholera that eventually spread across the world.",
+      "It also changed art. The dark, strange skies produced vivid sunsets that appear in paintings of the period, and a group of writers trapped indoors by relentless rain at a house by Lake Geneva passed the time by inventing ghost stories. One of them was Mary Shelley, and the story became Frankenstein."
+    ],
+    "wow": "Tambora is still there, with a caldera six kilometres across where the summit used to be.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "How did the eruption cool the world?",
+        "a": [
+          "Sulphur haze reflected sunlight away",
+          "Ash blocked the ocean"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What was written during that grim summer?",
+        "a": [
+          "Frankenstein",
+          "Robinson Crusoe"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true,
+    "unknown": "Predicting the next one is the unsolved part. Eruptions of this size happen perhaps once or twice a century somewhere, and their cooling effect is real and measurable, but volcanoes give only weeks of warning at best. Some researchers have proposed imitating the effect deliberately — spraying particles high into the atmosphere to cool a warming planet — and the Tambora record is exactly why others find the idea alarming: the cooling came with failed harvests, disrupted monsoons and famine."
+  },
+  {
+    "id": "spice-islands",
+    "category": "history",
+    "title": "Islands Worth More Than Gold",
+    "emoji": "🌰",
+    "hook": "For centuries, nutmeg grew on a handful of tiny Indonesian islands and nowhere else on Earth.",
+    "story": [
+      "Nutmeg and mace came from the Banda Islands in Maluku — a cluster so small you could walk across the main one in an afternoon. Cloves came from a few neighbouring islands. Nowhere else in the world grew them. In medieval Europe these spices were worth staggering sums, valued as medicine as much as flavour, and traders kept the source a carefully guarded secret.",
+      "That secret drove the age of European voyaging. Columbus sailed west hoping to reach these islands and hit the Americas instead. Magellan's expedition, which first circled the globe, was a spice-buying mission. When one surviving ship limped home in 1522 carrying cloves, the cargo alone paid for the entire voyage.",
+      "What followed was brutal. The Portuguese arrived, then the Dutch, who wanted not trade but monopoly. In 1621 the Dutch East India Company took the Banda Islands by force, and the Bandanese population — perhaps fifteen thousand people — was almost entirely killed, enslaved or driven out, replaced by plantation labour.",
+      "The monopoly eventually broke, as monopolies do. Seedlings were smuggled out and planted elsewhere, prices collapsed, and the islands became quiet again. In 1667 the Dutch traded away a distant claim in exchange for Run, a Banda island the English held. That claim was Manhattan."
+    ],
+    "wow": "Nutmeg trees now grow across the tropics, and the spice is cheap — which is why the islands are peaceful and poor.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "Why were the Banda Islands so valuable?",
+        "a": [
+          "Nutmeg grew nowhere else",
+          "They had gold mines"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What did the Dutch trade for Run island?",
+        "a": [
+          "Their claim to Manhattan",
+          "A fleet of ships"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true,
+    "unknown": "How the spices came to grow only there is still being worked out. Nutmeg's wild ancestors are restricted to a few islands, and the trees depend on particular birds to spread their seeds, so the range may always have been small. What is clearer is the aftermath: the plantations built after 1621 ran on enslaved labour, the knowledge held by the original Bandanese was largely destroyed with them, and the islands never recovered their former population."
+  },
+  {
+    "id": "the-silk-road",
+    "category": "history",
+    "title": "The Road That Was Not a Road",
+    "emoji": "🐫",
+    "hook": "Almost nobody travelled the whole Silk Road. Goods did.",
+    "story": [
+      "The Silk Road was never a single paved route, and the name was invented in the 1870s by a German geographer, long after the trade had faded. It was a shifting web of tracks, passes, oases and sea routes linking China, Central Asia, India, Persia and the Mediterranean.",
+      "Traders rarely made the entire journey. A merchant would carry goods a few hundred kilometres to the next town and sell them on, and the goods would change hands dozens of times. Silk that started in China might reach Rome years later, with nobody along the way knowing both ends of the chain. That is why the Romans had wild theories about where silk came from, including that it grew on trees.",
+      "The valuable cargo turned out not to be objects. Paper-making travelled west out of China and eventually made printing possible in Europe. Gunpowder, the compass and the wheelbarrow moved the same way. Buddhism travelled from India into China and Japan along these routes; Islam spread east along them; mathematics and astronomy moved in both directions.",
+      "Disease travelled too. The plague that devastated Europe in the 1340s almost certainly arrived along these trade networks. A road that carries ideas carries everything else as well."
+    ],
+    "wow": "Paper reached Europe roughly a thousand years after its invention in China — slow by our standards, extraordinary by theirs.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "Did traders travel the whole route?",
+        "a": [
+          "Rarely — goods changed hands many times",
+          "Yes, most did"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What travelled that mattered most?",
+        "a": [
+          "Ideas and technologies",
+          "Only silk"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true,
+    "unknown": "How much actually moved along it is harder to establish than the romance suggests. Written records are patchy and mostly describe luxuries, because those were worth writing down. Archaeologists now trace bulk goods instead, testing pottery, metals and grains for chemical fingerprints that reveal where they were made — and the picture that emerges shows far more local and regional trade than long-distance traffic. The great trans-continental journeys were real but rarer than the name implies."
+  },
+  {
+    "id": "library-of-alexandria",
+    "category": "history",
+    "title": "The Library That Was Lost Slowly",
+    "emoji": "📜",
+    "hook": "The great library of Alexandria did not burn down in one dramatic night.",
+    "story": [
+      "Founded around 300 BC in Egypt, the Library of Alexandria aimed at something never tried before: a copy of every book in the world. Ships arriving in the harbour were searched for scrolls, which were borrowed, copied, and — according to accounts — sometimes returned as the copy while the library kept the original. Scholars lived there, funded to study, argue and write.",
+      "The work done was real. Eratosthenes measured the size of the Earth from shadow lengths and got remarkably close. Euclid's geometry was compiled there. Astronomers mapped stars and proposed that the Earth moves around the Sun, seventeen centuries before Copernicus.",
+      "The popular image of a single catastrophic fire is wrong. Damage happened repeatedly — Caesar's troops burned part of the harbour district in 48 BC, later rulers cut the funding, scholars were expelled during political purges, and the building's role faded over centuries. The decline took some four hundred years.",
+      "That is the quieter lesson. The library was not destroyed by one villain but by repeated neglect, shrinking budgets and political convenience — and what was lost is unknowable, because the catalogue went with it. Only a small fraction of ancient writing survived to us, mostly by being copied over and over in monasteries and libraries elsewhere."
+    ],
+    "wow": "Copies made in Baghdad, Constantinople and Córdoba preserved much ancient Greek learning that Europe later rediscovered in translation.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "How was the library lost?",
+        "a": [
+          "Gradually, over centuries of damage and neglect",
+          "In a single great fire"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What was measured there?",
+        "a": [
+          "The size of the Earth",
+          "The speed of light"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true,
+    "unknown": "Nobody knows how large it was. Ancient estimates range from 40,000 to 700,000 scrolls, written by people with reasons to exaggerate, and a scroll is not a book — a single work might fill several. Nor is it clear what was lost, since the catalogue vanished too. Occasionally something reappears: in 1906 a scholar found a medieval prayer book whose pages had been scraped clean and reused, with erased work by Archimedes still faintly readable underneath."
+  },
+  {
+    "id": "the-black-death",
+    "category": "history",
+    "title": "The Plague That Rearranged Europe",
+    "emoji": "🐀",
+    "hook": "A disease killed perhaps a third of Europe — and changed the lives of those who lived.",
+    "story": [
+      "Between 1347 and 1351 a bacterial disease swept through Europe, probably arriving by ship along trade routes from Asia. Estimates suggest it killed between a third and a half of the population within a few years. Whole villages emptied. Nobody understood the cause; doctors blamed bad air, and remedies ranged from useless to harmful.",
+      "The survivors inherited a world short of workers. For centuries labour had been cheap and plentiful, and most peasants were bound to a landowner's estate. Suddenly landowners were competing for people to work the fields. Wages rose sharply, and when laws were passed to force wages back down, they largely failed, because workers could simply leave for somewhere that paid.",
+      "The effects rippled outward for generations. Serfdom weakened and in many places disappeared. Expensive labour encouraged labour-saving devices. The authority of the church suffered, having promised protection that did not come. Some historians see the beginnings of Europe's later upheavals in the bargaining power that ordinary people gained in those years.",
+      "The bacterium is still with us. It survives in rodent populations in several parts of the world, causes a small number of human cases each year, and is now treatable with antibiotics if caught early."
+    ],
+    "wow": "Analysis of teeth from plague victims has let scientists reconstruct the bacterium's genome from the 1300s.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "What happened to wages after the plague?",
+        "a": [
+          "They rose because workers were scarce",
+          "They collapsed"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Is the disease gone today?",
+        "a": [
+          "No, but it is treatable with antibiotics",
+          "Yes, entirely"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true,
+    "discovery": "The cause was only identified in 1894, when Alexandre Yersin isolated the bacterium during an outbreak in Hong Kong; it carries his name. The role of fleas and rats came a few years later. More recently, genetics has rewritten parts of the story: DNA recovered from the teeth of plague victims buried in London showed that the medieval outbreak and modern cases come from the same species, and helped trace where and when the strain emerged."
+  },
+  {
+    "id": "the-first-photograph",
+    "category": "history",
+    "title": "The First Photograph Took Hours",
+    "emoji": "📷",
+    "hook": "The world's oldest surviving photograph needed an exposure of at least eight hours.",
+    "story": [
+      "People had known for centuries that a small hole in the wall of a dark room projects an upside-down image of the world outside. Artists used the effect to trace scenes. The problem was making the image stay. Everyone could see the picture; nobody could keep it.",
+      "In 1826 or 1827, a Frenchman named Joseph Nicéphore Niépce coated a pewter plate with a kind of bitumen that hardens where light strikes it, put it in a camera box, and pointed it out of an upstairs window. The exposure lasted many hours — long enough that sunlight moved across the courtyard and buildings are lit from both sides. Then he washed away the still-soft, unexposed parts, leaving a permanent image. It is faint, grey and barely legible, and it is the oldest photograph from nature that survives.",
+      "Niépce later partnered with Louis Daguerre, and after Niépce's death Daguerre developed a far better process, announced in 1839, with exposures of minutes rather than hours. Portraits became possible, though early sitters had to be braced with head clamps to stay still.",
+      "Within a generation, ordinary people could own an image of their own face. Before this, unless you were wealthy enough to commission a painting, no likeness of you existed at all — and most people who had ever lived left no picture of themselves behind."
+    ],
+    "wow": "Niépce's plate was lost for decades and rediscovered in 1952 in a trunk in England.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "How long was the first exposure?",
+        "a": [
+          "Many hours",
+          "About a second"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What changed for ordinary people?",
+        "a": [
+          "Anyone could have a likeness made",
+          "Painting became cheaper"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true,
+    "unknown": "The early chemistry has left a slow problem behind. Many nineteenth and twentieth-century photographs are fading, and colour film from the mid-1900s is often worse than the black and white that preceded it, because the dyes break down. Archives now scan and store copies digitally — which trades one fragility for another, since a file needs a working format, a working machine and somebody still paying for storage. Nobody is confident which of today's images will exist in two hundred years."
+  },
+  {
+    "id": "the-great-wall",
+    "category": "history",
+    "title": "The Great Wall Is Many Walls",
+    "emoji": "🧱",
+    "hook": "It is not one wall, not one age, and you cannot see it from space.",
+    "story": [
+      "The Great Wall is a name for many walls, built, abandoned and rebuilt across roughly two thousand years by different dynasties for different reasons. Early sections were rammed earth. The famous stone-and-brick stretches near Beijing that appear in photographs are mostly from the Ming dynasty, built after the 1400s — comparatively recent.",
+      "Counting every branch and abandoned section, surveys put the total at over 21,000 kilometres. Large portions have collapsed, been quarried for building material by nearby villages, or been swallowed by desert.",
+      "It was never a simple barrier meant to stop armies dead. It worked as a system: watchtowers passing signals with smoke and fire faster than a horse could gallop, garrisons stationed along it, gates controlling trade and movement, and a raised road for moving troops along the frontier quickly. Its purpose was as much control and warning as blocking.",
+      "The claim that it is visible from space is repeated everywhere and is false. It is long but only a few metres wide, and made of materials the colour of the ground around it. Astronauts have said plainly that they could not pick it out with the naked eye from orbit — while noticing motorways, airports and cities easily."
+    ],
+    "wow": "Workers who died during construction were sometimes buried nearby, which is why it is occasionally called the longest cemetery on Earth.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "Can you see the wall from space?",
+        "a": [
+          "No — it is long but narrow",
+          "Yes, easily"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "How did warnings travel along it?",
+        "a": [
+          "Smoke and fire signals between towers",
+          "By fast horses only"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true,
+    "unknown": "Nobody can say exactly how long it is, and the number keeps changing. A survey completed in 2012 using satellite imagery and fieldwork put the total at 21,196 kilometres, far more than earlier estimates, because it counted branches, parallel walls and sections long collapsed into ridges of earth. Large stretches are still unmapped, some are being lost to weather and quarrying, and archaeologists disagree about which remnants should count as wall at all."
   }
 ]

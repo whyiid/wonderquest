@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "builtAt": "2026-09-13",
+  "builtAt": "2026-09-14",
   "categories": [
     {
       "id": "animals",
@@ -289,6 +289,86 @@
       "keywords": "honey never goes bad archaeologists have found honey in ancient tombs that is still edible. honey has been used on wounds for thousands of years, and some hospitals still use medical-grade honey on stubborn ones today."
     },
     {
+      "id": "crows-remember-faces",
+      "category": "animals",
+      "title": "Crows Remember Your Face",
+      "emoji": "🐦‍⬛",
+      "hook": "Wrong a crow once and it may recognise you for years — and tell its friends.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "crows remember your face wrong a crow once and it may recognise you for years — and tell its friends. a crow that decides you are friendly may start leaving you small gifts: buttons, beads, bits of shiny glass."
+    },
+    {
+      "id": "ants-that-farm",
+      "category": "animals",
+      "title": "Ants Were Farming Before People",
+      "emoji": "🍄",
+      "hook": "Leafcutter ants have been growing their own food for millions of years.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "ants were farming before people leafcutter ants have been growing their own food for millions of years. leafcutter ants are the biggest herbivores in south american rainforests, out-eating every mammal there."
+    },
+    {
+      "id": "penguins-take-turns",
+      "category": "animals",
+      "title": "Penguins Take Turns Being Cold",
+      "emoji": "🐧",
+      "hook": "In an Antarctic winter, emperor penguins survive by huddling — and by being fair about it.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "penguins take turns being cold in an antarctic winter, emperor penguins survive by huddling — and by being fair about it. emperor penguin fathers lose almost half their body weight during the wait, then feed the chick with a milk-like substance from their throat."
+    },
+    {
+      "id": "sharks-older-than-trees",
+      "category": "animals",
+      "title": "Sharks Are Older Than Trees",
+      "emoji": "🦈",
+      "hook": "Sharks were already swimming before the first tree ever grew.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "sharks are older than trees sharks were already swimming before the first tree ever grew. sharks also predate saturn's rings, on current estimates, and the north star — both are younger."
+    },
+    {
+      "id": "seahorse-fathers-give-birth",
+      "category": "animals",
+      "title": "Seahorse Fathers Give Birth",
+      "emoji": "🌊",
+      "hook": "In seahorses, it is the male who gets pregnant.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "seahorse fathers give birth in seahorses, it is the male who gets pregnant. many seahorse pairs greet each other every morning with a slow dance, sometimes changing colour while they do it."
+    },
+    {
+      "id": "birds-see-magnetic-fields",
+      "category": "animals",
+      "title": "Some Birds May See the Earth's Magnet",
+      "emoji": "🧭",
+      "hook": "A migrating robin may not feel the Earth's magnetic field. It may look at it.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "some birds may see the earth's magnet a migrating robin may not feel the earth's magnetic field. it may look at it. a young bird making its first migration alone can still find a wintering ground it has never seen."
+    },
+    {
+      "id": "slime-mould-solves-mazes",
+      "category": "animals",
+      "title": "A Creature With No Brain Solves Mazes",
+      "emoji": "🟡",
+      "hook": "Slime mould has no brain, no nerves and no eyes — and it can find the shortest route.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "a creature with no brain solves mazes slime mould has no brain, no nerves and no eyes — and it can find the shortest route. slime moulds can also learn: taught to cross an unpleasant substance, they get braver, and can pass that habit to another blob they merge with."
+    },
+    {
+      "id": "electric-eel-shock",
+      "category": "animals",
+      "title": "A Fish That Builds a Battery",
+      "emoji": "⚡",
+      "hook": "An electric eel can deliver a jolt of 800 volts — more than a wall socket.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "a fish that builds a battery an electric eel can deliver a jolt of 800 volts — more than a wall socket. volta named his first battery the 'artificial electric organ' — he built it after studying electric fish."
+    },
+    {
       "id": "venus-day-longer-than-year",
       "category": "space",
       "title": "A Day on Venus Is Longer Than Its Year",
@@ -439,6 +519,86 @@
       "keywords": "a place light cannot escape throw a ball hard enough and it escapes earth. near a black hole, even light cannot. the gas swirling into a black hole can shine brighter than an entire galaxy before it disappears."
     },
     {
+      "id": "why-space-is-cold",
+      "category": "space",
+      "title": "Space Is Freezing and Burning at Once",
+      "emoji": "🌡️",
+      "hook": "In space you could freeze and overheat at the same time.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "space is freezing and burning at once in space you could freeze and overheat at the same time. the empty space between stars is only a few degrees above absolute zero — the coldest temperature possible."
+    },
+    {
+      "id": "how-far-the-nearest-star",
+      "category": "space",
+      "title": "The Next Star Is Terribly Far",
+      "emoji": "✨",
+      "hook": "The nearest star after the Sun is so far that its light takes four years to arrive.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "the next star is terribly far the nearest star after the sun is so far that its light takes four years to arrive. if a star you can see tonight vanished this instant, people would keep seeing it for years, and nobody would know."
+    },
+    {
+      "id": "the-sun-is-white",
+      "category": "space",
+      "title": "The Sun Is Not Yellow",
+      "emoji": "☀️",
+      "hook": "Every drawing gets it wrong: the Sun is white.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "the sun is not yellow every drawing gets it wrong: the sun is white. never look directly at the sun to check. the damage to your eyes happens without pain and does not heal."
+    },
+    {
+      "id": "why-there-are-two-tides",
+      "category": "space",
+      "title": "Why There Are Two High Tides a Day",
+      "emoji": "🌊",
+      "hook": "The Moon pulls the ocean towards it — so why does the far side bulge too?",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "why there are two high tides a day the moon pulls the ocean towards it — so why does the far side bulge too? tides also stretch the solid ground. the land under your feet rises and falls by tens of centimetres twice a day."
+    },
+    {
+      "id": "how-we-weigh-a-planet",
+      "category": "space",
+      "title": "How Do You Weigh a Planet?",
+      "emoji": "⚖️",
+      "hook": "Nobody has ever put a planet on a scale, yet we know what they weigh.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "how do you weigh a planet? nobody has ever put a planet on a scale, yet we know what they weigh. cavendish's result was within about one percent of the modern value, using no electricity and no computer."
+    },
+    {
+      "id": "the-atmosphere-is-thin",
+      "category": "space",
+      "title": "The Air Is Thinner Than You Think",
+      "emoji": "🌍",
+      "hook": "All the air on Earth is a layer thinner than the skin of an apple.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "the air is thinner than you think all the air on earth is a layer thinner than the skin of an apple. venus has an atmosphere so heavy that standing on its surface would feel like being 900 metres underwater."
+    },
+    {
+      "id": "what-makes-auroras",
+      "category": "space",
+      "title": "The Sky on Fire",
+      "emoji": "🌌",
+      "hook": "An aurora is the Sun's weather hitting the Earth's magnetic shield.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "the sky on fire an aurora is the sun's weather hitting the earth's magnetic shield. jupiter and saturn have auroras too, far more powerful than ours, visible in ultraviolet light."
+    },
+    {
+      "id": "footprints-on-the-moon",
+      "category": "space",
+      "title": "The Footprints Are Still There",
+      "emoji": "👣",
+      "hook": "The bootprints left on the Moon in 1969 have not blurred at all.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "the footprints are still there the bootprints left on the moon in 1969 have not blurred at all. the mirrors left by apollo are still in use — observatories fire lasers at them to measure the moon's distance."
+    },
+    {
       "id": "babies-have-more-bones",
       "category": "body",
       "title": "You Had More Bones as a Baby",
@@ -567,6 +727,86 @@
       "image": null,
       "readingLevel": 3,
       "keywords": "there is a hole in your vision each eye has a blind spot, and your brain hides it from you. the blind spot in each eye is large enough to hide several full moons in the sky."
+    },
+    {
+      "id": "why-yawning-is-catching",
+      "category": "body",
+      "title": "Why Yawns Are Catching",
+      "emoji": "🥱",
+      "hook": "Reading the word yawn is enough to make some people do it.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "why yawns are catching reading the word yawn is enough to make some people do it. ordinary yawning starts before birth, but catching yawns from other people only begins around age four or five."
+    },
+    {
+      "id": "your-recorded-voice",
+      "category": "body",
+      "title": "Why Your Recorded Voice Sounds Wrong",
+      "emoji": "🎙️",
+      "hook": "The voice in a recording is the one everyone else has always heard.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "why your recorded voice sounds wrong the voice in a recording is the one everyone else has always heard. some hearing aids use this deliberately, sending sound through the skull bone instead of the ear canal."
+    },
+    {
+      "id": "forgetting-is-useful",
+      "category": "body",
+      "title": "Forgetting Is a Feature",
+      "emoji": "🧽",
+      "hook": "A brain that remembered everything would work worse, not better.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "forgetting is a feature a brain that remembered everything would work worse, not better. remembering something makes it briefly editable, so a memory recalled often can drift further from the truth than one left alone."
+    },
+    {
+      "id": "skin-is-your-biggest-organ",
+      "category": "body",
+      "title": "You Are Wearing Your Largest Organ",
+      "emoji": "🧴",
+      "hook": "Skin is not a wrapper. It is an organ, and the biggest one you have.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "you are wearing your largest organ skin is not a wrapper. it is an organ, and the biggest one you have. a layer only a fraction of a millimetre thick — the outer dead cells — is what keeps you from drying out."
+    },
+    {
+      "id": "why-you-shiver-and-sweat",
+      "category": "body",
+      "title": "Your Body Runs a Thermostat",
+      "emoji": "🥵",
+      "hook": "You stay at 37°C whether it is freezing outside or blazing hot.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "your body runs a thermostat you stay at 37°c whether it is freezing outside or blazing hot. a person can produce well over a litre of sweat an hour, which is why drinking matters more than resting in the heat."
+    },
+    {
+      "id": "how-you-fight-a-cold",
+      "category": "body",
+      "title": "A Runny Nose Is You, Not the Virus",
+      "emoji": "🤧",
+      "hook": "Most of what a cold feels like is your own defence, not the germ.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "a runny nose is you, not the virus most of what a cold feels like is your own defence, not the germ. the average child catches somewhere between six and eight colds a year, which is normal rather than a sign of weakness."
+    },
+    {
+      "id": "why-exercise-makes-you-stronger",
+      "category": "body",
+      "title": "Muscles Grow by Being Damaged",
+      "emoji": "💪",
+      "hook": "Exercise makes you stronger by breaking you slightly, then overbuilding the repair.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "muscles grow by being damaged exercise makes you stronger by breaking you slightly, then overbuilding the repair. the same principle applies to bone: bones exposed to regular load grow denser, which is why astronauts lose bone strength in weightlessness."
+    },
+    {
+      "id": "why-most-people-are-right-handed",
+      "category": "body",
+      "title": "Why Most People Are Right-Handed",
+      "emoji": "✋",
+      "hook": "About nine people in ten favour the right hand, and nobody fully knows why.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "why most people are right-handed about nine people in ten favour the right hand, and nobody fully knows why. left-handers are over-represented in sports where an opponent faces you — fencing, boxing, cricket — probably because opponents get less practice against them."
     },
     {
       "id": "wifi-is-radio",
@@ -699,6 +939,86 @@
       "keywords": "how a speaker makes sound a speaker is a magnet, a coil of wire, and a piece of card that pushes air. big cones move slowly and make deep notes; small ones move fast and make high notes, which is why speakers come in different sizes."
     },
     {
+      "id": "how-a-lock-works",
+      "category": "tech",
+      "title": "What Is Happening Inside a Lock",
+      "emoji": "🔑",
+      "hook": "A key does not turn a lock. It lines up a row of tiny pins.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "what is happening inside a lock a key does not turn a lock. it lines up a row of tiny pins. a pin tumbler design from ancient egypt, around 4,000 years old, works on essentially the same idea as the lock on your door."
+    },
+    {
+      "id": "how-a-bicycle-stays-up",
+      "category": "tech",
+      "title": "Nobody Fully Agrees How a Bicycle Balances",
+      "emoji": "🚲",
+      "hook": "A moving bicycle can balance itself with nobody on it — and the reason is still argued about.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "nobody fully agrees how a bicycle balances a moving bicycle can balance itself with nobody on it — and the reason is still argued about. turning a bicycle starts by briefly steering the wrong way — push the right bar to go right. experienced riders do it without knowing."
+    },
+    {
+      "id": "how-noise-cancelling-works",
+      "category": "tech",
+      "title": "Cancelling Sound With Sound",
+      "emoji": "🎧",
+      "hook": "Noise-cancelling headphones make silence by adding more noise.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "cancelling sound with sound noise-cancelling headphones make silence by adding more noise. the same trick is built into some car cabins, playing anti-noise through the car's own speakers."
+    },
+    {
+      "id": "how-a-zip-works",
+      "category": "tech",
+      "title": "The Cleverness of a Zip",
+      "emoji": "🧥",
+      "hook": "A zip is a machine, and the clever part is the slider.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "the cleverness of a zip a zip is a machine, and the clever part is the slider. zips were first sold for boots and tobacco pouches — clothing makers thought them too strange for years."
+    },
+    {
+      "id": "glass-is-made-from-sand",
+      "category": "tech",
+      "title": "Windows Are Melted Sand",
+      "emoji": "🪟",
+      "hook": "Glass is sand, heated until it forgets how to be a solid properly.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "windows are melted sand glass is sand, heated until it forgets how to be a solid properly. lightning striking sand can fuse it into a natural glass tube called a fulgurite, branching like a frozen bolt."
+    },
+    {
+      "id": "how-a-pencil-works",
+      "category": "tech",
+      "title": "A Pencil Leaves Layers Behind",
+      "emoji": "✏️",
+      "hook": "Writing with a pencil means peeling off sheets of carbon one at a time.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "a pencil leaves layers behind writing with a pencil means peeling off sheets of carbon one at a time. an average pencil can draw a line tens of kilometres long before the core runs out."
+    },
+    {
+      "id": "how-a-thermos-works",
+      "category": "tech",
+      "title": "A Flask Holds Nothing — On Purpose",
+      "emoji": "🍵",
+      "hook": "The most important part of a vacuum flask is the empty space inside its wall.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "a flask holds nothing — on purpose the most important part of a vacuum flask is the empty space inside its wall. the same flask keeps cold drinks cold, because blocking heat works in both directions."
+    },
+    {
+      "id": "why-lifts-are-safe",
+      "category": "tech",
+      "title": "The Demonstration That Sold the Lift",
+      "emoji": "🛗",
+      "hook": "Lifts existed before anyone trusted them. One man fixed that by cutting his own rope.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "the demonstration that sold the lift lifts existed before anyone trusted them. one man fixed that by cutting his own rope. a lift car hangs from several cables at once, and just one of them is usually rated to carry the whole load."
+    },
+    {
       "id": "penicillin-by-accident",
       "category": "discoveries",
       "title": "The Mould That Saved Millions",
@@ -767,6 +1087,76 @@
       "image": null,
       "readingLevel": 3,
       "keywords": "the idea everyone laughed at one man said the continents move. it took fifty years and his death before anyone believed him. africa and south america are still separating, at roughly the speed your fingernails grow."
+    },
+    {
+      "id": "newton-and-gravity",
+      "category": "discoveries",
+      "title": "The Apple Was the Easy Part",
+      "emoji": "🍎",
+      "hook": "Newton's real leap was not that apples fall. It was that the Moon is falling too.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "the apple was the easy part newton's real leap was not that apples fall. it was that the moon is falling too. astronauts on the space station are not weightless because gravity is absent. they are falling, and missing the earth."
+    },
+    {
+      "id": "darwin-and-wallace",
+      "category": "discoveries",
+      "title": "Two People Had the Same Idea",
+      "emoji": "🐢",
+      "hook": "Darwin sat on his theory for twenty years — until a letter arrived from Indonesia.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "two people had the same idea darwin sat on his theory for twenty years — until a letter arrived from indonesia. the wallace line exists because deep water kept those islands separate even when sea levels fell and others joined up."
+    },
+    {
+      "id": "mendeleev-periodic-table",
+      "category": "discoveries",
+      "title": "The Table That Predicted Missing Things",
+      "emoji": "🧪",
+      "hook": "Mendeleev left gaps in his table — then described the elements that would fill them.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "the table that predicted missing things mendeleev left gaps in his table — then described the elements that would fill them. element 101 is named mendelevium, after him — a rare honour for someone whose table had to wait for physics to explain it."
+    },
+    {
+      "id": "discovering-oxygen",
+      "category": "discoveries",
+      "title": "The Gas Nobody Could Name",
+      "emoji": "🫧",
+      "hook": "Three people found oxygen, and two of them did not realise what they had.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "the gas nobody could name three people found oxygen, and two of them did not realise what they had. priestley described the gas as making him feel light and easy, and wondered whether it might one day be a fashionable luxury."
+    },
+    {
+      "id": "first-look-at-microbes",
+      "category": "discoveries",
+      "title": "The Draper Who Found a Hidden World",
+      "emoji": "🔎",
+      "hook": "A cloth merchant ground his own lenses and discovered that a drop of water is crowded.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "the draper who found a hidden world a cloth merchant ground his own lenses and discovered that a drop of water is crowded. he made hundreds of microscopes and took his grinding technique to the grave; his best lenses were only matched much later."
+    },
+    {
+      "id": "the-first-anaesthetic",
+      "category": "discoveries",
+      "title": "Surgery Used to Mean Being Awake",
+      "emoji": "😴",
+      "hook": "Until 1846, an operation meant being held down and feeling everything.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "surgery used to mean being awake until 1846, an operation meant being held down and feeling everything. ether and nitrous oxide had been used for fun at parties for over forty years before anyone used them to stop pain."
+    },
+    {
+      "id": "echo-of-the-big-bang",
+      "category": "discoveries",
+      "title": "The Noise They Tried to Clean Away",
+      "emoji": "📡",
+      "hook": "Two engineers scrubbed pigeon droppings off an antenna, trying to remove the echo of the Big Bang.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "the noise they tried to clean away two engineers scrubbed pigeon droppings off an antenna, trying to remove the echo of the big bang. older analogue televisions tuned to an empty channel picked up a small part of their static from this ancient light."
     },
     {
       "id": "krakatoa-1883",
@@ -839,6 +1229,76 @@
       "keywords": "twenty seconds of fuel left the first moon landing nearly ran out of fuel with the ground in sight. president nixon had a speech prepared in case the astronauts were stranded on the moon. it was never needed, and never delivered."
     },
     {
+      "id": "tambora-year-without-summer",
+      "category": "history",
+      "title": "The Year Without a Summer",
+      "emoji": "🌑",
+      "hook": "An Indonesian volcano erupted in 1815, and the next year Europe had no summer.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "the year without a summer an indonesian volcano erupted in 1815, and the next year europe had no summer. tambora is still there, with a caldera six kilometres across where the summit used to be."
+    },
+    {
+      "id": "spice-islands",
+      "category": "history",
+      "title": "Islands Worth More Than Gold",
+      "emoji": "🌰",
+      "hook": "For centuries, nutmeg grew on a handful of tiny Indonesian islands and nowhere else on Earth.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "islands worth more than gold for centuries, nutmeg grew on a handful of tiny indonesian islands and nowhere else on earth. nutmeg trees now grow across the tropics, and the spice is cheap — which is why the islands are peaceful and poor."
+    },
+    {
+      "id": "the-silk-road",
+      "category": "history",
+      "title": "The Road That Was Not a Road",
+      "emoji": "🐫",
+      "hook": "Almost nobody travelled the whole Silk Road. Goods did.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "the road that was not a road almost nobody travelled the whole silk road. goods did. paper reached europe roughly a thousand years after its invention in china — slow by our standards, extraordinary by theirs."
+    },
+    {
+      "id": "library-of-alexandria",
+      "category": "history",
+      "title": "The Library That Was Lost Slowly",
+      "emoji": "📜",
+      "hook": "The great library of Alexandria did not burn down in one dramatic night.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "the library that was lost slowly the great library of alexandria did not burn down in one dramatic night. copies made in baghdad, constantinople and córdoba preserved much ancient greek learning that europe later rediscovered in translation."
+    },
+    {
+      "id": "the-black-death",
+      "category": "history",
+      "title": "The Plague That Rearranged Europe",
+      "emoji": "🐀",
+      "hook": "A disease killed perhaps a third of Europe — and changed the lives of those who lived.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "the plague that rearranged europe a disease killed perhaps a third of europe — and changed the lives of those who lived. analysis of teeth from plague victims has let scientists reconstruct the bacterium's genome from the 1300s."
+    },
+    {
+      "id": "the-first-photograph",
+      "category": "history",
+      "title": "The First Photograph Took Hours",
+      "emoji": "📷",
+      "hook": "The world's oldest surviving photograph needed an exposure of at least eight hours.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "the first photograph took hours the world's oldest surviving photograph needed an exposure of at least eight hours. niépce's plate was lost for decades and rediscovered in 1952 in a trunk in england."
+    },
+    {
+      "id": "the-great-wall",
+      "category": "history",
+      "title": "The Great Wall Is Many Walls",
+      "emoji": "🧱",
+      "hook": "It is not one wall, not one age, and you cannot see it from space.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "the great wall is many walls it is not one wall, not one age, and you cannot see it from space. workers who died during construction were sometimes buried nearby, which is why it is occasionally called the longest cemetery on earth."
+    },
+    {
       "id": "ibn-al-haytham",
       "category": "people",
       "title": "The Man Who Invented Testing",
@@ -909,6 +1369,76 @@
       "keywords": "srinivasa ramanujan a clerk in madras posted strange formulas to a cambridge professor. most of them were right. told that the number 1729 was dull, he replied instantly that it was the smallest number expressible as two cubes added together in two different ways."
     },
     {
+      "id": "leonardo-da-vinci",
+      "category": "people",
+      "title": "Leonardo Finished Almost Nothing",
+      "emoji": "🎨",
+      "hook": "The most famous genius in history left most of his work unfinished.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "leonardo finished almost nothing the most famous genius in history left most of his work unfinished. he wrote a job application letter to the duke of milan listing his military engineering skills, and mentioned painting almost as an afterthought at the end."
+    },
+    {
+      "id": "al-khwarizmi",
+      "category": "people",
+      "title": "The Man Behind the Word Algorithm",
+      "emoji": "➗",
+      "hook": "Two words you use in mathematics come from one scholar's name and one of his books.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "the man behind the word algorithm two words you use in mathematics come from one scholar's name and one of his books. try multiplying lvii by xxiii using only roman numerals, and the importance of the change becomes obvious quickly."
+    },
+    {
+      "id": "nikola-tesla",
+      "category": "people",
+      "title": "Nikola Tesla",
+      "emoji": "⚡",
+      "hook": "He won the argument about how to deliver electricity, and died with almost nothing.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "nikola tesla he won the argument about how to deliver electricity, and died with almost nothing. the unit of magnetic field strength is named the tesla, and the alternating-current system he designed still powers most of the world."
+    },
+    {
+      "id": "rachel-carson",
+      "category": "people",
+      "title": "The Book That Started an Argument",
+      "emoji": "🐦",
+      "hook": "A marine biologist wrote about birds falling silent, and an industry tried to destroy her.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "the book that started an argument a marine biologist wrote about birds falling silent, and an industry tried to destroy her. ddt is still used carefully in some countries against malaria-carrying mosquitoes, which is roughly the balanced position carson herself argued for."
+    },
+    {
+      "id": "wangari-maathai",
+      "category": "people",
+      "title": "She Planted Trees and It Became Politics",
+      "emoji": "🌳",
+      "hook": "Planting a tree sounds harmless. In Kenya in the 1970s it was treated as a threat.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "she planted trees and it became politics planting a tree sounds harmless. in kenya in the 1970s it was treated as a threat. the nobel committee's reasoning was that you cannot have peace where resources are stripped away and people have no voice in it."
+    },
+    {
+      "id": "mary-anning",
+      "category": "people",
+      "title": "The Fossil Hunter Nobody Would Credit",
+      "emoji": "🦕",
+      "hook": "She found creatures nobody knew had existed, and was not allowed to join the society that discussed them.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "the fossil hunter nobody would credit she found creatures nobody knew had existed, and was not allowed to join the society that discussed them. the tongue-twister about selling seashells by the seashore is widely believed to have been written about her."
+    },
+    {
+      "id": "norman-borlaug",
+      "category": "people",
+      "title": "The Man Who Fed a Billion People",
+      "emoji": "🌾",
+      "hook": "Most people have never heard of him, and he may have saved more lives than anyone.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "the man who fed a billion people most people have never heard of him, and he may have saved more lives than anyone. estimates of lives saved by the wheat he bred usually start at several hundred million and run to a billion."
+    },
+    {
       "id": "dark-matter",
       "category": "mysteries",
       "title": "Most of the Universe Is Missing",
@@ -977,6 +1507,76 @@
       "image": null,
       "readingLevel": 3,
       "keywords": "why is there anything at all? by the rules as we understand them, the universe should be empty. everything you have ever seen or touched is made of the small amount of matter that survived the destruction."
+    },
+    {
+      "id": "what-is-time",
+      "category": "mysteries",
+      "title": "Why Does Time Only Go Forwards?",
+      "emoji": "⏳",
+      "hook": "Almost every law of physics works equally well backwards. Time does not.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "why does time only go forwards? almost every law of physics works equally well backwards. time does not. a clock at your feet runs very slightly slower than one at your head, and this has been measured over a height difference of a single metre."
+    },
+    {
+      "id": "are-we-alone",
+      "category": "mysteries",
+      "title": "Where Is Everybody?",
+      "emoji": "👽",
+      "hook": "The galaxy is huge and old. So why has nobody called?",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "where is everybody? the galaxy is huge and old. so why has nobody called? our own radio signals have only reached a bubble about a hundred light years wide — a speck of the galaxy."
+    },
+    {
+      "id": "why-do-we-dream",
+      "category": "mysteries",
+      "title": "Nobody Knows Why You Dream",
+      "emoji": "💤",
+      "hook": "You will spend around six years of your life dreaming, and science cannot say why.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "nobody knows why you dream you will spend around six years of your life dreaming, and science cannot say why. blind people dream too. those blind from birth report dreams rich in sound, touch and smell rather than images."
+    },
+    {
+      "id": "before-the-big-bang",
+      "category": "mysteries",
+      "title": "What Came Before the Beginning?",
+      "emoji": "🌠",
+      "hook": "Asking what happened before the Big Bang may be like asking what is north of the North Pole.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "what came before the beginning? asking what happened before the big bang may be like asking what is north of the north pole. the oldest light we can see left when the universe was about 380,000 years old. everything earlier is hidden behind a fog."
+    },
+    {
+      "id": "do-animals-have-language",
+      "category": "mysteries",
+      "title": "Do Animals Have Language?",
+      "emoji": "🦜",
+      "hook": "Plenty of animals communicate. Whether any of them has language is a harder question.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "do animals have language? plenty of animals communicate. whether any of them has language is a harder question. sperm whales make patterned clicks that differ between groups, and researchers are now using machine learning to look for structure in them."
+    },
+    {
+      "id": "the-placebo-effect",
+      "category": "mysteries",
+      "title": "Medicine That Contains Nothing",
+      "emoji": "💊",
+      "hook": "A pill with no medicine in it can still make people genuinely feel better.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "medicine that contains nothing a pill with no medicine in it can still make people genuinely feel better. there is an opposite effect too. warn people of a side effect and some will experience it from a pill containing nothing."
+    },
+    {
+      "id": "what-gravity-really-is",
+      "category": "mysteries",
+      "title": "We Can Predict Gravity, Not Explain It",
+      "emoji": "🪐",
+      "hook": "Gravity is the force we understand best in practice and worst in principle.",
+      "image": null,
+      "readingLevel": 3,
+      "keywords": "we can predict gravity, not explain it gravity is the force we understand best in practice and worst in principle. gravity is by far the weakest of the four forces. a small magnet lifts a paperclip against the pull of the entire planet."
     }
   ]
 }

@@ -250,5 +250,261 @@
     "readingLevel": 3,
     "factRisk": true,
     "reviewed": true
+  },
+  {
+    "id": "newton-and-gravity",
+    "category": "discoveries",
+    "title": "The Apple Was the Easy Part",
+    "emoji": "🍎",
+    "hook": "Newton's real leap was not that apples fall. It was that the Moon is falling too.",
+    "story": [
+      "Everyone knew things fall. What nobody had said was that the force pulling an apple down might be the same force holding the Moon in its orbit — because the Moon obviously does not fall. Newton's insight was that it does, constantly, and keeps missing the Earth because it is also moving sideways fast enough to curve around.",
+      "He explained it with a thought experiment. Imagine a cannon on a very high mountain. Fire it gently and the ball curves down and lands. Fire it harder and it lands further away. Fire it hard enough and the curve of its fall matches the curve of the Earth, and it never lands at all. That is an orbit: falling forever and missing.",
+      "From there he worked out one rule covering both: every mass pulls every other mass, weakening with the square of the distance. The same equation described the apple, the Moon, the planets and the tides. Before this, the heavens and the Earth were thought to follow separate laws. Newton showed there was one set of laws, everywhere.",
+      "The apple story is probably real, though no apple hit his head. He told it late in life as the moment the question occurred to him, during a year when plague closed his university and he was sent home to think."
+    ],
+    "wow": "Astronauts on the space station are not weightless because gravity is absent. They are falling, and missing the Earth.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "What was Newton's real insight?",
+        "a": [
+          "The Moon is falling too",
+          "Apples are heavy"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What is an orbit?",
+        "a": [
+          "Falling while moving sideways fast enough to miss",
+          "Floating outside gravity"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "darwin-and-wallace",
+    "category": "discoveries",
+    "title": "Two People Had the Same Idea",
+    "emoji": "🐢",
+    "hook": "Darwin sat on his theory for twenty years — until a letter arrived from Indonesia.",
+    "story": [
+      "Charles Darwin returned from a five-year voyage in 1836 with a growing suspicion: species were not fixed, but changed over generations, shaped by which individuals survived to breed. He worked it out carefully, then did almost nothing with it for two decades, gathering more evidence and apparently dreading the reaction.",
+      "Meanwhile Alfred Russel Wallace was collecting specimens across the islands of what is now Indonesia and Malaysia, paying his way by selling beetles and birds. Ill with fever on the island of Halmahera in 1858, he reasoned his way to the same explanation — and posted it to Darwin, whom he admired, asking what he thought.",
+      "Darwin was horrified and honourable at once. Rather than publish first or bury the letter, he asked colleagues what to do, and the two men's work was presented together in London in 1858. Darwin's book followed the next year. Wallace never complained; he later titled one of his own books Darwinism.",
+      "Wallace noticed something else while travelling. The animals of Bali and Lombok, islands close enough to see across, belong to entirely different families — Asian on one side, Australian on the other. That boundary through the Indonesian archipelago is now called the Wallace Line."
+    ],
+    "wow": "The Wallace Line exists because deep water kept those islands separate even when sea levels fell and others joined up.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "Where was Wallace when he had the idea?",
+        "a": [
+          "Collecting specimens in the Indonesian islands",
+          "In a London laboratory"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What did Darwin do with Wallace's letter?",
+        "a": [
+          "Had their work presented together",
+          "Published first and said nothing"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true,
+    "unknown": "What neither man could explain was inheritance. Their theory needed traits to pass to offspring, but the accepted idea at the time was that parents' characteristics blended in their children — and blending would dilute any new advantage away within a few generations. Gregor Mendel had already solved this with his pea experiments in the 1860s, showing that traits pass as discrete units, but his work sat unread for thirty-five years and neither Darwin nor Wallace ever saw it."
+  },
+  {
+    "id": "mendeleev-periodic-table",
+    "category": "discoveries",
+    "title": "The Table That Predicted Missing Things",
+    "emoji": "🧪",
+    "hook": "Mendeleev left gaps in his table — then described the elements that would fill them.",
+    "story": [
+      "By the 1860s about sixty elements were known, and chemists could see hints of pattern: some behaved alike. Several people tried arranging them. Dmitri Mendeleev, in 1869, laid them out by increasing weight and grouped ones with similar behaviour into columns.",
+      "The arrangement nearly worked but not quite — unless he allowed himself two liberties. Where the order by weight broke the pattern, he swapped elements to keep chemical behaviour intact. And where no known element fitted a slot, he left it empty rather than squeezing something in.",
+      "Then he did the bold thing. He described the missing elements: their weight, their density, the colour of their compounds, how they would react. Within fifteen years three of them were found — gallium, scandium and germanium — and the measured properties matched his predictions closely. That is what turned a tidy chart into a law of nature.",
+      "He could not explain why the pattern existed; atomic structure was unknown. When electrons and the nucleus were understood decades later, the columns turned out to reflect how electrons are arranged, and the odd swaps he had made were vindicated: the true order is by number of protons, not weight."
+    ],
+    "wow": "Element 101 is named mendelevium, after him — a rare honour for someone whose table had to wait for physics to explain it.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "What did Mendeleev do with unknown elements?",
+        "a": [
+          "Left gaps and predicted their properties",
+          "Ignored them"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What really sets the order of the table?",
+        "a": [
+          "Number of protons",
+          "Weight alone"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true,
+    "unknown": "The table still has an unfinished edge. Elements beyond uranium are made one atom at a time in accelerators, and the heaviest survive for fractions of a second before falling apart — so their chemistry is guessed rather than measured. Theory predicts an island of stability where certain very heavy elements might last much longer, and several laboratories are trying to reach it. Nobody knows whether the island exists, or where the table finally stops."
+  },
+  {
+    "id": "discovering-oxygen",
+    "category": "discoveries",
+    "title": "The Gas Nobody Could Name",
+    "emoji": "🫧",
+    "hook": "Three people found oxygen, and two of them did not realise what they had.",
+    "story": [
+      "In the 1770s chemists believed burning released a substance called phlogiston. A candle went out in a sealed jar, they thought, because the air had absorbed all the phlogiston it could. It explained a lot, which is what made it hard to abandon.",
+      "Carl Wilhelm Scheele in Sweden produced the gas first, around 1772, and called it fire air. His work was published late. Joseph Priestley in England produced it in 1774 by focusing sunlight on a red powder, found a candle burned in it with startling brightness and a mouse lived longer than expected, and tried breathing it himself. He reported it as dephlogisticated air — air unusually hungry for phlogiston — because he was working inside the old theory.",
+      "Antoine Lavoisier, in France, repeated the experiments and read them differently. Nothing was leaving the burning material; something was joining it. He weighed things carefully and showed that metals gain weight when they burn, exactly the weight of gas absorbed. Burning was combination, not release, and phlogiston did not exist.",
+      "Lavoisier named the gas oxygen and effectively founded modern chemistry. He was executed in 1794 during the French Revolution, at 50, for his separate work as a tax collector."
+    ],
+    "wow": "Priestley described the gas as making him feel light and easy, and wondered whether it might one day be a fashionable luxury.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "What did Lavoisier realise?",
+        "a": [
+          "Burning combines with a gas, not releases one",
+          "Fire contains phlogiston"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "How did he prove it?",
+        "a": [
+          "By weighing materials before and after",
+          "By asking other chemists"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true,
+    "unknown": "One question from that era is still open in a different form: why does the air hold 21 percent oxygen and stay there? Much higher and fires would spread almost unstoppably, including wet vegetation; much lower and large active animals could not exist. Living things both produce and consume it, and geology takes some out, so the balance is a vast feedback system that nobody has fully modelled — and the level has shifted considerably over Earth's history."
+  },
+  {
+    "id": "first-look-at-microbes",
+    "category": "discoveries",
+    "title": "The Draper Who Found a Hidden World",
+    "emoji": "🔎",
+    "hook": "A cloth merchant ground his own lenses and discovered that a drop of water is crowded.",
+    "story": [
+      "Antonie van Leeuwenhoek sold fabric in Delft, and used magnifying glasses to count threads and judge quality. That practical habit led him to make better lenses than anyone alive — tiny glass beads, ground and polished obsessively, mounted in small brass plates and held close to the eye. His best reached several hundred times magnification, far beyond the compound microscopes of the day.",
+      "In the 1670s he turned them on pond water and saw things moving. He called them animalcules. He found them in rainwater, in pepper infusions, in his own mouth — noting that scrapings from his teeth teemed with them, and that they stopped moving after he drank hot coffee. He described sperm, blood cells, muscle fibres and the fine capillaries linking arteries to veins.",
+      "Nobody believed him at first. He was not a scholar, wrote in Dutch rather than Latin, and refused to sell or explain his lens-making method, so no one else could check. The Royal Society in London sent people to verify, and eventually confirmed everything.",
+      "For roughly two centuries afterwards the animalcules were a curiosity rather than a cause. Only with Pasteur and Koch did anyone establish that these invisible things could make people ill — which is when the microscope became a tool for saving lives."
+    ],
+    "wow": "He made hundreds of microscopes and took his grinding technique to the grave; his best lenses were only matched much later.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "What was Leeuwenhoek's trade?",
+        "a": [
+          "Selling cloth",
+          "Teaching at a university"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Why were his findings doubted?",
+        "a": [
+          "He would not share his lens-making method",
+          "His drawings were poor"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "the-first-anaesthetic",
+    "category": "discoveries",
+    "title": "Surgery Used to Mean Being Awake",
+    "emoji": "😴",
+    "hook": "Until 1846, an operation meant being held down and feeling everything.",
+    "story": [
+      "For all of history before the mid-1800s, surgery was measured in seconds because that was all a patient could bear. Speed was the surgeon's main skill; one famous London surgeon could amputate a leg in under half a minute. Patients were held down or strapped, given alcohol or opium that barely helped, and many operations were simply refused because nobody could survive them awake.",
+      "The gases that could have helped were already known and used for entertainment. Nitrous oxide and ether were inhaled at parties for the giddy effect, and people noticed that revellers who fell over felt nothing — but the connection to surgery went unmade for decades.",
+      "On 16 October 1846, at a hospital in Boston, a dentist named William Morton gave ether to a patient while a surgeon removed a tumour from his neck. The patient did not move or cry out. The surgeon, who had expected a fraud, turned to the audience and said the humbug was no humbug.",
+      "The news travelled the world in months — extraordinarily fast for the age — because the need was so obvious. Surgery could now be careful instead of frantic, which made far more ambitious operations possible. It still needed the other half of the answer: without Lister's antiseptic methods twenty years later, longer operations simply meant more infection."
+    ],
+    "wow": "Ether and nitrous oxide had been used for fun at parties for over forty years before anyone used them to stop pain.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "Why were operations so fast before 1846?",
+        "a": [
+          "Patients were awake and could not bear more",
+          "Tools were primitive"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What was needed alongside anaesthesia?",
+        "a": [
+          "Antiseptic methods against infection",
+          "Electric lighting"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "echo-of-the-big-bang",
+    "category": "discoveries",
+    "title": "The Noise They Tried to Clean Away",
+    "emoji": "📡",
+    "hook": "Two engineers scrubbed pigeon droppings off an antenna, trying to remove the echo of the Big Bang.",
+    "story": [
+      "In 1964, Arno Penzias and Robert Wilson were using a large horn-shaped antenna in New Jersey for radio astronomy. Everything they pointed it at came with a faint background hiss they could not explain. It was there day and night, in every direction, in every season.",
+      "They hunted the fault methodically. They checked the electronics. They ruled out nearby cities and the atmosphere. They found pigeons nesting in the horn and evicted them, then climbed inside and cleaned out the droppings, which they described with some delicacy as white dielectric material. The hiss stayed exactly the same.",
+      "Meanwhile, a few dozen kilometres away, a team at Princeton was building an instrument to search for precisely such a signal. Theory predicted that if the universe began hot and dense, the glow of that early heat should still be arriving from every direction, stretched by the expansion of space into faint microwaves. A phone call connected the two groups.",
+      "The hiss was the oldest light in existence, released about 380,000 years after the beginning, when the universe first became transparent. Penzias and Wilson received a Nobel Prize in 1978 for a discovery they had spent a year trying to eliminate."
+    ],
+    "wow": "Older analogue televisions tuned to an empty channel picked up a small part of their static from this ancient light.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "What was the mysterious hiss?",
+        "a": [
+          "Leftover light from the early universe",
+          "Interference from a nearby city"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What did they suspect at first?",
+        "a": [
+          "A fault, including pigeon mess",
+          "A new star"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true,
+    "unknown": "That ancient light is now studied for what is printed in it. The glow is not perfectly even; it has faint patches slightly warmer and cooler than average, and those ripples are the seeds from which galaxies later grew. Reading them gives the age of the universe and the proportions of ordinary matter, dark matter and dark energy. They also show large-scale patterns that current theory does not fully predict, which some cosmologists think is a clue and others think is chance."
   }
 ]

@@ -471,5 +471,300 @@
     "readingLevel": 3,
     "factRisk": true,
     "reviewed": true
+  },
+  {
+    "id": "how-a-lock-works",
+    "category": "tech",
+    "title": "What Is Happening Inside a Lock",
+    "emoji": "🔑",
+    "hook": "A key does not turn a lock. It lines up a row of tiny pins.",
+    "story": [
+      "Inside an ordinary door lock is a cylinder that would turn freely — except that a row of small spring-loaded pins drops down across the gap between the cylinder and its housing, jamming it. Each pin is cut into two pieces of different lengths, stacked one on the other.",
+      "When you slide in the correct key, its jagged profile pushes each pin up by exactly the right amount, so that every join between the two pieces lines up with the gap. With all the joins aligned along that line, nothing is crossing it any more, and the cylinder turns.",
+      "The wrong key lifts the pins to the wrong heights, so at least one join sits above or below the line and keeps blocking. That is all a lock is: a very small alignment puzzle, solved in one motion.",
+      "It is also why locks can be picked. Manufacturing is never perfect, so the pins do not all bind at exactly the same instant. Someone applying gentle turning pressure with one tool can push pins one at a time with another, and each pin that reaches the right height stays caught on the tiny misalignment. Better locks fight this with false grooves, spinning pins and sliders — but the basic principle remains an alignment problem, and locks buy time rather than guaranteeing safety."
+    ],
+    "wow": "A pin tumbler design from ancient Egypt, around 4,000 years old, works on essentially the same idea as the lock on your door.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "What does the key actually do?",
+        "a": [
+          "Lifts pins so their joins line up",
+          "Pushes the door bolt directly"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Why can locks be picked?",
+        "a": [
+          "Pins bind one at a time, not together",
+          "The springs are too strong"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true,
+    "unknown": "Electronic locks were supposed to solve picking and mostly moved the problem. A lock with a chip can be attacked without touching the mechanism — by copying a wireless signal, guessing a code, or exploiting software left unpatched — and researchers regularly demonstrate hotel and car locks opening in seconds. The honest summary has not changed in four thousand years: a lock buys time and raises effort, and security depends on how much of both an attacker is willing to spend."
+  },
+  {
+    "id": "how-a-bicycle-stays-up",
+    "category": "tech",
+    "title": "Nobody Fully Agrees How a Bicycle Balances",
+    "emoji": "🚲",
+    "hook": "A moving bicycle can balance itself with nobody on it — and the reason is still argued about.",
+    "story": [
+      "Push a riderless bicycle fast enough and it will stay upright for a surprising distance, correcting its own wobbles. That is not the rider's skill; the machine is doing something.",
+      "The old explanations were the spinning wheels acting like gyroscopes, and the way the front wheel touches the ground slightly behind the steering axis, which makes it trail and self-centre like a shopping trolley wheel. Both sound convincing, and both were assumed settled for a century.",
+      "Then in 2011 a team built a deliberately awkward bicycle that cancelled out both effects — counter-rotating wheels to kill the gyroscopic action, and geometry that removed the trail. It still balanced itself. So neither effect is necessary, although both help in a normal bicycle.",
+      "What actually matters is subtler: when the bike begins to tip, the front wheel steers slightly into the fall, which swings the wheels back under the centre of mass. Any combination of mass distribution and geometry that produces that steering-into-the-fall will balance. Riding is the same trick, done deliberately — which is why you cannot balance a bicycle while holding the handlebars rigidly straight."
+    ],
+    "wow": "Turning a bicycle starts by briefly steering the wrong way — push the right bar to go right. Experienced riders do it without knowing.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "Do gyroscopes explain bicycle balance?",
+        "a": [
+          "No — a bike without them still balanced",
+          "Yes, that settled it"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What keeps a falling bike upright?",
+        "a": [
+          "The front wheel steering into the fall",
+          "Extra weight at the back"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true,
+    "discovery": "The 2011 experiment was deliberately perverse. A team from Delft and Cornell built a machine with counter-rotating wheels to cancel the gyroscopic effect and with the steering geometry reversed to remove the trail, then let it roll down a gentle slope. It wobbled, corrected itself and kept going. Publishing that result meant overturning explanations printed in textbooks for a century, and the paper's conclusion was unusually blunt: the balance of a bicycle cannot be reduced to any single effect."
+  },
+  {
+    "id": "how-noise-cancelling-works",
+    "category": "tech",
+    "title": "Cancelling Sound With Sound",
+    "emoji": "🎧",
+    "hook": "Noise-cancelling headphones make silence by adding more noise.",
+    "story": [
+      "Sound is a wave of squeezed and stretched air. Draw it and you get a line rising and falling. Now imagine a second wave that rises exactly where the first falls. Add them together and the peaks fill the troughs: the air stops moving, and you hear nothing. Engineers call this destructive interference, and it is a genuine cancellation, not masking.",
+      "Noise-cancelling headphones do this in real time. Small microphones on the outside listen to the noise heading for your ear. A processor works out the opposite wave and plays it through the speaker, mixed with your music. The aeroplane drone and the opposite-drone arrive together and largely erase each other.",
+      "It works far better on low, steady sounds than on sudden ones. Engine hum and air conditioning are predictable, so the processor can keep up. A door slam or a voice changes too fast — by the time the opposite wave is calculated, the sound has already reached you. That is why speech still gets through headphones that erase an engine completely.",
+      "There is a simpler cousin. Thick padding that physically blocks sound is called passive isolation, and it handles high frequencies well. Good headphones use both: padding for the treble, wave cancellation for the bass."
+    ],
+    "wow": "The same trick is built into some car cabins, playing anti-noise through the car's own speakers.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "How is the noise removed?",
+        "a": [
+          "An opposite wave cancels it",
+          "The speaker plays louder music"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Which sounds are hardest to cancel?",
+        "a": [
+          "Sudden ones like speech",
+          "Steady engine hum"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true,
+    "discovery": "The idea was patented in 1934 by Paul Lueg, decades before anything could execute it, because cancelling a wave requires calculating and playing its opposite faster than sound travels — impossible without fast electronics. It became practical in aviation first. Amar Bose is said to have started work after a transatlantic flight in 1978 where the headphones supplied were useless against the engine noise, and the first products were built for pilots, who spend hours inside a roar."
+  },
+  {
+    "id": "how-a-zip-works",
+    "category": "tech",
+    "title": "The Cleverness of a Zip",
+    "emoji": "🧥",
+    "hook": "A zip is a machine, and the clever part is the slider.",
+    "story": [
+      "Look closely at a zip and you will see each tooth has a small bump on one face and a matching hollow on the other. Closed, every tooth sits between two teeth from the opposite side, with its bump locked into their hollow. That interlocking is what holds the load, and it is strong: a good zip can resist a pull far greater than the fabric around it.",
+      "The teeth cannot do that by themselves. The slider is a Y-shaped wedge with two channels at one end and one at the other. Pull it forwards and the two rows are funnelled together and forced past each other at exactly the right angle to click into place. Pull it backwards and a wedge in the middle drives between them, prising the teeth apart.",
+      "That is why a zip fails in the ways it does. If a tooth is bent or missing, the wedge cannot align it and the zip splits open behind the slider. If fabric gets caught in the channel, it blocks the funnel. And a worn slider whose mouth has been squeezed slightly wider stops pressing the teeth fully home — which is why gently squeezing a loose slider with pliers often fixes a zip that keeps opening.",
+      "The design took decades to get right. Early versions from the 1890s jammed and popped open constantly, and it was 1913 before a workable version appeared. The name came later, from the sound it makes."
+    ],
+    "wow": "Zips were first sold for boots and tobacco pouches — clothing makers thought them too strange for years.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "What holds a closed zip together?",
+        "a": [
+          "Bumps locked into hollows on the teeth",
+          "Magnets in the slider"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Why does a worn slider let a zip pop open?",
+        "a": [
+          "It no longer presses the teeth fully together",
+          "It becomes too heavy"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "glass-is-made-from-sand",
+    "category": "tech",
+    "title": "Windows Are Melted Sand",
+    "emoji": "🪟",
+    "hook": "Glass is sand, heated until it forgets how to be a solid properly.",
+    "story": [
+      "Sand is mostly silica. Heat it past about 1,700°C and it melts. Cool most melted materials slowly and their atoms settle into a neat repeating pattern — a crystal. Silica cooled quickly does not get the chance: the atoms freeze in place still jumbled, like a liquid caught mid-pour. That disordered arrangement is glass, and it is why glass shatters into sharp shards rather than splitting along neat planes.",
+      "The disorder is also why it is clear. In most solids, light is scattered at the boundaries between crystals. Glass has no such boundaries, and its electrons cannot absorb visible light, so light passes straight through.",
+      "Pure silica needs an inconvenient amount of heat, so glassmakers add soda ash to lower the melting point and lime to stop the result dissolving in water — a recipe worked out thousands of years ago and still used today.",
+      "Flat glass was the hard part for most of history: sheets had to be blown, spun or ground, and were never quite even. The modern method, invented in the 1950s, is beautifully simple. Molten glass is poured onto a bath of molten tin. Glass floats on tin, and a liquid surface is perfectly flat, so the sheet sets dead level on both sides without being touched."
+    ],
+    "wow": "Lightning striking sand can fuse it into a natural glass tube called a fulgurite, branching like a frozen bolt.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "Why is glass transparent?",
+        "a": [
+          "Its jumbled atoms have no boundaries to scatter light",
+          "It is very thin"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "How is flat window glass made?",
+        "a": [
+          "Floated on molten tin",
+          "Ground flat by machines"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true,
+    "discovery": "Glassmaking is at least 4,500 years old, and for most of that time flat glass was the hard problem. Roman windows were small and wavy. Medieval glaziers spun a blob of molten glass into a disc and cut panes from it, leaving a thick lump in the middle — the bullseye still seen in old windows, which was the cheap offcut nobody wanted. Alastair Pilkington's float method in 1959 made perfectly flat glass cheap for the first time, and windows changed shape everywhere."
+  },
+  {
+    "id": "how-a-pencil-works",
+    "category": "tech",
+    "title": "A Pencil Leaves Layers Behind",
+    "emoji": "✏️",
+    "hook": "Writing with a pencil means peeling off sheets of carbon one at a time.",
+    "story": [
+      "There is no lead in a pencil and never has been. The core is graphite, a form of pure carbon, mixed with clay. Graphite is built in flat sheets of carbon atoms locked tightly within each sheet but barely attached to the sheets above and below. Drag it across paper and whole layers slide off and stick to the rough fibres. The grey line is a stack of carbon sheets.",
+      "The clay decides the hardness. More clay makes a harder core that leaves less behind, giving a fainter, sharper line; more graphite makes it softer and darker. That is what the H and B markings mean.",
+      "The same weak bonding makes graphite a good lubricant, and its ability to conduct electricity along the sheets is useful in batteries. And a single one of those sheets, isolated, is graphene — one atom thick, remarkably strong, and first obtained in 2004 by researchers lifting layers off graphite with sticky tape. That work won a Nobel Prize.",
+      "The name is a historical accident. A huge deposit of pure graphite found in England in the 1500s was mistaken for a kind of lead, and the word stuck in many languages long after the chemistry was understood."
+    ],
+    "wow": "An average pencil can draw a line tens of kilometres long before the core runs out.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "What is a pencil core made of?",
+        "a": [
+          "Graphite and clay",
+          "Lead metal"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Why does graphite leave a mark?",
+        "a": [
+          "Its sheets slide off easily",
+          "It melts on paper"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true,
+    "discovery": "A political blockade produced the modern pencil. England held the world's only deposit of pure graphite and controlled it tightly, so when war cut France off in the 1790s, Nicolas-Jacques Conté was asked to find a substitute. He ground inferior graphite, mixed it with clay, and baked the mixture — and discovered that varying the clay varied the hardness. A shortage forced the invention of grading, and pencils have been sold as H and B ever since."
+  },
+  {
+    "id": "how-a-thermos-works",
+    "category": "tech",
+    "title": "A Flask Holds Nothing — On Purpose",
+    "emoji": "🍵",
+    "hook": "The most important part of a vacuum flask is the empty space inside its wall.",
+    "story": [
+      "Heat escapes a hot drink by three routes, and a good flask blocks all three. It is built as a bottle inside a bottle, joined only at the neck, with the air pumped out of the gap between them.",
+      "That empty gap kills two routes at once. Conduction needs material to pass heat along, and there is almost none. Convection needs air or liquid to circulate and carry heat away, and there is nothing to circulate. The only remaining connection is the narrow neck, which is why flasks are usually made with a long thin one.",
+      "The third route, radiation, passes through empty space perfectly well — it is how the Sun reaches us. So the facing surfaces of both bottles are coated with a mirror finish, which reflects heat radiation back where it came from instead of absorbing it. That is why the inside of a glass flask looks silvered.",
+      "The design is over a century old. James Dewar built it in 1892 for laboratory work, to hold gases cooled until they turned liquid, and never patented it. Others turned it into a product for tea and soup."
+    ],
+    "wow": "The same flask keeps cold drinks cold, because blocking heat works in both directions.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "What is between the two walls?",
+        "a": [
+          "A vacuum — almost nothing",
+          "Thick foam"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Why is the inside mirrored?",
+        "a": [
+          "To reflect heat radiation back",
+          "To look attractive"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true,
+    "discovery": "James Dewar built the flask in 1892 because he needed to keep gases cold enough to stay liquid while he studied them, and he never patented it — he considered it a piece of laboratory equipment rather than a product. A German glassblower who had made flasks for him saw the opportunity, patented a version for domestic use in 1903, and ran a competition to name it. The winning entry was Thermos, from the Greek for heat. Dewar sued, and lost."
+  },
+  {
+    "id": "why-lifts-are-safe",
+    "category": "tech",
+    "title": "The Demonstration That Sold the Lift",
+    "emoji": "🛗",
+    "hook": "Lifts existed before anyone trusted them. One man fixed that by cutting his own rope.",
+    "story": [
+      "Hoists for lifting goods were ancient, but nobody wanted to ride one, because a snapped rope meant a fall. That single fear kept buildings low: without a lift people would not climb more than about five or six storeys, so there was no point building higher.",
+      "In 1853, at a fair in New York, Elisha Otis stood on an open platform hoisted high above the crowd and had an assistant cut the rope with an axe. The platform dropped a few centimetres and stopped. He had invented a safety brake: a spring held under tension by the rope, which, the moment the rope went slack, snapped outward and drove toothed bars into the guide rails.",
+      "The idea is still the foundation of lift safety, now with several independent layers. Modern lifts have a governor that detects excessive speed and clamps the car mechanically, multiple steel cables where any one could hold the load alone, and a buffer at the bottom of the shaft.",
+      "The consequence was not just safer buildings but taller ones. Once people would ride upward, height became valuable, top floors turned from the cheapest into the most expensive, and the skyline of every large city changed shape."
+    ],
+    "wow": "A lift car hangs from several cables at once, and just one of them is usually rated to carry the whole load.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "What did Otis demonstrate in 1853?",
+        "a": [
+          "A brake that held when the rope was cut",
+          "A faster hoist"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What did safe lifts make possible?",
+        "a": [
+          "Much taller buildings",
+          "Cheaper steel"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true,
+    "unknown": "The remaining problem with tall buildings is not safety but arithmetic. Above roughly 500 metres, a steel cable becomes so heavy that most of its strength is spent holding up its own weight, which is why the tallest towers use several separate lifts stacked in stages with transfer floors. Lighter carbon-fibre ropes now exist and could double the practical height, but they are new enough that nobody yet knows how they age over decades of daily use."
   }
 ]

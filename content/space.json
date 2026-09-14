@@ -553,5 +553,300 @@
     "readingLevel": 3,
     "factRisk": true,
     "reviewed": true
+  },
+  {
+    "id": "why-space-is-cold",
+    "category": "space",
+    "title": "Space Is Freezing and Burning at Once",
+    "emoji": "🌡️",
+    "hook": "In space you could freeze and overheat at the same time.",
+    "story": [
+      "Heat moves in three ways. It can travel through touching things, the way a spoon warms in soup. It can be carried by moving air or water. Or it can radiate as invisible light, the way you feel a fire from across a room. On Earth all three work at once. In space, the first two barely exist, because there is almost nothing there to touch or to flow.",
+      "That changes everything. A spacecraft in sunlight is being cooked by radiation with nothing to carry the heat away — surfaces can exceed 120°C. At the same time, the shaded side has nothing warming it and only radiates its own heat away into the dark, dropping below −100°C. Same object, same moment, two extremes.",
+      "So spacecraft do not have a heating problem or a cooling problem; they have a balancing problem. They are wrapped in shiny gold-coloured foil to reflect sunlight, slowly rotated so no side bakes for too long, and fitted with radiators that dump unwanted heat as infrared light.",
+      "For an astronaut the danger is mostly the opposite of what films suggest. A person exposed to vacuum would not instantly freeze, because there is nothing to conduct heat away quickly. The immediate problems are the lack of air and the sudden drop in pressure."
+    ],
+    "wow": "The empty space between stars is only a few degrees above absolute zero — the coldest temperature possible.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "Why does heat behave strangely in space?",
+        "a": [
+          "There is nothing to touch or to flow",
+          "Heat does not exist there"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "How do spacecraft get rid of extra heat?",
+        "a": [
+          "They radiate it away as infrared",
+          "They vent hot air"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true,
+    "discovery": "The problem became practical the moment anything went up. Early satellites overheated or froze because engineers underestimated how differently heat behaves without air, and the first spacewalk in 1965 nearly ended badly when Alexei Leonov's suit ballooned in vacuum and he could not get back through the hatch. Modern spacecraft carry heaters for the cold side, radiators for the hot side, and slow rotation — the barbecue roll used on Apollo — to keep one face from baking while the other freezes."
+  },
+  {
+    "id": "how-far-the-nearest-star",
+    "category": "space",
+    "title": "The Next Star Is Terribly Far",
+    "emoji": "✨",
+    "hook": "The nearest star after the Sun is so far that its light takes four years to arrive.",
+    "story": [
+      "Proxima Centauri is about 40 trillion kilometres away. Numbers that large stop meaning anything, so try a model instead. Shrink the Sun to the size of a football. On that scale the Earth is a grain of sand about 25 metres away — and Proxima Centauri is another football roughly 6,500 kilometres off, about the distance from Jakarta to Dubai.",
+      "That is why space looks so empty: it mostly is. Between those two footballs lies nothing but a few stray grains.",
+      "It also explains why interstellar travel is so hard. The fastest object humans have ever launched, the Parker Solar Probe, would still need thousands of years to cover that distance. Voyager 1, which left Earth in 1977 and is now beyond the planets, would take roughly 70,000 years to reach a star if it were pointed at one.",
+      "There is one consolation. Because light takes time to travel, looking out is looking back. You see Proxima Centauri as it was four years ago, the middle of our galaxy as it was 26,000 years ago, and the Andromeda galaxy — just visible to the naked eye on a dark night — as it was two and a half million years ago, before our species existed."
+    ],
+    "wow": "If a star you can see tonight vanished this instant, people would keep seeing it for years, and nobody would know.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "How long does light from the nearest star take?",
+        "a": [
+          "About four years",
+          "About four hours"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Why is looking at stars like looking back in time?",
+        "a": [
+          "Their light takes years to reach us",
+          "Stars move backwards"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true,
+    "discovery": "Measuring the distance took until 1838, when Friedrich Bessel watched a star shift by a hair's width against the background as the Earth moved to the opposite side of its orbit. It is the same trick as holding a finger up and blinking each eye in turn: the nearer the object, the more it jumps. The shift was so small that astronomers had spent two centuries failing to detect it — and its absence had been used as an argument that the Earth did not move at all."
+  },
+  {
+    "id": "the-sun-is-white",
+    "category": "space",
+    "title": "The Sun Is Not Yellow",
+    "emoji": "☀️",
+    "hook": "Every drawing gets it wrong: the Sun is white.",
+    "story": [
+      "Seen from space, with no air in the way, the Sun is a brilliant white. It sends out all the colours of the rainbow together in roughly balanced amounts, and that mixture is what we call white light. It is not an accident that it looks balanced to us — our eyes evolved under exactly this star, so its light is our definition of white.",
+      "Yellow comes from the air. As sunlight travels through the atmosphere, the shorter blue wavelengths are scattered sideways more than the rest, which is what paints the sky blue. Take blue out of a beam of white light and what continues straight towards you leans slightly yellow. Near sunset, when the light travels through far more air, even more is removed and the Sun goes orange and then red.",
+      "So the sky being blue and the Sun looking yellow are the same fact, seen from two directions. The blue you see overhead is the blue missing from the Sun's face.",
+      "Astronomers classify stars by colour, and colour tells you temperature: red stars are the coolest, then orange and yellow, then white, then blue-white for the hottest. Our Sun sits in the middle — which is why a hotter blue star is genuinely blue, not merely blue-looking."
+    ],
+    "wow": "Never look directly at the Sun to check. The damage to your eyes happens without pain and does not heal.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "What colour is the Sun really?",
+        "a": [
+          "White",
+          "Yellow"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Why does it look yellow from the ground?",
+        "a": [
+          "Blue light is scattered out of the beam",
+          "It cools down during the day"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true,
+    "unknown": "One detail still surprises people who study the Sun: its outer atmosphere is far hotter than its surface — millions of degrees against about 5,500. Heat should not flow from a cooler place to a hotter one, so something must be pumping energy upward, probably twisted magnetic fields snapping and releasing energy. Spacecraft now fly through that region to find out, and the coronal heating problem remains one of the oldest unsolved questions in solar physics."
+  },
+  {
+    "id": "why-there-are-two-tides",
+    "category": "space",
+    "title": "Why There Are Two High Tides a Day",
+    "emoji": "🌊",
+    "hook": "The Moon pulls the ocean towards it — so why does the far side bulge too?",
+    "story": [
+      "Most people can explain one tide: the Moon's gravity tugs the water on the side facing it into a bulge. But there is a second bulge on the opposite side of the Earth, which is why most coasts get two high tides roughly every 25 hours, not one.",
+      "The trick is that gravity gets weaker with distance, and the Earth is wide. The near ocean is pulled hardest, the solid Earth in the middle is pulled a bit less, and the far ocean is pulled least of all. So the near water is pulled away from the Earth, and the Earth is pulled away from the far water. Both ends end up stretched outward. It is a stretch, not a lift.",
+      "The Sun does the same thing, and although it is vastly more massive, it is so much further away that its stretching effect is about half the Moon's. When Sun and Moon line up, at full and new moon, the two stretches add and tides are unusually large — spring tides. When they pull at right angles, tides are small.",
+      "Local geography then does whatever it likes with all this. Some coasts barely notice; the Bay of Fundy in Canada funnels water into a narrow channel and sees a tidal range of over 15 metres, taller than a house."
+    ],
+    "wow": "Tides also stretch the solid ground. The land under your feet rises and falls by tens of centimetres twice a day.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "Why is there a bulge on the far side?",
+        "a": [
+          "The Earth is pulled away from that water",
+          "The Sun pulls it"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "When are tides largest?",
+        "a": [
+          "When Sun and Moon line up",
+          "When the Moon is smallest"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "how-we-weigh-a-planet",
+    "category": "space",
+    "title": "How Do You Weigh a Planet?",
+    "emoji": "⚖️",
+    "hook": "Nobody has ever put a planet on a scale, yet we know what they weigh.",
+    "story": [
+      "You cannot weigh a planet directly — there is no scale, and no place to stand. But gravity gives you a way in. Anything orbiting a planet is being held by that planet's pull, and how fast it must travel to stay in orbit depends on how much mass is pulling. Measure the orbit and the mass falls out of the arithmetic.",
+      "So a planet with a moon is easy. Watch how long the moon takes to go round and how far away it is, and you can calculate the planet's mass without ever going near it. This is how we knew the mass of Jupiter and Saturn centuries before anyone visited.",
+      "Planets with no moon are harder. Venus and Mercury were only pinned down properly when spacecraft flew past and were nudged by their gravity — engineers measured the exact bend in the spacecraft's path and worked backwards.",
+      "The Earth was the awkward one. We had no natural yardstick until Henry Cavendish, in 1798, hung two small lead balls from a thread and measured the almost undetectable twist caused by two larger balls placed nearby. From that tiny twist, done on a bench in a shed, he calculated the density of the entire planet."
+    ],
+    "wow": "Cavendish's result was within about one percent of the modern value, using no electricity and no computer.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "How do you weigh a planet with a moon?",
+        "a": [
+          "From the moon's orbit",
+          "By landing a scale on it"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What did Cavendish measure?",
+        "a": [
+          "A tiny twist between hanging weights",
+          "The depth of the ocean"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true,
+    "unknown": "The method has a blind spot: it measures mass, not what the mass is made of. Two planets of identical weight could have completely different insides. Working out what is down there needs other clues — how the planet wobbles, how it bends passing spacecraft, how earthquakes travel through it. For most planets we have very few of those, which is why the interiors of Uranus and Neptune are still argued about despite their masses being known precisely."
+  },
+  {
+    "id": "the-atmosphere-is-thin",
+    "category": "space",
+    "title": "The Air Is Thinner Than You Think",
+    "emoji": "🌍",
+    "hook": "All the air on Earth is a layer thinner than the skin of an apple.",
+    "story": [
+      "The atmosphere feels endless when you look up. It is not. Half of all the air by weight sits below about 5.5 kilometres — lower than several mountains. By 10 kilometres you are above most of the weather, which is why aircraft cruise there. By 100 kilometres, the usual line drawn for space, there is essentially nothing left.",
+      "Scale it down. If the Earth were an apple, the breathable atmosphere would be thinner than the apple's skin. Everything that has ever flown, every cloud, every storm, every bird, happens in that skin.",
+      "It is also not one thing. The layer we live in thins steadily with height, which is why mountaineers on Everest breathe about a third of the oxygen available at sea level and why a hole in an aircraft at cruising height is so dangerous. Above that, layers behave strangely: one gets hotter with height because ozone absorbs sunlight, and the very top is technically thousands of degrees while containing so few particles that it would feel cold.",
+      "Astronauts returning from orbit almost always mention the same thing: the thing that startles them is not the size of the Earth but how fragile the blue line around it looks from outside."
+    ],
+    "wow": "Venus has an atmosphere so heavy that standing on its surface would feel like being 900 metres underwater.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "Where is half of all the air?",
+        "a": [
+          "Below about 5.5 km",
+          "Above the clouds"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Why do aircraft fly around 10 km up?",
+        "a": [
+          "They are above most weather",
+          "The air is thicker there"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true,
+    "discovery": "The first proof that air has weight came in 1643, when Evangelista Torricelli filled a glass tube with mercury, upended it in a dish, and found the column always settled at the same height — held up, he argued, by the weight of the atmosphere pressing on the dish. Blaise Pascal then had the tube carried up a mountain in France, and the column fell as predicted, because there was less air above. That experiment invented the barometer and made weather forecasting possible."
+  },
+  {
+    "id": "what-makes-auroras",
+    "category": "space",
+    "title": "The Sky on Fire",
+    "emoji": "🌌",
+    "hook": "An aurora is the Sun's weather hitting the Earth's magnetic shield.",
+    "story": [
+      "The Sun is constantly throwing charged particles outward in a thin stream called the solar wind. When that wind reaches us, most of it is deflected by the Earth's magnetic field, which wraps the planet like an invisible shell. Without it, the atmosphere would slowly be stripped away — which may be what happened to Mars.",
+      "The shield is not sealed. Near the magnetic poles the field lines dip down into the atmosphere, funnelling particles in. Those particles crash into gas molecules high above, knocking their electrons into a higher-energy state. When each electron settles back, it releases the extra energy as light.",
+      "The colour tells you which gas and how high. Oxygen high up glows red, oxygen lower down glows the familiar green, and nitrogen produces blue and purple edges. The whole display sits between roughly 100 and 400 kilometres up — far above aircraft, in a part of the atmosphere with almost no air left.",
+      "When the Sun has a violent outburst, the display pushes much further from the poles than usual, and people at ordinary latitudes suddenly see a sky they have never seen. The same outbursts can disturb satellites, radio signals and power grids."
+    ],
+    "wow": "Jupiter and Saturn have auroras too, far more powerful than ours, visible in ultraviolet light.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "What causes an aurora?",
+        "a": [
+          "Solar particles hitting high atmosphere",
+          "Ice crystals reflecting city lights"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Why are auroras seen near the poles?",
+        "a": [
+          "Magnetic field lines dip down there",
+          "It is colder there"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true,
+    "discovery": "People recorded auroras for thousands of years without an explanation; the name comes from the Roman goddess of dawn. In 1902 a Norwegian scientist, Kristian Birkeland, argued that particles from the Sun were being guided into the polar regions by the Earth's magnetism, and built a small magnetised sphere in a vacuum chamber that glowed at its poles when he fired electrons at it. He was ridiculed for decades. Satellites in the 1960s and 70s found the particle streams exactly where he had said they were."
+  },
+  {
+    "id": "footprints-on-the-moon",
+    "category": "space",
+    "title": "The Footprints Are Still There",
+    "emoji": "👣",
+    "hook": "The bootprints left on the Moon in 1969 have not blurred at all.",
+    "story": [
+      "On Earth, a footprint in sand survives hours. Wind moves the grains, rain washes them, plants push through, animals walk over it. The Moon has none of that. No wind, because there is essentially no air. No rain, no rivers, no plants, no animals. A print made in the dust simply stays.",
+      "The dust helps too. Lunar soil has never been rounded by weather, so the grains are sharp and jagged and lock together when pressed, holding a crisp edge — which is why the photographs show such sharp tread marks.",
+      "They are not eternal. Micrometeorites, mostly specks smaller than sand, rain down constantly and slowly churn the surface. That process, called gardening, will eventually erase everything, but it is extraordinarily slow. Current estimates give the Apollo prints something like ten million years or more.",
+      "That same stillness preserves everything else left behind: six landing stages, three electric cars, cameras, tools, flags bleached white by unfiltered sunlight, and a small plaque. Orbiting spacecraft have photographed the sites and the tracks are still clearly visible, half a century on."
+    ],
+    "wow": "The mirrors left by Apollo are still in use — observatories fire lasers at them to measure the Moon's distance.",
+    "image": null,
+    "quiz": [
+      {
+        "q": "Why do the footprints survive?",
+        "a": [
+          "No wind, rain or life to erase them",
+          "They were coated in resin"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What will erase them eventually?",
+        "a": [
+          "Constant tiny meteorite impacts",
+          "Moonquakes"
+        ],
+        "correct": 0
+      }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true,
+    "discovery": "Nobody was certain the surface would hold a footprint at all. Some scientists feared the dust might be metres deep and swallow a lander whole, so the robotic Surveyor craft were sent ahead in 1966 and 1967 partly to find out. They settled firmly. Armstrong's first words after stepping down were about the surface itself — fine and powdery, sticking to his boots in thin layers — and the crisp print he left is now one of the most reproduced photographs ever taken."
   }
 ]
