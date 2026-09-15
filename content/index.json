@@ -1616,7 +1616,7 @@
       "title": "Why a Huge Ship Does Not Sink",
       "emoji": "🚢",
       "hook": "A steel ship weighing thousands of tonnes floats. A steel coin sinks instantly.",
-      "image": null,
+      "image": "img/physics/why-things-float.webp",
       "readingLevel": 3,
       "keywords": "why a huge ship does not sink a steel ship weighing thousands of tonnes floats. a steel coin sinks instantly. a steel ship floats for the same reason a hollow bowl floats and a solid lump of the same clay sinks — shape, not material, decides it."
     },
@@ -1626,7 +1626,7 @@
       "title": "The Invisible Push You Can Feel",
       "emoji": "🧲",
       "hook": "Two magnets can push each other apart without ever touching.",
-      "image": null,
+      "image": "img/physics/how-magnets-work.webp",
       "readingLevel": 3,
       "keywords": "the invisible push you can feel two magnets can push each other apart without ever touching. the whole earth is a giant magnet, with a molten iron core creating a field that stretches thousands of kilometres into space and is what makes a compass needle point north."
     },
@@ -1636,7 +1636,7 @@
       "title": "Why a Mirror Flips You Sideways, Not Upside Down",
       "emoji": "🪞",
       "hook": "A mirror does not actually swap your left and right hands. It swaps front and back.",
-      "image": null,
+      "image": "img/physics/why-mirrors-flip-left-right.webp",
       "readingLevel": 3,
       "keywords": "why a mirror flips you sideways, not upside down a mirror does not actually swap your left and right hands. it swaps front and back. written text looks backwards in a mirror not because the mirror is choosy about letters, but because the whole page has been flipped front-to-back, and the letters are the part your brain notices."
     },
@@ -1646,7 +1646,7 @@
       "title": "A Rainbow Is Sunlight Taken Apart",
       "emoji": "🌈",
       "hook": "A rainbow is not painted on the sky. It is millions of raindrops each doing the same trick at once.",
-      "image": null,
+      "image": "img/physics/how-a-rainbow-forms.webp",
       "readingLevel": 3,
       "keywords": "a rainbow is sunlight taken apart a rainbow is not painted on the sky. it is millions of raindrops each doing the same trick at once. a double rainbow happens when light bounces twice inside the raindrops instead of once, which is also why the second rainbow's colours always appear in reverse order."
     },
@@ -1656,7 +1656,7 @@
       "title": "Sound Is a Shove Passed Along",
       "emoji": "🔊",
       "hook": "Sound cannot travel through nothing. It needs something to shove.",
-      "image": null,
+      "image": "img/physics/what-sound-actually-is.webp",
       "readingLevel": 3,
       "keywords": "sound is a shove passed along sound cannot travel through nothing. it needs something to shove. whales can hear each other calling across hundreds of kilometres of ocean, because sound moves through water roughly four times faster than through air and loses far less energy on the way."
     },
@@ -1666,7 +1666,7 @@
       "title": "Frozen Water Breaks Its Own Rules",
       "emoji": "🧊",
       "hook": "Almost every liquid shrinks and sinks when it freezes. Water does the opposite.",
-      "image": null,
+      "image": "img/physics/why-ice-floats.webp",
       "readingLevel": 3,
       "keywords": "frozen water breaks its own rules almost every liquid shrinks and sinks when it freezes. water does the opposite. water is densest not as a solid but a few degrees above freezing as a liquid, which is why the coldest water in a winter lake sinks to the bottom while ice floats on top."
     },
@@ -1676,7 +1676,7 @@
       "title": "The Force That Slows Everything Down",
       "emoji": "🛹",
       "hook": "Nothing keeps moving forever on Earth, because two surfaces never touch as smoothly as they look.",
-      "image": null,
+      "image": "img/physics/what-is-friction.webp",
       "readingLevel": 3,
       "keywords": "the force that slows everything down nothing keeps moving forever on earth, because two surfaces never touch as smoothly as they look. without any friction at all, you could not walk, because your shoes would simply slide backwards with nothing to grip against the ground."
     },
@@ -1686,7 +1686,7 @@
       "title": "Spin Makes It Stubborn",
       "emoji": "🌀",
       "hook": "A still top falls over instantly. A spinning one refuses to.",
-      "image": null,
+      "image": "img/physics/why-a-spinning-top-stays-up.webp",
       "readingLevel": 3,
       "keywords": "spin makes it stubborn a still top falls over instantly. a spinning one refuses to. gyroscopes built on this exact principle are used inside rockets, aeroplanes and phones to sense which way is up, because a fast-spinning wheel keeps pointing the same direction no matter how the vehicle around it turns."
     },
@@ -1696,7 +1696,7 @@
       "title": "The Simple Trick Behind Every Crowbar",
       "emoji": "🔧",
       "hook": "A lever lets a child lift something an adult cannot budge by hand — using nothing but a bar and a point to rest it on.",
-      "image": null,
+      "image": "img/physics/how-levers-work.webp",
       "readingLevel": 3,
       "keywords": "the simple trick behind every crowbar a lever lets a child lift something an adult cannot budge by hand — using nothing but a bar and a point to rest it on. your jaw is a lever so efficient that your back teeth can bite down with several times more force than your front teeth, using exactly the same jaw muscles."
     },
@@ -1706,7 +1706,7 @@
       "title": "Why Hot Air Lifts a Balloon Full of People",
       "emoji": "🎈",
       "hook": "A balloon big enough to carry passengers rises using nothing but heated air.",
-      "image": null,
+      "image": "img/physics/why-hot-air-balloons-rise.webp",
       "readingLevel": 3,
       "keywords": "why hot air lifts a balloon full of people a balloon big enough to carry passengers rises using nothing but heated air. the first hot air balloon passengers, in 1783 in france, were a sheep, a duck and a rooster, sent up before any human dared to try it."
     },
@@ -1716,7 +1716,7 @@
       "title": "Electricity Is Just Electrons on the Move",
       "emoji": "🔌",
       "hook": "Electricity is not a mysterious fluid. It is trillions of tiny particles nudging each other along a wire.",
-      "image": null,
+      "image": "img/physics/what-electricity-actually-is.webp",
       "readingLevel": 3,
       "keywords": "electricity is just electrons on the move electricity is not a mysterious fluid. it is trillions of tiny particles nudging each other along a wire. an electron that leaves a battery and travels all the way to a light bulb on the other side of a room might take hours to physically arrive, yet the bulb switches on the instant you flip the switch."
     },
@@ -1726,7 +1726,7 @@
       "title": "A Feather and a Hammer, Falling Together",
       "emoji": "🪶",
       "hook": "Drop a hammer and a feather at the same time, and without air in the way, they land at exactly the same moment.",
-      "image": null,
+      "image": "img/physics/why-things-fall-at-the-same-speed.webp",
       "readingLevel": 3,
       "keywords": "a feather and a hammer, falling together drop a hammer and a feather at the same time, and without air in the way, they land at exactly the same moment. galileo is said to have first tested this idea by dropping different weights from the leaning tower of pisa, though historians are not certain the famous story is entirely true."
     },
@@ -1736,7 +1736,7 @@
       "title": "If Space Is Full of Stars, Why Is Night Dark?",
       "emoji": "🌃",
       "hook": "Look up on a clear night and every direction should eventually hit a star. So why isn't the whole sky glowing?",
-      "image": null,
+      "image": "img/physics/why-the-night-sky-is-dark.webp",
       "readingLevel": 3,
       "keywords": "if space is full of stars, why is night dark? look up on a clear night and every direction should eventually hit a star. so why isn't the whole sky glowing? the faint patchy glow of the milky way you can see away from city lights is starlight arriving from stars so numerous and so far that individually they blur together — proof the sky is not truly empty, just too young and too stretched to be bright everywhere."
     },
@@ -1746,7 +1746,7 @@
       "title": "The Swing That Never Speeds Up",
       "emoji": "🕰️",
       "hook": "A swinging pendulum takes the same time to complete each swing, whether it swings wide or barely at all.",
-      "image": null,
+      "image": "img/physics/how-a-pendulum-keeps-time.webp",
       "readingLevel": 3,
       "keywords": "the swing that never speeds up a swinging pendulum takes the same time to complete each swing, whether it swings wide or barely at all. a pendulum clock runs measurably slower at the top of a tall mountain than at sea level, because gravity is very slightly weaker further from the earth's centre, and a pendulum's swing speed depends on gravity's strength."
     },
@@ -1756,7 +1756,7 @@
       "title": "Many Dinosaurs Were Fluffy",
       "emoji": "🪶",
       "hook": "Plenty of dinosaurs were not scaly at all. They were covered in feathers.",
-      "image": null,
+      "image": "img/dinosaurs/dinosaurs-had-feathers.webp",
       "readingLevel": 3,
       "keywords": "many dinosaurs were fluffy plenty of dinosaurs were not scaly at all. they were covered in feathers. a dinosaur tail found preserved in a piece of amber in myanmar still had its actual feathers attached, including delicate barbs, giving scientists an almost photographic look at what real dinosaur feathers looked like up close."
     },
@@ -1766,7 +1766,7 @@
       "title": "Turning Bone Into Stone",
       "emoji": "🦴",
       "hook": "A fossil is not really the original bone. It is a stone copy, made atom by atom.",
-      "image": null,
+      "image": "img/dinosaurs/how-fossils-form.webp",
       "readingLevel": 3,
       "keywords": "turning bone into stone a fossil is not really the original bone. it is a stone copy, made atom by atom. fossils are not only bones. fossilised footprints, skin impressions, nests, dung and even the outline of soft body parts like skin or feathers all count, and some of the most valuable scientific fossils have no bone in them at all."
     },
@@ -1776,7 +1776,7 @@
       "title": "The World Before Dinosaurs Ruled",
       "emoji": "🦎",
       "hook": "Dinosaurs did not appear on an empty planet. Stranger creatures ruled long before them.",
-      "image": null,
+      "image": "img/dinosaurs/what-came-before-dinosaurs.webp",
       "readingLevel": 3,
       "keywords": "the world before dinosaurs ruled dinosaurs did not appear on an empty planet. stranger creatures ruled long before them. the mass extinction before the dinosaurs killed a far greater percentage of life than the one that later ended the dinosaurs themselves — earth has been nearly wiped clean of life more than once and recovered every time."
     },
@@ -1786,7 +1786,7 @@
       "title": "The Rock From Space That Ended an Era",
       "emoji": "☄️",
       "hook": "A single afternoon 66 million years ago ended the age of dinosaurs, in the worst few hours in the planet's history.",
-      "image": null,
+      "image": "img/dinosaurs/why-the-dinosaurs-died-out.webp",
       "readingLevel": 3,
       "keywords": "the rock from space that ended an era a single afternoon 66 million years ago ended the age of dinosaurs, in the worst few hours in the planet's history. the crater left by the impact, called chicxulub, is buried underground and mostly underwater off the coast of mexico, and is so enormous — around 150 kilometres across — that it was only confirmed by drilling and gravity surveys decades after scientists first proposed the asteroid idea."
     },
@@ -1796,7 +1796,7 @@
       "title": "Bigger Than Any Animal Walking Today",
       "emoji": "🦕",
       "hook": "The largest dinosaurs were so enormous that scientists still argue over exactly how they moved without collapsing under their own weight.",
-      "image": null,
+      "image": "img/dinosaurs/how-big-was-the-biggest-dinosaur.webp",
       "readingLevel": 3,
       "keywords": "bigger than any animal walking today the largest dinosaurs were so enormous that scientists still argue over exactly how they moved without collapsing under their own weight. a single footprint from a giant sauropod, preserved in ancient mud, can be large enough for a grown adult to lie down inside it."
     },
@@ -1806,7 +1806,7 @@
       "title": "Dinosaurs Built Nests and Cared for Their Young",
       "emoji": "🥚",
       "hook": "Some dinosaurs did not abandon their eggs. They guarded the nest and fed the babies afterwards.",
-      "image": null,
+      "image": "img/dinosaurs/dinosaur-nests-and-babies.webp",
       "readingLevel": 3,
       "keywords": "dinosaurs built nests and cared for their young some dinosaurs did not abandon their eggs. they guarded the nest and fed the babies afterwards. some dinosaur eggs have been found still containing perfectly preserved unhatched baby skeletons curled up inside, caught at the very last moment before hatching."
     },
@@ -1816,7 +1816,7 @@
       "title": "The Dinosaurs Never Actually Left",
       "emoji": "🐔",
       "hook": "Every bird you have ever seen is, technically and scientifically, a dinosaur.",
-      "image": null,
+      "image": "img/dinosaurs/birds-are-living-dinosaurs.webp",
       "readingLevel": 3,
       "keywords": "the dinosaurs never actually left every bird you have ever seen is, technically and scientifically, a dinosaur. scientists have found genuine traces of ancient protein inside exceptionally well-preserved dinosaur bones that closely resembled proteins found in modern chickens and ostriches, adding direct chemical evidence to the family connection."
     },
@@ -1826,7 +1826,7 @@
       "title": "Earth Has Frozen Over Many Times",
       "emoji": "🥶",
       "hook": "Ice ages are not one single event long ago. Earth has swung between icy and warm many times, and it is still doing it.",
-      "image": null,
+      "image": "img/dinosaurs/the-ice-ages.webp",
       "readingLevel": 3,
       "keywords": "earth has frozen over many times ice ages are not one single event long ago. earth has swung between icy and warm many times, and it is still doing it. we are currently living in a relatively warm interglacial gap between glacial periods, and without human-caused warming, earth would likely be very slowly heading towards another cold glacial period thousands of years from now."
     },
@@ -1836,7 +1836,7 @@
       "title": "Mammals Waited Their Turn",
       "emoji": "🐁",
       "hook": "For over 150 million years, almost every mammal on Earth was smaller than a house cat.",
-      "image": null,
+      "image": "img/dinosaurs/why-mammals-were-tiny-until-recently.webp",
       "readingLevel": 3,
       "keywords": "mammals waited their turn for over 150 million years, almost every mammal on earth was smaller than a house cat. within roughly 10 million years of the asteroid impact — a short span in geological terms — mammals had already evolved into forms as varied as early horses, early primates and the ancestors of whales."
     },
@@ -1846,7 +1846,7 @@
       "title": "Scientists Can See a Dinosaur's True Colours",
       "emoji": "🎨",
       "hook": "For a century, every dinosaur colour in books and films was a total guess. Now some are not.",
-      "image": null,
+      "image": "img/dinosaurs/how-we-know-dinosaur-colours.webp",
       "readingLevel": 3,
       "keywords": "scientists can see a dinosaur's true colours for a century, every dinosaur colour in books and films was a total guess. now some are not. the famous armoured dinosaur borealopelta was so well preserved that scientists could tell it had reddish-brown colouring on top and a paler belly, a common camouflage pattern called countershading still used by many animals today to blend into their surroundings from any angle."
     },
@@ -1856,7 +1856,7 @@
       "title": "Nobody Knew What a Dinosaur Was",
       "emoji": "🔍",
       "hook": "The first scientifically described dinosaur bone left everyone completely baffled, because the word dinosaur did not exist yet.",
-      "image": null,
+      "image": "img/dinosaurs/the-first-dinosaur-bone-discovered.webp",
       "readingLevel": 3,
       "keywords": "nobody knew what a dinosaur was the first scientifically described dinosaur bone left everyone completely baffled, because the word dinosaur did not exist yet. early reconstructions of iguanodon, made before enough of the skeleton had been found, mistakenly placed a large thumb spike on its nose like a horn — a mistake only corrected decades later when far more complete skeletons were discovered."
     },
@@ -1866,7 +1866,7 @@
       "title": "Older Than Dinosaurs, Older Than Almost Anything",
       "emoji": "🐚",
       "hook": "Trilobites crawled the ocean floor for longer than dinosaurs existed — and they were ancient before dinosaurs even began.",
-      "image": null,
+      "image": "img/dinosaurs/what-a-trilobite-is.webp",
       "readingLevel": 3,
       "keywords": "older than dinosaurs, older than almost anything trilobites crawled the ocean floor for longer than dinosaurs existed — and they were ancient before dinosaurs even began. trilobites survived several of earth's mass extinctions before finally going extinct completely around 252 million years ago, in the same catastrophic event that wiped out most other life before dinosaurs ever ruled the planet."
     },
@@ -1876,7 +1876,7 @@
       "title": "How Scientists Know a Fossil's Exact Age",
       "emoji": "⏱️",
       "hook": "Scientists cannot simply look at a dinosaur bone and know its age. They have to read the rock around it instead.",
-      "image": null,
+      "image": "img/dinosaurs/how-old-is-a-fossil-really.webp",
       "readingLevel": 3,
       "keywords": "how scientists know a fossil's exact age scientists cannot simply look at a dinosaur bone and know its age. they have to read the rock around it instead. the specific radioactive decay rates used in dating rocks have been measured with such extraordinary precision in laboratories that scientists can sometimes date volcanic rock layers to within a margin of just a few thousand years, even for rock that is hundreds of millions of years old."
     },
@@ -1886,7 +1886,7 @@
       "title": "Mammoths Frozen So Well They Still Have Hair",
       "emoji": "🦣",
       "hook": "Some woolly mammoths have been found frozen in the Arctic ground so perfectly preserved that their fur, skin and even stomach contents survived.",
-      "image": null,
+      "image": "img/dinosaurs/woolly-mammoths-in-ice.webp",
       "readingLevel": 3,
       "keywords": "mammoths frozen so well they still have hair some woolly mammoths have been found frozen in the arctic ground so perfectly preserved that their fur, skin and even stomach contents survived. climate change melting arctic permafrost is now uncovering new, remarkably preserved mammoth remains more frequently than ever before, even as it threatens the very permafrost conditions that preserved them in the first place."
     },
@@ -1896,7 +1896,7 @@
       "title": "Nothing Was the Hardest Number to Invent",
       "emoji": "⭕",
       "hook": "Ancient mathematicians could count enormous armies and measure vast fields, yet the idea of a number for nothing took thousands of years to arrive.",
-      "image": null,
+      "image": "img/numbers/why-zero-took-so-long-to-invent.webp",
       "readingLevel": 3,
       "keywords": "nothing was the hardest number to invent ancient mathematicians could count enormous armies and measure vast fields, yet the idea of a number for nothing took thousands of years to arrive. without zero acting as a placeholder, writing a number as large as one million would require a completely different, far clumsier system, since zero is precisely what lets 1 and six zeros mean something a thousand times bigger than 1 and three zeros."
     },
@@ -1906,7 +1906,7 @@
       "title": "Why Dividing by Zero Breaks Math",
       "emoji": "🚫",
       "hook": "Try dividing any number by zero on a calculator, and instead of an answer, you get an error.",
-      "image": null,
+      "image": "img/numbers/what-happens-if-you-divide-by-zero.webp",
       "readingLevel": 3,
       "keywords": "why dividing by zero breaks math try dividing any number by zero on a calculator, and instead of an answer, you get an error. if you allowed division by zero to simply equal a number like one, you could use ordinary, valid algebra steps to mathematically prove that one equals two — which shows exactly why mathematicians refuse to allow it at all."
     },
@@ -1916,7 +1916,7 @@
       "title": "The Numbers Protecting Your Password",
       "emoji": "🔐",
       "hook": "A special kind of number, first studied purely out of curiosity over two thousand years ago, now protects almost everything you do online.",
-      "image": null,
+      "image": "img/numbers/prime-numbers-keep-your-secrets-safe.webp",
       "readingLevel": 3,
       "keywords": "the numbers protecting your password a special kind of number, first studied purely out of curiosity over two thousand years ago, now protects almost everything you do online. there is no largest prime number — mathematicians have proven, using logic first written down by the ancient greek mathematician euclid, that primes go on forever without ever stopping, no matter how far you count."
     },
@@ -1926,7 +1926,7 @@
       "title": "The Shape Bees Discovered Without Any Maths",
       "emoji": "🐝",
       "hook": "A honeycomb is built entirely from six-sided hexagons — the single most efficient shape possible for the job, and bees found it without any classroom.",
-      "image": null,
+      "image": "img/numbers/why-bees-build-hexagons.webp",
       "readingLevel": 3,
       "keywords": "the shape bees discovered without any maths a honeycomb is built entirely from six-sided hexagons — the single most efficient shape possible for the job, and bees found it without any classroom. the same efficient hexagon pattern shows up naturally in cooling volcanic rock formations, in dried mud cracking in a hot sun, and in soap bubbles packed tightly together — anywhere nature needs to fill a flat space as efficiently as possible."
     },
@@ -1936,7 +1936,7 @@
       "title": "A Secret Number Pattern Hiding in Plants",
       "emoji": "🌻",
       "hook": "Count the petals on many flowers, and you will very often land on the same strange sequence of numbers.",
-      "image": null,
+      "image": "img/numbers/the-numbers-hidden-in-flowers.webp",
       "readingLevel": 3,
       "keywords": "a secret number pattern hiding in plants count the petals on many flowers, and you will very often land on the same strange sequence of numbers. the ratio between consecutive fibonacci numbers gets closer and closer to a special, famous number called the golden ratio, roughly 1.618, which artists and architects have deliberately used in their own designs for centuries because many people find that particular proportion especially pleasing to look at."
     },
@@ -1946,7 +1946,7 @@
       "title": "Not All Infinities Are Equal",
       "emoji": "♾️",
       "hook": "Infinity sounds like the biggest idea possible, one single endless thing. It turns out there are different sizes of infinite.",
-      "image": null,
+      "image": "img/numbers/some-infinities-are-bigger-than-others.webp",
       "readingLevel": 3,
       "keywords": "not all infinities are equal infinity sounds like the biggest idea possible, one single endless thing. it turns out there are different sizes of infinite. cantor's ideas were so strange and unsettling to other mathematicians at the time that some prominent colleagues attacked him bitterly in public, yet his once-controversial work on different sizes of infinity is now completely accepted and forms a fundamental, essential part of modern mathematics."
     },
@@ -1956,7 +1956,7 @@
       "title": "The Surprise Hiding in a Room of Strangers",
       "emoji": "🎂",
       "hook": "Put just 23 random people in one room, and the odds are already better than even that two of them share the exact same birthday.",
-      "image": null,
+      "image": "img/numbers/why-a-room-of-23-shares-a-birthday.webp",
       "readingLevel": 3,
       "keywords": "the surprise hiding in a room of strangers put just 23 random people in one room, and the odds are already better than even that two of them share the exact same birthday. the exact same underlying mathematics behind the birthday paradox is used by computer scientists to test how easily two completely different pieces of digital data might accidentally produce the same security code, an important consideration in keeping computer systems safe."
     },
@@ -1966,7 +1966,7 @@
       "title": "The King Who Underestimated Doubling",
       "emoji": "♟️",
       "hook": "An old legend tells of a king who agreed to a seemingly modest reward, and it nearly bankrupted his entire kingdom.",
-      "image": null,
+      "image": "img/numbers/the-rice-and-chessboard-trick.webp",
       "readingLevel": 3,
       "keywords": "the king who underestimated doubling an old legend tells of a king who agreed to a seemingly modest reward, and it nearly bankrupted his entire kingdom. this kind of explosive doubling pattern is called exponential growth, and it is exactly the same underlying mathematics that describes how a single infected person can start an epidemic that grows into millions of cases, or how a tiny starting population of bacteria can multiply into billions within just a single day."
     },
@@ -1976,7 +1976,7 @@
       "title": "The Shape That Repeats Itself Forever",
       "emoji": "❄️",
       "hook": "Zoom into certain shapes again and again, and you keep seeing the exact same pattern repeating, no matter how far you zoom.",
-      "image": null,
+      "image": "img/numbers/what-a-fractal-is.webp",
       "readingLevel": 3,
       "keywords": "the shape that repeats itself forever zoom into certain shapes again and again, and you keep seeing the exact same pattern repeating, no matter how far you zoom. the word fractal was invented in 1975 by the mathematician benoit mandelbrot, who used early computers to generate and explore some of the first fractal images anyone had ever produced, revealing patterns of infinite complexity that no human being had ever actually seen before."
     },
@@ -1996,7 +1996,7 @@
       "title": "Counting Before Anyone Had Written Numbers",
       "emoji": "🪢",
       "hook": "Long before written number symbols existed, people still needed to count — and they found remarkably clever ways to do it.",
-      "image": null,
+      "image": "img/numbers/how-people-counted-before-numbers.webp",
       "readingLevel": 3,
       "keywords": "counting before anyone had written numbers long before written number symbols existed, people still needed to count — and they found remarkably clever ways to do it. quipu knots have been found that appear to represent numbers in the thousands with remarkable precision, and researchers are still working today to fully decode some of the more complex surviving examples, since much of the detailed knowledge of exactly how to read them was lost after the spanish conquest of the inca empire."
     },
@@ -2006,7 +2006,7 @@
       "title": "The Number With No End and No Pattern",
       "emoji": "🥧",
       "hook": "One special number goes on forever after the decimal point, without ever settling into a repeating pattern.",
-      "image": null,
+      "image": "img/numbers/the-number-that-never-repeats.webp",
       "readingLevel": 3,
       "keywords": "the number with no end and no pattern one special number goes on forever after the decimal point, without ever settling into a repeating pattern. some people memorise pi purely for fun and sport, with the current officially recognised world record standing at over 70,000 digits recited entirely from memory, taking the record holder many hours of continuous recitation to complete."
     },
@@ -2016,7 +2016,7 @@
       "title": "Why Your Bathroom Floor Isn't Made of Pentagons",
       "emoji": "🔷",
       "hook": "Squares and hexagons can cover a floor perfectly with no gaps. Regular five-sided pentagons simply cannot, no matter how hard you try.",
-      "image": null,
+      "image": "img/numbers/why-some-shapes-tile-and-others-dont.webp",
       "readingLevel": 3,
       "keywords": "why your bathroom floor isn't made of pentagons squares and hexagons can cover a floor perfectly with no gaps. regular five-sided pentagons simply cannot, no matter how hard you try. mathematicians eventually discovered special irregular, non-symmetric pentagon shapes — not the perfectly regular kind — that genuinely can tile a floor with no gaps, and new never-before-found tiling pentagon shapes are still occasionally being discovered by dedicated mathematicians even today."
     },
@@ -2026,7 +2026,7 @@
       "title": "Why Counting Jumps by Tens",
       "emoji": "✋",
       "hook": "Almost every counting system used around the world today groups numbers by tens. The reason is attached to your own two hands.",
-      "image": null,
+      "image": "img/numbers/why-we-count-in-tens.webp",
       "readingLevel": 3,
       "keywords": "why counting jumps by tens almost every counting system used around the world today groups numbers by tens. the reason is attached to your own two hands. modern computers do not use base-10 at all internally — they use base-2, called binary, counting using only the digits 0 and 1, because a simple electronic switch only needs to represent two clear, reliable, distinguishable states: fully off or fully on."
     },
@@ -2036,7 +2036,7 @@
       "title": "Bread Is Alive Before You Bake It",
       "emoji": "🍞",
       "hook": "A lump of bread dough rises on its own because it is packed with living organisms quietly breathing out gas.",
-      "image": null,
+      "image": "img/food/why-bread-dough-rises.webp",
       "readingLevel": 3,
       "keywords": "bread is alive before you bake it a lump of bread dough rises on its own because it is packed with living organisms quietly breathing out gas. sourdough bread uses no separate packaged yeast at all — instead, wild yeast and bacteria naturally floating in the air and already present on the flour itself are deliberately captured and cultivated in a starter, some of which bakeries have kept continuously alive and in active use for well over a hundred years."
     },
@@ -2046,7 +2046,7 @@
       "title": "Chilli Peppers Trick Your Nerves",
       "emoji": "🌶️",
       "hook": "A spicy chilli does not actually raise your mouth's temperature at all. It simply tricks your nerves into believing it has.",
-      "image": null,
+      "image": "img/food/why-chilli-feels-hot-but-isnt.webp",
       "readingLevel": 3,
       "keywords": "chilli peppers trick your nerves a spicy chilli does not actually raise your mouth's temperature at all. it simply tricks your nerves into believing it has. scientists measure exactly how spicy a pepper is using something called the scoville scale, and the hottest chilli peppers ever specially bred and measured rate millions of times hotter than an ordinary jalapeño pepper."
     },
@@ -2056,7 +2056,7 @@
       "title": "The Onion's Tiny Chemical Weapon",
       "emoji": "🧅",
       "hook": "Slicing into an onion releases an invisible chemical specifically designed by the plant to make you cry.",
-      "image": null,
+      "image": "img/food/why-onions-make-you-cry.webp",
       "readingLevel": 3,
       "keywords": "the onion's tiny chemical weapon slicing into an onion releases an invisible chemical specifically designed by the plant to make you cry. scientists at a food research institute in new zealand once successfully bred a genetically modified onion specifically engineered to block the enzyme responsible for producing the tear-inducing gas, creating what researchers nicknamed the tearless onion."
     },
@@ -2066,7 +2066,7 @@
       "title": "Food That Is Cooked by Bacteria",
       "emoji": "🫘",
       "hook": "Tempeh, yoghurt and tape are not spoiled food. They are food deliberately transformed by carefully chosen, helpful microbes.",
-      "image": null,
+      "image": "img/food/what-fermentation-actually-is.webp",
       "readingLevel": 3,
       "keywords": "food that is cooked by bacteria tempeh, yoghurt and tape are not spoiled food. they are food deliberately transformed by carefully chosen, helpful microbes. fermentation was one of humanity's very first forms of practical food chemistry, used for thousands of years before anyone anywhere understood that microscopic living organisms were the true, actual cause behind it."
     },
@@ -2076,7 +2076,7 @@
       "title": "The Salt Trick That Freezes Ice Cream",
       "emoji": "🍦",
       "hook": "Homemade ice cream recipes call for packing salt directly around ice — not inside the ice cream mixture at all.",
-      "image": null,
+      "image": "img/food/why-ice-cream-needs-salt.webp",
       "readingLevel": 3,
       "keywords": "the salt trick that freezes ice cream homemade ice cream recipes call for packing salt directly around ice — not inside the ice cream mixture at all. the exact same basic salt-and-ice principle is why salt is spread on icy roads and pavements during winter in cold countries — it lowers the effective freezing point of the ice enough that it melts even in temperatures that would otherwise keep it frozen solid."
     },
@@ -2086,7 +2086,7 @@
       "title": "Why an Egg Can Never Go Back to Liquid",
       "emoji": "🍳",
       "hook": "Once you cook an egg, there is no possible way to turn it back into a raw, runny liquid egg again.",
-      "image": null,
+      "image": "img/food/how-cooking-an-egg-changes-it.webp",
       "readingLevel": 3,
       "keywords": "why an egg can never go back to liquid once you cook an egg, there is no possible way to turn it back into a raw, runny liquid egg again. different proteins inside an egg denature and firm up at slightly different specific temperatures, which is precisely why carefully controlling the exact cooking temperature lets skilled cooks produce a perfectly runny yolk sitting alongside a fully set, firm white in the very same cooked egg."
     },
@@ -2096,7 +2096,7 @@
       "title": "The Tiny Explosion Inside Every Popcorn Kernel",
       "emoji": "🍿",
       "hook": "A popcorn kernel is a small, sealed pressure container, and popping it is a genuine tiny explosion.",
-      "image": null,
+      "image": "img/food/why-popcorn-pops.webp",
       "readingLevel": 3,
       "keywords": "the tiny explosion inside every popcorn kernel a popcorn kernel is a small, sealed pressure container, and popping it is a genuine tiny explosion. a popcorn kernel with too little moisture inside it, often because it was stored somewhere too dry for too long, will frequently fail to pop at all, since there simply is not enough trapped steam pressure generated to burst through the tough outer hull."
     },
@@ -2106,7 +2106,7 @@
       "title": "Why a Sliced Apple Turns Brown So Fast",
       "emoji": "🍎",
       "hook": "Slice open a fresh apple, and within minutes the cut surface begins turning an unappetising brown.",
-      "image": null,
+      "image": "img/food/why-a-cut-apple-turns-brown.webp",
       "readingLevel": 3,
       "keywords": "why a sliced apple turns brown so fast slice open a fresh apple, and within minutes the cut surface begins turning an unappetising brown. this exact browning reaction, called enzymatic browning, is also precisely responsible for the appealing colour changes seen in tea leaves as they are processed and dried, and in cacao beans as they ferment on their way to eventually becoming chocolate."
     },
@@ -2116,7 +2116,7 @@
       "title": "The Trapped Gas Inside Every Fizzy Bottle",
       "emoji": "🥤",
       "hook": "A fizzy drink is ordinary liquid with enormous amounts of invisible gas forcefully dissolved into it, waiting for a chance to escape.",
-      "image": null,
+      "image": "img/food/what-makes-fizzy-drinks-fizzy.webp",
       "readingLevel": 3,
       "keywords": "the trapped gas inside every fizzy bottle a fizzy drink is ordinary liquid with enormous amounts of invisible gas forcefully dissolved into it, waiting for a chance to escape. dropping a few raisins or small mint sweets into a freshly opened fizzy drink gives escaping gas bubbles many extra tiny rough surfaces to cling onto and quickly gather on, which is exactly why the raisins or sweets appear to dance repeatedly up and down through the liquid."
     },
@@ -2126,7 +2126,7 @@
       "title": "The Chemistry Behind Every Golden Crust",
       "emoji": "🍞",
       "hook": "Toast, seared meat and roasted coffee all owe their appealing brown colour and rich flavour to the very same chemical reaction.",
-      "image": null,
+      "image": "img/food/why-toast-turns-brown.webp",
       "readingLevel": 3,
       "keywords": "the chemistry behind every golden crust toast, seared meat and roasted coffee all owe their appealing brown colour and rich flavour to the very same chemical reaction. caramelisation is a separate but closely related browning reaction that happens when sugar alone is heated intensely with no protein involved at all, which is why plain white sugar melted carefully in a dry pan turns a rich amber-brown and develops a distinctly different flavour from ordinary maillard-browned toast."
     },
@@ -2136,7 +2136,7 @@
       "title": "Why Soaking Makes Vegetables Crisp Again",
       "emoji": "🥬",
       "hook": "A wilted, limp vegetable can spring back to crisp life after simply soaking in plain water for a while.",
-      "image": null,
+      "image": "img/food/why-vegetables-go-crisp-or-limp.webp",
       "readingLevel": 3,
       "keywords": "why soaking makes vegetables crisp again a wilted, limp vegetable can spring back to crisp life after simply soaking in plain water for a while. this same fundamental osmosis principle works powerfully in reverse too — packing vegetables in salt, as happens when making pickles, actively draws water forcefully out of the vegetable cells instead, which is precisely why traditional pickling recipes deliberately produce a distinctly different, notably softer, more tender texture."
     },
@@ -2146,7 +2146,7 @@
       "title": "How Liquid Milk Becomes Solid Cheese",
       "emoji": "🧀",
       "hook": "Cheese is essentially milk that has been deliberately, carefully persuaded to fall apart into solid clumps.",
-      "image": null,
+      "image": "img/food/how-milk-becomes-cheese.webp",
       "readingLevel": 3,
       "keywords": "how liquid milk becomes solid cheese cheese is essentially milk that has been deliberately, carefully persuaded to fall apart into solid clumps. some particularly prized, expensive aged cheeses are matured and carefully aged for several years before being sold, during which time naturally occurring enzymes inside the cheese slowly and steadily continue breaking down proteins and fats, which is precisely what produces their intensely concentrated, complex, deeply savoury flavour."
     },
@@ -2156,7 +2156,7 @@
       "title": "Your Eyes Can Change How Food Tastes",
       "emoji": "👀",
       "hook": "Change a food's colour without changing anything else about it at all, and people will often swear the flavour itself has genuinely changed too.",
-      "image": null,
+      "image": "img/food/why-eyes-affect-how-food-tastes.webp",
       "readingLevel": 3,
       "keywords": "your eyes can change how food tastes change a food's colour without changing anything else about it at all, and people will often swear the flavour itself has genuinely changed too. in one particularly striking experiment, professional chefs served an entire meal to diners eating in a completely pitch-black room with absolutely no light at all, and many people struggled considerably to correctly identify even very familiar, everyday foods without being able to see them."
     },
@@ -2166,7 +2166,7 @@
       "title": "The Sealed Pot That Cooks in Half the Time",
       "emoji": "🍲",
       "hook": "A pressure cooker gets food cooked significantly faster by breaking one of cooking's most basic, familiar rules: water's normal boiling point.",
-      "image": null,
+      "image": "img/food/why-pressure-cookers-cook-faster.webp",
       "readingLevel": 3,
       "keywords": "the sealed pot that cooks in half the time a pressure cooker gets food cooked significantly faster by breaking one of cooking's most basic, familiar rules: water's normal boiling point. this exact relationship also runs precisely in reverse at high altitude: on top of a very tall mountain, where surrounding air pressure is considerably lower than at sea level, water boils at a noticeably lower temperature, which is exactly why cooking instructions and recipe times often specifically need adjusting for people who live at high altitude."
     }

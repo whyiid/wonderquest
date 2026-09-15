@@ -12,10 +12,24 @@
     ],
     "wow": "A steel ship floats for the same reason a hollow bowl floats and a solid lump of the same clay sinks — shape, not material, decides it.",
     "discovery": "The principle is credited to Archimedes in ancient Greece, and the story told about it is famous: asked to check whether a king's crown was pure gold without damaging it, he supposedly realised the answer while lowering himself into a bath and watching the water level rise, then ran into the street shouting Eureka — I have found it. A crown of fake, less dense metal would displace a different amount of water than pure gold of the same weight, revealing the trick without cutting anything.",
-    "image": null,
+    "image": "img/physics/why-things-float.webp",
     "quiz": [
-      { "q": "What decides whether something floats?", "a": ["How much water it pushes aside compared to its weight", "What material it is made from"], "correct": 0 },
-      { "q": "How does a submarine sink or rise?", "a": ["By flooding or emptying tanks", "By changing its material"], "correct": 0 }
+      {
+        "q": "What decides whether something floats?",
+        "a": [
+          "How much water it pushes aside compared to its weight",
+          "What material it is made from"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "How does a submarine sink or rise?",
+        "a": [
+          "By flooding or emptying tanks",
+          "By changing its material"
+        ],
+        "correct": 0
+      }
     ],
     "readingLevel": 3,
     "factRisk": true,
@@ -34,10 +48,24 @@
     ],
     "wow": "The whole Earth is a giant magnet, with a molten iron core creating a field that stretches thousands of kilometres into space and is what makes a compass needle point north.",
     "unknown": "Nobody has ever found a magnet with only one pole, even though the mathematics of magnetism does not forbid it. Break a magnet in half and you never get an isolated north or an isolated south — each broken piece grows its own new pair of poles. Physicists have searched for decades for a theoretical particle called a magnetic monopole, and finding one would change some of the basic rules of physics. So far, none has ever turned up.",
-    "image": null,
+    "image": "img/physics/how-magnets-work.webp",
     "quiz": [
-      { "q": "What makes some materials magnetic?", "a": ["Their tiny atomic magnets line up together", "They contain electricity"], "correct": 0 },
-      { "q": "What happens if you break a magnet in half?", "a": ["Each half grows its own two poles", "One half loses its magnetism"], "correct": 0 }
+      {
+        "q": "What makes some materials magnetic?",
+        "a": [
+          "Their tiny atomic magnets line up together",
+          "They contain electricity"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What happens if you break a magnet in half?",
+        "a": [
+          "Each half grows its own two poles",
+          "One half loses its magnetism"
+        ],
+        "correct": 0
+      }
     ],
     "readingLevel": 3,
     "factRisk": true,
@@ -55,10 +83,24 @@
       "You can test this. A mirror never flips up and down — your head stays at the top and your feet at the bottom, always. If it truly reversed left and right the way people assume, it should reverse up and down equally, since both are just directions at right angles to the front-back line. It does not, because it was never left and right being reversed in the first place."
     ],
     "wow": "Written text looks backwards in a mirror not because the mirror is choosy about letters, but because the whole page has been flipped front-to-back, and the letters are the part your brain notices.",
-    "image": null,
+    "image": "img/physics/why-mirrors-flip-left-right.webp",
     "quiz": [
-      { "q": "What does a mirror actually reverse?", "a": ["Front and back", "Left and right"], "correct": 0 },
-      { "q": "What never gets flipped in a mirror?", "a": ["Up and down", "The direction facing the mirror"], "correct": 0 }
+      {
+        "q": "What does a mirror actually reverse?",
+        "a": [
+          "Front and back",
+          "Left and right"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What never gets flipped in a mirror?",
+        "a": [
+          "Up and down",
+          "The direction facing the mirror"
+        ],
+        "correct": 0
+      }
     ],
     "readingLevel": 3,
     "factRisk": true,
@@ -76,10 +118,24 @@
       "This also explains why nobody can walk up to a rainbow or find its end. It is not sitting at a location in the sky at all. It is a specific angle, roughly 42 degrees from the line between your eyes and your shadow, and different raindrops satisfy that angle for you than for someone standing metres away. Everyone looking at the same rainbow is actually seeing their own personal one, made from a completely different set of raindrops."
     ],
     "wow": "A double rainbow happens when light bounces twice inside the raindrops instead of once, which is also why the second rainbow's colours always appear in reverse order.",
-    "image": null,
+    "image": "img/physics/how-a-rainbow-forms.webp",
     "quiz": [
-      { "q": "Why do rainbows show separate colours?", "a": ["Each colour bends by a different amount in water", "Raindrops are tinted different colours"], "correct": 0 },
-      { "q": "Can two people see the exact same rainbow?", "a": ["No, each person sees their own from different raindrops", "Yes, if standing together"], "correct": 0 }
+      {
+        "q": "Why do rainbows show separate colours?",
+        "a": [
+          "Each colour bends by a different amount in water",
+          "Raindrops are tinted different colours"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Can two people see the exact same rainbow?",
+        "a": [
+          "No, each person sees their own from different raindrops",
+          "Yes, if standing together"
+        ],
+        "correct": 0
+      }
     ],
     "readingLevel": 3,
     "factRisk": true,
@@ -97,10 +153,24 @@
       "Because sound needs molecules to shove, it cannot cross truly empty space. This is why every explosion in a film happens with a boom in the vacuum of space, which is completely wrong — real space has essentially no air, so there is nothing there to carry the shove, and an explosion there would be dead silent. Sound also travels faster through water and solid metal than through air, because the molecules are packed closer together and pass the shove along more quickly."
     ],
     "wow": "Whales can hear each other calling across hundreds of kilometres of ocean, because sound moves through water roughly four times faster than through air and loses far less energy on the way.",
-    "image": null,
+    "image": "img/physics/what-sound-actually-is.webp",
     "quiz": [
-      { "q": "Why can't sound travel through space?", "a": ["There are no molecules there to pass it along", "Space is too cold"], "correct": 0 },
-      { "q": "What makes a sound louder without changing its pitch?", "a": ["The air molecules move a greater distance", "The vibration happens faster"], "correct": 0 }
+      {
+        "q": "Why can't sound travel through space?",
+        "a": [
+          "There are no molecules there to pass it along",
+          "Space is too cold"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What makes a sound louder without changing its pitch?",
+        "a": [
+          "The air molecules move a greater distance",
+          "The vibration happens faster"
+        ],
+        "correct": 0
+      }
     ],
     "readingLevel": 3,
     "factRisk": true,
@@ -118,10 +188,24 @@
       "This single odd fact matters enormously for life. A lake freezes from the top down, with the ice forming a floating lid that insulates the still-liquid water underneath from the freezing air above. Fish and other creatures survive the winter under that lid. If ice sank the way frozen versions of other liquids do, lakes and oceans would freeze solidly from the bottom up every winter, trapping and killing almost everything living in them."
     ],
     "wow": "Water is densest not as a solid but a few degrees above freezing as a liquid, which is why the coldest water in a winter lake sinks to the bottom while ice floats on top.",
-    "image": null,
+    "image": "img/physics/why-ice-floats.webp",
     "quiz": [
-      { "q": "Why does ice float?", "a": ["Its molecules lock into a spread-out structure with more space", "It is warmer than the water below"], "correct": 0 },
-      { "q": "What would happen if ice sank?", "a": ["Lakes would freeze solid from the bottom up", "Nothing would change"], "correct": 0 }
+      {
+        "q": "Why does ice float?",
+        "a": [
+          "Its molecules lock into a spread-out structure with more space",
+          "It is warmer than the water below"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What would happen if ice sank?",
+        "a": [
+          "Lakes would freeze solid from the bottom up",
+          "Nothing would change"
+        ],
+        "correct": 0
+      }
     ],
     "readingLevel": 3,
     "factRisk": true,
@@ -139,10 +223,24 @@
       "In the emptiness of space, away from any air or surfaces to rub against, there is almost no friction at all, which is why a spacecraft coasting between planets barely needs its engines running — once moving, it simply keeps going. On Earth, friction with the air itself, called drag, is why a thrown paper aeroplane eventually slows and drops, even though nothing solid ever touched it after it left your hand."
     ],
     "wow": "Without any friction at all, you could not walk, because your shoes would simply slide backwards with nothing to grip against the ground.",
-    "image": null,
+    "image": "img/physics/what-is-friction.webp",
     "quiz": [
-      { "q": "What causes friction?", "a": ["Microscopic bumps on surfaces catching each other", "Gravity pulling objects down"], "correct": 0 },
-      { "q": "Why does a spacecraft need little fuel once moving?", "a": ["There is almost no friction in space", "Space pushes it forward"], "correct": 0 }
+      {
+        "q": "What causes friction?",
+        "a": [
+          "Microscopic bumps on surfaces catching each other",
+          "Gravity pulling objects down"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Why does a spacecraft need little fuel once moving?",
+        "a": [
+          "There is almost no friction in space",
+          "Space pushes it forward"
+        ],
+        "correct": 0
+      }
     ],
     "readingLevel": 3,
     "factRisk": false,
@@ -160,10 +258,24 @@
       "The same stubbornness is why a thrown frisbee flies flat and stable instead of tumbling, why a bullet is fired through a spiral-grooved barrel that makes it spin for accuracy, and why a bicycle wheel, spun fast and held by its axle, feels strangely difficult to tilt in your hands, pushing back against you in a direction that seems to make no sense at all."
     ],
     "wow": "Gyroscopes built on this exact principle are used inside rockets, aeroplanes and phones to sense which way is up, because a fast-spinning wheel keeps pointing the same direction no matter how the vehicle around it turns.",
-    "image": null,
+    "image": "img/physics/why-a-spinning-top-stays-up.webp",
     "quiz": [
-      { "q": "Why does a spinning top stay upright?", "a": ["Its spin resists changes to its direction", "It is lighter than a still top"], "correct": 0 },
-      { "q": "What eventually makes a spinning top fall?", "a": ["Friction slows the spin until gravity wins", "The top runs out of air"], "correct": 0 }
+      {
+        "q": "Why does a spinning top stay upright?",
+        "a": [
+          "Its spin resists changes to its direction",
+          "It is lighter than a still top"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What eventually makes a spinning top fall?",
+        "a": [
+          "Friction slows the spin until gravity wins",
+          "The top runs out of air"
+        ],
+        "correct": 0
+      }
     ],
     "readingLevel": 3,
     "factRisk": false,
@@ -181,10 +293,24 @@
       "Seesaws, wheelbarrows, scissors and nutcrackers are all levers arranged in slightly different ways, and each one is doing the same underlying trade: force for distance, or distance for force. Archimedes, who also worked out why ships float, is said to have declared that given a lever long enough and a place to stand, he could move the entire Earth."
     ],
     "wow": "Your jaw is a lever so efficient that your back teeth can bite down with several times more force than your front teeth, using exactly the same jaw muscles.",
-    "image": null,
+    "image": "img/physics/how-levers-work.webp",
     "quiz": [
-      { "q": "What does a lever trade to make lifting easier?", "a": ["Distance for force", "Weight for time"], "correct": 0 },
-      { "q": "Where does a lever's pivot sit?", "a": ["At a fixed point the bar rests on", "At the very end of the bar"], "correct": 0 }
+      {
+        "q": "What does a lever trade to make lifting easier?",
+        "a": [
+          "Distance for force",
+          "Weight for time"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Where does a lever's pivot sit?",
+        "a": [
+          "At a fixed point the bar rests on",
+          "At the very end of the bar"
+        ],
+        "correct": 0
+      }
     ],
     "readingLevel": 3,
     "factRisk": false,
@@ -202,10 +328,24 @@
       "Pilots control height not by pushing the balloon up or down directly, since there are no engines for that, but by managing temperature. More heat from the burner makes the air inside less dense and the balloon climbs; letting the air inside cool, or releasing some of it through a vent at the top, makes the balloon sink back down. Steering left or right is trickier still, since balloons cannot be aimed — pilots instead rise or fall to catch different wind currents blowing in different directions at different heights."
     ],
     "wow": "The first hot air balloon passengers, in 1783 in France, were a sheep, a duck and a rooster, sent up before any human dared to try it.",
-    "image": null,
+    "image": "img/physics/why-hot-air-balloons-rise.webp",
     "quiz": [
-      { "q": "Why does heated air rise?", "a": ["It becomes less dense than the cooler air around it", "Heat pushes it upward directly"], "correct": 0 },
-      { "q": "How do balloon pilots steer left or right?", "a": ["By rising or falling into different wind currents", "With a steering wheel"], "correct": 0 }
+      {
+        "q": "Why does heated air rise?",
+        "a": [
+          "It becomes less dense than the cooler air around it",
+          "Heat pushes it upward directly"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "How do balloon pilots steer left or right?",
+        "a": [
+          "By rising or falling into different wind currents",
+          "With a steering wheel"
+        ],
+        "correct": 0
+      }
     ],
     "readingLevel": 3,
     "factRisk": true,
@@ -223,10 +363,24 @@
       "The individual electrons themselves actually creep along remarkably slowly, often only a fraction of a millimetre per second, jostling and bumping their way forward. What makes a light switch feel instant is that the push itself — the signal telling every electron in the circuit to start drifting — travels through the wire at close to the speed of light, so every electron all along the wire starts moving together almost immediately, even though none of them individually travels very far or very fast."
     ],
     "wow": "An electron that leaves a battery and travels all the way to a light bulb on the other side of a room might take hours to physically arrive, yet the bulb switches on the instant you flip the switch.",
-    "image": null,
+    "image": "img/physics/what-electricity-actually-is.webp",
     "quiz": [
-      { "q": "What is an electric current?", "a": ["A drifting flow of loose electrons", "A special kind of light"], "correct": 0 },
-      { "q": "Why does a light switch on instantly?", "a": ["The push travels near light speed, even though electrons move slowly", "Electrons travel instantly"], "correct": 0 }
+      {
+        "q": "What is an electric current?",
+        "a": [
+          "A drifting flow of loose electrons",
+          "A special kind of light"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Why does a light switch on instantly?",
+        "a": [
+          "The push travels near light speed, even though electrons move slowly",
+          "Electrons travel instantly"
+        ],
+        "correct": 0
+      }
     ],
     "readingLevel": 3,
     "factRisk": true,
@@ -245,10 +399,24 @@
     ],
     "wow": "Galileo is said to have first tested this idea by dropping different weights from the Leaning Tower of Pisa, though historians are not certain the famous story is entirely true.",
     "discovery": "The idea has a real history of experiment behind it. Galileo argued for it using logic and rolling balls down ramps in the early 1600s, since dropping things from towers is hard to time precisely. In 1971, watched by millions on live television from Earth, Apollo 15's David Scott performed the version everybody remembers, using a real hammer and a real feather on the Moon, and narrated the result himself: how about that, he said, Galileo was right.",
-    "image": null,
+    "image": "img/physics/why-things-fall-at-the-same-speed.webp",
     "quiz": [
-      { "q": "Why does a feather normally fall slower than a hammer?", "a": ["Air resistance pushes back on it more", "It weighs less"], "correct": 0 },
-      { "q": "Where was the hammer-and-feather test finally proven live?", "a": ["On the Moon, with no air", "In a laboratory on Earth"], "correct": 0 }
+      {
+        "q": "Why does a feather normally fall slower than a hammer?",
+        "a": [
+          "Air resistance pushes back on it more",
+          "It weighs less"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Where was the hammer-and-feather test finally proven live?",
+        "a": [
+          "On the Moon, with no air",
+          "In a laboratory on Earth"
+        ],
+        "correct": 0
+      }
     ],
     "readingLevel": 3,
     "factRisk": true,
@@ -267,10 +435,24 @@
     ],
     "wow": "The faint patchy glow of the Milky Way you can see away from city lights is starlight arriving from stars so numerous and so far that individually they blur together — proof the sky is not truly empty, just too young and too stretched to be bright everywhere.",
     "unknown": "Precisely how much of the paradox is solved by the universe's youth versus its expansion is still argued over by physicists working through the details, and the finite speed of light plays a role too. What is agreed is that a simple dark night sky, something everyone on Earth has seen their whole life without a second thought, turned out to be genuine evidence about the age and shape of everything that exists.",
-    "image": null,
+    "image": "img/physics/why-the-night-sky-is-dark.webp",
     "quiz": [
-      { "q": "Why isn't the whole night sky as bright as the Sun?", "a": ["Light from the most distant stars has not reached us yet", "Stars only shine during the day"], "correct": 0 },
-      { "q": "What is this puzzle called?", "a": ["Olbers' paradox", "The dark sky theorem"], "correct": 0 }
+      {
+        "q": "Why isn't the whole night sky as bright as the Sun?",
+        "a": [
+          "Light from the most distant stars has not reached us yet",
+          "Stars only shine during the day"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What is this puzzle called?",
+        "a": [
+          "Olbers' paradox",
+          "The dark sky theorem"
+        ],
+        "correct": 0
+      }
     ],
     "readingLevel": 3,
     "factRisk": true,
@@ -289,10 +471,24 @@
     ],
     "wow": "A pendulum clock runs measurably slower at the top of a tall mountain than at sea level, because gravity is very slightly weaker further from the Earth's centre, and a pendulum's swing speed depends on gravity's strength.",
     "discovery": "Galileo is said to have first noticed the timing trick as a young man watching a chandelier gently swinging in a cathedral in Pisa, timing its swings against his own pulse and realising wide and narrow swings took the same time. He worked out the mathematics but never built a working clock from it. That step was taken decades later by the Dutch scientist Christiaan Huygens, who built the first working pendulum clock in 1656 and transformed how accurately the world could measure time.",
-    "image": null,
+    "image": "img/physics/how-a-pendulum-keeps-time.webp",
     "quiz": [
-      { "q": "What mainly changes how fast a pendulum swings?", "a": ["The length of the pendulum", "How hard it is pushed"], "correct": 0 },
-      { "q": "Who built the first working pendulum clock?", "a": ["Christiaan Huygens", "Galileo Galilei"], "correct": 0 }
+      {
+        "q": "What mainly changes how fast a pendulum swings?",
+        "a": [
+          "The length of the pendulum",
+          "How hard it is pushed"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Who built the first working pendulum clock?",
+        "a": [
+          "Christiaan Huygens",
+          "Galileo Galilei"
+        ],
+        "correct": 0
+      }
     ],
     "readingLevel": 3,
     "factRisk": true,
