@@ -1,0 +1,300 @@
+[
+  {
+    "id": "dinosaurs-had-feathers",
+    "category": "dinosaurs",
+    "title": "Many Dinosaurs Were Fluffy",
+    "emoji": "🪶",
+    "hook": "Plenty of dinosaurs were not scaly at all. They were covered in feathers.",
+    "story": [
+      "For most of the last two centuries, dinosaurs were drawn as scaly, reptile-skinned monsters, because that is what fossilised skin impressions from a few well-known species seemed to show. Then, starting in the 1990s, an extraordinary set of fossil beds in Liaoning, China, began turning up something nobody had seen before: dinosaur skeletons with clear impressions of feathers preserved in the fine rock around the bones.",
+      "The feathers were not always built for flying. Many were simple fuzzy filaments, more like the fluffy down on a chick than the sleek flight feathers of an eagle, and they likely served for warmth, since some feathered dinosaurs may have kept a constant body temperature rather than relying entirely on the surrounding air. Others displayed patterned feathers in bold colours, probably used for showing off to rivals or mates, exactly the way a peacock does today.",
+      "Small meat-eating dinosaurs closely related to birds were the most commonly feathered, and some had feathers on all four limbs, forming something like four wings, even though many of these species could not properly fly. It is now widely accepted among scientists that feathers evolved long before flight did, originally for insulation and display, and only later did some feathered dinosaur lineages adapt them for gliding and eventually powered flight."
+    ],
+    "wow": "A dinosaur tail found preserved in a piece of amber in Myanmar still had its actual feathers attached, including delicate barbs, giving scientists an almost photographic look at what real dinosaur feathers looked like up close.",
+    "unknown": "Nobody can say for certain which dinosaurs had feathers and which did not, because feathers usually vanish long before bones fossilise, and only a few extraordinarily lucky fossil sites preserve soft tissue at all. Artists and scientists are constantly revising old drawings as new feathered fossils turn up, and it is entirely possible that some of the most famous dinosaurs, including relatives of Tyrannosaurus, had far more feathers covering their bodies than anyone currently draws them with.",
+    "image": null,
+    "quiz": [
+      { "q": "What were early dinosaur feathers probably used for?", "a": ["Warmth and display", "Flying"], "correct": 0 },
+      { "q": "Where were many feathered dinosaur fossils first found?", "a": ["Liaoning, China", "The Sahara Desert"], "correct": 0 }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "how-fossils-form",
+    "category": "dinosaurs",
+    "title": "Turning Bone Into Stone",
+    "emoji": "🦴",
+    "hook": "A fossil is not really the original bone. It is a stone copy, made atom by atom.",
+    "story": [
+      "Almost nothing that dies ever becomes a fossil. Scavengers eat the soft parts, weather breaks down the bones, and bacteria finish the job within years or even months. Fossilisation needs a rare stroke of luck: the remains must be buried quickly, usually by mud, sand or volcanic ash, sealing them away from air, scavengers and rot before they can fully decay.",
+      "Buried and protected, the bone sits underground for thousands or millions of years while groundwater slowly seeps through it. That water carries dissolved minerals, and over enormous stretches of time those minerals gradually replace the bone's own material, tiny particle by tiny particle, in a process called permineralisation. The overall shape and even fine internal structure of the bone can be preserved in astonishing detail — but the actual original bone material is essentially gone, replaced entirely by rock.",
+      "This is why fossils are so rare and so precious to find. The right animal has to die in the right place, get buried quickly enough, avoid being crushed or dissolved by shifting rock layers for millions of years, and then, by pure chance, end up exposed again at the surface just as a fossil hunter happens to be walking past, since most fossils that exist stay buried and undiscovered forever."
+    ],
+    "wow": "Fossils are not only bones. Fossilised footprints, skin impressions, nests, dung and even the outline of soft body parts like skin or feathers all count, and some of the most valuable scientific fossils have no bone in them at all.",
+    "image": null,
+    "quiz": [
+      { "q": "What actually happens to the bone during fossilisation?", "a": ["Minerals slowly replace it, keeping the shape", "It turns directly into stone chemically unchanged"], "correct": 0 },
+      { "q": "What is the biggest requirement for fossilisation to start?", "a": ["Quick burial before decay finishes", "Extreme heat"], "correct": 0 }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "what-came-before-dinosaurs",
+    "category": "dinosaurs",
+    "title": "The World Before Dinosaurs Ruled",
+    "emoji": "🦎",
+    "hook": "Dinosaurs did not appear on an empty planet. Stranger creatures ruled long before them.",
+    "story": [
+      "Dinosaurs first appeared roughly 240 million years ago, but life on land had already been going for hundreds of millions of years by then. Before dinosaurs, the dominant large land animals were a group called synapsids — distant relatives of modern mammals rather than of reptiles, despite often being drawn looking rather lizard-like. Some had tall sail-like fins running down their backs, likely used to control body temperature by catching sunlight or breezes.",
+      "Around 252 million years ago, the worst mass extinction in Earth's entire history wiped out an estimated 90 percent or more of all species on the planet, both on land and in the sea. Scientists still study exactly what triggered it, with evidence pointing towards enormous volcanic eruptions in what is now Siberia releasing catastrophic amounts of gas and dramatically altering the climate and oceans over a relatively short span of geological time.",
+      "That devastating reset cleared the way for new kinds of animals to take over, including the early ancestors of dinosaurs, which began as small, quick, two-legged creatures rather than the giants people usually imagine. It took tens of millions of years of further evolution before dinosaurs grew into the enormous variety of shapes and sizes, from tiny to colossal, that dominated the planet for the next 165 million years or so."
+    ],
+    "wow": "The mass extinction before the dinosaurs killed a far greater percentage of life than the one that later ended the dinosaurs themselves — Earth has been nearly wiped clean of life more than once and recovered every time.",
+    "image": null,
+    "quiz": [
+      { "q": "What dominated large land animals before dinosaurs?", "a": ["Synapsids, relatives of mammals", "Early birds"], "correct": 0 },
+      { "q": "What may have caused the extinction before dinosaurs appeared?", "a": ["Enormous volcanic eruptions in Siberia", "An asteroid impact"], "correct": 0 }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "why-the-dinosaurs-died-out",
+    "category": "dinosaurs",
+    "title": "The Rock From Space That Ended an Era",
+    "emoji": "☄️",
+    "hook": "A single afternoon 66 million years ago ended the age of dinosaurs, in the worst few hours in the planet's history.",
+    "story": [
+      "An asteroid roughly ten kilometres wide — about the size of a large mountain — struck what is now the coast of Mexico at colossal speed. The impact released energy equivalent to billions of the largest nuclear bombs ever built, instantly vaporising rock, triggering earthquakes and tsunamis, and igniting wildfires across enormous distances from the shockwave and heat alone.",
+      "The immediate blast was devastating, but the longer-term effects were what finished off most life on Earth. Dust, soot and vaporised rock were thrown high into the atmosphere and spread worldwide, blocking sunlight for months or years. Plants that depended on sunlight died first, then the plant-eating animals that ate them, then the meat-eaters that ate those animals, collapsing whole food chains from the bottom up across the entire planet.",
+      "Every dinosaur species except the small feathered branch that had already evolved into what we call birds went extinct, along with roughly three quarters of all other species on Earth at the time. Small, adaptable animals that could burrow, eat a wide variety of scraps, or survive on very little food had the best chance of surviving the disaster — which is part of why small mammals, previously overshadowed for tens of millions of years by dinosaurs, were among the survivors left standing afterwards."
+    ],
+    "wow": "The crater left by the impact, called Chicxulub, is buried underground and mostly underwater off the coast of Mexico, and is so enormous — around 150 kilometres across — that it was only confirmed by drilling and gravity surveys decades after scientists first proposed the asteroid idea.",
+    "discovery": "The asteroid idea was proposed in 1980 by physicist Luis Alvarez and his geologist son Walter, after they found an unusually thick layer of the rare metal iridium in rock from exactly the right age all around the world — a metal far more common in asteroids than in Earth's own crust. Many geologists were deeply sceptical for over a decade, favouring volcanic explanations instead, until the buried Chicxulub crater was properly identified and dated in the early 1990s, matching the iridium layer's age almost perfectly.",
+    "image": null,
+    "quiz": [
+      { "q": "What mainly killed most life after the asteroid struck?", "a": ["Blocked sunlight collapsing food chains", "The initial explosion alone"], "correct": 0 },
+      { "q": "What clue first led scientists to suspect an asteroid?", "a": ["An unusual layer of iridium worldwide", "Dinosaur bones with burn marks"], "correct": 0 }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "how-big-was-the-biggest-dinosaur",
+    "category": "dinosaurs",
+    "title": "Bigger Than Any Animal Walking Today",
+    "emoji": "🦕",
+    "hook": "The largest dinosaurs were so enormous that scientists still argue over exactly how they moved without collapsing under their own weight.",
+    "story": [
+      "The biggest dinosaurs belonged to a group called sauropods — long-necked, long-tailed plant-eaters that walked on four thick, pillar-like legs. Species such as Argentinosaurus and Patagotitan, known from fossils found in Argentina, are estimated to have reached over 30 metres long and weighed somewhere between 50 and 70 tonnes, roughly equal to ten adult elephants standing together.",
+      "Reaching that size took remarkable engineering. Sauropod bones were often filled with air-filled pockets connected to their lungs, similar to the lightweight bone structure birds have today, which kept the animal's overall weight down without sacrificing strength. Their extraordinarily long necks, some over 15 metres in length, may have let them reach vast areas of vegetation while barely moving their enormous bodies, saving energy that a smaller animal would waste walking between separate feeding spots.",
+      "Nobody has ever found a complete skeleton of the very largest sauropods, only partial remains, so exact size estimates rely on careful comparison with more complete relatives and involve real uncertainty. What is not disputed is that these animals were the largest creatures ever to walk on land, dwarfing every land animal alive today, including elephants — though they were still smaller than the largest animal that has ever existed, the blue whale, which is supported by buoyant ocean water rather than its own legs."
+    ],
+    "wow": "A single footprint from a giant sauropod, preserved in ancient mud, can be large enough for a grown adult to lie down inside it.",
+    "image": null,
+    "quiz": [
+      { "q": "How did giant sauropods manage such enormous size?", "a": ["Air-filled bones kept them lighter than solid bone would allow", "They had unusually small bodies"], "correct": 0 },
+      { "q": "What is the largest animal ever, bigger than any dinosaur?", "a": ["The blue whale", "Tyrannosaurus rex"], "correct": 0 }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "dinosaur-nests-and-babies",
+    "category": "dinosaurs",
+    "title": "Dinosaurs Built Nests and Cared for Their Young",
+    "emoji": "🥚",
+    "hook": "Some dinosaurs did not abandon their eggs. They guarded the nest and fed the babies afterwards.",
+    "story": [
+      "For a long time dinosaurs were pictured as cold, distant reptiles that laid eggs and walked away, the way many modern lizards and turtles do. Fossil discoveries starting in the 1970s in Montana overturned that picture completely. Palaeontologist Jack Horner found nesting sites belonging to a duck-billed dinosaur he named Maiasaura, meaning good mother lizard, containing eggs, hatchlings and babies large enough to have clearly spent real time being fed and protected inside the nest.",
+      "The baby skeletons found had worn teeth and underdeveloped leg joints, suggesting they were too young to leave the nest and gather their own food, yet they had clearly been eating something for a while after hatching — strong evidence that adult dinosaurs were bringing food back to the nest, much the way many birds do for their chicks today. Multiple nests were also found clustered closely together in the same rock layer, suggesting these dinosaurs gathered in colonies to breed, much like many seabirds do now.",
+      "Other remarkable fossils have gone even further, preserving adult dinosaurs seemingly caught in the act of brooding — sitting directly on top of a clutch of eggs, arms spread protectively over the nest, in postures almost identical to how a modern bird sits on its eggs. Combined with the feather discoveries, these nesting fossils are part of why scientists now see many dinosaurs as far more bird-like in behaviour than the cold, reptilian monsters of older films."
+    ],
+    "wow": "Some dinosaur eggs have been found still containing perfectly preserved unhatched baby skeletons curled up inside, caught at the very last moment before hatching.",
+    "image": null,
+    "quiz": [
+      { "q": "What did the Maiasaura fossils suggest?", "a": ["Adults fed and cared for their young in the nest", "Dinosaurs abandoned their eggs immediately"], "correct": 0 },
+      { "q": "What have some fossils captured dinosaurs doing?", "a": ["Sitting on their eggs like a brooding bird", "Fighting over nests"], "correct": 0 }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "birds-are-living-dinosaurs",
+    "category": "dinosaurs",
+    "title": "The Dinosaurs Never Actually Left",
+    "emoji": "🐔",
+    "hook": "Every bird you have ever seen is, technically and scientifically, a dinosaur.",
+    "story": [
+      "Scientists classify living things by tracing their family tree, grouping animals together based on shared ancestors rather than how similar they happen to look. When palaeontologists trace the bird family tree backwards through time, it leads directly into a specific branch of small, feathered, meat-eating dinosaurs — the same broad group that includes famous predators like Velociraptor. Birds did not descend from some separate group; they are that branch of the dinosaur family that survived.",
+      "The physical evidence supporting this is overwhelming once you know what to look for. Birds and their close dinosaur relatives share wishbones, hollow air-filled bones, similar hip and ankle structures, and, as fossil discoveries have shown repeatedly, feathers that appeared in dinosaurs long before flight ever evolved. A chicken and Tyrannosaurus rex, oddly enough, are genuinely closer relatives to each other than either is to a crocodile, despite crocodiles looking far more reptilian and dinosaur-like at first glance.",
+      "This is why many scientists today avoid saying dinosaurs went extinct and instead say that non-avian dinosaurs — every dinosaur except the bird branch — went extinct in the asteroid impact 66 million years ago. Roughly 11,000 species of dinosaur are alive on Earth right now, and you likely see several of them every single day: they are called birds, and one might be sitting on a wire outside your window right now."
+    ],
+    "wow": "Scientists have found genuine traces of ancient protein inside exceptionally well-preserved dinosaur bones that closely resembled proteins found in modern chickens and ostriches, adding direct chemical evidence to the family connection.",
+    "image": null,
+    "quiz": [
+      { "q": "What does the evidence say about birds and dinosaurs?", "a": ["Birds are a surviving branch of the dinosaur family", "Birds evolved separately from dinosaurs"], "correct": 0 },
+      { "q": "Which is more closely related to Tyrannosaurus?", "a": ["A chicken", "A crocodile"], "correct": 0 }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "the-ice-ages",
+    "category": "dinosaurs",
+    "title": "Earth Has Frozen Over Many Times",
+    "emoji": "🥶",
+    "hook": "Ice ages are not one single event long ago. Earth has swung between icy and warm many times, and it is still doing it.",
+    "story": [
+      "An ice age is a long stretch of time, often lasting millions of years, during which large ice sheets permanently cover significant parts of the Earth, particularly near the poles. We are technically living inside one right now — Antarctica and Greenland are still covered in thick, ancient ice, evidence that the current ice age, which began around 2.6 million years ago, has not fully ended.",
+      "Within a broad ice age, the climate does not stay uniformly frozen. It swings back and forth between colder glacial periods, when ice sheets expand dramatically and can bury much of North America and northern Europe under kilometres of ice, and warmer interglacial periods, when much of that ice retreats. These swings are driven largely by slow, predictable wobbles and changes in the shape of Earth's orbit around the Sun, a cycle discovered by the Serbian scientist Milutin Milankovitch.",
+      "During the most recent glacial period, which peaked around 20,000 years ago, sea levels were more than 100 metres lower than today, because so much of the planet's water was locked up as ice on land. Land bridges appeared connecting continents that are now separated by ocean, allowing animals and early humans to walk between areas that would later become isolated by rising seas as the ice melted and the current warmer interglacial period, the one we live in now, began."
+    ],
+    "wow": "We are currently living in a relatively warm interglacial gap between glacial periods, and without human-caused warming, Earth would likely be very slowly heading towards another cold glacial period thousands of years from now.",
+    "image": null,
+    "quiz": [
+      { "q": "Are we technically still inside an ice age?", "a": ["Yes, because polar ice sheets remain", "No, ice ages ended long ago"], "correct": 0 },
+      { "q": "What mainly drives the swings between glacial and warm periods?", "a": ["Slow changes in Earth's orbit", "Random weather"], "correct": 0 }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "why-mammals-were-tiny-until-recently",
+    "category": "dinosaurs",
+    "title": "Mammals Waited Their Turn",
+    "emoji": "🐁",
+    "hook": "For over 150 million years, almost every mammal on Earth was smaller than a house cat.",
+    "story": [
+      "Mammals actually appeared around the same time as the earliest dinosaurs, over 200 million years ago, but for the entire length of the dinosaur age that followed, mammals mostly stayed small — usually shrew-sized or smaller, scurrying, nocturnal creatures that likely survived by staying hidden, eating insects, and avoiding the notice of far larger dinosaur predators dominating every daylight environment and every large-body ecological role available.",
+      "This was not necessarily a sign that mammals were primitive or inferior; many of these early mammals were cleverly adapted with sharp senses of smell and hearing, active mostly at night when many dinosaur predators were less active, occupying a narrow but stable ecological niche squeezed in around the edges of a dinosaur-dominated world.",
+      "Everything changed the moment the asteroid struck 66 million years ago. With every large dinosaur except birds suddenly gone, an enormous range of ecological opportunities — eating leaves, hunting other animals, grazing on grasslands, living in trees — opened up almost overnight in evolutionary terms. Mammals, already reasonably diverse in their small-bodied way and equipped with useful traits like warm-blooded metabolisms and complex brains, expanded rapidly to fill those empty roles over the following millions of years, eventually evolving into everything from whales to elephants to humans."
+    ],
+    "wow": "Within roughly 10 million years of the asteroid impact — a short span in geological terms — mammals had already evolved into forms as varied as early horses, early primates and the ancestors of whales.",
+    "image": null,
+    "quiz": [
+      { "q": "How big were most mammals during the age of dinosaurs?", "a": ["Small, usually shrew-sized or smaller", "About the size of a dog"], "correct": 0 },
+      { "q": "What triggered mammals growing larger and more diverse?", "a": ["The dinosaur extinction opened up ecological space", "Mammals developed new teeth"], "correct": 0 }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "how-we-know-dinosaur-colours",
+    "category": "dinosaurs",
+    "title": "Scientists Can See a Dinosaur's True Colours",
+    "emoji": "🎨",
+    "hook": "For a century, every dinosaur colour in books and films was a total guess. Now some are not.",
+    "story": [
+      "Skin and feathers almost never survive fossilisation, and even on the rare occasions they do, the original pigments themselves usually break down completely over millions of years, leaving palaeontologists to simply guess at colour based on comparisons with living animals — which is why old dinosaur illustrations show every imaginable shade with no real evidence behind any particular choice.",
+      "That changed with the discovery that certain microscopic structures called melanosomes, which hold pigment inside feathers and skin, can sometimes survive fossilisation even after the pigment itself is gone. Crucially, different melanosome shapes correspond to different colours in living birds today — round ones tend to produce reddish-brown tones, while elongated ones tend to produce black or grey. By examining fossilised melanosomes under powerful microscopes and comparing their exact shapes to modern birds, scientists can now make genuine, evidence-based colour reconstructions rather than pure guesses.",
+      "Using this method, researchers reconstructed the colour pattern of a small feathered dinosaur called Anchiornis in remarkable detail in 2010, finding it likely had a striking pattern of black and white feathers on its body and wings with a reddish-brown crest of feathers on its head — probably used for visual signalling to other members of its own species, much like the bold patterns seen on many birds alive today."
+    ],
+    "wow": "The famous armoured dinosaur Borealopelta was so well preserved that scientists could tell it had reddish-brown colouring on top and a paler belly, a common camouflage pattern called countershading still used by many animals today to blend into their surroundings from any angle.",
+    "unknown": "This method only works when melanosomes happen to survive fossilisation, which remains extremely rare, so only a small handful of dinosaur species have ever had their true colours reconstructed this way. For the vast majority of dinosaur species that ever existed, their real colours will likely never be known for certain, and every illustration remains an informed guess rather than a confirmed fact.",
+    "image": null,
+    "quiz": [
+      { "q": "What structure helps reveal fossil colour?", "a": ["Melanosomes, which can survive fossilisation", "The dinosaur's bones themselves"], "correct": 0 },
+      { "q": "Can scientists know the true colour of every dinosaur?", "a": ["No, only a rare few with preserved melanosomes", "Yes, for all well-known species"], "correct": 0 }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "the-first-dinosaur-bone-discovered",
+    "category": "dinosaurs",
+    "title": "Nobody Knew What a Dinosaur Was",
+    "emoji": "🔍",
+    "hook": "The first scientifically described dinosaur bone left everyone completely baffled, because the word dinosaur did not exist yet.",
+    "story": [
+      "Large fossilised bones had turned up occasionally for centuries, sometimes mistaken for the remains of giants or dragons from folklore. The first bone properly studied and formally described as belonging to an unknown extinct giant reptile was part of a jawbone found in England, described scientifically by William Buckland in 1824 and named Megalosaurus, meaning great lizard.",
+      "Shortly afterwards, an English doctor and fossil collector named Gideon Mantell found large fossilised teeth that reminded his wife, according to a popular story, of the teeth of a living iguana lizard, only vastly larger. He named the creature Iguanodon. Both Buckland and Mantell knew they had found something huge and reptile-like and genuinely extinct, but neither had a name yet for the broader category these strange creatures belonged to, since nothing quite like them was known to exist.",
+      "That changed in 1842, when the English scientist Richard Owen, studying several of these giant fossil reptiles together, realised they shared unusual features setting them apart clearly from any living reptile group, including an unusual hip and leg structure suggesting they stood upright on straight legs beneath their bodies rather than sprawling out to the sides like a modern lizard or crocodile. He coined an entirely new scientific term for this new group: Dinosauria, from Greek words meaning terrible lizard — the origin of the word dinosaur used everywhere in the world today."
+    ],
+    "wow": "Early reconstructions of Iguanodon, made before enough of the skeleton had been found, mistakenly placed a large thumb spike on its nose like a horn — a mistake only corrected decades later when far more complete skeletons were discovered.",
+    "discovery": "Richard Owen coined the word Dinosauria in 1842 after studying Megalosaurus, Iguanodon and a third early discovery together and recognising shared skeletal features unlike any living reptile. He later became the driving force behind building the Natural History Museum in London, partly to properly display these astonishing new creatures to the public for the first time, sparking a public fascination with dinosaurs that has never really faded since.",
+    "image": null,
+    "quiz": [
+      { "q": "Who coined the word Dinosauria?", "a": ["Richard Owen", "William Buckland"], "correct": 0 },
+      { "q": "What did early dinosaur discoveries lack a name for?", "a": ["The whole group these creatures belonged to", "Their individual species"], "correct": 0 }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "what-a-trilobite-is",
+    "category": "dinosaurs",
+    "title": "Older Than Dinosaurs, Older Than Almost Anything",
+    "emoji": "🐚",
+    "hook": "Trilobites crawled the ocean floor for longer than dinosaurs existed — and they were ancient before dinosaurs even began.",
+    "story": [
+      "Trilobites were hard-shelled sea creatures, distantly related to modern crabs and insects, with a body clearly divided into three lengthwise lobes — which is exactly where their name comes from. They first appeared over 520 million years ago and thrived in oceans worldwide for an astonishing 270 million years, evolving into more than 20,000 known species ranging from smaller than a fingernail to nearly a metre long.",
+      "To put that timespan in perspective, trilobites had already been extinct for tens of millions of years before the very first dinosaurs even appeared. The entire age of dinosaurs, which people usually imagine as impossibly ancient, actually happened much closer to our own time than to the age of trilobites, which belong to a far older, stranger chapter of life on Earth, when nearly all complex animals lived exclusively in the sea.",
+      "Trilobites are also among the most commonly found fossils in the entire world, because their hard shells fossilised easily and they were so numerous for so long. Some trilobite fossils even preserve detailed compound eyes, similar in structure to a modern insect's eye, giving scientists a genuine window into one of the very earliest complex visual systems ever to evolve on our planet."
+    ],
+    "wow": "Trilobites survived several of Earth's mass extinctions before finally going extinct completely around 252 million years ago, in the same catastrophic event that wiped out most other life before dinosaurs ever ruled the planet.",
+    "image": null,
+    "quiz": [
+      { "q": "Did trilobites live before or after the dinosaurs?", "a": ["Long before — they went extinct before dinosaurs appeared", "At the same time as dinosaurs"], "correct": 0 },
+      { "q": "Why are trilobites such common fossils?", "a": ["Their hard shells preserved easily and they lived for 270 million years", "They were unusually large"], "correct": 0 }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "how-old-is-a-fossil-really",
+    "category": "dinosaurs",
+    "title": "How Scientists Know a Fossil's Exact Age",
+    "emoji": "⏱️",
+    "hook": "Scientists cannot simply look at a dinosaur bone and know its age. They have to read the rock around it instead.",
+    "story": [
+      "Fossil bones themselves are usually too chemically altered by the fossilisation process to date accurately using the same radioactive methods used for other materials. Instead, scientists typically date the surrounding volcanic rock layers found above and below the fossil, since volcanic rock contains specific elements that decay at a fixed, known, unchanging rate over time.",
+      "Certain radioactive elements slowly transform into different elements at a steady pace called a half-life — the time it takes for exactly half of the original radioactive amount to decay away. By carefully measuring the ratio of the original radioactive element left to the new element it decays into within a volcanic rock sample, scientists can calculate precisely how long ago that rock layer originally formed and cooled from molten lava or ash.",
+      "If a dinosaur fossil is found sandwiched between two volcanic ash layers of known, measured ages — one layer above it and one below — scientists can confidently say the fossil's true age falls somewhere in between those two dates. This method, called radiometric dating, is how scientists can state with real confidence that a particular dinosaur species lived, for example, precisely between 145 and 140 million years ago, rather than simply guessing at a vague age range."
+    ],
+    "wow": "The specific radioactive decay rates used in dating rocks have been measured with such extraordinary precision in laboratories that scientists can sometimes date volcanic rock layers to within a margin of just a few thousand years, even for rock that is hundreds of millions of years old.",
+    "image": null,
+    "quiz": [
+      { "q": "What do scientists usually date to age a fossil?", "a": ["Volcanic rock layers around the fossil", "The bone itself directly"], "correct": 0 },
+      { "q": "What is a half-life?", "a": ["The time for half a radioactive element to decay", "Half the age of a fossil"], "correct": 0 }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "woolly-mammoths-in-ice",
+    "category": "dinosaurs",
+    "title": "Mammoths Frozen So Well They Still Have Hair",
+    "emoji": "🦣",
+    "hook": "Some woolly mammoths have been found frozen in the Arctic ground so perfectly preserved that their fur, skin and even stomach contents survived.",
+    "story": [
+      "Woolly mammoths lived across the cold northern regions of Europe, Asia and North America until fairly recently in geological terms, with the last small isolated populations surviving on a remote Arctic island until roughly 4,000 years ago — meaning mammoths were still alive on Earth after the Great Pyramid of Giza had already been built.",
+      "In the permanently frozen ground of Siberia, called permafrost, some mammoth remains have been preserved in extraordinary, almost unbelievable detail. Rather than turning to stone through the usual fossilisation process, these remains were simply frozen solid almost immediately after death and kept that way continuously for thousands of years, preventing the normal decay that destroys soft tissue everywhere else on Earth. Scientists have recovered mammoths with intact skin, thick woolly fur, preserved internal organs, and even stomach contents revealing exactly what plants the animal had eaten in its final meal.",
+      "This remarkable natural deep-freeze has also preserved enough intact mammoth DNA for scientists to sequence significant portions of the mammoth genome — the complete genetic instruction set for building one. Some researchers are now seriously attempting to use that genetic information, combined with genetic engineering, to bring mammoth traits back into modern elephants, though a true, fully revived mammoth walking the Earth again remains a distant and genuinely uncertain goal rather than a near-term reality."
+    ],
+    "wow": "Climate change melting Arctic permafrost is now uncovering new, remarkably preserved mammoth remains more frequently than ever before, even as it threatens the very permafrost conditions that preserved them in the first place.",
+    "image": null,
+    "quiz": [
+      { "q": "How were mammoths preserved so well?", "a": ["Frozen solid in permafrost, preventing decay", "Fossilised into stone quickly"], "correct": 0 },
+      { "q": "When did the last mammoths die out?", "a": ["About 4,000 years ago, after the pyramids were built", "Millions of years ago with the dinosaurs"], "correct": 0 }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  }
+]

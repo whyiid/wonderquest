@@ -1,0 +1,298 @@
+[
+  {
+    "id": "why-zero-took-so-long-to-invent",
+    "category": "numbers",
+    "title": "Nothing Was the Hardest Number to Invent",
+    "emoji": "⭕",
+    "hook": "Ancient mathematicians could count enormous armies and measure vast fields, yet the idea of a number for nothing took thousands of years to arrive.",
+    "story": [
+      "Counting began with counting things — sheep, coins, days. Naturally, nobody felt an urgent need for a symbol representing an absence of things, since you simply do not mention what is not there. Ancient civilisations built impressively advanced number systems for counting, trading and building without ever needing a true zero as a number in its own right.",
+      "The first hints of zero appeared as a placeholder — a way to show an empty column, distinguishing 205 from 25, for instance — used by the Babylonians and later, independently, by the Maya in Central America. But a placeholder is not quite the same as a full number you can add, subtract or calculate with. That bigger leap, treating zero as a genuine number representing the actual quantity of nothing, was worked out in India by mathematicians including Brahmagupta around the year 628, who wrote down rules for how zero behaves in arithmetic.",
+      "From India, the concept of zero as a true number travelled through the Islamic world, where mathematicians such as al-Khwarizmi used and refined it extensively, and from there gradually into Europe, arriving many centuries later than people usually assume. European merchants and scholars initially resisted it, some even suspicious of a number representing nothing at all, and it took until roughly the 1200s for zero to become widely accepted and used across Europe."
+    ],
+    "wow": "Without zero acting as a placeholder, writing a number as large as one million would require a completely different, far clumsier system, since zero is precisely what lets 1 and six zeros mean something a thousand times bigger than 1 and three zeros.",
+    "image": null,
+    "quiz": [
+      { "q": "What was zero first used for, before being a true number?", "a": ["A placeholder to show an empty column", "Measuring distance"], "correct": 0 },
+      { "q": "Where was zero first treated as a true, calculable number?", "a": ["India", "Ancient Rome"], "correct": 0 }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "what-happens-if-you-divide-by-zero",
+    "category": "numbers",
+    "title": "Why Dividing by Zero Breaks Math",
+    "emoji": "🚫",
+    "hook": "Try dividing any number by zero on a calculator, and instead of an answer, you get an error.",
+    "story": [
+      "Division answers a specific question: how many times does one number fit inside another? Ten divided by two asks how many groups of two fit inside ten, and the answer is five. Ten divided by zero asks how many groups of nothing fit inside ten — and that question has no sensible answer, because you could fit groups of zero into ten an unlimited number of times without ever filling it up, since adding zero to anything never changes the total.",
+      "Mathematicians describe this by saying division by zero is undefined, which is different from saying the answer is zero or infinity. It genuinely has no valid, consistent answer at all, and mathematics is built to be internally consistent, so rather than allow a broken, contradictory rule to exist, mathematicians simply declared the operation impossible and off-limits.",
+      "This is not just an abstract classroom worry. Computer programs and even physical systems can genuinely crash or behave in bizarre, unpredictable ways if a calculation somewhere inside them accidentally attempts to divide by zero, since the computer has no valid number to return and often stops working entirely rather than guess at a wrong answer. Engineers writing critical software must specifically check for and prevent this exact situation everywhere it might occur."
+    ],
+    "wow": "If you allowed division by zero to simply equal a number like one, you could use ordinary, valid algebra steps to mathematically prove that one equals two — which shows exactly why mathematicians refuse to allow it at all.",
+    "image": null,
+    "quiz": [
+      { "q": "What does dividing by zero equal in mathematics?", "a": ["Nothing — it is undefined", "Infinity"], "correct": 0 },
+      { "q": "What can happen if a computer program divides by zero?", "a": ["It can crash or behave unpredictably", "It always returns zero safely"], "correct": 0 }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "prime-numbers-keep-your-secrets-safe",
+    "category": "numbers",
+    "title": "The Numbers Protecting Your Password",
+    "emoji": "🔐",
+    "hook": "A special kind of number, first studied purely out of curiosity over two thousand years ago, now protects almost everything you do online.",
+    "story": [
+      "A prime number is a whole number greater than one that can only be evenly divided by itself and one — nothing else fits perfectly. The number seven is prime, since only 1 and 7 divide evenly into it. The number eight is not prime, since 2 and 4 also divide evenly into it. Every other whole number greater than one can be built by multiplying primes together in exactly one unique way, which is why mathematicians sometimes call primes the basic building blocks of all numbers.",
+      "For centuries, prime numbers were studied purely for their own beauty and strange, unpredictable pattern, with no obvious practical use at all — an area of mathematics pursued out of curiosity rather than necessity. That completely changed in the 1970s, when mathematicians realised something remarkable: multiplying two enormous prime numbers together is quick and easy for a computer, but taking that enormous result and working backwards to figure out which two primes were originally multiplied together is fantastically, almost impossibly difficult, even for powerful computers, if the primes chosen are large enough.",
+      "That one-way difficulty is precisely what modern encryption is built on. When you send a password or a payment online, your device and the receiving server use enormous prime numbers, often hundreds of digits long, to scramble your information into a form that would take even a powerful computer longer than the age of the universe to unscramble without knowing the exact right primes. Nobody can currently break it, because nobody has found a fast way to reverse that particular kind of multiplication."
+    ],
+    "wow": "There is no largest prime number — mathematicians have proven, using logic first written down by the ancient Greek mathematician Euclid, that primes go on forever without ever stopping, no matter how far you count.",
+    "unknown": "Nobody has yet found a fast method for breaking a very large number back down into its two secret prime factors, which is exactly what keeps online security working today. Mathematicians cannot even fully prove that no such fast method could ever exist. If a much faster method were ever discovered, or if sufficiently powerful quantum computers become widely available, much of today's internet security could need to be rebuilt from scratch using entirely different mathematical tricks.",
+    "image": null,
+    "quiz": [
+      { "q": "What makes a number prime?", "a": ["Only itself and one divide evenly into it", "It is an even number"], "correct": 0 },
+      { "q": "Why are primes useful for online security?", "a": ["Multiplying them is easy, but reversing it is extremely hard", "They are easy to remember"], "correct": 0 }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "why-bees-build-hexagons",
+    "category": "numbers",
+    "title": "The Shape Bees Discovered Without Any Maths",
+    "emoji": "🐝",
+    "hook": "A honeycomb is built entirely from six-sided hexagons — the single most efficient shape possible for the job, and bees found it without any classroom.",
+    "story": [
+      "A honeycomb needs to solve a genuine mathematical problem: pack as much storage space as possible into a wall using the least amount of precious wax, since every bit of wax costs bees enormous effort and energy to produce from their own bodies. Only three regular shapes can tile a flat surface perfectly with no gaps or overlaps at all — triangles, squares and hexagons.",
+      "Among those three options, the hexagon wins decisively. For a fixed amount of perimeter wall built, a hexagon encloses more interior area than either a triangle or a square arranged the same way, meaning bees get the most storage volume for the least material spent building walls. This specific geometric fact, called the honeycomb conjecture, was suspected by mathematicians for over two thousand years but was not formally, rigorously proven true until 1999.",
+      "Bees clearly did not sit down and calculate any of this deliberately. Instead, natural selection favoured colonies that happened to build more efficient, wax-saving comb shapes over many thousands of generations, since those colonies could store more honey using less wax and therefore survived and reproduced more successfully than colonies using clumsier, wasteful shapes. Remarkably, bees start building each individual cell as a rough circle and the wax naturally settles and reshapes itself into a near-perfect hexagon as neighbouring circular cells push gently against one another and the warm wax flows."
+    ],
+    "wow": "The same efficient hexagon pattern shows up naturally in cooling volcanic rock formations, in dried mud cracking in a hot sun, and in soap bubbles packed tightly together — anywhere nature needs to fill a flat space as efficiently as possible.",
+    "discovery": "Mathematicians suspected for over two thousand years, going back to ancient Greek thinkers, that the hexagon was the single most efficient possible shape for this exact tiling job, but nobody could actually prove it true using rigorous logic. The American mathematician Thomas Hales finally supplied a complete, watertight mathematical proof in 1999, confirming with total certainty what bees had already been doing perfectly well without any proof at all.",
+    "image": null,
+    "quiz": [
+      { "q": "Why is the hexagon the best shape for a honeycomb?", "a": ["It gives the most storage space for the least wax", "It is the easiest shape to build"], "correct": 0 },
+      { "q": "How do bees actually build hexagons?", "a": ["Circular cells naturally reshape into hexagons under pressure", "They measure each angle carefully"], "correct": 0 }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "the-numbers-hidden-in-flowers",
+    "category": "numbers",
+    "title": "A Secret Number Pattern Hiding in Plants",
+    "emoji": "🌻",
+    "hook": "Count the petals on many flowers, and you will very often land on the same strange sequence of numbers.",
+    "story": [
+      "Start with 1 and 1, then create each new number in a sequence by adding together the two numbers that came directly before it: 1, 1, 2, 3, 5, 8, 13, 21, 34, and onward forever. This sequence is named after Leonardo of Pisa, better known by his nickname Fibonacci, an Italian mathematician who introduced it to Europe in 1202 using a puzzle about the breeding of rabbits.",
+      "This exact sequence turns up again and again throughout the natural world, especially in plants. Lilies commonly have 3 petals, buttercups very often have 5, many daisies have 34, 55 or even 89 petals, and sunflower seed heads arrange themselves in two overlapping sets of spirals whose counts are consistently, precisely two consecutive Fibonacci numbers, such as 34 spirals curving one way and 55 curving the other.",
+      "The reason is not mystical at all — it is simply efficient packing. As a plant grows new leaves, seeds or petals around a central growing point, spacing each new one at a specific, mathematically special angle called the golden angle, roughly 137.5 degrees, allows every part to receive the maximum possible sunlight and space with the least amount of overlap or wasted crowding. That one particular growth angle, repeated consistently over and over as the plant grows, naturally produces spiral counts and arrangements that closely match Fibonacci numbers, without the plant doing any conscious counting or calculating at all."
+    ],
+    "wow": "The ratio between consecutive Fibonacci numbers gets closer and closer to a special, famous number called the golden ratio, roughly 1.618, which artists and architects have deliberately used in their own designs for centuries because many people find that particular proportion especially pleasing to look at.",
+    "image": null,
+    "quiz": [
+      { "q": "How is each new Fibonacci number made?", "a": ["Adding the two numbers before it", "Multiplying the previous number by two"], "correct": 0 },
+      { "q": "Why do plants often grow in Fibonacci patterns?", "a": ["A specific growth angle efficiently packs leaves and seeds", "Plants can count"], "correct": 0 }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "some-infinities-are-bigger-than-others",
+    "category": "numbers",
+    "title": "Not All Infinities Are Equal",
+    "emoji": "♾️",
+    "hook": "Infinity sounds like the biggest idea possible, one single endless thing. It turns out there are different sizes of infinite.",
+    "story": [
+      "Counting numbers — 1, 2, 3 and onward forever — never stop, so there are infinitely many of them. It seems like there should be exactly the same infinite amount of numbers if you also include all the fractions in between, like 1.5 or 2.75, since you could try to match them up one by one, counting number matched to fraction, endlessly.",
+      "In the 1870s, the mathematician Georg Cantor proved something startling using a clever logical argument: even if you tried forever, you could never successfully match up every counting number with every possible decimal number, because there are provably, genuinely more decimal numbers between just zero and one than there are counting numbers in total, even though both sets are infinite. He proved this using a technique called diagonalisation, showing that any attempted complete list of decimal numbers could always have at least one new decimal number built that was missing from that very list.",
+      "This meant infinity was not one single size after all — there were at least two distinct, genuinely different sizes of infinite, with the infinity of decimal numbers being strictly, provably larger than the infinity of counting numbers, even though both continue forever without any end. Cantor went on to show that you can build infinities even larger than that one, an endless staircase of ever-larger infinite sizes stacking upward without limit, one built from the previous one, forever."
+    ],
+    "wow": "Cantor's ideas were so strange and unsettling to other mathematicians at the time that some prominent colleagues attacked him bitterly in public, yet his once-controversial work on different sizes of infinity is now completely accepted and forms a fundamental, essential part of modern mathematics.",
+    "image": null,
+    "quiz": [
+      { "q": "What did Georg Cantor prove about infinity?", "a": ["Some infinities are provably larger than others", "All infinities are exactly the same size"], "correct": 0 },
+      { "q": "Which infinity is larger?", "a": ["Decimal numbers between 0 and 1", "Counting numbers 1, 2, 3..."], "correct": 0 }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "why-a-room-of-23-shares-a-birthday",
+    "category": "numbers",
+    "title": "The Surprise Hiding in a Room of Strangers",
+    "emoji": "🎂",
+    "hook": "Put just 23 random people in one room, and the odds are already better than even that two of them share the exact same birthday.",
+    "story": [
+      "Most people's first guess is that you would need many more people — perhaps close to 183, half of the 365 days in a year — before two people sharing a birthday becomes likely. That guess feels reasonable, but it is thinking about the wrong question entirely: it assumes you are checking whether someone else shares your specific birthday, rather than checking whether any two people in the whole room match each other.",
+      "The real trick is counting comparisons rather than people. With 23 people in a room, every single person could potentially be compared against every other person, creating 253 separate possible pairs to check for a matching birthday, not just 23 individual checks. Each of those 253 pairs has its own small chance of matching, and with that many separate chances all stacked together, the overall probability that at least one pair matches climbs surprisingly high — mathematically working out to just over 50 percent with only 23 people involved.",
+      "This is called the birthday paradox, though it is not a true logical paradox at all, just a result that clashes sharply with most people's gut instinct. Push the group size up further and the effect becomes even more dramatic: with 70 people in a room, the probability that two share a birthday rises to over 99.9 percent, making it nearly certain, even though there are still 365 possible days and only 70 people involved."
+    ],
+    "wow": "The exact same underlying mathematics behind the birthday paradox is used by computer scientists to test how easily two completely different pieces of digital data might accidentally produce the same security code, an important consideration in keeping computer systems safe.",
+    "image": null,
+    "quiz": [
+      { "q": "Why does the birthday match happen sooner than expected?", "a": ["There are far more possible pairs to compare than people", "Birthdays are not evenly spread through the year"], "correct": 0 },
+      { "q": "How many people are needed for a better-than-even chance?", "a": ["Just 23", "About 183"], "correct": 0 }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "the-rice-and-chessboard-trick",
+    "category": "numbers",
+    "title": "The King Who Underestimated Doubling",
+    "emoji": "♟️",
+    "hook": "An old legend tells of a king who agreed to a seemingly modest reward, and it nearly bankrupted his entire kingdom.",
+    "story": [
+      "According to an old story told in several versions across India and Persia, a clever inventor showed a king a wonderful new game played on a board of 64 squares — chess. Delighted, the king offered the inventor any reward he wished. The inventor asked for something that sounded almost embarrassingly small: place one single grain of rice on the first square, then double it to two grains on the second square, then double again to four on the third, and so on, doubling the amount all the way across all 64 squares of the board.",
+      "The king, amused at how modest and easy this request sounded, agreed immediately without doing the maths first. Doubling starts out feeling deceptively slow and harmless — 1, 2, 4, 8, 16, 32 — but doubling repeated 64 times in a row grows explosively, far faster than most people's intuition ever expects. By roughly the fortieth square, the required amount of rice per square already runs into the billions of individual grains.",
+      "By the final, 64th square alone, the number of rice grains required would be over eighteen quintillion — an eighteen followed by eighteen zeros. Adding up every square on the entire board together would require more rice than has ever actually been grown by humanity across the whole of history combined, far more than any kingdom, however wealthy, could ever possibly produce."
+    ],
+    "wow": "This kind of explosive doubling pattern is called exponential growth, and it is exactly the same underlying mathematics that describes how a single infected person can start an epidemic that grows into millions of cases, or how a tiny starting population of bacteria can multiply into billions within just a single day.",
+    "image": null,
+    "quiz": [
+      { "q": "What surprised the king about the request?", "a": ["Doubling repeatedly grows far faster than expected", "The inventor asked for gold instead"], "correct": 0 },
+      { "q": "What is this kind of rapid doubling growth called?", "a": ["Exponential growth", "Linear growth"], "correct": 0 }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "what-a-fractal-is",
+    "category": "numbers",
+    "title": "The Shape That Repeats Itself Forever",
+    "emoji": "❄️",
+    "hook": "Zoom into certain shapes again and again, and you keep seeing the exact same pattern repeating, no matter how far you zoom.",
+    "story": [
+      "A fractal is a shape built from a pattern that repeats itself at every possible scale, so that a small zoomed-in piece of it looks remarkably similar to the whole larger shape it came from. Zoom into a fractal image, and instead of eventually finding smooth, plain, featureless detail the way you would with an ordinary photograph, you keep finding the same intricate complexity, over and over, seemingly forever.",
+      "Nature is full of shapes that behave this way, at least approximately, across a limited range of scales. A fern frond is made of smaller leaflets that each look remarkably like a smaller copy of the whole frond. A head of romanesco broccoli is covered in spiralling bumps that are each covered in smaller spiralling bumps of the very same pattern. Snowflakes, tree branches, river networks seen from above, jagged coastlines and the branching pattern of blood vessels inside your own lungs all show this same repeating, self-similar structure to varying degrees.",
+      "This surprising idea helps explain a famously strange puzzle called the coastline paradox: the measured length of a country's coastline genuinely depends heavily on how small a ruler you use to measure it. A rough map measured with a long ruler skips over every small inlet and bay, giving a shorter total length. Zoom in and measure with a much smaller ruler, and you start picking up far more jagged detail that was invisible before, making the total measured length grow noticeably longer — and that length keeps growing the smaller your ruler gets, without ever fully settling on one true final number."
+    ],
+    "wow": "The word fractal was invented in 1975 by the mathematician Benoit Mandelbrot, who used early computers to generate and explore some of the first fractal images anyone had ever produced, revealing patterns of infinite complexity that no human being had ever actually seen before.",
+    "image": null,
+    "quiz": [
+      { "q": "What makes a shape a fractal?", "a": ["Its pattern repeats itself at every zoom level", "It has exactly four sides"], "correct": 0 },
+      { "q": "Why does a coastline's measured length keep changing?", "a": ["Smaller rulers capture more jagged detail", "The coastline physically grows over time"], "correct": 0 }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "why-a-circle-has-360-degrees",
+    "category": "numbers",
+    "title": "Why We Split a Circle Into 360 Pieces",
+    "emoji": "📐",
+    "hook": "There is no natural law of the universe forcing a circle to be divided into exactly 360 degrees. It is simply a very old habit that stuck.",
+    "story": [
+      "Ancient Babylonian mathematicians and astronomers, working over 3,000 years ago, used a counting system based on 60 rather than the base-10 system almost everyone uses today, likely because 60 can be evenly divided by an unusually large number of smaller whole numbers — including 2, 3, 4, 5, 6, 10, 12, 15, 20 and 30 — which made everyday calculations involving fractions and sharing considerably easier for them to work with by hand.",
+      "The Babylonians also carefully tracked the Sun's yearly path against the background of fixed stars, and they noticed that a full year lasted very close to 360 days. Dividing the full circular path the Sun traces around the sky into 360 individual pieces conveniently connected their existing base-60 counting habits with their astronomical calendar observations, and 360 also happens to be extremely convenient mathematically, since it divides evenly by an enormous number of smaller whole numbers.",
+      "By the time later civilisations, including the ancient Greeks, refined geometry and trigonometry into far more precise mathematical sciences, the 360-degree circle convention had already become deeply, thoroughly embedded in astronomy, navigation and mathematics across many connected cultures. It has simply stuck ever since purely out of long-standing convention and enormous practical convenience, not because 360 is somehow mathematically forced or required by nature."
+    ],
+    "wow": "Scientists and engineers today also use a completely different, more mathematically natural way of measuring angles called radians, based directly on a circle's own radius rather than an arbitrary historical number, though 360 degrees remains far more familiar and common in everyday, non-scientific life.",
+    "image": null,
+    "quiz": [
+      { "q": "Why did the Babylonians likely choose 360?", "a": ["It connected their base-60 counting to the year's length", "It matched the number of stars they saw"], "correct": 0 },
+      { "q": "Is 360 degrees mathematically required by nature?", "a": ["No, it is a convenient historical convention", "Yes, it is forced by geometry"], "correct": 0 }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "how-people-counted-before-numbers",
+    "category": "numbers",
+    "title": "Counting Before Anyone Had Written Numbers",
+    "emoji": "🪢",
+    "hook": "Long before written number symbols existed, people still needed to count — and they found remarkably clever ways to do it.",
+    "story": [
+      "The earliest known evidence of deliberate counting comes not from writing at all, but from notches carefully cut into bone. The Lebombo bone, found in Africa and estimated to be roughly 40,000 years old, has 29 distinct notches cut in a row, possibly used to track the days of a lunar cycle — evidence that people were counting and recording quantities tens of thousands of years before any formal writing system existed anywhere on Earth.",
+      "Different cultures independently invented their own clever physical counting systems long before shared written numerals spread widely. Shepherds in various parts of the world kept a small pile of pebbles matching the exact number of sheep in their flock, instantly noticing if a pebble was left over at day's end without a matching sheep. The Inca civilisation in South America developed an extraordinarily sophisticated system called the quipu, using elaborately knotted coloured strings, with the specific type, position and spacing of each knot representing precise numbers, allowing them to record complex census data, tax records and trade information across their entire empire without any written script at all.",
+      "These physical counting methods were not primitive stepping stones on the way to something better; some remained in active, practical use for thousands of years, existing comfortably alongside written numbers once those eventually arrived. Tally marks — simple groups of straight lines, often bundled in groups of five for easy reading — are still commonly used by people all over the world today for quick, informal counting, exactly the way people have always done it."
+    ],
+    "wow": "Quipu knots have been found that appear to represent numbers in the thousands with remarkable precision, and researchers are still working today to fully decode some of the more complex surviving examples, since much of the detailed knowledge of exactly how to read them was lost after the Spanish conquest of the Inca empire.",
+    "image": null,
+    "quiz": [
+      { "q": "What is the Lebombo bone believed to be?", "a": ["An ancient tally of notches, possibly counting days", "An early written number system"], "correct": 0 },
+      { "q": "What was the Inca quipu made from?", "a": ["Knotted coloured strings", "Carved stone tablets"], "correct": 0 }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "the-number-that-never-repeats",
+    "category": "numbers",
+    "title": "The Number With No End and No Pattern",
+    "emoji": "🥧",
+    "hook": "One special number goes on forever after the decimal point, without ever settling into a repeating pattern.",
+    "story": [
+      "Pi is the special number you get by dividing the distance around any perfect circle by the distance straight across it through the centre. Remarkably, this exact same ratio, roughly 3.14159, works out identically for every single circle that exists, no matter whether it is smaller than a coin or larger than a planet — a genuinely universal, unchanging mathematical constant.",
+      "Ancient civilisations, including the Babylonians and Egyptians, had already worked out rough approximations of pi thousands of years ago simply by carefully measuring real circles by hand. The Greek mathematician Archimedes made a major breakthrough around 250 BC by using a clever geometric technique: drawing many-sided shapes tightly squeezed just inside and just outside a circle, and calculating the perimeters of those shapes to mathematically trap pi's true value ever more precisely between two increasingly close numbers, all without any actual measurement of a physical object at all.",
+      "In 1761, mathematician Johann Lambert proved something remarkable about pi: its decimal digits genuinely never end and never settle into any repeating pattern whatsoever, no matter how far you calculate. Modern supercomputers have now calculated pi out to many trillions of digits past the decimal point, and no pattern has ever emerged and none ever will, according to the mathematical proof — the digits behave essentially like an endless, patternless, unpredictable sequence stretching on forever."
+    ],
+    "wow": "Some people memorise pi purely for fun and sport, with the current officially recognised world record standing at over 70,000 digits recited entirely from memory, taking the record holder many hours of continuous recitation to complete.",
+    "image": null,
+    "quiz": [
+      { "q": "What is pi?", "a": ["The ratio of a circle's distance around to across it", "The number of sides in a hexagon"], "correct": 0 },
+      { "q": "Does pi's decimal ever repeat or end?", "a": ["No, it goes on forever with no repeating pattern", "Yes, it repeats after a while"], "correct": 0 }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "why-some-shapes-tile-and-others-dont",
+    "category": "numbers",
+    "title": "Why Your Bathroom Floor Isn't Made of Pentagons",
+    "emoji": "🔷",
+    "hook": "Squares and hexagons can cover a floor perfectly with no gaps. Regular five-sided pentagons simply cannot, no matter how hard you try.",
+    "story": [
+      "Tiling a flat surface perfectly means covering it completely using repeated shapes with absolutely no gaps and no overlaps anywhere. For this to work using only one single regular shape repeated over and over, the interior angles of that shape, where several tiles meet at a single point, must add up to exactly 360 degrees at every meeting point across the whole surface — a full circle's worth of angle, filling that point completely and leaving no leftover empty wedge or gap.",
+      "A square's interior corner angle is exactly 90 degrees, and four squares meeting neatly at one single point add up to precisely 360 degrees — perfect, with nothing left over. A regular hexagon's interior angle is 120 degrees, and three hexagons meeting at one point also add up to exactly 360 degrees, which is exactly why hexagons tile so perfectly, as bees discovered long ago without any classroom.",
+      "A regular pentagon's interior angle works out to exactly 108 degrees. Multiply that by three and you only reach 324 degrees, leaving an awkward 36-degree gap still unfilled. Try fitting a fourth pentagon into that same tiny gap, and it would need 432 degrees, badly overlapping and crashing into its neighbours. There is simply no whole number of pentagons that can ever be arranged to add up to precisely 360 degrees at any single shared point, which is exactly why you will never find a floor tiled edge to edge using only plain, regular pentagons, no matter how cleverly someone tries to arrange them."
+    ],
+    "wow": "Mathematicians eventually discovered special irregular, non-symmetric pentagon shapes — not the perfectly regular kind — that genuinely can tile a floor with no gaps, and new never-before-found tiling pentagon shapes are still occasionally being discovered by dedicated mathematicians even today.",
+    "image": null,
+    "quiz": [
+      { "q": "Why do squares and hexagons tile perfectly?", "a": ["Their angles add up to exactly 360 degrees at each point", "They are the only shapes with straight sides"], "correct": 0 },
+      { "q": "Can regular pentagons tile a floor with no gaps?", "a": ["No, their angles never add up to exactly 360", "Yes, easily"], "correct": 0 }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "why-we-count-in-tens",
+    "category": "numbers",
+    "title": "Why Counting Jumps by Tens",
+    "emoji": "✋",
+    "hook": "Almost every counting system used around the world today groups numbers by tens. The reason is attached to your own two hands.",
+    "story": [
+      "Our familiar number system, called base-10, restarts and adds a new column every time a count reaches ten: after counting 0 through 9 using single digits, the very next number needs two digits, becoming 10. This grouping-by-tens habit did not have to be the natural, obvious choice among all the possible ways of counting — it is simply the one that stuck widely across most human cultures throughout history.",
+      "The overwhelmingly likely reason is anatomical rather than mathematical: humans have exactly ten fingers, conveniently built in and always available for counting from birth. Point at things one at a time while counting on your fingers, and you naturally, effortlessly run out of fingers to use right at ten, making it an obvious, instinctive, physically convenient place to group and restart the count.",
+      "Not every human culture throughout history settled on base-10, which shows the choice truly was a genuine option rather than a mathematical necessity. The ancient Babylonians famously used base-60 instead, which survives today in how we still divide hours into 60 minutes and minutes into 60 seconds. The Maya civilisation in Central America used base-20, likely counting fingers and toes together for twenty total digits available. Some remote cultures studied by anthropologists have even used base-5, counting carefully using just the fingers on one single hand at a time before restarting the count."
+    ],
+    "wow": "Modern computers do not use base-10 at all internally — they use base-2, called binary, counting using only the digits 0 and 1, because a simple electronic switch only needs to represent two clear, reliable, distinguishable states: fully off or fully on.",
+    "image": null,
+    "quiz": [
+      { "q": "Why do most cultures count in groups of ten?", "a": ["Humans have ten fingers to count on", "Ten is a naturally special number"], "correct": 0 },
+      { "q": "What base did the Babylonians use, still seen in our clocks?", "a": ["Base-60", "Base-20"], "correct": 0 }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  }
+]

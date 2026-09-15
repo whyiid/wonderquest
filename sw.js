@@ -9,7 +9,7 @@
      child's iPad silently keeps showing last month's library until someone
      remembers to bump a version string. Network-first costs one fast request
      when online and still works completely offline. */
-const CACHE = 'wonderquest-v2';
+const CACHE = 'wonderquest-v3';
 const isContent = (url) => url.pathname.indexOf('/content/') !== -1;
 
 const ASSETS = [
@@ -35,7 +35,11 @@ const ASSETS = [
   './content/discoveries.json',
   './content/history.json',
   './content/people.json',
-  './content/mysteries.json'
+  './content/mysteries.json',
+  './content/physics.json',
+  './content/dinosaurs.json',
+  './content/numbers.json',
+  './content/food.json'
 ];
 
 self.addEventListener('install', e => {

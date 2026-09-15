@@ -1,0 +1,301 @@
+[
+  {
+    "id": "why-things-float",
+    "category": "physics",
+    "title": "Why a Huge Ship Does Not Sink",
+    "emoji": "🚢",
+    "hook": "A steel ship weighing thousands of tonnes floats. A steel coin sinks instantly.",
+    "story": [
+      "Push anything into water and the water pushes back. It has to go somewhere, so it gets shoved aside, and shoved water pushes back against whatever displaced it. That upward shove is called buoyancy, and its strength depends only on how much water was pushed out of the way — not on what the object is made of.",
+      "A solid steel coin is small and dense. It displaces only a tiny amount of water, so the upward push is tiny too, far less than the coin's weight, and it sinks. A ship made of the same steel is shaped into a huge hollow shell, full of air. It displaces an enormous volume of water — far more than its own weight in steel — so the upward push comfortably beats gravity.",
+      "This is why a ship rides low when it is heavily loaded and high when it is empty: more weight needs more displaced water to balance it, so it sinks deeper until the shoving matches. It also explains submarines, which sink or rise on command by flooding or emptying tanks, changing how much water they push aside without changing their weight much at all."
+    ],
+    "wow": "A steel ship floats for the same reason a hollow bowl floats and a solid lump of the same clay sinks — shape, not material, decides it.",
+    "discovery": "The principle is credited to Archimedes in ancient Greece, and the story told about it is famous: asked to check whether a king's crown was pure gold without damaging it, he supposedly realised the answer while lowering himself into a bath and watching the water level rise, then ran into the street shouting Eureka — I have found it. A crown of fake, less dense metal would displace a different amount of water than pure gold of the same weight, revealing the trick without cutting anything.",
+    "image": null,
+    "quiz": [
+      { "q": "What decides whether something floats?", "a": ["How much water it pushes aside compared to its weight", "What material it is made from"], "correct": 0 },
+      { "q": "How does a submarine sink or rise?", "a": ["By flooding or emptying tanks", "By changing its material"], "correct": 0 }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "how-magnets-work",
+    "category": "physics",
+    "title": "The Invisible Push You Can Feel",
+    "emoji": "🧲",
+    "hook": "Two magnets can push each other apart without ever touching.",
+    "story": [
+      "Every electron spinning inside an atom acts like an impossibly tiny magnet. In most materials these tiny magnets point in every random direction and cancel each other out completely. In a handful of materials — iron, nickel, cobalt and a few others — huge groups of atoms line their tiny magnets up together, all facing the same way, and the effect adds up into something strong enough to feel.",
+      "That lined-up region creates an invisible field stretching out into the space around it, and any other magnetic material entering that field feels a push or a pull. Like poles, both pointing the same way, shove each other apart. Opposite poles, pointing towards each other, snap together. Nothing touches; the field itself is doing the work, the same way you can feel heat from a fire without touching the flame.",
+      "Ordinary iron is not naturally magnetic even though it could be, because its internal regions, called domains, usually point every which way and cancel out. Stroke it repeatedly with a strong magnet, or heat it and let it cool inside a magnetic field, and the domains reluctantly line up together — which is how a plain iron nail can be turned into a magnet itself."
+    ],
+    "wow": "The whole Earth is a giant magnet, with a molten iron core creating a field that stretches thousands of kilometres into space and is what makes a compass needle point north.",
+    "unknown": "Nobody has ever found a magnet with only one pole, even though the mathematics of magnetism does not forbid it. Break a magnet in half and you never get an isolated north or an isolated south — each broken piece grows its own new pair of poles. Physicists have searched for decades for a theoretical particle called a magnetic monopole, and finding one would change some of the basic rules of physics. So far, none has ever turned up.",
+    "image": null,
+    "quiz": [
+      { "q": "What makes some materials magnetic?", "a": ["Their tiny atomic magnets line up together", "They contain electricity"], "correct": 0 },
+      { "q": "What happens if you break a magnet in half?", "a": ["Each half grows its own two poles", "One half loses its magnetism"], "correct": 0 }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "why-mirrors-flip-left-right",
+    "category": "physics",
+    "title": "Why a Mirror Flips You Sideways, Not Upside Down",
+    "emoji": "🪞",
+    "hook": "A mirror does not actually swap your left and right hands. It swaps front and back.",
+    "story": [
+      "Stand in front of a mirror and raise your right hand. The reflection raises what looks like its left hand. It feels obvious that the mirror is flipping left and right — but it never touches left and right at all. It flips only the direction pointing towards it and away from it, front to back.",
+      "Here is the trick: your own idea of left and right depends on which way you are facing. If your reflection were a real twin standing in front of you, facing you, their right hand would naturally be on your left side just from standing opposite you — no mirror needed, just geometry. What actually feels strange is that the mirror image is not turned around like a real twin would be; it is flattened front-to-back, like a photograph of you peeled off and glued back on facing the other way.",
+      "You can test this. A mirror never flips up and down — your head stays at the top and your feet at the bottom, always. If it truly reversed left and right the way people assume, it should reverse up and down equally, since both are just directions at right angles to the front-back line. It does not, because it was never left and right being reversed in the first place."
+    ],
+    "wow": "Written text looks backwards in a mirror not because the mirror is choosy about letters, but because the whole page has been flipped front-to-back, and the letters are the part your brain notices.",
+    "image": null,
+    "quiz": [
+      { "q": "What does a mirror actually reverse?", "a": ["Front and back", "Left and right"], "correct": 0 },
+      { "q": "What never gets flipped in a mirror?", "a": ["Up and down", "The direction facing the mirror"], "correct": 0 }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "how-a-rainbow-forms",
+    "category": "physics",
+    "title": "A Rainbow Is Sunlight Taken Apart",
+    "emoji": "🌈",
+    "hook": "A rainbow is not painted on the sky. It is millions of raindrops each doing the same trick at once.",
+    "story": [
+      "White sunlight is secretly a mixture of every colour travelling together. Each colour bends by a slightly different amount when it passes from air into water, because each one travels at a very slightly different speed inside the raindrop. Red bends the least, violet bends the most, and the rest line up in between — the same separation a glass prism performs, just inside a drop of rain instead of a triangle of glass.",
+      "Light entering a raindrop bends once going in, bounces off the inside back wall like light hitting a mirror, then bends again coming out. That double bend spreads the colours apart and sends them back out at slightly different angles. With the Sun behind you and rain in front, only one exact angle of light from each drop reaches your eye showing you red, a slightly different angle shows you violet, and so on — which is why a rainbow always appears in an arc directly opposite the Sun.",
+      "This also explains why nobody can walk up to a rainbow or find its end. It is not sitting at a location in the sky at all. It is a specific angle, roughly 42 degrees from the line between your eyes and your shadow, and different raindrops satisfy that angle for you than for someone standing metres away. Everyone looking at the same rainbow is actually seeing their own personal one, made from a completely different set of raindrops."
+    ],
+    "wow": "A double rainbow happens when light bounces twice inside the raindrops instead of once, which is also why the second rainbow's colours always appear in reverse order.",
+    "image": null,
+    "quiz": [
+      { "q": "Why do rainbows show separate colours?", "a": ["Each colour bends by a different amount in water", "Raindrops are tinted different colours"], "correct": 0 },
+      { "q": "Can two people see the exact same rainbow?", "a": ["No, each person sees their own from different raindrops", "Yes, if standing together"], "correct": 0 }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "what-sound-actually-is",
+    "category": "physics",
+    "title": "Sound Is a Shove Passed Along",
+    "emoji": "🔊",
+    "hook": "Sound cannot travel through nothing. It needs something to shove.",
+    "story": [
+      "When something vibrates — a drum skin, your vocal cords, a plucked string — it shoves the air molecules right next to it. Those molecules bump into their neighbours, passing the shove along, and those neighbours bump the next ones, in a chain reaction spreading outward in every direction, like the ripple from a stone dropped in a pond but moving through empty-feeling air instead of water.",
+      "That chain reaction is a wave of alternating squeezed and stretched air, arriving at your ear as a tiny back-and-forth push on your eardrum. Fast vibrations create a high-pitched sound; slow ones create a low, deep sound. Loud sounds simply push harder, moving the air molecules a greater distance from where they started, without changing the pitch at all.",
+      "Because sound needs molecules to shove, it cannot cross truly empty space. This is why every explosion in a film happens with a boom in the vacuum of space, which is completely wrong — real space has essentially no air, so there is nothing there to carry the shove, and an explosion there would be dead silent. Sound also travels faster through water and solid metal than through air, because the molecules are packed closer together and pass the shove along more quickly."
+    ],
+    "wow": "Whales can hear each other calling across hundreds of kilometres of ocean, because sound moves through water roughly four times faster than through air and loses far less energy on the way.",
+    "image": null,
+    "quiz": [
+      { "q": "Why can't sound travel through space?", "a": ["There are no molecules there to pass it along", "Space is too cold"], "correct": 0 },
+      { "q": "What makes a sound louder without changing its pitch?", "a": ["The air molecules move a greater distance", "The vibration happens faster"], "correct": 0 }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "why-ice-floats",
+    "category": "physics",
+    "title": "Frozen Water Breaks Its Own Rules",
+    "emoji": "🧊",
+    "hook": "Almost every liquid shrinks and sinks when it freezes. Water does the opposite.",
+    "story": [
+      "Cool most liquids down and the molecules slow their jiggling and pack closer together, making the solid version denser than the liquid — which is why a solid lump of most frozen things sinks in its own liquid. Water molecules are shaped like a wide V, with a slightly negative oxygen corner and slightly positive hydrogen corners, and as water cools towards freezing those V-shapes start locking together into an open, spread-out honeycomb structure rather than packing tightly.",
+      "That honeycomb has more empty space inside it than liquid water does, so solid ice actually takes up more room than the same amount of liquid water and ends up less dense. Less dense things float on denser things, so ice floats on liquid water — the reverse of almost everything else in nature.",
+      "This single odd fact matters enormously for life. A lake freezes from the top down, with the ice forming a floating lid that insulates the still-liquid water underneath from the freezing air above. Fish and other creatures survive the winter under that lid. If ice sank the way frozen versions of other liquids do, lakes and oceans would freeze solidly from the bottom up every winter, trapping and killing almost everything living in them."
+    ],
+    "wow": "Water is densest not as a solid but a few degrees above freezing as a liquid, which is why the coldest water in a winter lake sinks to the bottom while ice floats on top.",
+    "image": null,
+    "quiz": [
+      { "q": "Why does ice float?", "a": ["Its molecules lock into a spread-out structure with more space", "It is warmer than the water below"], "correct": 0 },
+      { "q": "What would happen if ice sank?", "a": ["Lakes would freeze solid from the bottom up", "Nothing would change"], "correct": 0 }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "what-is-friction",
+    "category": "physics",
+    "title": "The Force That Slows Everything Down",
+    "emoji": "🛹",
+    "hook": "Nothing keeps moving forever on Earth, because two surfaces never touch as smoothly as they look.",
+    "story": [
+      "Even a surface that looks perfectly smooth is covered in microscopic bumps and ridges when you zoom in close enough. When two surfaces slide across each other, those tiny bumps catch, snag and grind against one another, resisting the motion. That resistance is friction, and it turns some of the moving object's energy into heat, which is why rubbing your hands together warms them up.",
+      "Friction can work for you or against you depending on what you need. Shoes and tyres are deliberately designed with rough, grippy surfaces to create more friction, so you do not slip while walking or a car does not skid on the road. Skates, skis and the oil in an engine are designed to do the opposite, reducing friction as much as possible so things glide with minimal resistance and minimal wasted energy as heat.",
+      "In the emptiness of space, away from any air or surfaces to rub against, there is almost no friction at all, which is why a spacecraft coasting between planets barely needs its engines running — once moving, it simply keeps going. On Earth, friction with the air itself, called drag, is why a thrown paper aeroplane eventually slows and drops, even though nothing solid ever touched it after it left your hand."
+    ],
+    "wow": "Without any friction at all, you could not walk, because your shoes would simply slide backwards with nothing to grip against the ground.",
+    "image": null,
+    "quiz": [
+      { "q": "What causes friction?", "a": ["Microscopic bumps on surfaces catching each other", "Gravity pulling objects down"], "correct": 0 },
+      { "q": "Why does a spacecraft need little fuel once moving?", "a": ["There is almost no friction in space", "Space pushes it forward"], "correct": 0 }
+    ],
+    "readingLevel": 3,
+    "factRisk": false,
+    "reviewed": true
+  },
+  {
+    "id": "why-a-spinning-top-stays-up",
+    "category": "physics",
+    "title": "Spin Makes It Stubborn",
+    "emoji": "🌀",
+    "hook": "A still top falls over instantly. A spinning one refuses to.",
+    "story": [
+      "A spinning object has a property called angular momentum, which is a kind of stubbornness built from its spin: the faster and heavier the spinning, the more strongly it resists anything trying to change the direction its spin axis is pointing. A top standing still has nothing holding it upright, so gravity tips it over immediately. A fast-spinning top has all that stubborn resistance working for it, so a small nudge from gravity only makes the top wobble slightly rather than topple.",
+      "That wobble itself has a name — precession — and it traces a slow circle, the top's axis sweeping around like the hand of a clock while the top keeps spinning inside that sweep. As friction with the ground and air gradually steals energy from the spin, the spinning slows, the stubborn resistance weakens, and the wobble grows wider and wider until gravity finally wins and the top falls.",
+      "The same stubbornness is why a thrown frisbee flies flat and stable instead of tumbling, why a bullet is fired through a spiral-grooved barrel that makes it spin for accuracy, and why a bicycle wheel, spun fast and held by its axle, feels strangely difficult to tilt in your hands, pushing back against you in a direction that seems to make no sense at all."
+    ],
+    "wow": "Gyroscopes built on this exact principle are used inside rockets, aeroplanes and phones to sense which way is up, because a fast-spinning wheel keeps pointing the same direction no matter how the vehicle around it turns.",
+    "image": null,
+    "quiz": [
+      { "q": "Why does a spinning top stay upright?", "a": ["Its spin resists changes to its direction", "It is lighter than a still top"], "correct": 0 },
+      { "q": "What eventually makes a spinning top fall?", "a": ["Friction slows the spin until gravity wins", "The top runs out of air"], "correct": 0 }
+    ],
+    "readingLevel": 3,
+    "factRisk": false,
+    "reviewed": true
+  },
+  {
+    "id": "how-levers-work",
+    "category": "physics",
+    "title": "The Simple Trick Behind Every Crowbar",
+    "emoji": "🔧",
+    "hook": "A lever lets a child lift something an adult cannot budge by hand — using nothing but a bar and a point to rest it on.",
+    "story": [
+      "A lever is a stiff bar resting on a fixed point called a pivot. Push down on one end, far from the pivot, and the other end, closer to the pivot, pushes up with far more force than you put in — though it moves a much shorter distance. You are not creating force from nothing; you are trading distance for strength, and the trade rate depends entirely on how far each end sits from the pivot.",
+      "Move the pivot closer to the load you are lifting and further from your hands, and the trade becomes more generous: a small push on your long end becomes a huge push on the short end holding the load. This is exactly how a crowbar prises open a stuck lid, how a bottle opener pops a cap, and how the muscles in your own forearm work — your elbow is the pivot, and your hand at the far end has to supply surprisingly large force just to hold up something as light as a cup of water.",
+      "Seesaws, wheelbarrows, scissors and nutcrackers are all levers arranged in slightly different ways, and each one is doing the same underlying trade: force for distance, or distance for force. Archimedes, who also worked out why ships float, is said to have declared that given a lever long enough and a place to stand, he could move the entire Earth."
+    ],
+    "wow": "Your jaw is a lever so efficient that your back teeth can bite down with several times more force than your front teeth, using exactly the same jaw muscles.",
+    "image": null,
+    "quiz": [
+      { "q": "What does a lever trade to make lifting easier?", "a": ["Distance for force", "Weight for time"], "correct": 0 },
+      { "q": "Where does a lever's pivot sit?", "a": ["At a fixed point the bar rests on", "At the very end of the bar"], "correct": 0 }
+    ],
+    "readingLevel": 3,
+    "factRisk": false,
+    "reviewed": true
+  },
+  {
+    "id": "why-hot-air-balloons-rise",
+    "category": "physics",
+    "title": "Why Hot Air Lifts a Balloon Full of People",
+    "emoji": "🎈",
+    "hook": "A balloon big enough to carry passengers rises using nothing but heated air.",
+    "story": [
+      "Air molecules spread further apart when heated, because the extra energy makes them jiggle and bounce off each other more forcefully. Spread the same number of molecules over a larger space and you get fewer molecules in any given scoop of that space — which means the heated air is less dense than the cooler air surrounding it, the same way a sponge full of holes is lighter than a solid block of the same size.",
+      "Less dense things float upward through denser things, exactly the way a cork rises through water. A balloon envelope filled with air heated by a burner becomes a huge bag of air lighter than the ordinary air around it, and the surrounding cooler air, being denser, sinks beneath it and pushes it upward — buoyancy in air, working by precisely the same rule that keeps a ship afloat in water.",
+      "Pilots control height not by pushing the balloon up or down directly, since there are no engines for that, but by managing temperature. More heat from the burner makes the air inside less dense and the balloon climbs; letting the air inside cool, or releasing some of it through a vent at the top, makes the balloon sink back down. Steering left or right is trickier still, since balloons cannot be aimed — pilots instead rise or fall to catch different wind currents blowing in different directions at different heights."
+    ],
+    "wow": "The first hot air balloon passengers, in 1783 in France, were a sheep, a duck and a rooster, sent up before any human dared to try it.",
+    "image": null,
+    "quiz": [
+      { "q": "Why does heated air rise?", "a": ["It becomes less dense than the cooler air around it", "Heat pushes it upward directly"], "correct": 0 },
+      { "q": "How do balloon pilots steer left or right?", "a": ["By rising or falling into different wind currents", "With a steering wheel"], "correct": 0 }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "what-electricity-actually-is",
+    "category": "physics",
+    "title": "Electricity Is Just Electrons on the Move",
+    "emoji": "🔌",
+    "hook": "Electricity is not a mysterious fluid. It is trillions of tiny particles nudging each other along a wire.",
+    "story": [
+      "Every atom has a core surrounded by electrons, tiny negatively charged particles. In most materials those electrons stay bound tightly to their own atoms. But metals like copper are unusual: some of their outer electrons are only loosely attached, free to drift from atom to atom almost like a fog of loose particles wandering through a forest of fixed metal atoms.",
+      "A battery does not create electrons — the wire is already packed full of them. Instead it creates an imbalance, a kind of pressure, pushing free electrons to drift together in one direction through the wire, out through whatever is plugged in and back the other way. That drifting flow, all those tiny nudges happening at once, is an electric current, and it is what lights a bulb, spins a motor or charges a phone.",
+      "The individual electrons themselves actually creep along remarkably slowly, often only a fraction of a millimetre per second, jostling and bumping their way forward. What makes a light switch feel instant is that the push itself — the signal telling every electron in the circuit to start drifting — travels through the wire at close to the speed of light, so every electron all along the wire starts moving together almost immediately, even though none of them individually travels very far or very fast."
+    ],
+    "wow": "An electron that leaves a battery and travels all the way to a light bulb on the other side of a room might take hours to physically arrive, yet the bulb switches on the instant you flip the switch.",
+    "image": null,
+    "quiz": [
+      { "q": "What is an electric current?", "a": ["A drifting flow of loose electrons", "A special kind of light"], "correct": 0 },
+      { "q": "Why does a light switch on instantly?", "a": ["The push travels near light speed, even though electrons move slowly", "Electrons travel instantly"], "correct": 0 }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "why-things-fall-at-the-same-speed",
+    "category": "physics",
+    "title": "A Feather and a Hammer, Falling Together",
+    "emoji": "🪶",
+    "hook": "Drop a hammer and a feather at the same time, and without air in the way, they land at exactly the same moment.",
+    "story": [
+      "It feels obvious that heavy things fall faster than light things — a dropped brick clearly beats a dropped feather to the ground. But that race is not really about gravity at all. It is about air. The feather has a huge amount of surface area for its tiny weight, so air resistance pushes back against it constantly, slowing its fall dramatically, while the compact, heavy brick barely notices the air pushing on it at all.",
+      "Strip the air away completely, and gravity pulls every object at exactly the same rate regardless of how heavy it is. A more massive object does feel a stronger pull of gravity, but it also has more mass that needs to be moved by that pull, and those two effects cancel out perfectly, leaving every falling object accelerating at the same speed.",
+      "This was tested in the most dramatic way possible in 1971, when astronaut David Scott stood on the airless surface of the Moon during the Apollo 15 mission and dropped a geologist's hammer and a falcon feather from the same height at the same instant, live on camera. With no air at all to slow the feather down, both objects fell in perfect step and struck the lunar dust at precisely the same moment, exactly as the theory, first proposed centuries earlier by Galileo, predicted they would."
+    ],
+    "wow": "Galileo is said to have first tested this idea by dropping different weights from the Leaning Tower of Pisa, though historians are not certain the famous story is entirely true.",
+    "discovery": "The idea has a real history of experiment behind it. Galileo argued for it using logic and rolling balls down ramps in the early 1600s, since dropping things from towers is hard to time precisely. In 1971, watched by millions on live television from Earth, Apollo 15's David Scott performed the version everybody remembers, using a real hammer and a real feather on the Moon, and narrated the result himself: how about that, he said, Galileo was right.",
+    "image": null,
+    "quiz": [
+      { "q": "Why does a feather normally fall slower than a hammer?", "a": ["Air resistance pushes back on it more", "It weighs less"], "correct": 0 },
+      { "q": "Where was the hammer-and-feather test finally proven live?", "a": ["On the Moon, with no air", "In a laboratory on Earth"], "correct": 0 }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "why-the-night-sky-is-dark",
+    "category": "physics",
+    "title": "If Space Is Full of Stars, Why Is Night Dark?",
+    "emoji": "🌃",
+    "hook": "Look up on a clear night and every direction should eventually hit a star. So why isn't the whole sky glowing?",
+    "story": [
+      "Imagine the universe stretching on forever, packed evenly with stars in every direction, the way trees fill an endless forest. Stand inside an endless forest and look in any direction at all, and your eyeline will eventually hit a tree trunk, no matter which way you turn. By the same logic, a truly infinite, endless universe filled evenly with stars should mean every single line of sight from Earth eventually hits a star's surface — so the whole night sky should blaze as brightly as the Sun, with no dark gaps at all.",
+      "It plainly does not. This puzzle is called Olbers' paradox, after the astronomer who wrote about it clearly in the 1820s, though others had wondered about it earlier. For a long time it was a genuine, unsettling mystery, because it suggested something was deeply wrong with how people pictured the universe.",
+      "The answer that eventually solved it needed something nobody expected: the universe has not existed forever, and it is expanding. Light from extremely distant stars has simply not had enough time yet to reach us, since the universe itself is only about 13.8 billion years old. And light from the stars that is arriving gets stretched out by the expansion of space itself into wavelengths our eyes cannot see. The dark sky above you at night is not empty. It is evidence that the universe began."
+    ],
+    "wow": "The faint patchy glow of the Milky Way you can see away from city lights is starlight arriving from stars so numerous and so far that individually they blur together — proof the sky is not truly empty, just too young and too stretched to be bright everywhere.",
+    "unknown": "Precisely how much of the paradox is solved by the universe's youth versus its expansion is still argued over by physicists working through the details, and the finite speed of light plays a role too. What is agreed is that a simple dark night sky, something everyone on Earth has seen their whole life without a second thought, turned out to be genuine evidence about the age and shape of everything that exists.",
+    "image": null,
+    "quiz": [
+      { "q": "Why isn't the whole night sky as bright as the Sun?", "a": ["Light from the most distant stars has not reached us yet", "Stars only shine during the day"], "correct": 0 },
+      { "q": "What is this puzzle called?", "a": ["Olbers' paradox", "The dark sky theorem"], "correct": 0 }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  },
+  {
+    "id": "how-a-pendulum-keeps-time",
+    "category": "physics",
+    "title": "The Swing That Never Speeds Up",
+    "emoji": "🕰️",
+    "hook": "A swinging pendulum takes the same time to complete each swing, whether it swings wide or barely at all.",
+    "story": [
+      "Push a pendulum a long way to one side and release it, and it swings through a wide arc. Push it only a little and release it, and it swings through a narrow arc. Strangely, both trips take almost exactly the same amount of time to complete, because the wider swing also builds up more speed to cover its longer path, and the two effects cancel out almost perfectly for small swings.",
+      "What genuinely changes the timing is the length of the string or rod the weight hangs from. A longer pendulum swings more slowly and takes longer per swing; a shorter one swings faster. This relationship is precise and predictable enough to build a whole clock around: a pendulum of a carefully chosen length ticks at a steady, known rate, and gears inside the clock count those ticks to move the hands forward by exactly the right amount.",
+      "Before pendulum clocks, people relied on sundials, candles marked with lines, or dripping water to measure time, and none of them was very accurate or reliable, especially at night or on a cloudy day. The pendulum clock, worked out mathematically by Christiaan Huygens in 1656 building on ideas from Galileo, was accurate to within about fifteen seconds a day — a huge leap forward — and pendulum clocks and watches based on similar steady, repeating vibrations remained the most accurate timekeepers in the world for nearly three centuries afterwards."
+    ],
+    "wow": "A pendulum clock runs measurably slower at the top of a tall mountain than at sea level, because gravity is very slightly weaker further from the Earth's centre, and a pendulum's swing speed depends on gravity's strength.",
+    "discovery": "Galileo is said to have first noticed the timing trick as a young man watching a chandelier gently swinging in a cathedral in Pisa, timing its swings against his own pulse and realising wide and narrow swings took the same time. He worked out the mathematics but never built a working clock from it. That step was taken decades later by the Dutch scientist Christiaan Huygens, who built the first working pendulum clock in 1656 and transformed how accurately the world could measure time.",
+    "image": null,
+    "quiz": [
+      { "q": "What mainly changes how fast a pendulum swings?", "a": ["The length of the pendulum", "How hard it is pushed"], "correct": 0 },
+      { "q": "Who built the first working pendulum clock?", "a": ["Christiaan Huygens", "Galileo Galilei"], "correct": 0 }
+    ],
+    "readingLevel": 3,
+    "factRisk": true,
+    "reviewed": true
+  }
+]

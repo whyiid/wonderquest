@@ -62,5 +62,37 @@
     "blurb": "Questions still waiting for an answer.",
     "c1": "#64748b",
     "c2": "#334155"
+  },
+  {
+    "id": "physics",
+    "name": "Forces & Energy",
+    "emoji": "⚛️",
+    "blurb": "Why things push, pull, glow and fall.",
+    "c1": "#0ea5e9",
+    "c2": "#1d4ed8"
+  },
+  {
+    "id": "dinosaurs",
+    "name": "Dinosaurs & Deep Time",
+    "emoji": "🦖",
+    "blurb": "Giants, fossils and a much older Earth.",
+    "c1": "#84cc16",
+    "c2": "#4d7c0f"
+  },
+  {
+    "id": "numbers",
+    "name": "Numbers & Patterns",
+    "emoji": "🔢",
+    "blurb": "The hidden shapes behind everything.",
+    "c1": "#a855f7",
+    "c2": "#6d28d9"
+  },
+  {
+    "id": "food",
+    "name": "Kitchen Science",
+    "emoji": "🍳",
+    "blurb": "The chemistry behind your dinner.",
+    "c1": "#fb923c",
+    "c2": "#c2410c"
   }
 ]
