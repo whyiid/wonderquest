@@ -12,7 +12,7 @@
       "Enormous effort has gone into catching a single particle of it. Detectors sit deep underground, shielded by kilometres of rock to block everything else, waiting for one dark matter particle to nudge one atom. Decades of increasingly sensitive searches have found nothing definite. Either the particle is stranger or lighter than the leading guesses, or — a minority view, but a serious one — our understanding of gravity itself needs modifying at galactic scales. Meanwhile, dark matter may be streaming through your body as you read this, without touching a single atom of you."
     ],
     "wow": "Dark matter may be streaming through your body right now, without touching a single atom of you.",
-    "image": null,
+    "image": "img/mysteries/dark-matter.webp",
     "quiz": [
       {
         "q": "Why do scientists think dark matter exists?",
@@ -48,7 +48,7 @@
       "What is clear is that going without it is catastrophic. Sleep-deprived people hallucinate and lose the ability to think straight within days. In animal experiments, total deprivation eventually kills, faster than starvation does, and researchers still cannot identify exactly what runs out or fails first. After more than a century of study, the honest summary is that we know a great deal about what happens during sleep and still cannot say what it is fundamentally for. Dolphins, incidentally, sleep one half of the brain at a time, so they never stop swimming or surfacing to breathe."
     ],
     "wow": "Dolphins sleep one half of the brain at a time, so they never stop swimming or surfacing to breathe.",
-    "image": null,
+    "image": "img/mysteries/why-do-we-sleep.webp",
     "quiz": [
       {
         "q": "What happens to memories during sleep?",
@@ -84,7 +84,7 @@
       "Where it happened is argued about as fiercely as how. Candidates include hot alkaline vents on the deep sea floor, shallow pools that repeatedly dried and refilled, and surfaces of clay minerals that could hold molecules in place. Nobody has yet built life from scratch in a laboratory, though researchers keep getting closer to individual pieces. What is not in doubt is the result: every living thing on Earth, from a whale to a mushroom to you, appears to descend from a single common beginning."
     ],
     "wow": "Every living thing on Earth, from a whale to a mushroom to you, appears to descend from the same single beginning.",
-    "image": null,
+    "image": "img/mysteries/how-did-life-begin.webp",
     "quiz": [
       {
         "q": "What did the Miller experiment produce?",
@@ -120,7 +120,7 @@
       "Serious proposals exist and disagree completely. One holds that experience arises when information is broadcast widely across the brain, becoming available to many systems at once. Another argues it depends on how densely interconnected a system is, and proposes a number that measures it — which would imply some very simple systems have a flicker of experience. Others think the question is confused and will dissolve once neuroscience is finished, the way the search for a life force did. No experiment yet distinguishes between them, which is unusual in modern science. And nobody can prove that anyone else is conscious at all: you only ever have direct evidence of your own."
     ],
     "wow": "Nobody can prove that anyone else is conscious — you only ever have direct evidence of your own experience.",
-    "image": null,
+    "image": "img/mysteries/what-is-consciousness.webp",
     "quiz": [
       {
         "q": "What is the hard problem?",
@@ -156,7 +156,7 @@
       "Getting there remains genuinely hard. Pressure at the bottom of the deepest trench is over a thousand times that at the surface, enough to crush almost any vessel, and only a handful of people have ever been to the bottom of the Mariana Trench — fewer than have walked on the Moon. The giant squid, an animal known from corpses for over a century, was not filmed alive in its own habitat until 2012."
     ],
     "wow": "The giant squid was photographed alive in its own habitat for the first time only in 2012.",
-    "image": null,
+    "image": "img/mysteries/unexplored-deep-ocean.webp",
     "quiz": [
       {
         "q": "How much of the sea floor is mapped in detail?",
@@ -228,7 +228,7 @@
       "Experiments have found small differences in how matter and antimatter behave, particularly in certain rare particle decays, so the symmetry is not perfect. But when physicists add up the size of these known differences, they fall short of explaining a billion-to-one imbalance by an enormous margin. Something in our best theory of particles is missing. Large experiments are currently measuring antimatter in detail, including whether antihydrogen falls downwards under gravity — it does, as it happens — in the hope of finding the discrepancy that explains why there is something rather than nothing."
     ],
     "wow": "Everything you have ever seen or touched is made of the small amount of matter that survived the destruction.",
-    "image": null,
+    "image": "img/mysteries/why-is-there-anything.webp",
     "quiz": [
       {
         "q": "What happens when matter meets antimatter?",
@@ -264,7 +264,7 @@
       "Time is stranger still in relativity. It runs slower for fast-moving objects and in stronger gravity, so there is no universal clock and no shared present moment. Some physicists argue that time is not a fundamental ingredient of reality at all, but something that emerges from deeper rules — a view that is taken seriously and is nowhere near settled."
     ],
     "wow": "A clock at your feet runs very slightly slower than one at your head, and this has been measured over a height difference of a single metre.",
-    "image": null,
+    "image": "img/mysteries/what-is-time.webp",
     "quiz": [
       {
         "q": "Why does disorder tend to increase?",
@@ -338,7 +338,7 @@
       "There is not even agreement on whether dreams mean anything. Most researchers reject the idea that symbols carry fixed meanings, while accepting that what you dream about clearly reflects what occupies you — which is a much weaker claim, and the only one the evidence comfortably supports."
     ],
     "wow": "Blind people dream too. Those blind from birth report dreams rich in sound, touch and smell rather than images.",
-    "image": null,
+    "image": "img/mysteries/why-do-we-dream.webp",
     "quiz": [
       {
         "q": "What happens to the body during REM sleep?",
@@ -374,7 +374,7 @@
       "The proposals are serious but untested. Perhaps time itself began then, making before a meaningless word — the North Pole answer. Perhaps our universe emerged from a previous collapsing one, or budded off from a larger structure that has always existed. Distinguishing these would need evidence from the first moments, and it is not obvious that any survives."
     ],
     "wow": "The oldest light we can see left when the universe was about 380,000 years old. Everything earlier is hidden behind a fog.",
-    "image": null,
+    "image": "img/mysteries/before-the-big-bang.webp",
     "quiz": [
       {
         "q": "What do the equations give at the very beginning?",
@@ -411,7 +411,7 @@
       "Research now leans towards a different question. Instead of asking whether animals have language, ask which individual ingredients they share — memory for sequences, taking turns, learning sounds from others, referring to absent things. Several species have some. No other species is known to have all of them together, and nobody can say why."
     ],
     "wow": "Sperm whales make patterned clicks that differ between groups, and researchers are now using machine learning to look for structure in them.",
-    "image": null,
+    "image": "img/mysteries/do-animals-have-language.webp",
     "quiz": [
       {
         "q": "What does language require that calls do not?",
@@ -448,7 +448,7 @@
       "It has limits that matter. Placebos can change how bad something feels — pain, nausea, fatigue — but they do not shrink tumours or cure infections. That is precisely why medicines must be tested against them: if a new drug performs no better than a sugar pill, it is not working. The effect is also why honest trials hide from both patient and doctor which is which."
     ],
     "wow": "There is an opposite effect too. Warn people of a side effect and some will experience it from a pill containing nothing.",
-    "image": null,
+    "image": "img/mysteries/the-placebo-effect.webp",
     "quiz": [
       {
         "q": "Is the placebo effect only imagination?",

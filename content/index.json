@@ -166,7 +166,7 @@
       "title": "Flamingos Eat Their Colour",
       "emoji": "🦩",
       "hook": "A flamingo is born grey. It eats its way to pink.",
-      "image": null,
+      "image": "img/animals/flamingos-are-pink-from-food.webp",
       "readingLevel": 3,
       "keywords": "flamingos eat their colour a flamingo is born grey. it eats its way to pink. both flamingo parents feed their chick a red liquid made in their own throats, and it drains the colour out of them while they do it."
     },
@@ -176,7 +176,7 @@
       "title": "Some Birds Sleep While Flying",
       "emoji": "🕊️",
       "hook": "A frigatebird can fall asleep in mid-air and keep flying.",
-      "image": null,
+      "image": "img/animals/birds-sleep-while-flying.webp",
       "readingLevel": 3,
       "keywords": "some birds sleep while flying a frigatebird can fall asleep in mid-air and keep flying. frigatebirds have been tracked staying in the air for two months without landing once."
     },
@@ -186,7 +186,7 @@
       "title": "Desert Ants Count Their Steps",
       "emoji": "🐜",
       "hook": "A desert ant finds its way home by counting how far it walked.",
-      "image": null,
+      "image": "img/animals/ants-count-their-steps.webp",
       "readingLevel": 3,
       "keywords": "desert ants count their steps a desert ant finds its way home by counting how far it walked. saharan silver ants forage at midday, when the sand is hot enough to kill their predators, and sprint at nearly a metre a second."
     },
@@ -216,7 +216,7 @@
       "title": "Bats See With Sound",
       "emoji": "🦇",
       "hook": "A bat can catch a moth in complete darkness without ever seeing it.",
-      "image": null,
+      "image": "img/animals/bats-see-with-sound.webp",
       "readingLevel": 3,
       "keywords": "bats see with sound a bat can catch a moth in complete darkness without ever seeing it. a bat must shout and listen without deafening itself, so tiny muscles in its ears clamp shut during each call and release in time for the echo."
     },
@@ -256,7 +256,7 @@
       "title": "The Longest Journey on Earth",
       "emoji": "🐦",
       "hook": "One small bird flies from the Arctic to Antarctica and back, every year.",
-      "image": null,
+      "image": "img/animals/arctic-tern-longest-journey.webp",
       "readingLevel": 3,
       "keywords": "the longest journey on earth one small bird flies from the arctic to antarctica and back, every year. an arctic tern's lifetime flying distance is roughly the same as flying to the moon and back three times."
     },
@@ -276,7 +276,7 @@
       "title": "Whale Songs Spread Like Pop Songs",
       "emoji": "🐋",
       "hook": "Every male humpback in an ocean sings the same song — and it changes every year.",
-      "image": null,
+      "image": "img/animals/whale-songs-change.webp",
       "readingLevel": 3,
       "keywords": "whale songs spread like pop songs every male humpback in an ocean sings the same song — and it changes every year. low whale calls can travel for hundreds of kilometres through deep water layers that carry sound unusually well."
     },
@@ -316,7 +316,7 @@
       "title": "Honey Never Goes Bad",
       "emoji": "🍯",
       "hook": "Archaeologists have found honey in ancient tombs that is still edible.",
-      "image": null,
+      "image": "img/animals/honey-never-spoils.webp",
       "readingLevel": 3,
       "keywords": "honey never goes bad archaeologists have found honey in ancient tombs that is still edible. honey has been used on wounds for thousands of years, and some hospitals still use medical-grade honey on stubborn ones today."
     },
@@ -326,7 +326,7 @@
       "title": "Crows Remember Your Face",
       "emoji": "🐦‍⬛",
       "hook": "Wrong a crow once and it may recognise you for years — and tell its friends.",
-      "image": null,
+      "image": "img/animals/crows-remember-faces.webp",
       "readingLevel": 3,
       "keywords": "crows remember your face wrong a crow once and it may recognise you for years — and tell its friends. a crow that decides you are friendly may start leaving you small gifts: buttons, beads, bits of shiny glass."
     },
@@ -356,7 +356,7 @@
       "title": "Sharks Are Older Than Trees",
       "emoji": "🦈",
       "hook": "Sharks were already swimming before the first tree ever grew.",
-      "image": null,
+      "image": "img/animals/sharks-older-than-trees.webp",
       "readingLevel": 3,
       "keywords": "sharks are older than trees sharks were already swimming before the first tree ever grew. sharks also predate saturn's rings, on current estimates, and the north star — both are younger."
     },
@@ -376,7 +376,7 @@
       "title": "Some Birds May See the Earth's Magnet",
       "emoji": "🧭",
       "hook": "A migrating robin may not feel the Earth's magnetic field. It may look at it.",
-      "image": null,
+      "image": "img/animals/birds-see-magnetic-fields.webp",
       "readingLevel": 3,
       "keywords": "some birds may see the earth's magnet a migrating robin may not feel the earth's magnetic field. it may look at it. a young bird making its first migration alone can still find a wintering ground it has never seen."
     },
@@ -486,7 +486,7 @@
       "title": "Why the Sea Is Salty",
       "emoji": "🌊",
       "hook": "Rivers are fresh, yet they are what makes the sea salty.",
-      "image": null,
+      "image": "img/space/why-the-sea-is-salty.webp",
       "readingLevel": 3,
       "keywords": "why the sea is salty rivers are fresh, yet they are what makes the sea salty. the dead sea is so salty that swimmers float without trying, because salt makes water heavier for its volume."
     },
@@ -556,7 +556,7 @@
       "title": "Space Is Freezing and Burning at Once",
       "emoji": "🌡️",
       "hook": "In space you could freeze and overheat at the same time.",
-      "image": null,
+      "image": "img/space/why-space-is-cold.webp",
       "readingLevel": 3,
       "keywords": "space is freezing and burning at once in space you could freeze and overheat at the same time. the empty space between stars is only a few degrees above absolute zero — the coldest temperature possible."
     },
@@ -586,7 +586,7 @@
       "title": "Why There Are Two High Tides a Day",
       "emoji": "🌊",
       "hook": "The Moon pulls the ocean towards it — so why does the far side bulge too?",
-      "image": null,
+      "image": "img/space/why-there-are-two-tides.webp",
       "readingLevel": 3,
       "keywords": "why there are two high tides a day the moon pulls the ocean towards it — so why does the far side bulge too? tides also stretch the solid ground. the land under your feet rises and falls by tens of centimetres twice a day."
     },
@@ -596,7 +596,7 @@
       "title": "How Do You Weigh a Planet?",
       "emoji": "⚖️",
       "hook": "Nobody has ever put a planet on a scale, yet we know what they weigh.",
-      "image": null,
+      "image": "img/space/how-we-weigh-a-planet.webp",
       "readingLevel": 3,
       "keywords": "how do you weigh a planet? nobody has ever put a planet on a scale, yet we know what they weigh. cavendish's result was within about one percent of the modern value, using no electricity and no computer."
     },
@@ -606,7 +606,7 @@
       "title": "The Air Is Thinner Than You Think",
       "emoji": "🌍",
       "hook": "All the air on Earth is a layer thinner than the skin of an apple.",
-      "image": null,
+      "image": "img/space/the-atmosphere-is-thin.webp",
       "readingLevel": 3,
       "keywords": "the air is thinner than you think all the air on earth is a layer thinner than the skin of an apple. venus has an atmosphere so heavy that standing on its surface would feel like being 900 metres underwater."
     },
@@ -686,7 +686,7 @@
       "title": "Goosebumps Are Left Over From Fur",
       "emoji": "🥶",
       "hook": "Goosebumps are your body trying to fluff up fur you no longer have.",
-      "image": null,
+      "image": "img/body/why-you-get-goosebumps.webp",
       "readingLevel": 3,
       "keywords": "goosebumps are left over from fur goosebumps are your body trying to fluff up fur you no longer have. the muscles that raise your hair are among the few muscles in your body you cannot control on purpose."
     },
@@ -706,7 +706,7 @@
       "title": "How a Cut Stops Bleeding",
       "emoji": "🩹",
       "hook": "Your blood has to stay liquid everywhere except exactly where you are bleeding.",
-      "image": null,
+      "image": "img/body/how-cuts-stop-bleeding.webp",
       "readingLevel": 3,
       "keywords": "how a cut stops bleeding your blood has to stay liquid everywhere except exactly where you are bleeding. picking a scab restarts the process and usually makes the scar worse — the lid was doing its job."
     },
@@ -716,7 +716,7 @@
       "title": "A Fever Is on Your Side",
       "emoji": "🤒",
       "hook": "When you have a fever, your body is not broken. It has moved the thermostat on purpose.",
-      "image": null,
+      "image": "img/body/what-a-fever-is-for.webp",
       "readingLevel": 3,
       "keywords": "a fever is on your side when you have a fever, your body is not broken. it has moved the thermostat on purpose. cold-blooded animals do a version of this too: an infected lizard will deliberately move to a hotter rock."
     },
@@ -726,7 +726,7 @@
       "title": "The Tongue Map Is a Myth",
       "emoji": "👅",
       "hook": "That diagram showing sweet at the tip and bitter at the back is simply wrong.",
-      "image": null,
+      "image": "img/body/tongue-map-is-wrong.webp",
       "readingLevel": 3,
       "keywords": "the tongue map is a myth that diagram showing sweet at the tip and bitter at the back is simply wrong. hold your nose and eat a jellybean and you will struggle to name the flavour — until you let go, when it appears instantly."
     },
@@ -736,7 +736,7 @@
       "title": "Nobody Else Has Your Fingerprints",
       "emoji": "🫆",
       "hook": "Even identical twins, with the same genes, have different fingerprints.",
-      "image": null,
+      "image": "img/body/why-you-have-fingerprints.webp",
       "readingLevel": 3,
       "keywords": "nobody else has your fingerprints even identical twins, with the same genes, have different fingerprints. koalas have fingerprints so similar to human ones that they can be confused under a microscope."
     },
@@ -746,7 +746,7 @@
       "title": "You Are Carrying Trillions of Passengers",
       "emoji": "🦠",
       "hook": "Roughly as many bacterial cells live in your body as human cells.",
-      "image": null,
+      "image": "img/body/microbes-living-in-you.webp",
       "readingLevel": 3,
       "keywords": "you are carrying trillions of passengers roughly as many bacterial cells live in your body as human cells. antibiotics kill helpful bacteria along with harmful ones, which is why they can upset your stomach for days afterwards."
     },
@@ -766,7 +766,7 @@
       "title": "Why Yawns Are Catching",
       "emoji": "🥱",
       "hook": "Reading the word yawn is enough to make some people do it.",
-      "image": null,
+      "image": "img/body/why-yawning-is-catching.webp",
       "readingLevel": 3,
       "keywords": "why yawns are catching reading the word yawn is enough to make some people do it. ordinary yawning starts before birth, but catching yawns from other people only begins around age four or five."
     },
@@ -786,7 +786,7 @@
       "title": "Forgetting Is a Feature",
       "emoji": "🧽",
       "hook": "A brain that remembered everything would work worse, not better.",
-      "image": null,
+      "image": "img/body/forgetting-is-useful.webp",
       "readingLevel": 3,
       "keywords": "forgetting is a feature a brain that remembered everything would work worse, not better. remembering something makes it briefly editable, so a memory recalled often can drift further from the truth than one left alone."
     },
@@ -806,7 +806,7 @@
       "title": "Your Body Runs a Thermostat",
       "emoji": "🥵",
       "hook": "You stay at 37°C whether it is freezing outside or blazing hot.",
-      "image": null,
+      "image": "img/body/why-you-shiver-and-sweat.webp",
       "readingLevel": 3,
       "keywords": "your body runs a thermostat you stay at 37°c whether it is freezing outside or blazing hot. a person can produce well over a litre of sweat an hour, which is why drinking matters more than resting in the heat."
     },
@@ -816,7 +816,7 @@
       "title": "A Runny Nose Is You, Not the Virus",
       "emoji": "🤧",
       "hook": "Most of what a cold feels like is your own defence, not the germ.",
-      "image": null,
+      "image": "img/body/how-you-fight-a-cold.webp",
       "readingLevel": 3,
       "keywords": "a runny nose is you, not the virus most of what a cold feels like is your own defence, not the germ. the average child catches somewhere between six and eight colds a year, which is normal rather than a sign of weakness."
     },
@@ -826,7 +826,7 @@
       "title": "Muscles Grow by Being Damaged",
       "emoji": "💪",
       "hook": "Exercise makes you stronger by breaking you slightly, then overbuilding the repair.",
-      "image": null,
+      "image": "img/body/why-exercise-makes-you-stronger.webp",
       "readingLevel": 3,
       "keywords": "muscles grow by being damaged exercise makes you stronger by breaking you slightly, then overbuilding the repair. the same principle applies to bone: bones exposed to regular load grow denser, which is why astronauts lose bone strength in weightlessness."
     },
@@ -836,7 +836,7 @@
       "title": "Why Most People Are Right-Handed",
       "emoji": "✋",
       "hook": "About nine people in ten favour the right hand, and nobody fully knows why.",
-      "image": null,
+      "image": "img/body/why-most-people-are-right-handed.webp",
       "readingLevel": 3,
       "keywords": "why most people are right-handed about nine people in ten favour the right hand, and nobody fully knows why. left-handers are over-represented in sports where an opponent faces you — fencing, boxing, cricket — probably because opponents get less practice against them."
     },
@@ -936,7 +936,7 @@
       "title": "Why Computers Only Count to One",
       "emoji": "🔌",
       "hook": "Everything on a screen is stored as nothing but on and off.",
-      "image": null,
+      "image": "img/tech/why-computers-use-ones-and-zeros.webp",
       "readingLevel": 3,
       "keywords": "why computers only count to one everything on a screen is stored as nothing but on and off. a modern phone chip contains more transistors than there are people on earth — by a factor of thousands."
     },
@@ -1096,7 +1096,7 @@
       "title": "The Milkmaids Who Never Got Smallpox",
       "emoji": "💉",
       "hook": "A country doctor noticed that milkmaids had beautiful skin — and worked out why.",
-      "image": null,
+      "image": "img/discoveries/first-vaccine.webp",
       "readingLevel": 3,
       "keywords": "the milkmaids who never got smallpox a country doctor noticed that milkmaids had beautiful skin — and worked out why. smallpox no longer exists outside two guarded laboratory freezers, and nobody alive has caught it since 1977."
     },
@@ -1106,7 +1106,7 @@
       "title": "The Man Who Aged the Earth",
       "emoji": "⏳",
       "hook": "Working out the age of the Earth also revealed that the world was being poisoned.",
-      "image": null,
+      "image": "img/discoveries/how-old-is-the-earth.webp",
       "readingLevel": 3,
       "keywords": "the man who aged the earth working out the age of the earth also revealed that the world was being poisoned. the same careful measurement gave us both the age of our planet and the evidence that ended leaded petrol."
     },
@@ -1156,7 +1156,7 @@
       "title": "The Gas Nobody Could Name",
       "emoji": "🫧",
       "hook": "Three people found oxygen, and two of them did not realise what they had.",
-      "image": null,
+      "image": "img/discoveries/discovering-oxygen.webp",
       "readingLevel": 3,
       "keywords": "the gas nobody could name three people found oxygen, and two of them did not realise what they had. priestley described the gas as making him feel light and easy, and wondered whether it might one day be a fashionable luxury."
     },
@@ -1176,7 +1176,7 @@
       "title": "Surgery Used to Mean Being Awake",
       "emoji": "😴",
       "hook": "Until 1846, an operation meant being held down and feeling everything.",
-      "image": null,
+      "image": "img/discoveries/the-first-anaesthetic.webp",
       "readingLevel": 3,
       "keywords": "surgery used to mean being awake until 1846, an operation meant being held down and feeling everything. ether and nitrous oxide had been used for fun at parties for over forty years before anyone used them to stop pain."
     },
@@ -1306,7 +1306,7 @@
       "title": "The Plague That Rearranged Europe",
       "emoji": "🐀",
       "hook": "A disease killed perhaps a third of Europe — and changed the lives of those who lived.",
-      "image": null,
+      "image": "img/history/the-black-death.webp",
       "readingLevel": 3,
       "keywords": "the plague that rearranged europe a disease killed perhaps a third of europe — and changed the lives of those who lived. analysis of teeth from plague victims has let scientists reconstruct the bacterium's genome from the 1300s."
     },
@@ -1476,7 +1476,7 @@
       "title": "Most of the Universe Is Missing",
       "emoji": "🌌",
       "hook": "Everything we can see adds up to about a twentieth of what is out there.",
-      "image": null,
+      "image": "img/mysteries/dark-matter.webp",
       "readingLevel": 3,
       "keywords": "most of the universe is missing everything we can see adds up to about a twentieth of what is out there. dark matter may be streaming through your body right now, without touching a single atom of you."
     },
@@ -1486,7 +1486,7 @@
       "title": "Nobody Knows Why We Sleep",
       "emoji": "😴",
       "hook": "You will spend about a third of your life doing something science cannot fully explain.",
-      "image": null,
+      "image": "img/mysteries/why-do-we-sleep.webp",
       "readingLevel": 3,
       "keywords": "nobody knows why we sleep you will spend about a third of your life doing something science cannot fully explain. dolphins sleep one half of the brain at a time, so they never stop swimming or surfacing to breathe."
     },
@@ -1496,7 +1496,7 @@
       "title": "How Did Life Start?",
       "emoji": "🧪",
       "hook": "Chemistry became something that copies itself, and nobody knows how.",
-      "image": null,
+      "image": "img/mysteries/how-did-life-begin.webp",
       "readingLevel": 3,
       "keywords": "how did life start? chemistry became something that copies itself, and nobody knows how. every living thing on earth, from a whale to a mushroom to you, appears to descend from the same single beginning."
     },
@@ -1506,7 +1506,7 @@
       "title": "Why Does Anything Feel Like Anything?",
       "emoji": "💭",
       "hook": "Science can explain what your brain does, but not why it feels like something to be you.",
-      "image": null,
+      "image": "img/mysteries/what-is-consciousness.webp",
       "readingLevel": 3,
       "keywords": "why does anything feel like anything? science can explain what your brain does, but not why it feels like something to be you. nobody can prove that anyone else is conscious — you only ever have direct evidence of your own experience."
     },
@@ -1516,7 +1516,7 @@
       "title": "We Have Better Maps of Mars",
       "emoji": "🌊",
       "hook": "Most of the sea floor has never been seen by anyone.",
-      "image": null,
+      "image": "img/mysteries/unexplored-deep-ocean.webp",
       "readingLevel": 3,
       "keywords": "we have better maps of mars most of the sea floor has never been seen by anyone. the giant squid was photographed alive in its own habitat for the first time only in 2012."
     },
@@ -1536,7 +1536,7 @@
       "title": "Why Is There Anything At All?",
       "emoji": "⚛️",
       "hook": "By the rules as we understand them, the universe should be empty.",
-      "image": null,
+      "image": "img/mysteries/why-is-there-anything.webp",
       "readingLevel": 3,
       "keywords": "why is there anything at all? by the rules as we understand them, the universe should be empty. everything you have ever seen or touched is made of the small amount of matter that survived the destruction."
     },
@@ -1546,7 +1546,7 @@
       "title": "Why Does Time Only Go Forwards?",
       "emoji": "⏳",
       "hook": "Almost every law of physics works equally well backwards. Time does not.",
-      "image": null,
+      "image": "img/mysteries/what-is-time.webp",
       "readingLevel": 3,
       "keywords": "why does time only go forwards? almost every law of physics works equally well backwards. time does not. a clock at your feet runs very slightly slower than one at your head, and this has been measured over a height difference of a single metre."
     },
@@ -1566,7 +1566,7 @@
       "title": "Nobody Knows Why You Dream",
       "emoji": "💤",
       "hook": "You will spend around six years of your life dreaming, and science cannot say why.",
-      "image": null,
+      "image": "img/mysteries/why-do-we-dream.webp",
       "readingLevel": 3,
       "keywords": "nobody knows why you dream you will spend around six years of your life dreaming, and science cannot say why. blind people dream too. those blind from birth report dreams rich in sound, touch and smell rather than images."
     },
@@ -1576,7 +1576,7 @@
       "title": "What Came Before the Beginning?",
       "emoji": "🌠",
       "hook": "Asking what happened before the Big Bang may be like asking what is north of the North Pole.",
-      "image": null,
+      "image": "img/mysteries/before-the-big-bang.webp",
       "readingLevel": 3,
       "keywords": "what came before the beginning? asking what happened before the big bang may be like asking what is north of the north pole. the oldest light we can see left when the universe was about 380,000 years old. everything earlier is hidden behind a fog."
     },
@@ -1586,7 +1586,7 @@
       "title": "Do Animals Have Language?",
       "emoji": "🦜",
       "hook": "Plenty of animals communicate. Whether any of them has language is a harder question.",
-      "image": null,
+      "image": "img/mysteries/do-animals-have-language.webp",
       "readingLevel": 3,
       "keywords": "do animals have language? plenty of animals communicate. whether any of them has language is a harder question. sperm whales make patterned clicks that differ between groups, and researchers are now using machine learning to look for structure in them."
     },
@@ -1596,7 +1596,7 @@
       "title": "Medicine That Contains Nothing",
       "emoji": "💊",
       "hook": "A pill with no medicine in it can still make people genuinely feel better.",
-      "image": null,
+      "image": "img/mysteries/the-placebo-effect.webp",
       "readingLevel": 3,
       "keywords": "medicine that contains nothing a pill with no medicine in it can still make people genuinely feel better. there is an opposite effect too. warn people of a side effect and some will experience it from a pill containing nothing."
     },
@@ -1986,7 +1986,7 @@
       "title": "Why We Split a Circle Into 360 Pieces",
       "emoji": "📐",
       "hook": "There is no natural law of the universe forcing a circle to be divided into exactly 360 degrees. It is simply a very old habit that stuck.",
-      "image": null,
+      "image": "img/numbers/why-a-circle-has-360-degrees.webp",
       "readingLevel": 3,
       "keywords": "why we split a circle into 360 pieces there is no natural law of the universe forcing a circle to be divided into exactly 360 degrees. it is simply a very old habit that stuck. scientists and engineers today also use a completely different, more mathematically natural way of measuring angles called radians, based directly on a circle's own radius rather than an arbitrary historical number, though 360 degrees remains far more familiar and common in everyday, non-scientific life."
     },

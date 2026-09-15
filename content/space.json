@@ -309,7 +309,7 @@
     "wow": "The Dead Sea is so salty that swimmers float without trying, because salt makes water heavier for its volume.",
     "discovery": "In 1715 Edmond Halley — the same astronomer who spotted the Moon's changing motion — suggested using ocean salt as a clock. If rivers steadily deliver salt and none leaves, he argued, you could measure how salty the sea is and work backwards to find the age of the Earth. The idea was clever and the answer was wrong, giving around 90 million years, because salt does leave the ocean. It was still one of the first serious attempts to measure our planet's age with evidence.",
     "unknown": "Exactly how the balance has been held so steady over billions of years is still being worked out, and it matters: the rate at which salt is buried depends on how continents sit and how seas open and close. Reconstructing that history in detail remains difficult.",
-    "image": null,
+    "image": "img/space/why-the-sea-is-salty.webp",
     "quiz": [
       {
         "q": "Why does salt build up in the sea?",
@@ -567,7 +567,7 @@
       "For an astronaut the danger is mostly the opposite of what films suggest. A person exposed to vacuum would not instantly freeze, because there is nothing to conduct heat away quickly. The immediate problems are the lack of air and the sudden drop in pressure."
     ],
     "wow": "The empty space between stars is only a few degrees above absolute zero — the coldest temperature possible.",
-    "image": null,
+    "image": "img/space/why-space-is-cold.webp",
     "quiz": [
       {
         "q": "Why does heat behave strangely in space?",
@@ -678,7 +678,7 @@
       "Local geography then does whatever it likes with all this. Some coasts barely notice; the Bay of Fundy in Canada funnels water into a narrow channel and sees a tidal range of over 15 metres, taller than a house."
     ],
     "wow": "Tides also stretch the solid ground. The land under your feet rises and falls by tens of centimetres twice a day.",
-    "image": null,
+    "image": "img/space/why-there-are-two-tides.webp",
     "quiz": [
       {
         "q": "Why is there a bulge on the far side?",
@@ -714,7 +714,7 @@
       "The Earth was the awkward one. We had no natural yardstick until Henry Cavendish, in 1798, hung two small lead balls from a thread and measured the almost undetectable twist caused by two larger balls placed nearby. From that tiny twist, done on a bench in a shed, he calculated the density of the entire planet."
     ],
     "wow": "Cavendish's result was within about one percent of the modern value, using no electricity and no computer.",
-    "image": null,
+    "image": "img/space/how-we-weigh-a-planet.webp",
     "quiz": [
       {
         "q": "How do you weigh a planet with a moon?",
@@ -751,7 +751,7 @@
       "Astronauts returning from orbit almost always mention the same thing: the thing that startles them is not the size of the Earth but how fragile the blue line around it looks from outside."
     ],
     "wow": "Venus has an atmosphere so heavy that standing on its surface would feel like being 900 metres underwater.",
-    "image": null,
+    "image": "img/space/the-atmosphere-is-thin.webp",
     "quiz": [
       {
         "q": "Where is half of all the air?",

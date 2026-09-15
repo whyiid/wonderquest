@@ -197,7 +197,7 @@
       "The strangest trigger is emotion. Many people get goosebumps from music, from a moving scene in a film, or from a memory. Nobody has satisfactorily explained why a feeling should switch on a fur-fluffing reflex, though it may be connected to the same alert response as fear. Researchers have also found that the muscles are involved in helping hair regrow after damage, which may be the real reason the system has not been discarded."
     ],
     "wow": "The muscles that raise your hair are among the few muscles in your body you cannot control on purpose.",
-    "image": null,
+    "image": "img/body/why-you-get-goosebumps.webp",
     "quiz": [
       {
         "q": "What makes a goosebump?",
@@ -269,7 +269,7 @@
       "The real achievement is control. Clotting must begin within seconds at a wound and must never begin anywhere else, because a clot in the wrong vessel can starve the heart or the brain. Building it as a long cascade of small steps keeps the system firmly off until genuine damage switches it on, and the body also produces chemicals that dissolve clots once they are no longer needed. People with haemophilia are missing one link in that chain, which is why a minor injury can be serious for them."
     ],
     "wow": "Picking a scab restarts the process and usually makes the scar worse — the lid was doing its job.",
-    "image": null,
+    "image": "img/body/how-cuts-stop-bleeding.webp",
     "quiz": [
       {
         "q": "What forms the first plug in a cut?",
@@ -305,7 +305,7 @@
       "That does not make a fever harmless. Very high temperatures are genuinely dangerous, especially in small children, and a fever burns a great deal of energy at exactly the moment a body can least afford it. Medicines that lower it have their place, mainly to make someone comfortable enough to rest and drink. But the aching and shivering under a blanket are not the illness winning. They are the price of a defence your body chose to switch on."
     ],
     "wow": "Cold-blooded animals do a version of this too: an infected lizard will deliberately move to a hotter rock.",
-    "image": null,
+    "image": "img/body/what-a-fever-is-for.webp",
     "quiz": [
       {
         "q": "What happens during a fever?",
@@ -341,7 +341,7 @@
       "The bigger surprise is that most of what you call flavour is not taste at all. Your tongue reports only those few basic qualities. Everything else — strawberry, coffee, rendang, mango — is smell, arriving at the nose from the back of your mouth as you chew. That is why food turns flat and boring when your nose is blocked, and why holding your nose while eating a sweet makes it almost impossible to name."
     ],
     "wow": "Hold your nose and eat a jellybean and you will struggle to name the flavour — until you let go, when it appears instantly.",
-    "image": null,
+    "image": "img/body/tongue-map-is-wrong.webp",
     "quiz": [
       {
         "q": "Is the tongue map correct?",
@@ -377,7 +377,7 @@
       "What the ridges are actually for is less settled than you might expect. The obvious answer, grip, has had a difficult time in the laboratory: experiments measuring friction on smooth surfaces found that ridges can reduce contact area rather than increase it. A stronger current idea is that they help you feel. Dragging a ridged fingertip across a surface sets up small vibrations at particular frequencies, and the touch sensors sitting beneath the ridges are tuned to exactly those frequencies — which would make fingerprints less about holding things and more about knowing what you are holding."
     ],
     "wow": "Koalas have fingerprints so similar to human ones that they can be confused under a microscope.",
-    "image": null,
+    "image": "img/body/why-you-have-fingerprints.webp",
     "quiz": [
       {
         "q": "Why do identical twins have different fingerprints?",
@@ -413,7 +413,7 @@
       "Your community starts assembling at birth and keeps shifting for years, shaped by diet, illness, medicines and where you live. The old line that microbes outnumber your own cells ten to one came from a rough estimate made in 1972; a careful recount in 2016 put it closer to one to one. That is still tens of trillions of organisms, which means a real part of what keeps you alive is not, strictly speaking, you."
     ],
     "wow": "Antibiotics kill helpful bacteria along with harmful ones, which is why they can upset your stomach for days afterwards.",
-    "image": null,
+    "image": "img/body/microbes-living-in-you.webp",
     "quiz": [
       {
         "q": "What do gut microbes do for you?",
@@ -485,7 +485,7 @@
       "That pattern suggests contagious yawning is tangled up with the machinery that lets us mirror other people, the same machinery involved in empathy. Children under about four rarely catch yawns at all, and neither do many people with certain differences in social processing."
     ],
     "wow": "Ordinary yawning starts before birth, but catching yawns from other people only begins around age four or five.",
-    "image": null,
+    "image": "img/body/why-yawning-is-catching.webp",
     "quiz": [
       {
         "q": "Is yawning about topping up oxygen?",
@@ -559,7 +559,7 @@
       "Sleep seems to be when much of the sorting happens. During the night the day's activity is replayed and some patterns are strengthened while others fade. Which is why cramming all night usually loses to studying and then sleeping — the sleep is not lost time, it is part of the learning."
     ],
     "wow": "Remembering something makes it briefly editable, so a memory recalled often can drift further from the truth than one left alone.",
-    "image": null,
+    "image": "img/body/forgetting-is-useful.webp",
     "quiz": [
       {
         "q": "Why is forgetting useful?",
@@ -633,7 +633,7 @@
       "Humans are unusually good at this. Most large animals rely on panting and shade, but a well-hydrated person can keep moving in heat that would force a horse to stop — one reason our ancestors could hunt by simply following an animal until it overheated."
     ],
     "wow": "A person can produce well over a litre of sweat an hour, which is why drinking matters more than resting in the heat.",
-    "image": null,
+    "image": "img/body/why-you-shiver-and-sweat.webp",
     "quiz": [
       {
         "q": "What actually cools you down?",
@@ -669,7 +669,7 @@
       "Antibiotics do nothing here, because they attack bacteria and a cold is a virus. Taking them anyway kills useful bacteria and helps dangerous ones learn to resist the drugs — which is a real problem for medicine, not a small one."
     ],
     "wow": "The average child catches somewhere between six and eight colds a year, which is normal rather than a sign of weakness.",
-    "image": null,
+    "image": "img/body/how-you-fight-a-cold.webp",
     "quiz": [
       {
         "q": "What causes cold symptoms?",
@@ -706,7 +706,7 @@
       "The ache a day or two after unfamiliar exercise is part of this repair process. It is not caused by lactic acid, despite the popular story — lactate clears within about an hour. The soreness comes from the microscopic damage and the inflammation that follows, which is why it peaks late and fades over a few days."
     ],
     "wow": "The same principle applies to bone: bones exposed to regular load grow denser, which is why astronauts lose bone strength in weightlessness.",
-    "image": null,
+    "image": "img/body/why-exercise-makes-you-stronger.webp",
     "quiz": [
       {
         "q": "When do muscles actually grow?",
@@ -743,7 +743,7 @@
       "What is clear is that forcing a change is pointless and unkind. For much of the last century left-handed children in many countries were made to write with the right hand, which achieved nothing except difficulty. Other animals show hand or paw preferences too, but usually without a species-wide lean to one side."
     ],
     "wow": "Left-handers are over-represented in sports where an opponent faces you — fencing, boxing, cricket — probably because opponents get less practice against them.",
-    "image": null,
+    "image": "img/body/why-most-people-are-right-handed.webp",
     "quiz": [
       {
         "q": "How long has right-handedness dominated?",

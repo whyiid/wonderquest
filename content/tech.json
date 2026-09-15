@@ -341,7 +341,7 @@
       "The switches are also what does the thinking, not merely the remembering. Wire a handful of transistors in the right arrangement and they will add two numbers, or compare them, or choose between two paths depending on a result. Stack enough of those arrangements and you have a machine that can carry out anything you can describe as a step-by-step procedure — which is exactly what Alan Turing proved in 1936, before anyone had built one."
     ],
     "wow": "A modern phone chip contains more transistors than there are people on Earth — by a factor of thousands.",
-    "image": null,
+    "image": "img/tech/why-computers-use-ones-and-zeros.webp",
     "quiz": [
       {
         "q": "Why do computers use only 0 and 1?",

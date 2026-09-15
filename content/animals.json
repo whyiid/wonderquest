@@ -235,7 +235,7 @@
     "wow": "Both flamingo parents feed their chick a red liquid made in their own throats, and it drains the colour out of them while they do it.",
     "discovery": "For a long time nobody knew why captive flamingos went white. The answer came from chemistry: in the 1950s researchers began identifying the carotenoid pigments in flamingo feathers and tracing them back to the animals' food, particularly brine shrimp and blue-green algae. Once zoos adjusted their diets in the 1960s, the birds turned pink again — an experiment that worked so plainly that it settled the question.",
     "unknown": "Scientists are still measuring how much a flamingo's colour really tells other flamingos. It is clear brighter birds pair up earlier, but nobody knows exactly what a flamingo is judging, or whether the preening oil trick is deliberate showing-off or simply grooming that happens to help.",
-    "image": null,
+    "image": "img/animals/flamingos-are-pink-from-food.webp",
     "quiz": [
       {
         "q": "Where does a flamingo's pink come from?",
@@ -272,7 +272,7 @@
     "wow": "Frigatebirds have been tracked staying in the air for two months without landing once.",
     "discovery": "It was long suspected but impossible to prove, because you cannot watch a bird's brain from a boat. In 2016 a team led by Niels Rattenborg built a recorder small and light enough to sit on a frigatebird's head, measuring brain waves in flight. They fitted them to birds nesting in the Galápagos, waited for the birds to return, and read the data. The recordings showed genuine sleep, both half-brain and occasionally whole-brain, while the birds soared.",
     "unknown": "Why these birds survive on so little sleep is a real puzzle. Every animal studied suffers badly from sleep loss, yet frigatebirds appear fine after weeks of it. If researchers could work out what protects them, it might change how we understand why sleep is needed at all — a question nobody has answered.",
-    "image": null,
+    "image": "img/animals/birds-sleep-while-flying.webp",
     "quiz": [
       {
         "q": "How does a frigatebird sleep at sea?",
@@ -309,7 +309,7 @@
     "wow": "Saharan silver ants forage at midday, when the sand is hot enough to kill their predators, and sprint at nearly a metre a second.",
     "discovery": "In 2006 a team led by Matthias Wittlinger tested the step-counting idea in the strangest possible way. They let ants walk to a feeder, then caught them and changed their legs — gluing on stilts made of pig bristles to lengthen the stride, or trimming the legs shorter. Ants on stilts marched straight past the nest. Ants with shortened legs stopped short of it. Both overshot or undershot by roughly the amount predicted if they were counting steps rather than measuring distance.",
     "unknown": "Where the counting actually happens in an ant's tiny brain is not known. Nor is it clear how the ant combines step count with direction so accurately, or how it corrects the tally when it climbs over rough ground where steps are shorter than usual.",
-    "image": null,
+    "image": "img/animals/ants-count-their-steps.webp",
     "quiz": [
       {
         "q": "How does a desert ant measure distance home?",
@@ -420,7 +420,7 @@
     "wow": "A bat must shout and listen without deafening itself, so tiny muscles in its ears clamp shut during each call and release in time for the echo.",
     "discovery": "In 1793 Lazzaro Spallanzani noticed that blinded bats still flew perfectly, while bats with blocked ears crashed into things. He could not explain it — the calls were inaudible, so there seemed to be nothing to hear — and the puzzle sat unsolved for nearly 150 years. Then in 1938 a Harvard student named Donald Griffin carried bats to a laboratory that had a microphone able to pick up ultrasound, and the machine revealed the shouting nobody had known was there.",
     "unknown": "How a bat's brain turns a storm of overlapping echoes into a clear scene, especially in a cave with thousands of other bats shouting at once, is still not properly understood. Engineers designing sonar and self-driving car sensors face the same problem and solve it far less well.",
-    "image": null,
+    "image": "img/animals/bats-see-with-sound.webp",
     "quiz": [
       {
         "q": "How does a bat find a moth in the dark?",
@@ -568,7 +568,7 @@
     "wow": "An Arctic tern's lifetime flying distance is roughly the same as flying to the Moon and back three times.",
     "discovery": "The route was suspected from scattered sightings and from metal leg rings recovered by chance, but nobody could follow a bird. That changed when tracking devices became small enough not to burden one. In 2010 a team led by Carsten Egevang fitted terns with tiny light-recording tags weighing about a gram, which logged sunrise and sunset times. Recovering the tags the following year and working backwards revealed the true route — longer and stranger, with unexpected mid-ocean stops, than anyone had drawn.",
     "unknown": "How the tern navigates is not fully explained. Sun, stars, smell and a magnetic sense are all likely involved, but how a young bird makes the trip correctly the first time, without a parent leading it, remains unsolved. Nobody knows how the birds decide precisely when to leave, either.",
-    "image": null,
+    "image": "img/animals/arctic-tern-longest-journey.webp",
     "quiz": [
       {
         "q": "Why does the Arctic tern make this journey?",
@@ -642,7 +642,7 @@
     "wow": "Low whale calls can travel for hundreds of kilometres through deep water layers that carry sound unusually well.",
     "discovery": "In the 1960s Roger Payne and Scott McVay obtained recordings made by a US Navy listening station and noticed that the sounds repeated in a strict pattern — they were songs, not noise. Payne released an album of them in 1970. It sold extraordinarily well, moved public opinion, and is widely credited with helping drive the campaigns that ended most commercial whaling. Katy Payne, who later discovered elephant infrasound, worked with him and showed the songs kept changing year by year.",
     "unknown": "Why the whole population switches songs is unexplained. So is what the song actually communicates, and why novelty seems to matter so much. Researchers also cannot say how a whale remembers and reproduces a twenty-minute structure, or why only humpbacks, among the great whales, sing like this.",
-    "image": null,
+    "image": "img/animals/whale-songs-change.webp",
     "quiz": [
       {
         "q": "What is unusual about humpback songs?",
@@ -790,7 +790,7 @@
     "wow": "Honey has been used on wounds for thousands of years, and some hospitals still use medical-grade honey on stubborn ones today.",
     "discovery": "The preserving power was known long before the reason. Egyptians used honey in embalming and left jars in tombs; pots found in the tomb of Tutankhamun's great-grandparents were reported still recognisable as honey. The explanation came with microbiology in the nineteenth and twentieth centuries, once scientists understood that microbes need water and that drawing water out of them kills them — the same insight that explains why salting and drying preserve food.",
     "unknown": "Exactly which components give particular honeys their germ-killing strength is still being sorted out. Manuka honey contains an unusual compound that other honeys lack, and researchers continue to test how much of the medical effect comes from that, from the peroxide, or simply from the sugar.",
-    "image": null,
+    "image": "img/animals/honey-never-spoils.webp",
     "quiz": [
       {
         "q": "Why does honey not spoil?",
@@ -826,7 +826,7 @@
       "Crows are unusually clever in other ways. They make tools by bending wire into hooks, drop nuts onto roads for cars to crack and wait for the lights before collecting them, and appear to hold something like funerals, gathering noisily around a dead crow. Whether that is grief or a lesson in danger nobody can say."
     ],
     "wow": "A crow that decides you are friendly may start leaving you small gifts: buttons, beads, bits of shiny glass.",
-    "image": null,
+    "image": "img/animals/crows-remember-faces.webp",
     "quiz": [
       {
         "q": "How did scientists test crow memory?",
@@ -935,7 +935,7 @@
       "Sharks are also far stranger than the film version. The Greenland shark lives in the freezing Arctic and may reach 400 years old, making it the longest-lived vertebrate known. The whale shark, the largest fish alive, eats plankton and is harmless. And most sharks are small: the dwarf lanternshark fits in a human hand and glows in the dark."
     ],
     "wow": "Sharks also predate Saturn's rings, on current estimates, and the North Star — both are younger.",
-    "image": null,
+    "image": "img/animals/sharks-older-than-trees.webp",
     "quiz": [
       {
         "q": "Which came first?",
@@ -1007,7 +1007,7 @@
       "Nobody has yet watched the mechanism working inside a living bird, so this remains a strong hypothesis rather than a settled fact. If it is confirmed, it would be one of the clearest cases of quantum physics being used by a living thing."
     ],
     "wow": "A young bird making its first migration alone can still find a wintering ground it has never seen.",
-    "image": null,
+    "image": "img/animals/birds-see-magnetic-fields.webp",
     "quiz": [
       {
         "q": "Where is the suspected magnetic sensor?",
