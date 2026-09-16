@@ -9,7 +9,7 @@
      child's iPad silently keeps showing last month's library until someone
      remembers to bump a version string. Network-first costs one fast request
      when online and still works completely offline. */
-const CACHE = 'wonderquest-v3';
+const CACHE = 'wonderquest-v4';
 const isContent = (url) => url.pathname.indexOf('/content/') !== -1;
 
 const ASSETS = [

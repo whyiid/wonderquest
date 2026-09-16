@@ -8,7 +8,7 @@
      streak   { count, best, lastDay }
      xp       number
      settings { textSize }
-     parent   { pin, pinned[], hidden[] }
+     parent   { pin, pinned[], hidden[], maxLevel }
    =========================================================================== */
 'use strict';
 
@@ -23,7 +23,12 @@ window.WQProgress = (function () {
     // today's three, frozen for the day — see daily.js
     daily: { day: null, ids: [], pinSig: '' },
     settings: { textSize: 'normal' },
-    parent: { pin: null, pinned: [], hidden: [], rev: 0 }
+    // maxLevel gates both Today and Explore: a topic with readingLevel above
+    // this never reaches him. Defaults to 3 (everything) — every article ever
+    // written was readingLevel 3 until this cap existed, so an unrestricted
+    // default means turning this feature on changes nothing for him unless a
+    // parent deliberately narrows it.
+    parent: { pin: null, pinned: [], hidden: [], maxLevel: 3, rev: 0 }
   });
 
   let state = blank();
@@ -136,6 +141,12 @@ window.WQProgress = (function () {
   }
   function isHidden(id) { return state.parent.hidden.indexOf(id) !== -1; }
 
+  function setMaxLevel(n) {
+    state.parent.maxLevel = n;
+    state.parent.rev = (state.parent.rev || 0) + 1;
+    save();
+  }
+
   /* ── today's frozen pick ─────────────────────────────────────────────── */
   function dailyPick() { return state.daily; }
   function setDailyPick(ids, pinSig) {
@@ -162,7 +173,7 @@ window.WQProgress = (function () {
     load, save, today, isRead, readCount, markRead, readHistory, shaky,
     liveStreak, streakBest: () => state.streak.best,
     xp: () => state.xp, level, xpInLevel,
-    parent, setPin, checkPin, togglePinned, toggleHidden, unpinSilently, isHidden,
+    parent, setPin, checkPin, togglePinned, toggleHidden, unpinSilently, isHidden, setMaxLevel,
     dailyPick, setDailyPick,
     settings, setSetting, exportJSON, importJSON, reset
   };

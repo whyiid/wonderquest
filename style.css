@@ -132,6 +132,9 @@ button { cursor: pointer; border: 0; background: none; }
 
 .card-body { display: flex; flex-direction: column; gap: 5px; padding: 14px 16px 16px; }
 .card-cat   { font-size: 13px; font-weight: 700; color: var(--ink-soft); text-transform: uppercase; letter-spacing: .4px; }
+.level-dots { display: inline-flex; gap: 3px; margin-left: 6px; vertical-align: middle; }
+.level-dots i { width: 5px; height: 5px; border-radius: 50%; background: var(--line); }
+.level-dots i.on { background: var(--ink-soft); }
 .card-title { font-size: 19px; font-weight: 800; line-height: 1.25; }
 .card-hook  { color: var(--ink-soft); line-height: 1.4; font-size: 16px; }
 

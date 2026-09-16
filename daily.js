@@ -81,7 +81,13 @@ window.WQDaily = (function () {
     const rand = rng(seedFrom(day));
 
     const hidden = id => WQProgress.isHidden(id);
-    const unread = WQData.topics().filter(t => !WQProgress.isRead(t.id) && !hidden(t.id));
+    // A topic above the parent's ceiling is treated exactly like a hidden one
+    // here: it must never reach Today, pinned or not, until the ceiling is
+    // raised. Default ceiling is 3 (everything), so this changes nothing
+    // unless a parent has deliberately narrowed it.
+    const maxLevel = WQProgress.parent().maxLevel || 3;
+    const allowed = t => (t.readingLevel || 1) <= maxLevel;
+    const unread = WQData.topics().filter(t => !WQProgress.isRead(t.id) && !hidden(t.id) && allowed(t));
 
     const chosen = [];
     const take = t => { if (t && !chosen.some(c => c.id === t.id)) chosen.push(t); };
@@ -89,7 +95,7 @@ window.WQDaily = (function () {
     // 1. parent pins first
     WQProgress.parent().pinned
       .map(id => WQData.topic(id))
-      .filter(t => t && !WQProgress.isRead(t.id) && !hidden(t.id))
+      .filter(t => t && !WQProgress.isRead(t.id) && !hidden(t.id) && allowed(t))
       .slice(0, COUNT)
       .forEach(take);
 
@@ -116,7 +122,7 @@ window.WQDaily = (function () {
 
     // Library exhausted → revisit, clearly marked by the caller.
     if (chosen.length < COUNT) {
-      const revisit = WQData.topics().filter(t => !hidden(t.id) && !chosen.some(c => c.id === t.id));
+      const revisit = WQData.topics().filter(t => !hidden(t.id) && allowed(t) && !chosen.some(c => c.id === t.id));
       let guard = 0;
       while (chosen.length < COUNT && revisit.length && guard++ < 50) take(pickOne(revisit, rand));
     }

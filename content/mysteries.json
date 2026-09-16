@@ -67,7 +67,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 2,
     "factRisk": true,
     "reviewed": true
   },
@@ -103,7 +103,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 2,
     "factRisk": true,
     "reviewed": true
   },
@@ -175,7 +175,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 1,
     "factRisk": true,
     "reviewed": true
   },
@@ -211,7 +211,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 1,
     "factRisk": true,
     "reviewed": true
   },
@@ -320,7 +320,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 2,
     "factRisk": true,
     "reviewed": true,
     "discovery": "The listening began in 1960, when Frank Drake pointed a radio telescope at two nearby stars for a few months and heard nothing. He later wrote down an equation, not to calculate an answer but to organise the question into its parts: how many stars, how many with planets, how many with life, and so on. Most of those terms are still guesses. Two of them — how many stars have planets, and how many are in the habitable zone — have only been measured in the last twenty years."
@@ -357,7 +357,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 2,
     "factRisk": true,
     "reviewed": true
   },
@@ -430,7 +430,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 2,
     "factRisk": true,
     "reviewed": true,
     "discovery": "One of the sharpest results came from prairie dogs. Con Slobodchikoff recorded their alarm calls for decades and found consistent differences depending on what was approaching, including calls that appeared to distinguish a tall human in a yellow shirt from a short human in blue. Other researchers question how much is really being encoded. The dispute is typical of the field: the recordings are real, the statistics are arguable, and animals cannot be asked what they meant."
@@ -467,7 +467,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 2,
     "factRisk": true,
     "reviewed": true,
     "discovery": "The word comes from a Latin phrase meaning I shall please, and for centuries it described a doctor's harmless gesture rather than anything real. Henry Beecher pushed it into science after working as an army anaesthetist in the Second World War, where morphine ran short and he saw wounded soldiers get relief from injections of salt water. His 1955 paper argued that trials without a dummy comparison could not be trusted — which is why every serious drug trial now has one."

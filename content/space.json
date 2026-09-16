@@ -32,7 +32,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 2,
     "factRisk": true,
     "reviewed": true
   },
@@ -69,7 +69,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 1,
     "factRisk": false,
     "reviewed": true
   },
@@ -106,7 +106,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 2,
     "factRisk": true,
     "reviewed": true
   },
@@ -143,7 +143,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 2,
     "factRisk": true,
     "reviewed": true
   },
@@ -180,7 +180,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 2,
     "factRisk": true,
     "reviewed": true
   },
@@ -217,7 +217,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 2,
     "factRisk": true,
     "reviewed": true
   },
@@ -254,7 +254,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 2,
     "factRisk": true,
     "reviewed": true
   },
@@ -291,7 +291,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 1,
     "factRisk": true,
     "reviewed": true
   },
@@ -328,7 +328,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 1,
     "factRisk": true,
     "reviewed": true
   },
@@ -365,7 +365,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 2,
     "factRisk": true,
     "reviewed": true
   },
@@ -439,7 +439,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 2,
     "factRisk": true,
     "reviewed": true
   },
@@ -476,7 +476,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 1,
     "factRisk": true,
     "reviewed": true
   },
@@ -513,7 +513,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 2,
     "factRisk": true,
     "reviewed": true
   },
@@ -623,7 +623,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 2,
     "factRisk": true,
     "reviewed": true,
     "discovery": "Measuring the distance took until 1838, when Friedrich Bessel watched a star shift by a hair's width against the background as the Earth moved to the opposite side of its orbit. It is the same trick as holding a finger up and blinking each eye in turn: the nearer the object, the more it jumps. The shift was so small that astronomers had spent two centuries failing to detect it — and its absence had been used as an argument that the Earth did not move at all."
@@ -660,7 +660,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 2,
     "factRisk": true,
     "reviewed": true,
     "unknown": "One detail still surprises people who study the Sun: its outer atmosphere is far hotter than its surface — millions of degrees against about 5,500. Heat should not flow from a cooler place to a hotter one, so something must be pumping energy upward, probably twisted magnetic fields snapping and releasing energy. Spacecraft now fly through that region to find out, and the coronal heating problem remains one of the oldest unsolved questions in solar physics."
@@ -770,7 +770,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 1,
     "factRisk": true,
     "reviewed": true,
     "discovery": "The first proof that air has weight came in 1643, when Evangelista Torricelli filled a glass tube with mercury, upended it in a dish, and found the column always settled at the same height — held up, he argued, by the weight of the atmosphere pressing on the dish. Blaise Pascal then had the tube carried up a mountain in France, and the column fell as predicted, because there was less air above. That experiment invented the barometer and made weather forecasting possible."
@@ -807,7 +807,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 2,
     "factRisk": true,
     "reviewed": true,
     "discovery": "People recorded auroras for thousands of years without an explanation; the name comes from the Roman goddess of dawn. In 1902 a Norwegian scientist, Kristian Birkeland, argued that particles from the Sun were being guided into the polar regions by the Earth's magnetism, and built a small magnetised sphere in a vacuum chamber that glowed at its poles when he fired electrons at it. He was ridiculed for decades. Satellites in the 1960s and 70s found the particle streams exactly where he had said they were."
@@ -844,7 +844,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 1,
     "factRisk": true,
     "reviewed": true,
     "discovery": "Nobody was certain the surface would hold a footprint at all. Some scientists feared the dust might be metres deep and swallow a lander whole, so the robotic Surveyor craft were sent ahead in 1966 and 1967 partly to find out. They settled firmly. Armstrong's first words after stepping down were about the surface itself — fine and powdery, sticking to his boots in thin layers — and the crisp print he left is now one of the most reproduced photographs ever taken."

@@ -32,7 +32,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 1,
     "factRisk": false,
     "reviewed": true
   },
@@ -69,7 +69,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 1,
     "factRisk": false,
     "reviewed": true
   },
@@ -106,7 +106,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 2,
     "factRisk": false,
     "reviewed": true
   },
@@ -143,7 +143,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 2,
     "factRisk": true,
     "reviewed": true
   },
@@ -180,7 +180,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 2,
     "factRisk": false,
     "reviewed": true
   },
@@ -216,7 +216,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 2,
     "factRisk": true,
     "reviewed": true
   },
@@ -252,7 +252,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 1,
     "factRisk": true,
     "reviewed": true
   },
@@ -288,7 +288,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 1,
     "factRisk": true,
     "reviewed": true
   },
@@ -360,7 +360,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 2,
     "factRisk": true,
     "reviewed": true
   },
@@ -396,7 +396,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 2,
     "factRisk": true,
     "reviewed": true
   },
@@ -432,7 +432,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 2,
     "factRisk": true,
     "reviewed": true
   },
@@ -468,7 +468,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 2,
     "factRisk": true,
     "reviewed": true
   },
@@ -504,7 +504,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 1,
     "factRisk": true,
     "reviewed": true,
     "unknown": "Electronic locks were supposed to solve picking and mostly moved the problem. A lock with a chip can be attacked without touching the mechanism — by copying a wireless signal, guessing a code, or exploiting software left unpatched — and researchers regularly demonstrate hotel and car locks opening in seconds. The honest summary has not changed in four thousand years: a lock buys time and raises effort, and security depends on how much of both an attacker is willing to spend."
@@ -578,7 +578,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 2,
     "factRisk": true,
     "reviewed": true,
     "discovery": "The idea was patented in 1934 by Paul Lueg, decades before anything could execute it, because cancelling a wave requires calculating and playing its opposite faster than sound travels — impossible without fast electronics. It became practical in aviation first. Amar Bose is said to have started work after a transatlantic flight in 1978 where the headphones supplied were useless against the engine noise, and the first products were built for pilots, who spend hours inside a roar."
@@ -615,7 +615,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 1,
     "factRisk": true,
     "reviewed": true
   },
@@ -651,7 +651,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 2,
     "factRisk": true,
     "reviewed": true,
     "discovery": "Glassmaking is at least 4,500 years old, and for most of that time flat glass was the hard problem. Roman windows were small and wavy. Medieval glaziers spun a blob of molten glass into a disc and cut panes from it, leaving a thick lump in the middle — the bullseye still seen in old windows, which was the cheap offcut nobody wanted. Alastair Pilkington's float method in 1959 made perfectly flat glass cheap for the first time, and windows changed shape everywhere."
@@ -688,7 +688,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 1,
     "factRisk": true,
     "reviewed": true,
     "discovery": "A political blockade produced the modern pencil. England held the world's only deposit of pure graphite and controlled it tightly, so when war cut France off in the 1790s, Nicolas-Jacques Conté was asked to find a substitute. He ground inferior graphite, mixed it with clay, and baked the mixture — and discovered that varying the clay varied the hardness. A shortage forced the invention of grading, and pencils have been sold as H and B ever since."
@@ -725,7 +725,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 2,
     "factRisk": true,
     "reviewed": true,
     "discovery": "James Dewar built the flask in 1892 because he needed to keep gases cold enough to stay liquid while he studied them, and he never patented it — he considered it a piece of laboratory equipment rather than a product. A German glassblower who had made flasks for him saw the opportunity, patented a version for domestic use in 1903, and ran a competition to name it. The winning entry was Thermos, from the Greek for heat. Dewar sued, and lost."
@@ -762,7 +762,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 1,
     "factRisk": true,
     "reviewed": true,
     "unknown": "The remaining problem with tall buildings is not safety but arithmetic. Above roughly 500 metres, a steel cable becomes so heavy that most of its strength is spent holding up its own weight, which is why the tallest towers use several separate lifts stacked in stages with transfer floors. Lighter carbon-fibre ropes now exist and could double the practical height, but they are new enough that nobody yet knows how they age over decades of daily use."

@@ -31,7 +31,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 1,
     "factRisk": false,
     "reviewed": true
   },
@@ -67,7 +67,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 1,
     "factRisk": false,
     "reviewed": true
   },
@@ -103,7 +103,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 2,
     "factRisk": false,
     "reviewed": true
   },
@@ -139,7 +139,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 2,
     "factRisk": true,
     "reviewed": true
   },
@@ -175,7 +175,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 1,
     "factRisk": true,
     "reviewed": true
   },
@@ -247,7 +247,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 2,
     "factRisk": true,
     "reviewed": true
   },
@@ -283,7 +283,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 2,
     "factRisk": true,
     "reviewed": true
   },
@@ -319,7 +319,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 2,
     "factRisk": true,
     "reviewed": true,
     "unknown": "What neither man could explain was inheritance. Their theory needed traits to pass to offspring, but the accepted idea at the time was that parents' characteristics blended in their children — and blending would dilute any new advantage away within a few generations. Gregor Mendel had already solved this with his pea experiments in the 1860s, showing that traits pass as discrete units, but his work sat unread for thirty-five years and neither Darwin nor Wallace ever saw it."
@@ -356,7 +356,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 2,
     "factRisk": true,
     "reviewed": true,
     "unknown": "The table still has an unfinished edge. Elements beyond uranium are made one atom at a time in accelerators, and the heaviest survive for fractions of a second before falling apart — so their chemistry is guessed rather than measured. Theory predicts an island of stability where certain very heavy elements might last much longer, and several laboratories are trying to reach it. Nobody knows whether the island exists, or where the table finally stops."
@@ -393,7 +393,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 2,
     "factRisk": true,
     "reviewed": true,
     "unknown": "One question from that era is still open in a different form: why does the air hold 21 percent oxygen and stay there? Much higher and fires would spread almost unstoppably, including wet vegetation; much lower and large active animals could not exist. Living things both produce and consume it, and geology takes some out, so the balance is a vast feedback system that nobody has fully modelled — and the level has shifted considerably over Earth's history."
@@ -430,7 +430,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 1,
     "factRisk": true,
     "reviewed": true
   },
@@ -466,7 +466,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 1,
     "factRisk": true,
     "reviewed": true
   },
@@ -502,7 +502,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 2,
     "factRisk": true,
     "reviewed": true,
     "unknown": "That ancient light is now studied for what is printed in it. The glow is not perfectly even; it has faint patches slightly warmer and cooler than average, and those ripples are the seeds from which galaxies later grew. Reading them gives the age of the universe and the proportions of ordinary matter, dark matter and dark energy. They also show large-scale patterns that current theory does not fully predict, which some cosmologists think is a clue and others think is chance."

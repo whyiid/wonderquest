@@ -32,7 +32,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 1,
     "factRisk": false,
     "reviewed": true
   },
@@ -69,7 +69,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 2,
     "factRisk": false,
     "reviewed": true
   },
@@ -106,7 +106,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 2,
     "factRisk": false,
     "reviewed": true
   },
@@ -143,7 +143,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 1,
     "factRisk": false,
     "reviewed": true
   },
@@ -180,7 +180,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 2,
     "factRisk": false,
     "reviewed": true
   },
@@ -217,7 +217,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 2,
     "factRisk": false,
     "reviewed": true
   },
@@ -254,7 +254,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 1,
     "factRisk": false,
     "reviewed": true
   },
@@ -291,7 +291,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 2,
     "factRisk": false,
     "reviewed": true
   },
@@ -328,7 +328,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 2,
     "factRisk": false,
     "reviewed": true
   },
@@ -402,7 +402,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 2,
     "factRisk": false,
     "reviewed": true
   },
@@ -439,7 +439,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 2,
     "factRisk": false,
     "reviewed": true
   },
@@ -476,7 +476,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 2,
     "factRisk": false,
     "reviewed": true
   },
@@ -513,7 +513,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 2,
     "factRisk": false,
     "reviewed": true
   },
@@ -550,7 +550,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 2,
     "factRisk": false,
     "reviewed": true
   },
@@ -587,7 +587,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 1,
     "factRisk": false,
     "reviewed": true
   },
@@ -624,7 +624,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 2,
     "factRisk": false,
     "reviewed": true
   },
@@ -661,7 +661,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 2,
     "factRisk": false,
     "reviewed": true
   },
@@ -735,7 +735,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 2,
     "factRisk": false,
     "reviewed": true
   },
@@ -772,7 +772,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 1,
     "factRisk": false,
     "reviewed": true
   },
@@ -809,7 +809,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 1,
     "factRisk": false,
     "reviewed": true
   },
@@ -845,7 +845,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 1,
     "factRisk": false,
     "reviewed": true
   },
@@ -881,7 +881,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 1,
     "factRisk": false,
     "reviewed": true
   },
@@ -917,7 +917,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 2,
     "factRisk": false,
     "reviewed": true,
     "discovery": "Nobody could study this properly until cameras could be left running in an Antarctic winter. In 2011 a German team used time-lapse photography on a colony in Atka Bay and found the huddle never stops moving: small waves travel through it every thirty to sixty seconds. Later modelling showed that if each bird simply steps towards the warmest spot it can reach, the whole group circulates on its own. Nothing organises it, and the effect only appears when you speed the film up."
@@ -954,7 +954,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 1,
     "factRisk": true,
     "reviewed": true
   },
@@ -990,7 +990,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 1,
     "factRisk": false,
     "reviewed": true
   },
@@ -1099,7 +1099,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 2,
     "factRisk": true,
     "reviewed": true,
     "discovery": "Electric fish confused people for centuries; Roman writers described using torpedo rays to numb pain without knowing why they worked. In the 1770s John Walsh showed that the shock was genuinely electrical by drawing a visible spark from a torpedo ray. That result reached Alessandro Volta and shaped his thinking directly: his first battery, stacked discs of two metals, was built as an artificial version of the stacked cells in an electric fish. The living battery came first, and the metal one was copied from it."

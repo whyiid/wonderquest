@@ -8,8 +8,11 @@ window.WQExplore = (function () {
 
   const esc = (s) => WQUI.esc(s);
 
+  /* What Matthew is allowed to see: not hidden by a parent, and not above the
+     parent's reading-level ceiling (default 3 — everything). */
   function visible(topics) {
-    return topics.filter(t => !WQProgress.isHidden(t.id));
+    const maxLevel = WQProgress.parent().maxLevel || 3;
+    return topics.filter(t => !WQProgress.isHidden(t.id) && (t.readingLevel || 1) <= maxLevel);
   }
 
   function home(host) {
@@ -51,15 +54,34 @@ window.WQExplore = (function () {
     });
   }
 
-  function category(host, id) {
+  /* Level filter row: All / Easy / Standard / Challenging. Local to whichever
+     screen renders it — not a saved setting, just a browsing aid he re-picks
+     each visit. */
+  function levelFilterHTML(active) {
+    const opts = [[0, 'All'], [1, 'Easy'], [2, 'Standard'], [3, 'Challenging']];
+    return '<div class="seg level-filter">' + opts.map(([v, label]) =>
+      '<button class="seg-btn' + (v === active ? ' on' : '') + '" data-level="' + v + '">' + label + '</button>'
+    ).join('') + '</div>';
+  }
+
+  function category(host, id, level) {
     const c = WQData.category(id);
     if (!c) { host.innerHTML = WQUI.empty('🔍', 'Unknown category', 'That shelf does not exist.'); return; }
 
+    level = level || 0;
     const all = visible(WQData.topicsIn(id));
+    const shown = level ? all.filter(t => (t.readingLevel || 1) === level) : all;
+
     host.innerHTML = '<button class="back" data-go="#/explore">‹ Explore</button>' +
       WQUI.screen(c.emoji + ' ' + c.name, c.blurb,
-        all.length ? '<div class="list">' + all.map(t => WQUI.card(t, 'small')).join('') + '</div>'
-                   : WQUI.empty('📭', 'Empty shelf', 'No articles here yet.'));
+        levelFilterHTML(level) +
+        (shown.length ? '<div class="list">' + shown.map(t => WQUI.card(t, 'small')).join('') + '</div>'
+                      : WQUI.empty('📭', level ? 'None at this level' : 'Empty shelf',
+                          level ? 'Try a different level, or All.' : 'No articles here yet.')));
+
+    WQUI.$$('.level-filter .seg-btn', host).forEach(b => {
+      b.addEventListener('click', () => category(host, id, Number(b.dataset.level)));
+    });
   }
 
   return { home, category };

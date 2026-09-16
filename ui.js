@@ -22,6 +22,17 @@ window.WQUI = (function () {
     return WQData.category(topic.category) || { c1: '#8b5cf6', c2: '#3b82f6', name: '', emoji: '❓' };
   }
 
+  const LEVEL_NAMES = { 1: 'Easy', 2: 'Standard', 3: 'Challenging' };
+
+  /* Three small dots, filled up to the topic's level. Deliberately quiet —
+     a hint for browsing, not a grade stamped on every card. */
+  function levelDots(level) {
+    const n = level || 1;
+    let dots = '';
+    for (let i = 1; i <= 3; i++) dots += '<i class="' + (i <= n ? 'on' : '') + '"></i>';
+    return '<span class="level-dots" title="' + esc(LEVEL_NAMES[n] || '') + '">' + dots + '</span>';
+  }
+
   /* The one and only topic card. `size` is 'big' (Today) or 'small' (lists). */
   function card(topic, size) {
     const c = catOf(topic);
@@ -36,7 +47,8 @@ window.WQUI = (function () {
           (read ? '<span class="card-tick" aria-label="Already read">✓</span>' : '') +
         '</span>' +
         '<span class="card-body">' +
-          '<span class="card-cat">' + esc(c.emoji) + ' ' + esc(c.name) + '</span>' +
+          '<span class="card-cat">' + esc(c.emoji) + ' ' + esc(c.name) +
+            (size !== 'big' ? levelDots(topic.readingLevel) : '') + '</span>' +
           '<span class="card-title">' + esc(topic.title) + '</span>' +
           (size === 'big' ? '<span class="card-hook">' + esc(topic.hook) + '</span>' : '') +
         '</span>' +
@@ -60,5 +72,5 @@ window.WQUI = (function () {
       bodyHTML + '</section>';
   }
 
-  return { $, $$, esc, card, empty, screen, catOf, plural };
+  return { $, $$, esc, card, empty, screen, catOf, plural, levelDots, LEVEL_NAMES };
 })();

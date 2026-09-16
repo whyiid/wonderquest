@@ -32,7 +32,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 1,
     "factRisk": true,
     "reviewed": true
   },
@@ -69,7 +69,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 2,
     "factRisk": true,
     "reviewed": true
   },
@@ -106,7 +106,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 2,
     "factRisk": true,
     "reviewed": true
   },
@@ -143,7 +143,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 1,
     "factRisk": true,
     "reviewed": true
   },
@@ -180,7 +180,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 1,
     "factRisk": false,
     "reviewed": true
   },
@@ -216,7 +216,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 1,
     "factRisk": false,
     "reviewed": true
   },
@@ -252,7 +252,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 2,
     "factRisk": true,
     "reviewed": true
   },
@@ -288,7 +288,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 2,
     "factRisk": true,
     "reviewed": true
   },
@@ -324,7 +324,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 2,
     "factRisk": true,
     "reviewed": true
   },
@@ -360,7 +360,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 2,
     "factRisk": true,
     "reviewed": true
   },
@@ -396,7 +396,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 1,
     "factRisk": true,
     "reviewed": true
   },
@@ -432,7 +432,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 1,
     "factRisk": true,
     "reviewed": true
   },
@@ -468,7 +468,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 2,
     "factRisk": true,
     "reviewed": true
   },
@@ -504,7 +504,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 1,
     "factRisk": true,
     "reviewed": true,
     "discovery": "Contagious yawning turned out to be a useful way to study social connection, because it is easy to measure and hard to fake. Studies have found the effect strongest between family members, weaker between friends, weaker again between acquaintances and weakest between strangers — a neat gradient that follows closeness rather than familiarity. Dogs catch yawns from their owners more readily than from strangers too, which suggests the mechanism is older than our species."
@@ -541,7 +541,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 2,
     "factRisk": false,
     "reviewed": true,
     "discovery": "Before recording existed, nobody had ever heard their own voice from outside. The first machine to play sound back was Edison's phonograph in 1877, and early accounts describe people startled and unsettled by hearing themselves. Singers and public speakers were among the first to use recordings deliberately as a training tool, precisely because the playback exposes habits — a nasal edge, a rushed ending — that the bone-conducted version politely hides from you."
@@ -578,7 +578,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 2,
     "factRisk": true,
     "reviewed": true,
     "discovery": "Hermann Ebbinghaus worked this out on himself in the 1880s, memorising thousands of meaningless syllables and testing how many survived after an hour, a day, a week. The resulting forgetting curve was steep at first and then levelled off, and it showed something useful: material reviewed just as it begins to fade sticks far better than material reviewed immediately. Spaced repetition, used by language apps and medical students today, comes straight from those tedious self-experiments."
@@ -615,7 +615,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 1,
     "factRisk": true,
     "reviewed": true,
     "unknown": "Why skin heals so imperfectly is still being worked on. An unborn baby in early pregnancy can heal a wound with no scar at all, regrowing skin exactly as it was, and that ability is lost before birth. Researchers have been trying for decades to work out what is switched off and whether it can be switched back on, because scarring is not only cosmetic — scar tissue in the heart or lungs causes real harm."
@@ -652,7 +652,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 2,
     "factRisk": true,
     "reviewed": true
   },
@@ -688,7 +688,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 2,
     "factRisk": true,
     "reviewed": true,
     "unknown": "Nobody has produced a cure, and not for lack of trying. The obstacle is variety: more than 200 viruses cause colds, the most common family has over a hundred forms, and they change constantly. A vaccine would have to cover them all at once. Even the connection everyone assumes — that being cold gives you a cold — is unsettled, with some evidence that chilled nasal passages defend themselves slightly less well, and other studies finding no effect at all."
@@ -725,7 +725,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 2,
     "factRisk": true,
     "reviewed": true,
     "discovery": "The principle was written down long before anyone understood cells. A Greek wrestler, Milo of Croton, is said to have carried a calf on his shoulders every day until it grew into a bull. The story is almost certainly a legend, but it describes progressive overload exactly: increase the demand a little at a time and the body keeps answering. Every modern training programme is a version of that idea, with the arithmetic done more carefully."
@@ -762,7 +762,7 @@
         "correct": 0
       }
     ],
-    "readingLevel": 3,
+    "readingLevel": 2,
     "factRisk": true,
     "reviewed": true
   }

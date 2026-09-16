@@ -73,6 +73,35 @@ window.WQParent = (function () {
     input.focus();
   }
 
+  /* Every article carries a readingLevel (1 Easy, 2 Standard, 3 Challenging),
+     set once by hand against how abstract the idea is — not word count. This
+     panel is the only thing that ever narrows it: Today and Explore simply
+     hide anything above the chosen ceiling. Default is 3 (everything), so the
+     library reads exactly as it always has until a parent acts here. */
+  function levelPanelHTML() {
+    const cap = WQProgress.parent().maxLevel || 3;
+    const topics = WQData.topics();
+    const counts = { 1: 0, 2: 0, 3: 0 };
+    const read = { 1: 0, 2: 0, 3: 0 };
+    topics.forEach(t => {
+      const lv = t.readingLevel || 1;
+      counts[lv]++;
+      if (WQProgress.isRead(t.id)) read[lv]++;
+    });
+
+    const opts = [[1, 'Easy only'], [2, 'Easy + Standard'], [3, 'Everything']];
+    return '<div class="panel">' +
+      '<h3>Reading level</h3>' +
+      '<p class="muted small">Today and Explore only ever show this level or below. Raise it as he grows — nothing to rebuild, it just opens up.</p>' +
+      '<div class="seg">' + opts.map(([v, label]) =>
+        '<button class="seg-btn' + (v === cap ? ' on' : '') + '" data-cap="' + v + '">' + label + '</button>'
+      ).join('') + '</div>' +
+      '<p class="muted small level-breakdown">' +
+        [1, 2, 3].map(lv => WQUI.LEVEL_NAMES[lv] + ' ' + read[lv] + '/' + counts[lv]).join(' · ') +
+      '</p>' +
+    '</div>';
+  }
+
   /* ── The panel itself ─────────────────────────────────────────────────── */
   function panel(host) {
     const history = WQProgress.readHistory(30);
@@ -112,6 +141,7 @@ window.WQParent = (function () {
       WQUI.screen('Parent panel',
         WQUI.plural(WQProgress.liveStreak(), 'day') + ' streak · ' +
         WQUI.plural(WQProgress.readCount(), 'topic') + ' read',
+      levelPanelHTML() +
       '<div class="panel"><h3>Last 30 days</h3>' + historyHTML + '</div>' +
       '<div class="panel"><h3>Worth revisiting</h3>' + shakyHTML + '</div>' +
       '<div class="panel"><h3>Tomorrow\'s queue</h3>' +
@@ -126,6 +156,9 @@ window.WQParent = (function () {
         '<p class="pin-msg" id="io-msg"></p>' +
       '</div>');
 
+    WQUI.$$('[data-cap]', host).forEach(b => b.addEventListener('click', () => {
+      WQProgress.setMaxLevel(Number(b.dataset.cap)); panel(host);
+    }));
     WQUI.$$('[data-pin]', host).forEach(b => b.addEventListener('click', () => {
       WQProgress.togglePinned(b.dataset.pin); panel(host);
     }));
